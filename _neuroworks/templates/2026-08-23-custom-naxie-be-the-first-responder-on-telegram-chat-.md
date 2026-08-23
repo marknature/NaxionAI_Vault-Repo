@@ -2,7 +2,7 @@
 type: template
 title: Be the first responder on Telegram / Chat / /naxie — triage every inbound (custom-naxie-be-the-first-responder-on-telegram-chat-)
 slug: custom-naxie-be-the-first-responder-on-telegram-chat-
-created: 2026-08-23T11:00:14.373Z
+created: 2026-08-23T11:00:25.232Z
 templateId: custom-naxie-be-the-first-responder-on-telegram-chat-
 role: Custom
 originTask: As a Personal Assistant to Nature, be the first responder on telegram / chat / /naxie — triage every inbound.
