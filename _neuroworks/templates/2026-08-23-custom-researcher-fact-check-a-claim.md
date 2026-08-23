@@ -2,7 +2,7 @@
 type: template
 title: Fact-check a claim (custom-researcher-fact-check-a-claim)
 slug: custom-researcher-fact-check-a-claim
-created: 2026-08-23T10:04:15.126Z
+created: 2026-08-23T10:04:36.090Z
 templateId: custom-researcher-fact-check-a-claim
 role: Custom
 originTask: Fact-check the following claim against the live web. Run TWO parallel web searches: one for supporting evidence (the claim phrased as fact), one for opposing evidence (the claim negated or with words like 'debunk', 'false', 'no evidence'). Fetch top sources from both. Report: VERDICT (supported / partially supported / contested / unsupported), key evidence with [N] citations on both sides, and the strongest counter-argument you found.
