@@ -2,7 +2,7 @@
 type: template
 title: Capture outcomes to the vault for future recall (custom-naxie-capture-outcomes-to-the-vault-for-future)
 slug: custom-naxie-capture-outcomes-to-the-vault-for-future
-created: 2026-08-23T10:54:07.158Z
+created: 2026-08-23T10:55:14.618Z
 templateId: custom-naxie-capture-outcomes-to-the-vault-for-future
 role: Custom
 originTask: As a Personal Assistant to Nature, capture outcomes to the vault for future recall.
