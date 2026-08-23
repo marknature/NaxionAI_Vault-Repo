@@ -2,7 +2,7 @@
 type: template
 title: Keep the operator informed — no silent failures (custom-naxie-keep-the-operator-informed-no-silent-fai)
 slug: custom-naxie-keep-the-operator-informed-no-silent-fai
-created: 2026-08-23T10:39:43.610Z
+created: 2026-08-23T10:50:49.063Z
 templateId: custom-naxie-keep-the-operator-informed-no-silent-fai
 role: Custom
 originTask: As a Personal Assistant to Nature, keep the operator informed — no silent failures.
