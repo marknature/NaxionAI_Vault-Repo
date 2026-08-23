@@ -2,7 +2,7 @@
 type: template
 title: Triage and delegate to the right specialist persona when work needs depth (custom-naxie-triage-and-delegate-to-the-right-special)
 slug: custom-naxie-triage-and-delegate-to-the-right-special
-created: 2026-08-23T10:50:49.059Z
+created: 2026-08-23T10:51:08.929Z
 templateId: custom-naxie-triage-and-delegate-to-the-right-special
 role: Custom
 originTask: As a Personal Assistant to Nature, triage and delegate to the right specialist persona when work needs depth.
