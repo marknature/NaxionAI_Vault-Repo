@@ -2,7 +2,7 @@
 type: template
 title: Positioning sprint (custom-marketing-manager-positioning-sprint)
 slug: custom-marketing-manager-positioning-sprint
-created: 2026-08-23T11:00:49.305Z
+created: 2026-08-23T11:00:59.967Z
 templateId: custom-marketing-manager-positioning-sprint
 role: Custom
 originTask: Run a positioning sprint on the following product/feature. Output: 1) One-line positioning (audience + problem + outcome + why-us). 2) Target segment with one objection each segment has. 3) Three message variants — Promise / Proof / Provocation — each with the audience it suits and a one-line test plan (channel, ad copy, success metric).
