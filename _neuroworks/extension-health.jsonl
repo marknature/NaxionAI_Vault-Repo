@@ -146,3 +146,15 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":4019,"ts":"2026-08-25T11:28:44.125Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":4721,"ts":"2026-08-25T11:28:44.837Z"}
 {"id":"elevenlabs","ok":true,"detail":"ElevenLabs ok — 22 voices","latencyMs":5502,"ts":"2026-08-25T11:28:45.618Z"}
+{"id":"heygen","ok":false,"detail":"HEYGEN_API_KEY not set","ts":"2026-08-25T11:46:33.838Z"}
+{"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-08-25T11:46:33.843Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — gemini-flash-latest","latencyMs":473,"ts":"2026-08-25T11:46:34.293Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1115,"ts":"2026-08-25T11:46:34.943Z"}
+{"id":"elevenlabs","ok":true,"detail":"ElevenLabs ok — 22 voices","latencyMs":1695,"ts":"2026-08-25T11:46:35.526Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1966,"ts":"2026-08-25T11:46:35.799Z"}
+{"id":"heygen","ok":false,"detail":"HEYGEN_API_KEY not set","ts":"2026-08-25T12:46:03.831Z"}
+{"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-08-25T12:46:03.832Z"}
+{"id":"elevenlabs","ok":false,"detail":"fetch failed","latencyMs":63,"ts":"2026-08-25T12:46:03.893Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":64,"ts":"2026-08-25T12:46:03.894Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":81,"ts":"2026-08-25T12:46:03.909Z"}
+{"id":"openrouter","ok":false,"detail":"fetch failed","latencyMs":89,"ts":"2026-08-25T12:46:03.911Z"}
