@@ -2,7 +2,7 @@
 type: template
 title: Reconciliation (custom-accountant-reconciliation)
 slug: custom-accountant-reconciliation
-created: 2026-08-25T11:46:16.370Z
+created: 2026-08-25T20:22:18.896Z
 templateId: custom-accountant-reconciliation
 role: Custom
 originTask: Reconcile the two sets of records provided (e.g. bank vs ledger). List matched items, then every discrepancy with its amount and likely cause, and state the closing difference. Don't paper over anything that doesn't tie.
