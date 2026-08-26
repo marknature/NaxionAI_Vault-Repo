@@ -2,7 +2,7 @@
 type: template
 title: User stories + acceptance criteria (custom-business-analyst-user-stories-acceptance-criteria)
 slug: custom-business-analyst-user-stories-acceptance-criteria
-created: 2026-08-26T16:35:50.357Z
+created: 2026-08-26T17:00:56.900Z
 templateId: custom-business-analyst-user-stories-acceptance-criteria
 role: Custom
 originTask: Turn the feature or need described into user stories ('As a … I want … so that …') each with clear, testable acceptance criteria, plus assumptions and open questions.

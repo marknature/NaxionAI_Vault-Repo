@@ -309,3 +309,12 @@
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"planning","inputTokens":1514,"outputTokens":12,"costUsd":0.0002343,"ts":"2026-08-26T06:33:49.040Z"}
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"planning","inputTokens":1527,"outputTokens":11,"costUsd":0.00023564999999999995,"ts":"2026-08-26T06:34:10.205Z"}
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"planning","inputTokens":1573,"outputTokens":12,"costUsd":0.00024314999999999997,"ts":"2026-08-26T06:34:26.212Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-08-26T16:36:11.256Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-08-26T16:36:12.043Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-08-26T16:36:12.805Z"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":1791,"outputTokens":11,"costUsd":0,"ts":"2026-08-26T16:38:06.165Z"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":1853,"outputTokens":13,"costUsd":0,"ts":"2026-08-26T16:42:04.215Z"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":1957,"outputTokens":15,"costUsd":0,"ts":"2026-08-26T16:50:09.162Z"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":1979,"outputTokens":15,"costUsd":0,"ts":"2026-08-26T16:53:02.129Z"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":2027,"outputTokens":17,"costUsd":0,"ts":"2026-08-26T16:55:48.893Z"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":2067,"outputTokens":19,"costUsd":0,"ts":"2026-08-26T16:56:36.654Z"}

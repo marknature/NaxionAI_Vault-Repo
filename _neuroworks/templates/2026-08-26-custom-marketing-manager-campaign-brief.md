@@ -2,7 +2,7 @@
 type: template
 title: Campaign brief (custom-marketing-manager-campaign-brief)
 slug: custom-marketing-manager-campaign-brief
-created: 2026-08-26T16:35:50.564Z
+created: 2026-08-26T17:00:57.264Z
 templateId: custom-marketing-manager-campaign-brief
 role: Custom
 originTask: Draft a campaign brief for the following goal. Output sections: Audience (who, where, what they care about) / Insight (why now) / Hook (one sentence) / Channels (ranked, with rationale) / Assets needed (list) / Success metric (specific, measurable) / Timeline (dated). Skip what you don't know — flag it in 'Inputs still needed'.
