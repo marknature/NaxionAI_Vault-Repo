@@ -306,3 +306,6 @@
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"planning","inputTokens":2622,"outputTokens":15,"costUsd":0.00040229999999999997,"ts":"2026-08-26T04:32:20.702Z"}
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"planning","inputTokens":2639,"outputTokens":17,"costUsd":0.0004060499999999999,"ts":"2026-08-26T04:32:37.520Z"}
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"planning","inputTokens":2657,"outputTokens":14,"costUsd":0.00040694999999999994,"ts":"2026-08-26T04:32:40.432Z"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"planning","inputTokens":1514,"outputTokens":12,"costUsd":0.0002343,"ts":"2026-08-26T06:33:49.040Z"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"planning","inputTokens":1527,"outputTokens":11,"costUsd":0.00023564999999999995,"ts":"2026-08-26T06:34:10.205Z"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"planning","inputTokens":1573,"outputTokens":12,"costUsd":0.00024314999999999997,"ts":"2026-08-26T06:34:26.212Z"}
