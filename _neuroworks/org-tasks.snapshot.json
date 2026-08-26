@@ -168,6 +168,19 @@
       "createdAt": "2026-08-23T11:41:10.282Z",
       "updatedAt": "2026-08-23T11:42:20.351Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "75125f02-e0e0-4070-b961-839e18b9570d",
+      "role": "executor",
+      "title": "Search the knowledge base",
+      "detail": "Search the knowledge base",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "6d105e6c-cee9-4b5d-bb5f-d27d40d945e1",
+      "createdAt": "2026-08-26T16:58:33.205Z",
+      "updatedAt": "2026-08-26T16:58:33.678Z",
+      "createdBy": "naxie"
     }
   ]
 }
