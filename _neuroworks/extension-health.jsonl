@@ -404,3 +404,9 @@
 {"id":"openrouter","ok":false,"detail":"This operation was aborted","latencyMs":5423,"ts":"2026-08-27T12:00:55.480Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":5788,"ts":"2026-08-27T12:00:56.281Z"}
 {"id":"elevenlabs","ok":true,"detail":"ElevenLabs ok — 22 voices","latencyMs":6516,"ts":"2026-08-27T12:00:57.008Z"}
+{"id":"heygen","ok":false,"detail":"HEYGEN_API_KEY not set","ts":"2026-08-27T13:00:09.191Z"}
+{"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-08-27T13:00:09.193Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — gemini-flash-latest","latencyMs":739,"ts":"2026-08-27T13:00:09.925Z"}
+{"id":"elevenlabs","ok":true,"detail":"ElevenLabs ok — 22 voices","latencyMs":899,"ts":"2026-08-27T13:00:10.089Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1603,"ts":"2026-08-27T13:00:10.791Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":2006,"ts":"2026-08-27T13:00:11.196Z"}
