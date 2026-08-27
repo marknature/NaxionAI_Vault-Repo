@@ -2,7 +2,7 @@
 type: template
 title: Compliance check (custom-compliance-compliance-check)
 slug: custom-compliance-compliance-check
-created: 2026-08-27T11:52:17.515Z
+created: 2026-08-27T11:52:52.480Z
 templateId: custom-compliance-compliance-check
 role: Custom
 originTask: Check the process or policy described against applicable policy/regulation. List each requirement, whether it's met, the evidence that proves it, and any gaps with concrete remediation. Distinguish 'required by law' from 'good practice'.
