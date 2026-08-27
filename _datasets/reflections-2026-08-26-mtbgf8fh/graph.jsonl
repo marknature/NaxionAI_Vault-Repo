@@ -1,0 +1,7 @@
+{"type":"node","id":"reflections-2026-08-26-mtbgf8fh:search-brain","label":"search-brain","props":{"date":"2026-08-26","template":"search-brain","total":1,"succeeded":1,"failed":0,"success_rate":1,"avg_duration_sec":0.5,"top_failure":null},"confidence":0.875,"hash":"3f2db9c2d46e27599ed8758f9e7c155b4fb6b5e385365cff4d7868a64994fd36"}
+{"type":"edge","from":"reflections-2026-08-26-mtbgf8fh:search-brain","rel":"date","to":"2026-08-26"}
+{"type":"edge","from":"reflections-2026-08-26-mtbgf8fh:search-brain","rel":"total","to":"1"}
+{"type":"edge","from":"reflections-2026-08-26-mtbgf8fh:search-brain","rel":"succeeded","to":"1"}
+{"type":"edge","from":"reflections-2026-08-26-mtbgf8fh:search-brain","rel":"failed","to":"0"}
+{"type":"edge","from":"reflections-2026-08-26-mtbgf8fh:search-brain","rel":"success_rate","to":"1"}
+{"type":"edge","from":"reflections-2026-08-26-mtbgf8fh:search-brain","rel":"avg_duration_sec","to":"0.5"}
