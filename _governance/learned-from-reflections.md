@@ -6,7 +6,7 @@ Auto-generated from `_neuroworks/reflections/*.md`. Each daily reflection's *Wha
 
 ---
 
-## 2026-08-26
+## 2026-08-27
 
 ### Try next
 - Check the LLM backend (OpenRouter/OpenAI/Anthropic/Ollama): a hung or very slow provider call, not a code fault, drove the timeout. Raise `NEUROWORKS_REFLECTION_SYNTH_TIMEOUT_MS` only if legitimate synthesis is being cut short.
@@ -17,6 +17,6 @@ Auto-generated from `_neuroworks/reflections/*.md`. Each daily reflection's *Wha
 - There were no failures or errors recorded during the given time window.
 
 ### Try next
-- Increase the workload to test the system's scalability and performance under heavier loads.
-- Consider integrating more tools and templates to expand the system's capabilities and provide more opportunities for testing and evaluation.
 - Review the system's configuration to ensure that employee records and peer attributions are being properly recorded and utilized.
+- Consider integrating more tools and templates to expand the system's capabilities and provide more opportunities for testing and evaluation.
+- Increase the workload to test the system's scalability and performance under heavier loads.

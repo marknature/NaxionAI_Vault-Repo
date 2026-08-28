@@ -1,0 +1,7 @@
+{"type":"node","id":"reflections-2026-08-27-mtcljxg4:reflection:daily","label":"reflection:daily","props":{"date":"2026-08-27","template":"reflection:daily","total":1,"succeeded":1,"failed":0,"success_rate":1,"avg_duration_sec":480.1,"top_failure":null},"confidence":0.875,"hash":"9d7712eee20b7c3dd180274992cd27bd6802d9927544154d248dc6eb8aec56a6"}
+{"type":"edge","from":"reflections-2026-08-27-mtcljxg4:reflection:daily","rel":"date","to":"2026-08-27"}
+{"type":"edge","from":"reflections-2026-08-27-mtcljxg4:reflection:daily","rel":"total","to":"1"}
+{"type":"edge","from":"reflections-2026-08-27-mtcljxg4:reflection:daily","rel":"succeeded","to":"1"}
+{"type":"edge","from":"reflections-2026-08-27-mtcljxg4:reflection:daily","rel":"failed","to":"0"}
+{"type":"edge","from":"reflections-2026-08-27-mtcljxg4:reflection:daily","rel":"success_rate","to":"1"}
+{"type":"edge","from":"reflections-2026-08-27-mtcljxg4:reflection:daily","rel":"avg_duration_sec","to":"480.1"}
