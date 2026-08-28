@@ -440,3 +440,6 @@
 {"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":1043,"ts":"2026-08-27T18:52:44.289Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1149,"ts":"2026-08-27T18:52:44.392Z"}
 {"id":"openrouter","ok":false,"detail":"fetch failed","latencyMs":1371,"ts":"2026-08-27T18:52:44.425Z"}
+{"id":"heygen","ok":false,"detail":"HEYGEN_API_KEY not set","ts":"2026-08-28T06:46:53.080Z"}
+{"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-08-28T06:46:53.082Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — gemini-flash-latest","latencyMs":3914,"ts":"2026-08-28T06:46:56.986Z"}
