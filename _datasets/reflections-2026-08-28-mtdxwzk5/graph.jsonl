@@ -1,0 +1,7 @@
+{"type":"node","id":"reflections-2026-08-28-mtdxwzk5:reflection:daily","label":"reflection:daily","props":{"date":"2026-08-28","template":"reflection:daily","total":1,"succeeded":1,"failed":0,"success_rate":1,"avg_duration_sec":480.1,"top_failure":null},"confidence":0.875,"hash":"78a984728b0cb34a7422b6abca665d6dccf3dc80037d23c562634a6073f5439f"}
+{"type":"edge","from":"reflections-2026-08-28-mtdxwzk5:reflection:daily","rel":"date","to":"2026-08-28"}
+{"type":"edge","from":"reflections-2026-08-28-mtdxwzk5:reflection:daily","rel":"total","to":"1"}
+{"type":"edge","from":"reflections-2026-08-28-mtdxwzk5:reflection:daily","rel":"succeeded","to":"1"}
+{"type":"edge","from":"reflections-2026-08-28-mtdxwzk5:reflection:daily","rel":"failed","to":"0"}
+{"type":"edge","from":"reflections-2026-08-28-mtdxwzk5:reflection:daily","rel":"success_rate","to":"1"}
+{"type":"edge","from":"reflections-2026-08-28-mtdxwzk5:reflection:daily","rel":"avg_duration_sec","to":"480.1"}

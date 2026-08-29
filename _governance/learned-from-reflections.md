@@ -6,6 +6,15 @@ Auto-generated from `_neuroworks/reflections/*.md`. Each daily reflection's *Wha
 
 ---
 
+## 2026-08-28
+
+### Went wrong
+- Nothing went wrong. No execution errors, tool failures, or rejections were recorded.
+
+### Try next
+- Profile the `reflection:daily` template execution to see why it required 480.1s with no tool calls or sub-tasks recorded.
+- Check workflow schedulers and webhook triggers if automated production jobs were expected to run during this period.
+
 ## 2026-08-27
 
 ### Try next
@@ -17,6 +26,6 @@ Auto-generated from `_neuroworks/reflections/*.md`. Each daily reflection's *Wha
 - There were no failures or errors recorded during the given time window.
 
 ### Try next
-- Review the system's configuration to ensure that employee records and peer attributions are being properly recorded and utilized.
-- Consider integrating more tools and templates to expand the system's capabilities and provide more opportunities for testing and evaluation.
 - Increase the workload to test the system's scalability and performance under heavier loads.
+- Consider integrating more tools and templates to expand the system's capabilities and provide more opportunities for testing and evaluation.
+- Review the system's configuration to ensure that employee records and peer attributions are being properly recorded and utilized.
