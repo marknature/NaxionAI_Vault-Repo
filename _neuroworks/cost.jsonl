@@ -471,3 +471,13 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-08-29T20:19:52.778Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-08-29T20:19:53.061Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-08-29T20:23:39.720Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":2,"costUsd":0,"ts":"2026-08-29T20:25:56.020Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-08-29T20:25:57.116Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-08-29T20:25:58.214Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1242,"outputTokens":6,"costUsd":0,"ts":"2026-08-29T20:28:17.601Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1914,"outputTokens":12,"costUsd":0,"ts":"2026-08-29T20:30:37.017Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1930,"outputTokens":16,"costUsd":0,"ts":"2026-08-29T20:31:06.919Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1950,"outputTokens":12,"costUsd":0,"ts":"2026-08-29T20:31:32.139Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1966,"outputTokens":16,"costUsd":0,"ts":"2026-08-29T20:32:00.064Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1986,"outputTokens":16,"costUsd":0,"ts":"2026-08-29T20:32:25.670Z"}
+{"jobId":"adhoc","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":194,"outputTokens":80,"costUsd":0,"ts":"2026-08-29T20:35:37.509Z"}
