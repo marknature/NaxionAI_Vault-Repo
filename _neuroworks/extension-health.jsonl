@@ -572,3 +572,6 @@
 {"id":"heygen","ok":false,"detail":"HEYGEN_API_KEY not set","ts":"2026-08-29T19:12:18.823Z"}
 {"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-08-29T19:12:18.925Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":16451,"ts":"2026-08-29T19:12:34.005Z"}
+{"id":"openrouter","ok":false,"detail":"This operation was aborted","latencyMs":26422,"ts":"2026-08-29T19:12:36.652Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":54419,"ts":"2026-08-29T19:13:13.131Z"}
+{"id":"elevenlabs","ok":false,"detail":"fetch failed","latencyMs":58285,"ts":"2026-08-29T19:13:16.925Z"}
