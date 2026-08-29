@@ -2,7 +2,7 @@
 type: template
 title: Office process doc (custom-office-manager-office-process-doc)
 slug: custom-office-manager-office-process-doc
-created: 2026-08-29T17:11:09.495Z
+created: 2026-08-29T17:11:23.847Z
 templateId: custom-office-manager-office-process-doc
 role: Custom
 originTask: Document a repeatable process for the recurring office task described: steps, owners, frequency, and a cost-conscious option. Make it something a new person could follow.
