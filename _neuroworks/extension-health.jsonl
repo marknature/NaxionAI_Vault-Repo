@@ -549,3 +549,9 @@
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — gemini-flash-latest","latencyMs":4114,"ts":"2026-08-29T18:14:56.257Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":4108,"ts":"2026-08-29T18:14:56.274Z"}
 {"id":"elevenlabs","ok":true,"detail":"ElevenLabs ok — 23 voices","latencyMs":4243,"ts":"2026-08-29T18:14:56.435Z"}
+{"id":"heygen","ok":false,"detail":"HEYGEN_API_KEY not set","ts":"2026-08-29T18:18:17.694Z"}
+{"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-08-29T18:18:17.696Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — gemini-flash-latest","latencyMs":936,"ts":"2026-08-29T18:18:18.596Z"}
+{"id":"elevenlabs","ok":true,"detail":"ElevenLabs ok — 23 voices","latencyMs":1047,"ts":"2026-08-29T18:18:18.731Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1058,"ts":"2026-08-29T18:18:18.744Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1696,"ts":"2026-08-29T18:18:19.374Z"}
