@@ -543,3 +543,5 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":714,"ts":"2026-08-29T18:13:45.158Z"}
 {"id":"elevenlabs","ok":true,"detail":"ElevenLabs ok — 23 voices","latencyMs":1118,"ts":"2026-08-29T18:13:45.566Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1763,"ts":"2026-08-29T18:13:46.212Z"}
+{"id":"heygen","ok":false,"detail":"HEYGEN_API_KEY not set","ts":"2026-08-29T18:14:52.209Z"}
+{"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-08-29T18:14:52.210Z"}
