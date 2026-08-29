@@ -518,3 +518,9 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — minimax-m3:cloud","latencyMs":660,"ts":"2026-08-29T14:45:16.786Z"}
 {"id":"elevenlabs","ok":true,"detail":"ElevenLabs ok — 23 voices","latencyMs":1415,"ts":"2026-08-29T14:45:17.547Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":2515,"ts":"2026-08-29T14:45:18.649Z"}
+{"id":"heygen","ok":false,"detail":"HEYGEN_API_KEY not set","ts":"2026-08-29T16:12:22.122Z"}
+{"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-08-29T16:12:22.138Z"}
+{"id":"elevenlabs","ok":false,"detail":"fetch failed","latencyMs":268,"ts":"2026-08-29T16:12:22.367Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":248,"ts":"2026-08-29T16:12:22.368Z"}
+{"id":"openrouter","ok":false,"detail":"fetch failed","latencyMs":326,"ts":"2026-08-29T16:12:22.399Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — minimax-m3:cloud","latencyMs":329,"ts":"2026-08-29T16:12:22.406Z"}
