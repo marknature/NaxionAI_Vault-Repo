@@ -524,3 +524,4 @@
 {"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":248,"ts":"2026-08-29T16:12:22.368Z"}
 {"id":"openrouter","ok":false,"detail":"fetch failed","latencyMs":326,"ts":"2026-08-29T16:12:22.399Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — minimax-m3:cloud","latencyMs":329,"ts":"2026-08-29T16:12:22.406Z"}
+{"id":"elevenlabs","ok":true,"detail":"ElevenLabs ok — 23 voices","latencyMs":1225,"ts":"2026-08-29T17:01:57.119Z"}
