@@ -1,5 +1,8 @@
 {
-  "compiledSources": [],
-  "lastCompileAt": "2026-08-30T08:18:41.339Z",
+  "compiledSources": [
+    "calls/gemini-check.md",
+    "calls/gemini-check2.md"
+  ],
+  "lastCompileAt": "2026-08-30T08:21:31.435Z",
   "lastDigestSentDate": "2026-08-30"
 }

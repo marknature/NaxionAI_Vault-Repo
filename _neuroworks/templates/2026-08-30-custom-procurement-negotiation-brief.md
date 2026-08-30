@@ -2,7 +2,7 @@
 type: template
 title: Negotiation brief (custom-procurement-negotiation-brief)
 slug: custom-procurement-negotiation-brief
-created: 2026-08-30T08:20:49.731Z
+created: 2026-08-30T08:21:27.055Z
 templateId: custom-procurement-negotiation-brief
 role: Custom
 originTask: Prepare a negotiation brief for the purchase described: the levers you can pull, your target outcome, the walk-away (BATNA), and a concession plan. Never present a single option as the only one.
