@@ -2,7 +2,7 @@
 type: template
 title: Status report (custom-project-manager-status-report)
 slug: custom-project-manager-status-report
-created: 2026-09-06T11:58:30.305Z
+created: 2026-09-06T12:02:40.736Z
 templateId: custom-project-manager-status-report
 role: Custom
 originTask: Write a project status report from the update provided: overall RAG status, what changed since last time, risks/blockers with mitigations, and what you need from whom. Honest, not green-washed.
