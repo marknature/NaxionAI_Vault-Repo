@@ -6,15 +6,21 @@ Auto-generated from `_neuroworks/reflections/*.md`. Each daily reflection's *Wha
 
 ---
 
-## 2026-09-01
+## 2026-09-06
 
 ### Went wrong
 - Nothing went wrong.
 
 ### Try next
-- Check the task ingestion queue to see if incoming jobs are being rejected before reaching the clawbot fleet.
-- Trigger a test task using `ollama.generate` to ensure the LLM worker pipeline is still responsive.
+- Check employee initialization configs; 0 employees on the clock suggests agents are not being correctly summoned or authenticated.
+- Verify task triggers and scheduling, as 0 production tasks were initiated.
+
+## 2026-09-01
+
+### Try next
 - Verify employee schedules; zero active staff suggests a configuration gap or intentional downtime.
+- Trigger a test task using `ollama.generate` to ensure the LLM worker pipeline is still responsive.
+- Check the task ingestion queue to see if incoming jobs are being rejected before reaching the clawbot fleet.
 
 ## 2026-08-29
 
@@ -27,8 +33,8 @@ Auto-generated from `_neuroworks/reflections/*.md`. Each daily reflection's *Wha
 - Nothing went wrong. No execution errors, tool failures, or rejections were recorded.
 
 ### Try next
-- Profile the `reflection:daily` template execution to see why it required 480.1s with no tool calls or sub-tasks recorded.
 - Check workflow schedulers and webhook triggers if automated production jobs were expected to run during this period.
+- Profile the `reflection:daily` template execution to see why it required 480.1s with no tool calls or sub-tasks recorded.
 
 ## 2026-08-25
 
@@ -36,6 +42,6 @@ Auto-generated from `_neuroworks/reflections/*.md`. Each daily reflection's *Wha
 - There were no failures or errors recorded during the given time window.
 
 ### Try next
-- Increase the workload to test the system's scalability and performance under heavier loads.
-- Consider integrating more tools and templates to expand the system's capabilities and provide more opportunities for testing and evaluation.
 - Review the system's configuration to ensure that employee records and peer attributions are being properly recorded and utilized.
+- Consider integrating more tools and templates to expand the system's capabilities and provide more opportunities for testing and evaluation.
+- Increase the workload to test the system's scalability and performance under heavier loads.
