@@ -2,7 +2,7 @@
 type: template
 title: Short social clip (custom-video-producer-short-social-clip)
 slug: custom-video-producer-short-social-clip
-created: 2026-09-07T20:24:51.836Z
+created: 2026-09-07T20:25:19.341Z
 templateId: custom-video-producer-short-social-clip
 role: Custom
 originTask: Create a short social video for the following idea. Write a tight visual prompt (subject, action, setting, camera, mood), state the channel + aspect (default 9:16) and the first-second hook, then use media.video to generate it. Return the prompt + the video URL.

@@ -2,7 +2,7 @@
 type: template
 title: As-is / to-be process map (custom-business-analyst-as-is-to-be-process-map)
 slug: custom-business-analyst-as-is-to-be-process-map
-created: 2026-09-07T20:24:51.694Z
+created: 2026-09-07T20:25:17.790Z
 templateId: custom-business-analyst-as-is-to-be-process-map
 role: Custom
 originTask: Map the as-is and to-be process for the workflow described (steps, actors, decisions), then state the explicit gap/changes between them and what each change requires.
