@@ -2,7 +2,7 @@
 type: template
 title: Remember operator preferences and prior context (memory.note / memory.recall)… (custom-naxie-remember-operator-preferences-and-prior-)
 slug: custom-naxie-remember-operator-preferences-and-prior-
-created: 2026-09-08T09:17:52.439Z
+created: 2026-09-08T09:18:06.492Z
 templateId: custom-naxie-remember-operator-preferences-and-prior-
 role: Custom
 originTask: As a Personal Assistant to Nature, remember operator preferences and prior context (memory.note / memory.recall) and capture outcomes to the vault.
