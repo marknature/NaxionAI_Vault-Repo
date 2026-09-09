@@ -400,3 +400,4 @@
 {"level":"info","actor":"architect","action":"org_task.waiting-on-approval","target":"Proposed improvement: naxionai/task.md","detail":"A small code improvement has been proposed for review — see the attached diff.","result":"pending","id":"mtum8hjr-5","ts":"2026-09-09T21:33:50.679Z"}
 {"level":"info","actor":"architect","action":"org_task.nudge","target":"Proposed improvement: naxionai/task.md","detail":"1 waiting","result":"success","id":"mtund9dk-6","ts":"2026-09-09T22:05:32.984Z"}
 {"level":"info","actor":"architect","action":"notify.attention","target":"Proposed improvement: naxionai/task.md","detail":"1 task waiting on your approval. Oldest: \"Proposed improvement: naxionai/task.md\".","result":"success","id":"mtund9tw-7","ts":"2026-09-09T22:05:33.572Z"}
+{"level":"info","actor":"architect","action":"org_task.nudge","target":"Proposed improvement: naxionai/task.md","detail":"1 waiting","result":"success","id":"mtunlvrp-1","ts":"2026-09-09T22:12:15.253Z"}
