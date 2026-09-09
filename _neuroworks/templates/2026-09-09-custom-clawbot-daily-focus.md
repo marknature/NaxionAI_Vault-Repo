@@ -2,7 +2,7 @@
 type: template
 title: Daily focus (custom-clawbot-daily-focus)
 slug: custom-clawbot-daily-focus
-created: 2026-09-09T21:29:15.924Z
+created: 2026-09-09T22:12:05.376Z
 templateId: custom-clawbot-daily-focus
 role: Custom
 originTask: Look at the last 5 days of journal entries in _neuroworks/jobs/, any pending follow-ups in 0-Inbox/, and surface a short prioritised list of what I should focus on today. Include why each item matters.
