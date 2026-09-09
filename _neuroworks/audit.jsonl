@@ -370,3 +370,5 @@
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 336h. Outstanding: 4 blocked.","result":"success","id":"mtubzqxn-2","ts":"2026-09-09T16:47:06.779Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"4 blocked","result":"success","id":"mtuc0a2z-1","ts":"2026-09-09T16:47:31.595Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 336h. Outstanding: 4 blocked.","result":"success","id":"mtuc0bg7-2","ts":"2026-09-09T16:47:33.367Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"4 blocked","result":"success","id":"mtuc10rb-1","ts":"2026-09-09T16:48:06.167Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 336h. Outstanding: 4 blocked.","result":"success","id":"mtuc1256-2","ts":"2026-09-09T16:48:07.963Z"}
