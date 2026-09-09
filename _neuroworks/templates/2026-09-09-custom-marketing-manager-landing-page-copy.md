@@ -2,7 +2,7 @@
 type: template
 title: Landing page copy (custom-marketing-manager-landing-page-copy)
 slug: custom-marketing-manager-landing-page-copy
-created: 2026-09-09T11:56:03.422Z
+created: 2026-09-09T14:47:53.661Z
 templateId: custom-marketing-manager-landing-page-copy
 role: Custom
 originTask: Write landing page copy for the following product. Output: Hero headline + sub (one variant 'outcome-led', one variant 'pain-led'), three value-block headers each with a 1-2 sentence body, primary CTA copy. Audience-first language — name the outcome, not the feature. No jargon, no superlatives, no 'revolutionary'.
