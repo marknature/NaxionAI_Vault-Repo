@@ -1493,3 +1493,8 @@
 {"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-09-09T14:49:39.664Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":497,"ts":"2026-09-09T14:49:40.157Z"}
 {"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":10213,"ts":"2026-09-09T14:49:49.876Z"}
+{"id":"openrouter","ok":false,"detail":"OPENROUTER_API_KEY not set","ts":"2026-09-09T14:53:43.208Z"}
+{"id":"heygen","ok":false,"detail":"HEYGEN_API_KEY not set","ts":"2026-09-09T14:53:43.352Z"}
+{"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-09-09T14:53:43.355Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1247,"ts":"2026-09-09T14:53:44.490Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1614,"ts":"2026-09-09T14:53:44.937Z"}
