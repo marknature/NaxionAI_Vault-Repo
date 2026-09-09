@@ -2,7 +2,7 @@
 type: template
 title: Welcome / IVR voice prompt (custom-voice-producer-welcome-ivr-voice-prompt)
 slug: custom-voice-producer-welcome-ivr-voice-prompt
-created: 2026-09-09T11:53:00.233Z
+created: 2026-09-09T11:54:58.768Z
 templateId: custom-voice-producer-welcome-ivr-voice-prompt
 role: Custom
 originTask: Write a short phone/IVR or welcome voice prompt for the following scenario. Keep it under 20 seconds spoken, warm and clear, spelling out anything that could be misheard. Then use media.tts with a warm voice to produce the audio. Return the script + audio path.
