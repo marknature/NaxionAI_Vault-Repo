@@ -389,3 +389,4 @@
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"4 blocked","result":"success","id":"mtulr7oz-1","ts":"2026-09-09T21:20:24.755Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 340h. Outstanding: 4 blocked.","result":"success","id":"mtulrcei-2","ts":"2026-09-09T21:20:30.858Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:3 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | heygen:HEYGEN_API_KEY not set | n8n:N8N_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mtulrufh-3","ts":"2026-09-09T21:20:54.221Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"4 blocked","result":"success","id":"mtulsmdq-1","ts":"2026-09-09T21:21:30.446Z"}
