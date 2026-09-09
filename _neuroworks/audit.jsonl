@@ -360,3 +360,5 @@
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"4 blocked","result":"success","id":"mtu9glx3-1","ts":"2026-09-09T15:36:14.583Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 335h. Outstanding: 4 blocked.","result":"success","id":"mtu9gn37-2","ts":"2026-09-09T15:36:16.099Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:3 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | heygen:HEYGEN_API_KEY not set | n8n:N8N_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mtu9h78s-3","ts":"2026-09-09T15:36:42.221Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"4 blocked","result":"success","id":"mtu9n37q-1","ts":"2026-09-09T15:41:16.934Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 335h. Outstanding: 4 blocked.","result":"success","id":"mtu9n4ml-2","ts":"2026-09-09T15:41:18.765Z"}
