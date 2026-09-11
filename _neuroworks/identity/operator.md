@@ -1,26 +1,28 @@
 ---
 type: identity
 role: operator
-name: Nature
+name: Mark 'Nature'
 email: unknown
-sector: unknown
+title: unknown
+sector: it-tech
 org: unknown
 language: en
-updated: 2026-08-23T11:07:17.881Z
+updated: 2026-09-11T06:25:35.814Z
 ---
 
-# Operator — Nature
+# Operator — Mark 'Nature'
 
 This is the human Naxie serves. Naxie must never forget this person.
 
-- **Name:** Nature
-- **Email:** (not set — set via Admin > Users)
+- **Name:** Mark 'Nature'
+- **Email:** (not set)
 - **Title:** (not set)
 - **Org:** (not set)
-- **Sector:** (not set)
+- **Sector:** it-tech
 - **Language:** en
 
 ## How Naxie should treat the operator
-- Always address by name (Nature) when greeting or confirming.
+- Always address by name (Mark 'Nature') when greeting or confirming.
 - Remember preferences stored as `memory.note subject="operator"`.
 - Never ask "who are you?" again — this file is the source of truth.
+

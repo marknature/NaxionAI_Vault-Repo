@@ -187,30 +187,12 @@
       "role": "architect",
       "title": "Proposed improvement: naxionai/task.md",
       "detail": "The recent audit log shows frequent `healthCheck` failures. Adding exponential backoff with jitter and a retry mechanism for failed tasks can improve the system's robustness and prevent overwhelming the scheduler.",
-      "status": "waiting-on-approval",
+      "status": "active",
       "priority": "low",
       "linkedTaskIds": [],
       "createdAt": "2026-09-09T21:33:50.665Z",
-      "updatedAt": "2026-09-09T21:33:50.678Z",
-      "createdBy": "naxie",
-      "pendingApproval": {
-        "actionDescription": "A small code improvement has been proposed for review — see the attached diff.",
-        "kind": "architect-change",
-        "diff": "--- a/naxionai/task.md\n+++ b/naxionai/task.md\n@@ -17,0 +17,3 @@\n+- `[ ]` **Phase 5: Health Check Improvements**\n+  - `[ ]` Implement exponential backoff with jitter for `healthCheck` failures to prevent overwhelming the scheduler.\n+  - `[ ]` Add a retry mechanism with increasing delays for failed tasks to improve overall system robustness.",
-        "proposal": {
-          "diff": "--- a/naxionai/task.md\n+++ b/naxionai/task.md\n@@ -17,0 +17,3 @@\n+- `[ ]` **Phase 5: Health Check Improvements**\n+  - `[ ]` Implement exponential backoff with jitter for `healthCheck` failures to prevent overwhelming the scheduler.\n+  - `[ ]` Add a retry mechanism with increasing delays for failed tasks to improve overall system robustness.",
-          "filesTouched": [
-            "naxionai/task.md"
-          ],
-          "rationale": "The recent audit log shows frequent `healthCheck` failures. Adding exponential backoff with jitter and a retry mechanism for failed tasks can improve the system's robustness and prevent overwhelming the scheduler.",
-          "basedOn": {
-            "sourceFilesRead": [
-              "naxionai/task.md"
-            ]
-          }
-        },
-        "requestedAt": "2026-09-09T21:33:50.677Z"
-      }
+      "updatedAt": "2026-09-11T06:15:09.532Z",
+      "createdBy": "naxie"
     }
   ]
 }
