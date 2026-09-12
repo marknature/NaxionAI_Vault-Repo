@@ -23,3 +23,4 @@ Zimbabwe's tech sector is regulated by POTRAZ (telecoms/postal) and anchored by 
 - Dual-currency environment (USD/ZWL) requires careful financial handling
 - Mobile-first strategy recommended given high smartphone penetration
 - Internet connectivity varies between urban and rural areas
+
