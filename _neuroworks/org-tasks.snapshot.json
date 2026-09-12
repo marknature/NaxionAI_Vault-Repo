@@ -269,12 +269,12 @@
       "role": "executor",
       "title": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
       "detail": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
-      "status": "active",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "da99c9cd-480b-4807-abcd-4793b4065197",
       "createdAt": "2026-09-12T12:26:52.618Z",
-      "updatedAt": "2026-09-12T12:26:52.799Z",
+      "updatedAt": "2026-09-12T13:03:17.413Z",
       "createdBy": "naxie"
     }
   ]
