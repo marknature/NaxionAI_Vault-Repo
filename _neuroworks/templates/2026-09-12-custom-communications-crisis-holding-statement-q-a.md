@@ -2,7 +2,7 @@
 type: template
 title: Crisis holding statement + Q&A (custom-communications-crisis-holding-statement-q-a)
 slug: custom-communications-crisis-holding-statement-q-a
-created: 2026-09-12T11:51:51.231Z
+created: 2026-09-12T11:52:56.876Z
 templateId: custom-communications-crisis-holding-statement-q-a
 role: Custom
 originTask: Draft a holding statement plus a short Q&A for the situation described: acknowledge it, state only confirmed facts, the action being taken, and when the next update comes. No speculation or premature blame.
