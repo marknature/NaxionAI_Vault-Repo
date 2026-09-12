@@ -193,6 +193,89 @@
       "createdAt": "2026-09-09T21:33:50.665Z",
       "updatedAt": "2026-09-11T06:15:09.532Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "54ff53bd-980d-429a-8c10-da2135cd5ea7",
+      "role": "executor",
+      "title": "Ad-hoc: Give me current status of the whole system",
+      "detail": "Ad-hoc: Give me current status of the whole system",
+      "status": "blocked",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "dd166d88-d7af-4851-9944-f6d7a857a767",
+      "createdAt": "2026-09-12T12:14:52.428Z",
+      "updatedAt": "2026-09-12T12:35:01.997Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "338c8aaa-bde8-461b-aa2a-574b1a33586e",
+      "role": "executor",
+      "title": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
+      "detail": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "2381e280-ff62-48a1-9fc5-f79d9fa39696",
+      "createdAt": "2026-09-12T12:14:57.388Z",
+      "updatedAt": "2026-09-12T12:49:27.296Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "8d64ecb6-5604-4473-b617-90f71f4fc797",
+      "role": "architect",
+      "title": "Proposed improvement: naxionai/task.md",
+      "detail": "Add robustness improvements to prevent rate limiting, handle timeouts, and prevent cascading failures during high load.",
+      "status": "waiting-on-approval",
+      "priority": "low",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-12T12:16:16.610Z",
+      "updatedAt": "2026-09-12T12:16:16.628Z",
+      "createdBy": "naxie",
+      "pendingApproval": {
+        "actionDescription": "A small code improvement has been proposed for review — see the attached diff.",
+        "kind": "architect-change",
+        "diff": "--- a/naxionai/task.md\n+++ b/naxionai/task.md\n@@ -17,0 +17,4 @@\n+- `[ ]` **Phase 5: Robustness Improvements**\n+  - `[ ]` Implement exponential backoff with jitter for Playwright retries to prevent rate limiting.\n+  - `[ ]` Add error handling for Playwright `TimeoutError` with a maximum retry limit.\n+  - `[ ]` Implement a circuit breaker pattern to prevent cascading failures during high load.",
+        "proposal": {
+          "diff": "--- a/naxionai/task.md\n+++ b/naxionai/task.md\n@@ -17,0 +17,4 @@\n+- `[ ]` **Phase 5: Robustness Improvements**\n+  - `[ ]` Implement exponential backoff with jitter for Playwright retries to prevent rate limiting.\n+  - `[ ]` Add error handling for Playwright `TimeoutError` with a maximum retry limit.\n+  - `[ ]` Implement a circuit breaker pattern to prevent cascading failures during high load.",
+          "filesTouched": [
+            "naxionai/task.md"
+          ],
+          "rationale": "Add robustness improvements to prevent rate limiting, handle timeouts, and prevent cascading failures during high load.",
+          "basedOn": {
+            "auditQuery": "recent audit log (limit 30)",
+            "sourceFilesRead": [
+              "naxionai/task.md"
+            ]
+          }
+        },
+        "requestedAt": "2026-09-12T12:16:16.628Z"
+      }
+    },
+    {
+      "id": "20e16750-50e8-4dc3-97d1-917befbb5c6a",
+      "role": "executor",
+      "title": "Ad-hoc: Try again use Gemini this time",
+      "detail": "Ad-hoc: Try again use Gemini this time",
+      "status": "blocked",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "5ea3f229-65b8-4277-8e58-a0292108dfc4",
+      "createdAt": "2026-09-12T12:26:43.636Z",
+      "updatedAt": "2026-09-12T12:46:54.140Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "0e37f325-57f3-4691-ae31-6819be534f74",
+      "role": "executor",
+      "title": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
+      "detail": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "da99c9cd-480b-4807-abcd-4793b4065197",
+      "createdAt": "2026-09-12T12:26:52.618Z",
+      "updatedAt": "2026-09-12T12:26:52.799Z",
+      "createdBy": "naxie"
     }
   ]
 }
