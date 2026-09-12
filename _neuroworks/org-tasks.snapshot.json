@@ -225,31 +225,12 @@
       "role": "architect",
       "title": "Proposed improvement: naxionai/task.md",
       "detail": "Add robustness improvements to prevent rate limiting, handle timeouts, and prevent cascading failures during high load.",
-      "status": "waiting-on-approval",
+      "status": "active",
       "priority": "low",
       "linkedTaskIds": [],
       "createdAt": "2026-09-12T12:16:16.610Z",
-      "updatedAt": "2026-09-12T12:16:16.628Z",
-      "createdBy": "naxie",
-      "pendingApproval": {
-        "actionDescription": "A small code improvement has been proposed for review — see the attached diff.",
-        "kind": "architect-change",
-        "diff": "--- a/naxionai/task.md\n+++ b/naxionai/task.md\n@@ -17,0 +17,4 @@\n+- `[ ]` **Phase 5: Robustness Improvements**\n+  - `[ ]` Implement exponential backoff with jitter for Playwright retries to prevent rate limiting.\n+  - `[ ]` Add error handling for Playwright `TimeoutError` with a maximum retry limit.\n+  - `[ ]` Implement a circuit breaker pattern to prevent cascading failures during high load.",
-        "proposal": {
-          "diff": "--- a/naxionai/task.md\n+++ b/naxionai/task.md\n@@ -17,0 +17,4 @@\n+- `[ ]` **Phase 5: Robustness Improvements**\n+  - `[ ]` Implement exponential backoff with jitter for Playwright retries to prevent rate limiting.\n+  - `[ ]` Add error handling for Playwright `TimeoutError` with a maximum retry limit.\n+  - `[ ]` Implement a circuit breaker pattern to prevent cascading failures during high load.",
-          "filesTouched": [
-            "naxionai/task.md"
-          ],
-          "rationale": "Add robustness improvements to prevent rate limiting, handle timeouts, and prevent cascading failures during high load.",
-          "basedOn": {
-            "auditQuery": "recent audit log (limit 30)",
-            "sourceFilesRead": [
-              "naxionai/task.md"
-            ]
-          }
-        },
-        "requestedAt": "2026-09-12T12:16:16.628Z"
-      }
+      "updatedAt": "2026-09-12T16:25:36.551Z",
+      "createdBy": "naxie"
     },
     {
       "id": "20e16750-50e8-4dc3-97d1-917befbb5c6a",
