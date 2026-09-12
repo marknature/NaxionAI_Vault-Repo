@@ -4,3 +4,11 @@
 {"ts":"2026-09-12T12:30:47.999Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"current status of the whole system\n\n[Memory — do not forget]\n## MAG — durable me…\" — vault + web, Quality-checking the draft, Security-scanning the note"}
 {"ts":"2026-09-12T12:30:48.583Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (207ms)","stepId":"2"}
 {"ts":"2026-09-12T12:32:02.504Z","kind":"progress","text":"Step \"Researching \"Try again use Gemini this time\n\n[Memory — do not forget]\n## MAG — durable memory…\" — vault + web\" succeeded (278565ms)","stepId":"0"}
+{"ts":"2026-09-12T12:32:49.943Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (121295ms)","stepId":"1"}
+{"ts":"2026-09-12T12:32:51.014Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"current status of the whole system\n\n[Memory — do not forget]\n## MAG — durable me…\" — vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-09-12T12:34:24.390Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
+{"ts":"2026-09-12T12:45:54.623Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Try again use Gemini this time\n\n[Memory — do not forget]\n## MAG — durable memory…\" — vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-09-12T12:45:55.365Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (119ms)","stepId":"2"}
+{"ts":"2026-09-12T12:47:55.365Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (120116ms)","stepId":"1"}
+{"ts":"2026-09-12T12:47:55.501Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Try again use Gemini this time\n\n[Memory — do not forget]\n## MAG — durable memory…\" — vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-09-12T12:49:26.223Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
