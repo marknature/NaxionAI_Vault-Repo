@@ -609,3 +609,5 @@
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"1 active, 4 blocked","result":"success","id":"mtya7dz7-1","ts":"2026-09-12T11:08:08.707Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 29h. Outstanding: 1 active, 4 blocked.","result":"success","id":"mtya7h8n-2","ts":"2026-09-12T11:08:12.935Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"1 active, 4 blocked","result":"success","id":"mtyabtdy-1","ts":"2026-09-12T11:11:35.302Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"1 active, 4 blocked","result":"success","id":"mtyadw32-1","ts":"2026-09-12T11:13:12.110Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 29h. Outstanding: 1 active, 4 blocked.","result":"success","id":"mtyadyfk-2","ts":"2026-09-12T11:13:15.152Z"}
