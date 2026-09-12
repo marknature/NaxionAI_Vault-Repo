@@ -2,7 +2,7 @@
 type: template
 title: Inventory / reorder analysis (custom-logistics-inventory-reorder-analysis)
 slug: custom-logistics-inventory-reorder-analysis
-created: 2026-09-12T10:58:49.339Z
+created: 2026-09-12T11:03:25.812Z
 templateId: custom-logistics-inventory-reorder-analysis
 role: Custom
 originTask: Analyse the stock situation described: reorder points, stockout and overstock risk against lead times and demand, and a reorder recommendation with quantities and timing.
