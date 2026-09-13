@@ -1852,3 +1852,4 @@
 {"id":"heygen","ok":false,"detail":"HEYGEN_API_KEY not set","ts":"2026-09-13T07:15:59.411Z"}
 {"id":"n8n","ok":false,"detail":"N8N_API_KEY not set","ts":"2026-09-13T07:15:59.412Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1708,"ts":"2026-09-13T07:16:01.045Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":2097,"ts":"2026-09-13T07:16:01.506Z"}

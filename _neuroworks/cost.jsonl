@@ -987,3 +987,6 @@
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2501,"outputTokens":12,"costUsd":0,"ts":"2026-09-12T16:36:40.691Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2840,"outputTokens":16,"costUsd":0,"ts":"2026-09-12T16:38:10.849Z"}
 {"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"planning","inputTokens":4936,"outputTokens":18,"costUsd":0,"ts":"2026-09-12T16:38:14.328Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"balanced","inputTokens":274,"outputTokens":55,"costUsd":0,"ts":"2026-09-13T07:16:04.252Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"synthesis","inputTokens":2774,"outputTokens":618,"costUsd":0,"ts":"2026-09-13T07:16:07.588Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"balanced","inputTokens":374,"outputTokens":295,"costUsd":0,"ts":"2026-09-13T07:16:09.465Z"}
