@@ -1297,3 +1297,5 @@
 {"level":"warn","actor":"wiki-compile","action":"notify.urgent","target":"Wiki compile: 0 new entries","detail":"Overnight second-brain compile summary:\n\nNothing new in the archive overnight. (email not sent — not configured or no operator address)","result":"pending","id":"mu0s16kw-590","ts":"2026-09-14T05:02:44.624Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mu0s17e6-591","ts":"2026-09-14T05:02:45.678Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mu0s17eg-592","ts":"2026-09-14T05:02:45.688Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mu0s7o1u-593","ts":"2026-09-14T05:07:47.202Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mu0s7o22-594","ts":"2026-09-14T05:07:47.210Z"}
