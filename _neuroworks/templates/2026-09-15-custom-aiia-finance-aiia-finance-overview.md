@@ -2,7 +2,7 @@
 type: template
 title: Aiia finance overview (custom-aiia-finance-aiia-finance-overview)
 slug: custom-aiia-finance-aiia-finance-overview
-created: 2026-09-15T21:16:51.327Z
+created: 2026-09-15T21:17:04.265Z
 templateId: custom-aiia-finance-aiia-finance-overview
 role: Custom
 originTask: Fetch the Aiia finance overview via connector.call on the 'Aiia Finance' connector: GET /api/agent. Summarise the current financial position from what Aiia returns — key balances/metrics first, then notable movements. Ground every number in the Aiia response and cite it. If Aiia is unreachable, report that plainly.
