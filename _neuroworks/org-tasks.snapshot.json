@@ -309,6 +309,30 @@
       "createdAt": "2026-09-15T11:11:31.812Z",
       "updatedAt": "2026-09-15T11:42:18.997Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "6cd81a65-51aa-49a0-a8a3-5f8daba27a5d",
+      "role": "admin",
+      "title": "MD Audit: Personas — 50/50 personas dormant — roster may be bloated",
+      "detail": "Review personas catalog and retire unused personas; keep roster lean so Naxie's routing stays precise.\n\nEvidence: personas=50, dormant=50\n\nFrom the 2026-09-15 MD System Audit — _neuroworks/system-audits/2026-09-15.md",
+      "status": "backlog",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-15T18:43:53.415Z",
+      "updatedAt": "2026-09-15T18:43:53.415Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "c44448ab-7298-43e4-a4a8-6e17eec36c57",
+      "role": "admin",
+      "title": "MD Audit: Org Tasks — 9 tasks stuck in blocked — may need triage",
+      "detail": "Review blocked OrgTasks on /org-dashboard, resolve or archive stale items.\n\nEvidence: orgTasks blocked=9 total=24\n\nFrom the 2026-09-15 MD System Audit — _neuroworks/system-audits/2026-09-15.md",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-15T18:43:53.433Z",
+      "updatedAt": "2026-09-15T18:43:53.433Z",
+      "createdBy": "daemon"
     }
   ]
 }
