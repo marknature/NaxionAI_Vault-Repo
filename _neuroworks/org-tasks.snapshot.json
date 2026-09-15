@@ -270,6 +270,45 @@
       "createdAt": "2026-09-14T06:31:37.307Z",
       "updatedAt": "2026-09-15T06:25:22.633Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "c02bea80-de26-4b03-aad8-7cae451b58e5",
+      "role": "executor",
+      "title": "What is 2+2? Answer in one short sentence.",
+      "detail": "What is 2+2? Answer in one short sentence.",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "3f8c886e-38d3-4243-9109-b305377ca101",
+      "createdAt": "2026-09-15T11:07:12.139Z",
+      "updatedAt": "2026-09-15T11:11:03.249Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "3c314c12-c06b-4eb0-a158-ee6a9a7bfaa2",
+      "role": "executor",
+      "title": "Ad-hoc: 2+2? one word",
+      "detail": "Ad-hoc: 2+2? one word",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "c2f274a8-db60-4f90-889e-da9af28ac9cb",
+      "createdAt": "2026-09-15T11:11:31.596Z",
+      "updatedAt": "2026-09-15T11:11:31.598Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "b4f585aa-1e39-40b2-9495-8274680446c5",
+      "role": "executor",
+      "title": "Delegated: (You are operating as Neuro, the AI agent operator. Bias too",
+      "detail": "Delegated: (You are operating as Neuro, the AI agent operator. Bias too",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "8cd8ac71-3ce6-4314-a7f5-5fd1b2325d2b",
+      "createdAt": "2026-09-15T11:11:31.812Z",
+      "updatedAt": "2026-09-15T11:11:31.814Z",
+      "createdBy": "naxie"
     }
   ]
 }
