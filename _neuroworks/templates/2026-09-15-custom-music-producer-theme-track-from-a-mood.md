@@ -2,7 +2,7 @@
 type: template
 title: Theme track from a mood (custom-music-producer-theme-track-from-a-mood)
 slug: custom-music-producer-theme-track-from-a-mood
-created: 2026-09-15T10:50:45.313Z
+created: 2026-09-15T10:51:08.320Z
 templateId: custom-music-producer-theme-track-from-a-mood
 role: Custom
 originTask: Turn the following mood/genre description into a finished theme track. Expand it into a precise music prompt (genre, tempo, key/mood, instruments, feel), then use media.music to generate it. Return the prompt + the audio path, and suggest one variation worth trying.
