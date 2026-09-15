@@ -1869,3 +1869,33 @@
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Ad-hoc: Give me current status of the whole system","detail":"Task 54ff53bd-980d-429a-8c10-da2135cd5ea7 (executor) has been blocked for 75h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu2u93yl-10","ts":"2026-09-15T15:40:26.061Z"}
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Delegated: (You are operating as Neuro, the AI agent operator. Bias too","detail":"Task 36cb5f19-324b-4c46-b28d-3af6fc852c88 (executor) has been blocked for 557h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu2u93ym-11","ts":"2026-09-15T15:40:26.062Z"}
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Ad-hoc: Try again use Gemini this time","detail":"Task 20e16750-50e8-4dc3-97d1-917befbb5c6a (executor) has been blocked for 75h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu2u9402-12","ts":"2026-09-15T15:40:26.114Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:3 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | heygen:HEYGEN_API_KEY not set | n8n:N8N_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu2u9n8x-13","ts":"2026-09-15T15:40:51.057Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/plans","detail":"/admin/plans","result":"success","id":"mu2uewkz-14","ts":"2026-09-15T15:44:56.435Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/plans","detail":"/admin/plans","result":"success","id":"mu2uewmu-15","ts":"2026-09-15T15:44:56.502Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/plans","detail":"/admin/plans","result":"success","id":"mu2ursrk-16","ts":"2026-09-15T15:54:58.016Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/plans","detail":"/admin/plans","result":"success","id":"mu2ursrq-17","ts":"2026-09-15T15:54:58.022Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/market-baskets","detail":"/admin/market-baskets","result":"success","id":"mu2us02h-18","ts":"2026-09-15T15:55:07.481Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/plans","detail":"/admin/plans","result":"success","id":"mu2us0wx-19","ts":"2026-09-15T15:55:08.577Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/market-baskets","detail":"/admin/market-baskets","result":"success","id":"mu2us2nn-20","ts":"2026-09-15T15:55:10.835Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mu2usm97-21","ts":"2026-09-15T15:55:36.235Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/market-baskets","detail":"/admin/market-baskets","result":"success","id":"mu2v35k5-22","ts":"2026-09-15T16:03:47.813Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ambient","detail":"/ambient","result":"success","id":"mu2v86ps-23","ts":"2026-09-15T16:07:42.592Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/org-dashboard","detail":"/org-dashboard","result":"success","id":"mu2v8c8c-24","ts":"2026-09-15T16:07:49.740Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"mu2v9bhx-25","ts":"2026-09-15T16:08:35.445Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agents","detail":"/agents","result":"success","id":"mu2v9cqs-26","ts":"2026-09-15T16:08:37.060Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/org-dashboard","detail":"/org-dashboard","result":"success","id":"mu2v9vcl-27","ts":"2026-09-15T16:09:01.173Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mu2vb4mj-28","ts":"2026-09-15T16:09:59.851Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mu2vberx-29","ts":"2026-09-15T16:10:13.005Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/api-keys","detail":"/admin/api-keys","result":"success","id":"mu2vbxbe-30","ts":"2026-09-15T16:10:37.034Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mu2vclte-31","ts":"2026-09-15T16:11:08.786Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2vcu5h-32","ts":"2026-09-15T16:11:19.589Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/external-apis","detail":"/admin/external-apis","result":"success","id":"mu2vg4oy-33","ts":"2026-09-15T16:13:53.218Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mu2vgjir-34","ts":"2026-09-15T16:14:12.435Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/org-dashboard","detail":"/org-dashboard","result":"success","id":"mu2vgn53-35","ts":"2026-09-15T16:14:17.127Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mu2vjzp3-36","ts":"2026-09-15T16:16:53.367Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/github-accounts","detail":"/github-accounts","result":"success","id":"mu2vllc6-37","ts":"2026-09-15T16:18:08.070Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/n8n","detail":"/n8n","result":"success","id":"mu2vlnyy-38","ts":"2026-09-15T16:18:11.482Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/github-accounts","detail":"/github-accounts","result":"success","id":"mu2vmj5k-39","ts":"2026-09-15T16:18:51.896Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mu2vml3f-40","ts":"2026-09-15T16:18:54.411Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mu2vmocw-41","ts":"2026-09-15T16:18:58.640Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2vn1dt-42","ts":"2026-09-15T16:19:15.521Z"}
