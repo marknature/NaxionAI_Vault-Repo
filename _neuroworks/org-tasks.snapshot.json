@@ -257,6 +257,19 @@
       "createdAt": "2026-09-12T12:26:52.618Z",
       "updatedAt": "2026-09-12T13:03:17.413Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "5a869652-6d33-4f8a-a651-b3211f23fdcc",
+      "role": "executor",
+      "title": "MD Weekly Board — 2026-09-14",
+      "detail": "MD Weekly Board — 2026-09-14",
+      "status": "blocked",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "308e9b7e-3ece-4f27-9b65-e9de21f559ee",
+      "createdAt": "2026-09-14T06:31:37.307Z",
+      "updatedAt": "2026-09-15T06:25:22.633Z",
+      "createdBy": "naxie"
     }
   ]
 }
