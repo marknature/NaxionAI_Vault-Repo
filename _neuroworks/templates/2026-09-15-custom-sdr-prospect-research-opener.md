@@ -2,7 +2,7 @@
 type: template
 title: Prospect research + opener (custom-sdr-prospect-research-opener)
 slug: custom-sdr-prospect-research-opener
-created: 2026-09-15T20:50:48.953Z
+created: 2026-09-15T20:51:08.664Z
 templateId: custom-sdr-prospect-research-opener
 role: Custom
 originTask: Research the prospect/account described against the ICP: relevant hooks, likely pain points, and a tailored opener that leads with their problem, not the product.
