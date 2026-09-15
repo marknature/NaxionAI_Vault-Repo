@@ -2125,3 +2125,60 @@
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Delegated: (You are operating as Neuro, the AI agent operator. Bias too","detail":"Task 36cb5f19-324b-4c46-b28d-3af6fc852c88 (executor) has been blocked for 558h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu2wi2ev-10","ts":"2026-09-15T16:43:23.191Z"}
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Ad-hoc: Try again use Gemini this time","detail":"Task 20e16750-50e8-4dc3-97d1-917befbb5c6a (executor) has been blocked for 76h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu2wi2ex-11","ts":"2026-09-15T16:43:23.194Z"}
 {"level":"warn","actor":"researcher","action":"notify.urgent","target":"Ad-hoc: Summarize my vault","detail":"Task 110443f2-c298-44d1-a75f-aac33d301b9c (researcher) has been blocked for 558h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu2wi2iu-12","ts":"2026-09-15T16:43:23.334Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu2winm6-13","ts":"2026-09-15T16:43:50.670Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2wp95v-14","ts":"2026-09-15T16:48:58.531Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2wp96w-15","ts":"2026-09-15T16:48:58.568Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2wpgdy-16","ts":"2026-09-15T16:49:07.894Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2wpgi5-17","ts":"2026-09-15T16:49:08.045Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2wpsq0-18","ts":"2026-09-15T16:49:23.880Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2wpsr1-19","ts":"2026-09-15T16:49:23.917Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x3ccr-20","ts":"2026-09-15T16:59:55.851Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x3ccz-21","ts":"2026-09-15T16:59:55.859Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x4mmq-22","ts":"2026-09-15T17:00:55.826Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x4mmt-23","ts":"2026-09-15T17:00:55.829Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x6cfc-24","ts":"2026-09-15T17:02:15.912Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x6cfn-25","ts":"2026-09-15T17:02:15.923Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x7ctt-26","ts":"2026-09-15T17:03:03.089Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x7cu1-27","ts":"2026-09-15T17:03:03.097Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x7qnh-28","ts":"2026-09-15T17:03:21.005Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x7qns-29","ts":"2026-09-15T17:03:21.016Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x7wp1-30","ts":"2026-09-15T17:03:28.837Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x7wpg-31","ts":"2026-09-15T17:03:28.852Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x80ar-32","ts":"2026-09-15T17:03:33.507Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2x80au-33","ts":"2026-09-15T17:03:33.510Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2xcx7c-34","ts":"2026-09-15T17:07:22.776Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2xcx7g-35","ts":"2026-09-15T17:07:22.780Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2xd9i6-36","ts":"2026-09-15T17:07:38.718Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2xg8sg-37","ts":"2026-09-15T17:09:57.760Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2xg8sl-38","ts":"2026-09-15T17:09:57.765Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2xgvwh-39","ts":"2026-09-15T17:10:27.713Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2xi8k0-40","ts":"2026-09-15T17:11:30.768Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2xi8k3-41","ts":"2026-09-15T17:11:30.771Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2xiphl-42","ts":"2026-09-15T17:11:52.714Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2xj8tm-43","ts":"2026-09-15T17:12:17.770Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"6h idle","result":"success","id":"mu2xmpiy-44","ts":"2026-09-15T17:14:59.386Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hi Nature, just checking in after our last chat. I noticed you were working on that new project for EcoCycle, so I wanted to see if you needed any help or updates on the status. How's it going?","result":"success","id":"mu2xmq34-45","ts":"2026-09-15T17:15:00.112Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2y35r0-46","ts":"2026-09-15T17:27:46.908Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2y35ra-47","ts":"2026-09-15T17:27:46.918Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2y3bs1-48","ts":"2026-09-15T17:27:54.721Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2y3bst-49","ts":"2026-09-15T17:27:54.749Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2y5fgn-50","ts":"2026-09-15T17:29:32.807Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2y5fhh-51","ts":"2026-09-15T17:29:32.837Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2y5rtg-52","ts":"2026-09-15T17:29:48.820Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2y5rtk-53","ts":"2026-09-15T17:29:48.824Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2y68qa-54","ts":"2026-09-15T17:30:10.738Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2y97dn-55","ts":"2026-09-15T17:32:28.955Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2y97dr-56","ts":"2026-09-15T17:32:28.959Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agents","detail":"/agents","result":"success","id":"mu2y9hv8-57","ts":"2026-09-15T17:32:42.548Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/squads","detail":"/squads","result":"success","id":"mu2y9ix4-58","ts":"2026-09-15T17:32:43.912Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mu2y9juy-59","ts":"2026-09-15T17:32:45.130Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/spin-up","detail":"/spin-up","result":"success","id":"mu2y9l2c-60","ts":"2026-09-15T17:32:46.693Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/org-dashboard","detail":"/org-dashboard","result":"success","id":"mu2y9mio-61","ts":"2026-09-15T17:32:48.576Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mu2y9ozn-62","ts":"2026-09-15T17:32:51.779Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mu2y9u43-63","ts":"2026-09-15T17:32:58.419Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Ad-hoc: Try again use Gemini this time","detail":"blocked >48h — escalated","jobId":"5ea3f229-65b8-4277-8e58-a0292108dfc4","result":"failure","id":"mu2ylp84-1","ts":"2026-09-15T17:42:11.956Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Ad-hoc: Give me current status of the whole system","detail":"blocked >48h — escalated","jobId":"dd166d88-d7af-4851-9944-f6d7a857a767","result":"failure","id":"mu2ylp8i-2","ts":"2026-09-15T17:42:11.971Z"}
+{"level":"warn","actor":"scheduler","action":"org_task.sla_breach","target":"Ad-hoc: what time is it and what is on my calendar tomorrow?","detail":"blocked >48h — escalated","jobId":"c813d591-863d-4607-ad18-ac3c5bf35dbe","result":"failure","id":"mu2ylp8k-3","ts":"2026-09-15T17:42:11.972Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"blocked >48h — escalated","jobId":"d2b2de21-c50d-41d3-b832-39b78337e0c6","result":"failure","id":"mu2ylp8m-4","ts":"2026-09-15T17:42:11.974Z"}
+{"level":"warn","actor":"researcher","action":"org_task.sla_breach","target":"Ad-hoc: Summarize my vault","detail":"blocked >48h — escalated","jobId":"e828d3c3-1987-482d-ae06-289e67a0ef24","result":"failure","id":"mu2ylp90-5","ts":"2026-09-15T17:42:11.988Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Delegated: (You are operating as Neuro, the AI agent operator. Bias too","detail":"blocked >48h — escalated","jobId":"ac9ab670-8230-4dbd-a2e1-a3f2b6c31c2e","result":"failure","id":"mu2ylp9g-6","ts":"2026-09-15T17:42:12.004Z"}
