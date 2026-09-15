@@ -289,12 +289,12 @@
       "role": "executor",
       "title": "Ad-hoc: 2+2? one word",
       "detail": "Ad-hoc: 2+2? one word",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "c2f274a8-db60-4f90-889e-da9af28ac9cb",
       "createdAt": "2026-09-15T11:11:31.596Z",
-      "updatedAt": "2026-09-15T11:11:31.598Z",
+      "updatedAt": "2026-09-15T11:42:19.088Z",
       "createdBy": "naxie"
     },
     {
@@ -302,12 +302,12 @@
       "role": "executor",
       "title": "Delegated: (You are operating as Neuro, the AI agent operator. Bias too",
       "detail": "Delegated: (You are operating as Neuro, the AI agent operator. Bias too",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "8cd8ac71-3ce6-4314-a7f5-5fd1b2325d2b",
       "createdAt": "2026-09-15T11:11:31.812Z",
-      "updatedAt": "2026-09-15T11:11:31.814Z",
+      "updatedAt": "2026-09-15T11:42:18.997Z",
       "createdBy": "naxie"
     }
   ]
