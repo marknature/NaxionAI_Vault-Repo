@@ -2,7 +2,7 @@
 type: template
 title: Access provisioning plan (custom-it-support-access-provisioning-plan)
 slug: custom-it-support-access-provisioning-plan
-created: 2026-09-15T16:30:32.395Z
+created: 2026-09-15T16:30:56.932Z
 templateId: custom-it-support-access-provisioning-plan
 role: Custom
 originTask: Draft an access-provisioning plan for the request described, least-privilege: what to grant, to whom, for how long, the approval needed, and exactly how to revoke it later.
