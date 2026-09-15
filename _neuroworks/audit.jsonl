@@ -1821,3 +1821,20 @@
 {"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mu2nbpwl-20","ts":"2026-09-15T12:26:30.501Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mu2nbpwt-21","ts":"2026-09-15T12:26:30.509Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:3 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | heygen:HEYGEN_API_KEY not set | n8n:N8N_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu2nj8xa-22","ts":"2026-09-15T12:32:21.742Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mu2o7j2l-23","ts":"2026-09-15T12:51:14.637Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mu2o7j2o-24","ts":"2026-09-15T12:51:14.640Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/api-keys","detail":"/admin/api-keys","result":"success","id":"mu2oey4n-25","ts":"2026-09-15T12:57:00.743Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/external-apis","detail":"/admin/external-apis","result":"success","id":"mu2og569-26","ts":"2026-09-15T12:57:56.529Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mu2ojair-27","ts":"2026-09-15T13:00:23.427Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/org-dashboard","detail":"/org-dashboard","result":"success","id":"mu2ojc7j-28","ts":"2026-09-15T13:00:25.615Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mu2op218-29","ts":"2026-09-15T13:04:52.364Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/transactions","detail":"/admin/transactions","result":"success","id":"mu2op44i-30","ts":"2026-09-15T13:04:55.074Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/transactions","detail":"/admin/transactions","result":"success","id":"mu2otbva-31","ts":"2026-09-15T13:08:11.734Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/transactions","detail":"/admin/transactions","result":"success","id":"mu2otbvi-32","ts":"2026-09-15T13:08:11.742Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/transactions","detail":"/admin/transactions","result":"success","id":"mu2oxjaa-33","ts":"2026-09-15T13:11:27.970Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/transactions","detail":"/admin/transactions","result":"success","id":"mu2oxjb6-34","ts":"2026-09-15T13:11:28.002Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2oyfjh-35","ts":"2026-09-15T13:12:09.773Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu2oyfkt-36","ts":"2026-09-15T13:12:09.821Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"2h idle","result":"success","id":"mu2oyq26-37","ts":"2026-09-15T13:12:23.406Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Checking in to see if you need any triage or support with your current tasks. Just a quick reaction or an \"all good\" works if you're still in the zone.","result":"success","id":"mu2oyqrj-38","ts":"2026-09-15T13:12:24.319Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:3 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | heygen:HEYGEN_API_KEY not set | n8n:N8N_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu2pof1k-39","ts":"2026-09-15T13:32:22.184Z"}
