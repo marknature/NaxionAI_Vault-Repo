@@ -2814,3 +2814,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mu47sytz-44","ts":"2026-09-16T14:47:33.719Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"mu47t0kw-45","ts":"2026-09-16T14:47:35.985Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu47ytdc-46","ts":"2026-09-16T14:52:06.576Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu4a3z2n-47","ts":"2026-09-16T15:52:06.479Z"}
