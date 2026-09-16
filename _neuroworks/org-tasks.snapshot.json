@@ -333,6 +333,18 @@
       "createdAt": "2026-09-15T18:43:53.433Z",
       "updatedAt": "2026-09-15T18:43:53.433Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "6e124029-9618-45b9-b829-b7ccf3bace7b",
+      "role": "admin",
+      "title": "MD Audit: Personas — 37/37 personas dormant — roster may be bloated",
+      "detail": "Review personas catalog and retire unused personas; keep roster lean so Naxie's routing stays precise.\n\nEvidence: personas=37, dormant=37\n\nFrom the 2026-09-16 MD System Audit — _neuroworks/system-audits/2026-09-16.md",
+      "status": "backlog",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-16T05:54:45.801Z",
+      "updatedAt": "2026-09-16T05:54:45.801Z",
+      "createdBy": "daemon"
     }
   ]
 }
