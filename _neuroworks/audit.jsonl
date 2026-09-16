@@ -2467,3 +2467,4 @@
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — morning briefing ready","detail":"I couldn't get anywhere on this — nothing executed. Could you rephrase what you'd like me to do?","result":"success","id":"mu3pb7ed-25","ts":"2026-09-16T06:09:51.925Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu3pgh8e-26","ts":"2026-09-16T06:13:57.950Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu3pgh8q-27","ts":"2026-09-16T06:13:57.962Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu3qws9g-28","ts":"2026-09-16T06:54:38.357Z"}
