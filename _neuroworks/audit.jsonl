@@ -2534,3 +2534,43 @@
 {"level":"warn","actor":"scheduler","action":"notify.urgent","target":"Ad-hoc: what time is it and what is on my calendar tomorrow?","detail":"Task 8435af73-50bd-4f5b-a53b-86e8325533a5 (scheduler) has been blocked for 571h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu3r2fwj-10","ts":"2026-09-16T06:59:02.275Z"}
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Ad-hoc: Give me current status of the whole system","detail":"Task 54ff53bd-980d-429a-8c10-da2135cd5ea7 (executor) has been blocked for 90h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu3r2fwo-11","ts":"2026-09-16T06:59:02.280Z"}
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"Task 61a1a383-5741-49c5-abfa-9f303f2c0f4d (executor) has been blocked for 571h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu3r2fwz-12","ts":"2026-09-16T06:59:02.291Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu3r30bb-13","ts":"2026-09-16T06:59:28.727Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu3r682u-14","ts":"2026-09-16T07:01:58.758Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu3r683q-15","ts":"2026-09-16T07:01:58.790Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3r7xo3-16","ts":"2026-09-16T07:03:18.579Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3r7xry-17","ts":"2026-09-16T07:03:18.718Z"}
+{"level":"info","actor":"naxie","action":"briefing.generated","target":"daily-briefing","detail":"96 chars","result":"success","id":"mu3r9oj8-18","ts":"2026-09-16T07:04:40.052Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — morning briefing ready","detail":"I couldn't get anywhere on this — nothing executed. Could you rephrase what you'd like me to do?","result":"success","id":"mu3rah16-19","ts":"2026-09-16T07:05:16.986Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rfsi4-20","ts":"2026-09-16T07:09:25.132Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rfsi9-21","ts":"2026-09-16T07:09:25.137Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rh2nv-22","ts":"2026-09-16T07:10:24.955Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rh2oc-23","ts":"2026-09-16T07:10:24.972Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3ricyn-24","ts":"2026-09-16T07:11:24.959Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3ricz6-25","ts":"2026-09-16T07:11:24.978Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rjna8-26","ts":"2026-09-16T07:12:24.992Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rjnaa-27","ts":"2026-09-16T07:12:24.994Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rkxko-28","ts":"2026-09-16T07:13:24.984Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rkxkr-29","ts":"2026-09-16T07:13:24.987Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rm7v0-30","ts":"2026-09-16T07:14:24.972Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rm7v5-31","ts":"2026-09-16T07:14:24.977Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rni57-32","ts":"2026-09-16T07:15:24.955Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rni5d-33","ts":"2026-09-16T07:15:24.961Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rosfw-34","ts":"2026-09-16T07:16:24.956Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rosg1-35","ts":"2026-09-16T07:16:24.961Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rq2qm-36","ts":"2026-09-16T07:17:24.958Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rq2qr-37","ts":"2026-09-16T07:17:24.963Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rrd1m-38","ts":"2026-09-16T07:18:24.970Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rrd1s-39","ts":"2026-09-16T07:18:24.976Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rsnbu-40","ts":"2026-09-16T07:19:24.954Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rsnby-41","ts":"2026-09-16T07:19:24.958Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rtxm2-42","ts":"2026-09-16T07:20:24.938Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rtxm7-43","ts":"2026-09-16T07:20:24.943Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rv7x9-44","ts":"2026-09-16T07:21:24.957Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rv7xf-45","ts":"2026-09-16T07:21:24.963Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rvj5o-46","ts":"2026-09-16T07:21:39.516Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3rvj5s-47","ts":"2026-09-16T07:21:39.520Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/chat","detail":"/chat","result":"success","id":"mu3sc7oc-48","ts":"2026-09-16T07:34:37.788Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu3sca7z-49","ts":"2026-09-16T07:34:41.087Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu3t7j4l-50","ts":"2026-09-16T07:58:58.965Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"21h idle","result":"success","id":"mu3t7lbh-51","ts":"2026-09-16T07:59:01.805Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"I’m standing by if you need any help triaging your current tech priorities or clearing your plate. Hope the day is treating you well, Nature. A quick emoji is plenty if you’re all set.","result":"success","id":"mu3t7lna-52","ts":"2026-09-16T07:59:02.230Z"}
