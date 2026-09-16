@@ -1444,3 +1444,12 @@
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1344,"outputTokens":6,"costUsd":0,"ts":"2026-09-16T18:32:05.667Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1959,"outputTokens":11,"costUsd":0,"ts":"2026-09-16T18:33:53.581Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1973,"outputTokens":11,"costUsd":0,"ts":"2026-09-16T18:34:13.858Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-16T19:27:37.237Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-16T19:27:38.071Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-16T19:27:39.118Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1475,"outputTokens":11,"costUsd":0,"ts":"2026-09-16T19:30:30.384Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1490,"outputTokens":14,"costUsd":0,"ts":"2026-09-16T19:30:50.493Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1508,"outputTokens":11,"costUsd":0,"ts":"2026-09-16T19:31:04.494Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1523,"outputTokens":6,"costUsd":0,"ts":"2026-09-16T19:31:16.795Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2316,"outputTokens":184,"costUsd":0,"ts":"2026-09-16T19:34:22.155Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-16T19:56:17.905Z","ok":false,"error":"fetch failed"}
