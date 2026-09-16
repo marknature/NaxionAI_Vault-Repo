@@ -2,7 +2,7 @@
 type: template
 title: Own calendar + inbox triage: schedule, protect deep-work, close loops (custom-naxie-own-calendar-inbox-triage-schedule-prote)
 slug: custom-naxie-own-calendar-inbox-triage-schedule-prote
-created: 2026-09-16T06:56:07.203Z
+created: 2026-09-16T09:12:05.978Z
 templateId: custom-naxie-own-calendar-inbox-triage-schedule-prote
 role: Custom
 originTask: As a Personal Assistant to Nature, own calendar + inbox triage: schedule, protect deep-work, close loops.

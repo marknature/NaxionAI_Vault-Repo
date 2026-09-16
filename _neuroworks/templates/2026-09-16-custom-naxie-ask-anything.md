@@ -2,7 +2,7 @@
 type: template
 title: Ask Naxie anything (custom-naxie-ask-anything)
 slug: custom-naxie-ask-anything
-created: 2026-09-16T06:56:07.226Z
+created: 2026-09-16T09:12:06.006Z
 templateId: custom-naxie-ask-anything
 role: Custom
 originTask: As a Personal Assistant to Nature, respond to the following task in role:
