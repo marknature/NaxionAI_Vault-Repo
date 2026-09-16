@@ -2698,3 +2698,119 @@
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Ad-hoc: Try again use Gemini this time","detail":"Task 20e16750-50e8-4dc3-97d1-917befbb5c6a (executor) has been blocked for 97h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu453gze-15","ts":"2026-09-16T13:31:44.954Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu453he3-16","ts":"2026-09-16T13:31:45.483Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu453itm-17","ts":"2026-09-16T13:31:47.338Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu454072-18","ts":"2026-09-16T13:32:09.854Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu454079-19","ts":"2026-09-16T13:32:09.861Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu4540bq-20","ts":"2026-09-16T13:32:10.022Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu454qoi-21","ts":"2026-09-16T13:32:44.178Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu454ufi-22","ts":"2026-09-16T13:32:49.038Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu4550b2-23","ts":"2026-09-16T13:32:56.654Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu455agz-24","ts":"2026-09-16T13:33:09.827Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu455ahs-25","ts":"2026-09-16T13:33:09.856Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu456kot-26","ts":"2026-09-16T13:34:09.725Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu456kp2-27","ts":"2026-09-16T13:34:09.734Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu457uyw-28","ts":"2026-09-16T13:35:09.704Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu457uza-29","ts":"2026-09-16T13:35:09.718Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu4596id-30","ts":"2026-09-16T13:36:11.317Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu4596k8-31","ts":"2026-09-16T13:36:11.384Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu459fop-32","ts":"2026-09-16T13:36:23.209Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu459fot-33","ts":"2026-09-16T13:36:23.213Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu459jn0-34","ts":"2026-09-16T13:36:28.332Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu459jnb-35","ts":"2026-09-16T13:36:28.343Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes-bridge","detail":"/hermes-bridge","result":"success","id":"mu459mor-36","ts":"2026-09-16T13:36:32.283Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45aadq-37","ts":"2026-09-16T13:37:02.990Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45aage-38","ts":"2026-09-16T13:37:03.086Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45agj5-39","ts":"2026-09-16T13:37:10.961Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45agjp-40","ts":"2026-09-16T13:37:10.981Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45as3z-41","ts":"2026-09-16T13:37:25.967Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45as47-42","ts":"2026-09-16T13:37:25.975Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45aya3-43","ts":"2026-09-16T13:37:33.963Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45ayav-44","ts":"2026-09-16T13:37:33.991Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45b4fd-45","ts":"2026-09-16T13:37:41.929Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45b4fy-46","ts":"2026-09-16T13:37:41.950Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45br1z-47","ts":"2026-09-16T13:38:11.255Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45br4y-48","ts":"2026-09-16T13:38:11.362Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45c0qs-49","ts":"2026-09-16T13:38:23.812Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45c0rp-50","ts":"2026-09-16T13:38:23.845Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes-bridge","detail":"/hermes-bridge","result":"success","id":"mu45c3l0-51","ts":"2026-09-16T13:38:27.492Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45c458-52","ts":"2026-09-16T13:38:28.220Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes-bridge","detail":"/hermes-bridge","result":"success","id":"mu45cx2e-53","ts":"2026-09-16T13:39:05.702Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes-bridge","detail":"/hermes-bridge","result":"success","id":"mu45cx2w-54","ts":"2026-09-16T13:39:05.720Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45d0j0-55","ts":"2026-09-16T13:39:10.188Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45d0ku-56","ts":"2026-09-16T13:39:10.254Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes-bridge","detail":"/hermes-bridge","result":"success","id":"mu45d5xt-57","ts":"2026-09-16T13:39:17.201Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45d6hd-58","ts":"2026-09-16T13:39:17.905Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45dep7-59","ts":"2026-09-16T13:39:28.555Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45derp-60","ts":"2026-09-16T13:39:28.645Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45eay9-61","ts":"2026-09-16T13:40:10.353Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45eazs-62","ts":"2026-09-16T13:40:10.408Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45eisv-63","ts":"2026-09-16T13:40:20.527Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45f07r-64","ts":"2026-09-16T13:40:43.095Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45f087-65","ts":"2026-09-16T13:40:43.111Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45f6w4-66","ts":"2026-09-16T13:40:51.748Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45f6w9-67","ts":"2026-09-16T13:40:51.753Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu45fjf6-68","ts":"2026-09-16T13:41:07.986Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu45fjfe-69","ts":"2026-09-16T13:41:07.995Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45fp7v-70","ts":"2026-09-16T13:41:15.499Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45fp7y-71","ts":"2026-09-16T13:41:15.502Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45icor-72","ts":"2026-09-16T13:43:19.227Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45icoy-73","ts":"2026-09-16T13:43:19.234Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45jaya-74","ts":"2026-09-16T13:44:03.634Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45jayi-75","ts":"2026-09-16T13:44:03.642Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45k9om-76","ts":"2026-09-16T13:44:48.646Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45k9op-77","ts":"2026-09-16T13:44:48.649Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45ker2-78","ts":"2026-09-16T13:44:55.214Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45kerc-79","ts":"2026-09-16T13:44:55.224Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45kvv3-80","ts":"2026-09-16T13:45:17.391Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45kvv9-81","ts":"2026-09-16T13:45:17.397Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45l4wb-82","ts":"2026-09-16T13:45:29.099Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45l4we-83","ts":"2026-09-16T13:45:29.102Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/chat","detail":"/chat","result":"success","id":"mu45oske-84","ts":"2026-09-16T13:48:19.742Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45oydg-85","ts":"2026-09-16T13:48:27.268Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/chat","detail":"/chat","result":"success","id":"mu45qi3j-86","ts":"2026-09-16T13:49:39.487Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45qk3a-87","ts":"2026-09-16T13:49:42.070Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Ad-hoc: Try again use Gemini this time","detail":"blocked >48h — escalated","jobId":"5ea3f229-65b8-4277-8e58-a0292108dfc4","result":"failure","id":"mu45towb-1","ts":"2026-09-16T13:52:08.267Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Ad-hoc: Give me current status of the whole system","detail":"blocked >48h — escalated","jobId":"dd166d88-d7af-4851-9944-f6d7a857a767","result":"failure","id":"mu45towj-2","ts":"2026-09-16T13:52:08.275Z"}
+{"level":"warn","actor":"scheduler","action":"org_task.sla_breach","target":"Ad-hoc: what time is it and what is on my calendar tomorrow?","detail":"blocked >48h — escalated","jobId":"c813d591-863d-4607-ad18-ac3c5bf35dbe","result":"failure","id":"mu45towm-3","ts":"2026-09-16T13:52:08.278Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"blocked >48h — escalated","jobId":"d2b2de21-c50d-41d3-b832-39b78337e0c6","result":"failure","id":"mu45town-4","ts":"2026-09-16T13:52:08.279Z"}
+{"level":"warn","actor":"researcher","action":"org_task.sla_breach","target":"Ad-hoc: Summarize my vault","detail":"blocked >48h — escalated","jobId":"e828d3c3-1987-482d-ae06-289e67a0ef24","result":"failure","id":"mu45towo-5","ts":"2026-09-16T13:52:08.280Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Delegated: (You are operating as Neuro, the AI agent operator. Bias too","detail":"blocked >48h — escalated","jobId":"ac9ab670-8230-4dbd-a2e1-a3f2b6c31c2e","result":"failure","id":"mu45towp-6","ts":"2026-09-16T13:52:08.281Z"}
+{"level":"warn","actor":"executor","action":"notify.urgent","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"Task 61a1a383-5741-49c5-abfa-9f303f2c0f4d (executor) has been blocked for 578h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu45ttlk-7","ts":"2026-09-16T13:52:14.360Z"}
+{"level":"warn","actor":"executor","action":"notify.urgent","target":"Delegated: (You are operating as Neuro, the AI agent operator. Bias too","detail":"Task 36cb5f19-324b-4c46-b28d-3af6fc852c88 (executor) has been blocked for 579h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu45ttls-8","ts":"2026-09-16T13:52:14.368Z"}
+{"level":"warn","actor":"executor","action":"notify.urgent","target":"Ad-hoc: Give me current status of the whole system","detail":"Task 54ff53bd-980d-429a-8c10-da2135cd5ea7 (executor) has been blocked for 97h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu45ttlz-9","ts":"2026-09-16T13:52:14.375Z"}
+{"level":"warn","actor":"scheduler","action":"notify.urgent","target":"Ad-hoc: what time is it and what is on my calendar tomorrow?","detail":"Task 8435af73-50bd-4f5b-a53b-86e8325533a5 (scheduler) has been blocked for 578h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu45ttmj-10","ts":"2026-09-16T13:52:14.395Z"}
+{"level":"warn","actor":"executor","action":"notify.urgent","target":"Ad-hoc: Try again use Gemini this time","detail":"Task 20e16750-50e8-4dc3-97d1-917befbb5c6a (executor) has been blocked for 97h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu45ttnc-11","ts":"2026-09-16T13:52:14.424Z"}
+{"level":"warn","actor":"researcher","action":"notify.urgent","target":"Ad-hoc: Summarize my vault","detail":"Task 110443f2-c298-44d1-a75f-aac33d301b9c (researcher) has been blocked for 579h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu45tto2-12","ts":"2026-09-16T13:52:14.450Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu45ubn4-13","ts":"2026-09-16T13:52:37.744Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45w4np-14","ts":"2026-09-16T13:54:02.005Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu45w4nx-15","ts":"2026-09-16T13:54:02.013Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu462c60-16","ts":"2026-09-16T13:58:51.672Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu462c65-17","ts":"2026-09-16T13:58:51.677Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu463rgk-18","ts":"2026-09-16T13:59:58.148Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu463rgn-19","ts":"2026-09-16T13:59:58.151Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu468atd-20","ts":"2026-09-16T14:03:29.857Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu468b16-21","ts":"2026-09-16T14:03:30.138Z"}
+{"level":"info","actor":"researcher","action":"research.proactive","target":"daemon","detail":"Zimbabwe's tech sector is regulated by POTRAZ (telecoms/postal) and anchored by players like Econet/Cassava and a growing fintech-adjacent start-up scene. Mobile penetration outpaces fixed broadband, ","result":"success","id":"mu46bulb-22","ts":"2026-09-16T14:06:15.456Z"}
+{"level":"info","actor":"researcher","action":"notify.attention","target":"Naxie — proactive research","detail":"**Actionable Opportunities:**\n\n1. **Econet's Cassava Fintech Play**: Leverage Econet's existing mobile network and Cassava's fintech expertise to develop a mobile-first, forex-accessible cloud solution for Zimbabwe's growing start-up scene. This could provide a competitive edge in the market and address the key challenge of forex access for cloud services.\n2. **Partner with Local Fintech Start-ups**: Collaborate with local fintech start-ups to co-create mobile-first products that cater to the unique needs of Zimbabwe's market. This could help tap into the growing fintech-adjacent start-up scen","result":"success","id":"mu46bwlz-23","ts":"2026-09-16T14:06:18.071Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"27h idle","result":"success","id":"mu46cxj4-24","ts":"2026-09-16T14:07:05.920Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hi Mark, just checking in to see how your day is going so far. I noticed you were working on that new project proposal last time we spoke, so I wanted to see if there's anything I can help you with or if you'd like to discuss it further. How's progress going?","result":"success","id":"mu46cxz3-25","ts":"2026-09-16T14:07:06.495Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu46q3d2-26","ts":"2026-09-16T14:17:20.006Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu46q3d6-27","ts":"2026-09-16T14:17:20.010Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu46qdlt-28","ts":"2026-09-16T14:17:33.281Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu46qdlz-29","ts":"2026-09-16T14:17:33.287Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu46rciz-30","ts":"2026-09-16T14:18:18.539Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu46rcj4-31","ts":"2026-09-16T14:18:18.544Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu46wdf4-32","ts":"2026-09-16T14:22:12.976Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu46wdfc-33","ts":"2026-09-16T14:22:12.984Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu46wonq-34","ts":"2026-09-16T14:22:27.542Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu46wonx-35","ts":"2026-09-16T14:22:27.549Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu47gcuw-36","ts":"2026-09-16T14:37:45.368Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu47gcxe-37","ts":"2026-09-16T14:37:45.458Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu47o7p6-38","ts":"2026-09-16T14:43:51.930Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu47o7po-39","ts":"2026-09-16T14:43:51.948Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu47o7pq-40","ts":"2026-09-16T14:43:51.950Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mu47o7q6-41","ts":"2026-09-16T14:43:51.966Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"mu47she8-42","ts":"2026-09-16T14:47:11.120Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"mu47sxzf-43","ts":"2026-09-16T14:47:32.619Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mu47sytz-44","ts":"2026-09-16T14:47:33.719Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"mu47t0kw-45","ts":"2026-09-16T14:47:35.985Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu47ytdc-46","ts":"2026-09-16T14:52:06.576Z"}
