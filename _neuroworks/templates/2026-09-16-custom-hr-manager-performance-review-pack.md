@@ -2,7 +2,7 @@
 type: template
 title: Performance review pack (custom-hr-manager-performance-review-pack)
 slug: custom-hr-manager-performance-review-pack
-created: 2026-09-16T18:26:43.321Z
+created: 2026-09-16T18:26:52.477Z
 templateId: custom-hr-manager-performance-review-pack
 role: Custom
 originTask: Create a performance-review pack for the role described: goal-setting structure, evidence prompts, a specific-feedback format (situation/behaviour/impact), and a clear rating rubric.
