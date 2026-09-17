@@ -2,7 +2,7 @@
 type: template
 title: Architecture trade-off memo (custom-software-engineer-architecture-trade-off-memo)
 slug: custom-software-engineer-architecture-trade-off-memo
-created: 2026-09-17T19:46:24.791Z
+created: 2026-09-17T19:46:39.554Z
 templateId: custom-software-engineer-architecture-trade-off-memo
 role: Custom
 originTask: Write a trade-off memo for the following technical decision. Output: 1) The decision (one sentence). 2) Options (A and B, each with one-paragraph description). 3) Trade-off matrix (operability, performance, complexity, blast radius, reversibility). 4) Recommendation with the reason that mattered most. 5) What we'd verify before committing.
