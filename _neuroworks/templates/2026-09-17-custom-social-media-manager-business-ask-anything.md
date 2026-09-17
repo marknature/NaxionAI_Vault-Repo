@@ -2,7 +2,7 @@
 type: template
 title: Ask Variety Vault Social Manager anything (custom-social-media-manager-business-ask-anything)
 slug: custom-social-media-manager-business-ask-anything
-created: 2026-09-17T19:48:39.269Z
+created: 2026-09-17T20:05:19.141Z
 templateId: custom-social-media-manager-business-ask-anything
 role: Custom
 originTask: As a Social Media Manager, respond to the following task in role:

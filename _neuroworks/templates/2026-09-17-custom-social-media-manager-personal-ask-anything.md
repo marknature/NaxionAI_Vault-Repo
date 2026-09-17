@@ -2,7 +2,7 @@
 type: template
 title: Ask Personal Social Manager anything (custom-social-media-manager-personal-ask-anything)
 slug: custom-social-media-manager-personal-ask-anything
-created: 2026-09-17T19:48:39.233Z
+created: 2026-09-17T20:05:19.079Z
 templateId: custom-social-media-manager-personal-ask-anything
 role: Custom
 originTask: As a Social Media Manager, respond to the following task in role:
