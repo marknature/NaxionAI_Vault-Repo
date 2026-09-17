@@ -2,7 +2,7 @@
 type: template
 title: Avoid restating other specialists' findings verbatim — add the 'so what' (custom-strategy-intel-avoid-restating-other-specialists-findin)
 slug: custom-strategy-intel-avoid-restating-other-specialists-findin
-created: 2026-09-17T20:04:53.221Z
+created: 2026-09-17T20:21:47.987Z
 templateId: custom-strategy-intel-avoid-restating-other-specialists-findin
 role: Custom
 originTask: As a Strategy Analyst, avoid restating other specialists' findings verbatim — add the 'so what'.

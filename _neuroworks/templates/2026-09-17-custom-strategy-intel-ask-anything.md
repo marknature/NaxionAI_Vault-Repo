@@ -2,7 +2,7 @@
 type: template
 title: Ask Thabo anything (custom-strategy-intel-ask-anything)
 slug: custom-strategy-intel-ask-anything
-created: 2026-09-17T20:04:53.237Z
+created: 2026-09-17T20:21:47.991Z
 templateId: custom-strategy-intel-ask-anything
 role: Custom
 originTask: As a Strategy Analyst, respond to the following task in role:
