@@ -2,7 +2,7 @@
 type: template
 title: Note the pace of change when evident (custom-product-intel-note-the-pace-of-change-when-evident)
 slug: custom-product-intel-note-the-pace-of-change-when-evident
-created: 2026-09-17T19:30:49.620Z
+created: 2026-09-17T20:04:52.962Z
 templateId: custom-product-intel-note-the-pace-of-change-when-evident
 role: Custom
 originTask: As a Product Intelligence Analyst, note the pace of change when evident.

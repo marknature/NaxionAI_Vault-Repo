@@ -2,7 +2,7 @@
 type: template
 title: Ask Gideon anything (custom-deal-intel-ask-anything)
 slug: custom-deal-intel-ask-anything
-created: 2026-09-17T19:30:49.684Z
+created: 2026-09-17T20:04:53.186Z
 templateId: custom-deal-intel-ask-anything
 role: Custom
 originTask: As a Deal Intelligence Analyst, respond to the following task in role:

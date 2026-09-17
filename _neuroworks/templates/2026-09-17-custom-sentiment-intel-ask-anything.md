@@ -2,7 +2,7 @@
 type: template
 title: Ask Solene anything (custom-sentiment-intel-ask-anything)
 slug: custom-sentiment-intel-ask-anything
-created: 2026-09-17T19:30:49.664Z
+created: 2026-09-17T20:04:53.134Z
 templateId: custom-sentiment-intel-ask-anything
 role: Custom
 originTask: As a Sentiment Intelligence Analyst, respond to the following task in role:

@@ -2,7 +2,7 @@
 type: template
 title: Identify recent, real developments in the topic's market/industry (custom-market-intel-identify-recent-real-developments-in-the)
 slug: custom-market-intel-identify-recent-real-developments-in-the
-created: 2026-09-17T19:30:49.563Z
+created: 2026-09-17T20:04:52.797Z
 templateId: custom-market-intel-identify-recent-real-developments-in-the
 role: Custom
 originTask: As a Market Intelligence Analyst, identify recent, real developments in the topic's market/industry.

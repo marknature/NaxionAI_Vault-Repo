@@ -2,7 +2,7 @@
 type: template
 title: Note what a hiring pattern implies about direction, when evident (custom-talent-intel-note-what-a-hiring-pattern-implies-about)
 slug: custom-talent-intel-note-what-a-hiring-pattern-implies-about
-created: 2026-09-17T19:30:49.638Z
+created: 2026-09-17T20:04:53.015Z
 templateId: custom-talent-intel-note-what-a-hiring-pattern-implies-about
 role: Custom
 originTask: As a Talent Intelligence Analyst, note what a hiring pattern implies about direction, when evident.

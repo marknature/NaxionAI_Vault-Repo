@@ -2,7 +2,7 @@
 type: template
 title: Ask Mira anything (custom-market-intel-ask-anything)
 slug: custom-market-intel-ask-anything
-created: 2026-09-17T19:30:49.576Z
+created: 2026-09-17T20:04:52.855Z
 templateId: custom-market-intel-ask-anything
 role: Custom
 originTask: As a Market Intelligence Analyst, respond to the following task in role:

@@ -2,7 +2,7 @@
 type: template
 title: Cite the actual figures/sources given, never estimate a number that wasn't pr… (custom-pricing-intel-cite-the-actual-figures-sources-given-ne)
 slug: custom-pricing-intel-cite-the-actual-figures-sources-given-ne
-created: 2026-09-17T19:30:49.594Z
+created: 2026-09-17T20:04:52.883Z
 templateId: custom-pricing-intel-cite-the-actual-figures-sources-given-ne
 role: Custom
 originTask: As a Pricing Intelligence Analyst, cite the actual figures/sources given, never estimate a number that wasn't provided.

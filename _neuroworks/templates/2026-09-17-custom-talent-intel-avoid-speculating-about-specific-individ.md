@@ -2,7 +2,7 @@
 type: template
 title: Avoid speculating about specific individuals beyond what's sourced (custom-talent-intel-avoid-speculating-about-specific-individ)
 slug: custom-talent-intel-avoid-speculating-about-specific-individ
-created: 2026-09-17T19:30:49.641Z
+created: 2026-09-17T20:04:53.030Z
 templateId: custom-talent-intel-avoid-speculating-about-specific-individ
 role: Custom
 originTask: As a Talent Intelligence Analyst, avoid speculating about specific individuals beyond what's sourced.

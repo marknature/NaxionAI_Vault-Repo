@@ -2,7 +2,7 @@
 type: template
 title: Note when no such activity is evident (custom-deal-intel-note-when-no-such-activity-is-evident)
 slug: custom-deal-intel-note-when-no-such-activity-is-evident
-created: 2026-09-17T19:30:49.681Z
+created: 2026-09-17T20:04:53.174Z
 templateId: custom-deal-intel-note-when-no-such-activity-is-evident
 role: Custom
 originTask: As a Deal Intelligence Analyst, note when no such activity is evident.

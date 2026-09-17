@@ -2,7 +2,7 @@
 type: template
 title: Ask Zane anything (custom-pricing-intel-ask-anything)
 slug: custom-pricing-intel-ask-anything
-created: 2026-09-17T19:30:49.597Z
+created: 2026-09-17T20:04:52.908Z
 templateId: custom-pricing-intel-ask-anything
 role: Custom
 originTask: As a Pricing Intelligence Analyst, respond to the following task in role:

@@ -2,7 +2,7 @@
 type: template
 title: Surface funding, valuation, or deal signals when present (custom-pricing-intel-surface-funding-valuation-or-deal-signal)
 slug: custom-pricing-intel-surface-funding-valuation-or-deal-signal
-created: 2026-09-17T19:30:49.591Z
+created: 2026-09-17T20:04:52.875Z
 templateId: custom-pricing-intel-surface-funding-valuation-or-deal-signal
 role: Custom
 originTask: As a Pricing Intelligence Analyst, surface funding, valuation, or deal signals when present.
