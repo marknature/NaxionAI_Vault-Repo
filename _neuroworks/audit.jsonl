@@ -3169,3 +3169,8 @@
 {"level":"warn","actor":"scheduler","action":"notify.urgent","target":"Ad-hoc: what time is it and what is on my calendar tomorrow?","detail":"Task 8435af73-50bd-4f5b-a53b-86e8325533a5 (scheduler) has been blocked for 608h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mu5xz526-20","ts":"2026-09-17T19:47:57.918Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mu5xz5is-21","ts":"2026-09-17T19:47:58.516Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mu5xz5kv-22","ts":"2026-09-17T19:47:58.591Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mu5xzk8v-23","ts":"2026-09-17T19:48:17.599Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mu5xzk9c-24","ts":"2026-09-17T19:48:17.616Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu5xzohv-25","ts":"2026-09-17T19:48:23.107Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mu5xztfi-1","ts":"2026-09-17T19:48:29.502Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mu5xztg6-2","ts":"2026-09-17T19:48:29.526Z"}
