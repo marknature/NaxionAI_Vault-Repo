@@ -2984,3 +2984,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mu5vn3xu-40","ts":"2026-09-17T18:42:37.362Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu5vn40o-41","ts":"2026-09-17T18:42:37.464Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu5vn40q-42","ts":"2026-09-17T18:42:37.466Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu5x8gdo-43","ts":"2026-09-17T19:27:12.876Z"}
