@@ -3492,3 +3492,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mu6nzwfd-75","ts":"2026-09-18T07:56:23.401Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mu6nzwft-76","ts":"2026-09-18T07:56:23.417Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu6ocryh-77","ts":"2026-09-18T08:06:24.137Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu6qhy6q-78","ts":"2026-09-18T09:06:24.722Z"}
