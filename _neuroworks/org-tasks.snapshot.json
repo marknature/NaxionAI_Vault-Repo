@@ -396,6 +396,19 @@
       "createdAt": "2026-09-18T07:52:50.232Z",
       "updatedAt": "2026-09-18T07:54:36.564Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "76f59f97-ecfb-4893-8246-d7d730ac0571",
+      "role": "scheduler",
+      "title": "World AI news — BREAKING",
+      "detail": "World AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "234d9ffc-6157-4682-8642-ab9cc39416b0",
+      "createdAt": "2026-09-18T12:00:25.565Z",
+      "updatedAt": "2026-09-18T12:03:23.121Z",
+      "createdBy": "daemon"
     }
   ]
 }
