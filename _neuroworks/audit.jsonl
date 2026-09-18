@@ -3503,3 +3503,11 @@
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"I’m checking in to see if any new tasks need triaging or if you’d like to delegate anything from your current IT projects. I'm here whenever you're ready to clear some mental space. Just a quick \"all good\" is plenty if you're mid-flow.","result":"success","id":"mu6sadl9-86","ts":"2026-09-18T09:56:30.669Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mu6sm2hw-87","ts":"2026-09-18T10:05:36.164Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mu6sm2ik-88","ts":"2026-09-18T10:05:36.188Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu6snc9f-89","ts":"2026-09-18T10:06:35.475Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mu6sojra-90","ts":"2026-09-18T10:07:31.846Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mu6sojt3-91","ts":"2026-09-18T10:07:31.911Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mu6souff-92","ts":"2026-09-18T10:07:45.675Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mu6soufn-93","ts":"2026-09-18T10:07:45.683Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mu6ulc34-94","ts":"2026-09-18T11:01:01.168Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mu6ulc3l-95","ts":"2026-09-18T11:01:01.185Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu6us9p0-96","ts":"2026-09-18T11:06:24.660Z"}
