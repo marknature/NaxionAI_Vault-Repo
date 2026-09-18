@@ -3440,3 +3440,7 @@
 {"level":"info","actor":"system","action":"brand.update","target":"work","detail":"watchTerms","result":"success","id":"mu6febos-23","ts":"2026-09-18T03:55:39.820Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu6fhqaw-24","ts":"2026-09-18T03:58:18.728Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu6fhqcd-25","ts":"2026-09-18T03:58:18.781Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu6hdtyg-26","ts":"2026-09-18T04:51:16.072Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu6hhzr3-27","ts":"2026-09-18T04:54:30.207Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu6hhzsi-28","ts":"2026-09-18T04:54:30.258Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:3 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | supabase:fetch failed | 36e71474-3626-4915-b7cb-1590731c682e:network error reaching Telegram (fetch failed) — check connectivity, then re-tes | alerts: openrouter,heygen,n8n","result":"failure","id":"mu6k2icv-29","ts":"2026-09-18T06:06:26.671Z"}
