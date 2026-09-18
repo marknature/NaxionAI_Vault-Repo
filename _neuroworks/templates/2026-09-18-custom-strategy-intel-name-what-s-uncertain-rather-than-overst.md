@@ -2,7 +2,7 @@
 type: template
 title: Name what's uncertain rather than overstating confidence (custom-strategy-intel-name-what-s-uncertain-rather-than-overst)
 slug: custom-strategy-intel-name-what-s-uncertain-rather-than-overst
-created: 2026-09-18T03:49:39.554Z
+created: 2026-09-18T03:50:57.860Z
 templateId: custom-strategy-intel-name-what-s-uncertain-rather-than-overst
 role: Custom
 originTask: As a Strategy Analyst, name what's uncertain rather than overstating confidence.
