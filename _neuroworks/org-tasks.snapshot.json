@@ -370,6 +370,32 @@
       "createdAt": "2026-09-18T06:48:20.740Z",
       "updatedAt": "2026-09-18T07:02:08.622Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "6218ccad-2b14-44cf-be55-18c2c6a641f0",
+      "role": "scheduler",
+      "title": "Africa AI news digest",
+      "detail": "Africa AI news digest",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "f1eb24c6-84d8-4a29-b845-d092325dbac6",
+      "createdAt": "2026-09-18T07:30:28.391Z",
+      "updatedAt": "2026-09-18T07:32:59.468Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "9269feb2-a40a-4d9a-a6d6-29efb570cd7b",
+      "role": "executor",
+      "title": "whereever you recommend we start",
+      "detail": "whereever you recommend we start",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "47eebf72-8702-42d9-9374-c0c93c963b82",
+      "createdAt": "2026-09-18T07:52:50.232Z",
+      "updatedAt": "2026-09-18T07:54:36.564Z",
+      "createdBy": "naxie"
     }
   ]
 }
