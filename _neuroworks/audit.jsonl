@@ -3557,3 +3557,4 @@
 {"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"4h idle","result":"success","id":"mu6wzq4w-26","ts":"2026-09-18T12:08:11.792Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"All quiet on the operations","result":"success","id":"mu6wzqjz-27","ts":"2026-09-18T12:08:12.335Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu6xdkz1-28","ts":"2026-09-18T12:18:58.285Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu6zirpf-29","ts":"2026-09-18T13:18:59.523Z"}
