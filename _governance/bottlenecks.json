@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-17T18:27:18.687Z",
+  "updatedAt": "2026-09-18T18:10:33.924Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
-      "totalRuns": 12,
+      "totalRuns": 13,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 480,
+      "avgDurationSec": 12,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-17"
     },
     "search-brain": {
       "template": "search-brain",
@@ -23,23 +23,23 @@
     },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 8,
+      "totalRuns": 9,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 504.5,
+      "avgDurationSec": 941.5,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-16"
+      "lastSeen": "2026-09-17"
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 4,
+      "totalRuns": 5,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-16"
+      "lastSeen": "2026-09-17"
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
@@ -53,23 +53,43 @@
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 6,
+      "totalRuns": 7,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 485,
+      "avgDurationSec": 17.6,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-16"
+      "lastSeen": "2026-09-17"
     },
     "naxie:converse": {
       "template": "naxie:converse",
+      "totalRuns": 3,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 467.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-09-17"
+    },
+    "africa-ai-news": {
+      "template": "africa-ai-news",
       "totalRuns": 1,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 231.1,
+      "avgDurationSec": 151.1,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-17"
+    },
+    "world-ai-news": {
+      "template": "world-ai-news",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 177.6,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-09-17"
     }
   }
 }
