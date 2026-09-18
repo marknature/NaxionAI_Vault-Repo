@@ -345,6 +345,31 @@
       "createdAt": "2026-09-16T05:54:45.801Z",
       "updatedAt": "2026-09-16T05:54:45.801Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "d3f2cbdd-df91-4266-bcb6-c7deebe75221",
+      "role": "admin",
+      "title": "MD Audit: Personas — 46/46 personas dormant — roster may be bloated",
+      "detail": "Review personas catalog and retire unused personas; keep roster lean so Naxie's routing stays precise.\n\nEvidence: personas=46, dormant=46\n\nFrom the 2026-09-18 MD System Audit — _neuroworks/system-audits/2026-09-18.md",
+      "status": "backlog",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-18T06:06:35.874Z",
+      "updatedAt": "2026-09-18T06:06:35.874Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "0b3cfadb-6550-4589-9e5b-9ec6f8dcbbd9",
+      "role": "executor",
+      "title": "## Focus today\n- System Health: The MD System Audit health has plateaued at 61/1",
+      "detail": "## Focus today\n- System Health: The MD System Audit health has plateaued at 61/1",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "e67f7a13-4e3d-4f6a-8ba3-45fc99d4ebbb",
+      "createdAt": "2026-09-18T06:48:20.740Z",
+      "updatedAt": "2026-09-18T07:02:08.622Z",
+      "createdBy": "naxie"
     }
   ]
 }
