@@ -1,15 +1,32 @@
 {
-  "totalFlags": 6,
-  "upvotes": 1,
+  "totalFlags": 7,
+  "upvotes": 2,
   "downvotes": 5,
-  "rate": 0.16666666666666666,
+  "rate": 0.2857142857142857,
   "topCategories": [
     {
       "category": "accuracy",
-      "count": 6
+      "count": 7
     }
   ],
   "recentFlags": [
+    {
+      "jobId": "ffda5a43-4794-49be-83e0-ced4ff63a378",
+      "rating": "up",
+      "score": 0.7,
+      "category": "accuracy",
+      "template": "innovation-scan",
+      "taskKind": "insights:innovation-scan",
+      "axes": {
+        "factuality_risk": 0.3,
+        "citation_coverage": 1,
+        "persona_fit": 0.7,
+        "prompt_alignment": 0.7
+      },
+      "note": "auto · quality.check",
+      "source": "auto",
+      "ts": "2026-09-19T06:03:38.704Z"
+    },
     {
       "jobId": "47eebf72-8702-42d9-9374-c0c93c963b82",
       "rating": "up",
