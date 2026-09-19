@@ -2,7 +2,7 @@
 type: template
 title: Social ad (voice + video) (custom-multimedia-producer-social-ad-voice-video)
 slug: custom-multimedia-producer-social-ad-voice-video
-created: 2026-09-19T08:52:42.036Z
+created: 2026-09-19T08:53:10.563Z
 templateId: custom-multimedia-producer-social-ad-voice-video
 role: Custom
 originTask: Make a short social ad for the following product/offer. Write a punchy script, narrate it with media.tts, and generate a matching vertical video clip with media.video (state aspect + first-second hook). Keep voice and visuals on-brand. Return the script, both prompts, and both asset paths, plus a one-line note on how they overlay.
