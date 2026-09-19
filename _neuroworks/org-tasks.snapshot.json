@@ -441,12 +441,12 @@
       "role": "scheduler",
       "title": "Africa AI news — BREAKING",
       "detail": "Africa AI news — BREAKING",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "a060a728-b113-444e-b658-0c54851f1860",
       "createdAt": "2026-09-19T07:30:06.675Z",
-      "updatedAt": "2026-09-19T07:30:06.677Z",
+      "updatedAt": "2026-09-19T08:00:30.710Z",
       "createdBy": "daemon"
     }
   ]
