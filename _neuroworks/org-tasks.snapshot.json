@@ -409,6 +409,32 @@
       "createdAt": "2026-09-18T12:00:25.565Z",
       "updatedAt": "2026-09-18T12:03:23.121Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "aac514d1-f8f3-47fa-a20a-02f4d4d3f134",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "819f8027-5b21-4794-88f4-215b248c5d9e",
+      "createdAt": "2026-09-19T05:34:15.114Z",
+      "updatedAt": "2026-09-19T05:45:23.549Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "5c107429-81ed-4464-b135-b4086f78c48e",
+      "role": "scheduler",
+      "title": "Innovation scan",
+      "detail": "Innovation scan",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "ffda5a43-4794-49be-83e0-ced4ff63a378",
+      "createdAt": "2026-09-19T05:34:15.167Z",
+      "updatedAt": "2026-09-19T06:03:38.574Z",
+      "createdBy": "daemon"
     }
   ]
 }

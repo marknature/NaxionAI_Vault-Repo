@@ -3606,3 +3606,10 @@
 {"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mu7yvdic-75","ts":"2026-09-19T05:48:34.213Z"}
 {"level":"info","actor":"neuroworks","action":"job.insights:innovation-scan","target":"innovation-scan","detail":"Innovation scan","jobId":"ffda5a43-4794-49be-83e0-ced4ff63a378","result":"success","id":"mu7zera3-76","ts":"2026-09-19T06:03:38.523Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Innovation scan","detail":"","jobId":"ffda5a43-4794-49be-83e0-ced4ff63a378","result":"success","id":"mu7zere9-77","ts":"2026-09-19T06:03:38.673Z"}
+{"level":"info","actor":"naxie","action":"briefing.generated","target":"daily-briefing","detail":"96 chars","result":"success","id":"mu80agx0-78","ts":"2026-09-19T06:28:18.086Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — morning briefing ready","detail":"I couldn't get anywhere on this — nothing executed. Could you rephrase what you'd like me to do?","result":"success","id":"mu80apsg-79","ts":"2026-09-19T06:28:29.585Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu80avhv-80","ts":"2026-09-19T06:28:36.979Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu80avio-81","ts":"2026-09-19T06:28:37.012Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu80axk4-82","ts":"2026-09-19T06:28:39.655Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu80axze-83","ts":"2026-09-19T06:28:40.202Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:4","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n,supabase","result":"failure","id":"mu80h488-84","ts":"2026-09-19T06:33:28.233Z"}
