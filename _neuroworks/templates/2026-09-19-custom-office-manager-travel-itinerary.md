@@ -2,7 +2,7 @@
 type: template
 title: Travel itinerary (custom-office-manager-travel-itinerary)
 slug: custom-office-manager-travel-itinerary
-created: 2026-09-19T08:59:49.268Z
+created: 2026-09-19T09:01:13.562Z
 templateId: custom-office-manager-travel-itinerary
 role: Custom
 originTask: Build a clear travel itinerary from the trip details provided: each leg with times, addresses, confirmation numbers, and a fallback option. Note the spend and a cheaper alternative where one exists.
