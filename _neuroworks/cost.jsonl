@@ -1636,3 +1636,4 @@
 {"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-18T18:16:01.682Z","ok":false,"error":"fetch failed"}
 {"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"balanced","inputTokens":375,"outputTokens":260,"costUsd":0,"ts":"2026-09-18T20:15:32.412Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"balanced","inputTokens":290,"outputTokens":69,"costUsd":0,"ts":"2026-09-18T20:16:22.606Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"openrouter","profile":"balanced","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-18T23:42:30.964Z","ok":false,"error":"This operation was aborted"}
