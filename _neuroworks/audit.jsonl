@@ -3613,3 +3613,5 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu80axk4-82","ts":"2026-09-19T06:28:39.655Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mu80axze-83","ts":"2026-09-19T06:28:40.202Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:4","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n,supabase","result":"failure","id":"mu80h488-84","ts":"2026-09-19T06:33:28.233Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Africa AI news — BREAKING","detail":"Africa AI news — BREAKING","jobId":"a060a728-b113-444e-b658-0c54851f1860","result":"success","id":"mu82hyhg-85","ts":"2026-09-19T07:30:06.676Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Africa AI news — BREAKING","detail":"","jobId":"a060a728-b113-444e-b658-0c54851f1860","result":"pending","id":"mu82hyhi-86","ts":"2026-09-19T07:30:06.678Z"}
