@@ -1847,3 +1847,12 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-20T17:55:27.155Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-20T17:55:28.243Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-20T17:56:48.775Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-20T17:57:32.083Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-20T17:57:33.968Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1490,"outputTokens":6,"costUsd":0,"ts":"2026-09-20T18:00:14.274Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2369,"outputTokens":11,"costUsd":0,"ts":"2026-09-20T18:02:59.955Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2384,"outputTokens":13,"costUsd":0,"ts":"2026-09-20T18:03:40.031Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2401,"outputTokens":11,"costUsd":0,"ts":"2026-09-20T18:04:11.017Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2416,"outputTokens":11,"costUsd":0,"ts":"2026-09-20T18:04:33.907Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2431,"outputTokens":11,"costUsd":0,"ts":"2026-09-20T18:05:00.810Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-20T18:11:57.936Z","ok":false,"error":"fetch failed"}
