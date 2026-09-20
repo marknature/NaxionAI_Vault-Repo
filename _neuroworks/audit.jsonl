@@ -4213,3 +4213,4 @@
 {"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"53h idle","result":"success","id":"mu9ta6qx-30","ts":"2026-09-20T12:47:39.945Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"\").\n        *   Optionally","result":"success","id":"mu9ta75l-31","ts":"2026-09-20T12:47:40.473Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu9u695s-32","ts":"2026-09-20T13:12:36.064Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:OPENROUTER_API_KEY not set | alerts: openrouter,heygen,n8n","result":"failure","id":"mu9waumr-33","ts":"2026-09-20T14:12:09.747Z"}
