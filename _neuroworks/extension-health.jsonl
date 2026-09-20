@@ -2439,3 +2439,6 @@
 {"id":"openrouter","ok":false,"detail":"OPENROUTER_API_KEY not set","ts":"2026-09-20T15:12:05.637Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":787,"ts":"2026-09-20T15:12:06.424Z"}
 {"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":10397,"ts":"2026-09-20T15:12:16.037Z"}
+{"id":"openrouter","ok":false,"detail":"OPENROUTER_API_KEY not set","ts":"2026-09-20T16:12:05.638Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1404,"ts":"2026-09-20T16:12:07.044Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":4323,"ts":"2026-09-20T16:12:09.966Z"}
