@@ -1805,3 +1805,5 @@
 {"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"planning","inputTokens":2467,"outputTokens":17,"costUsd":0,"ts":"2026-09-20T11:53:14.845Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":1066,"outputTokens":283,"costUsd":0,"ts":"2026-09-20T12:04:01.215Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":1560,"outputTokens":369,"costUsd":0,"ts":"2026-09-20T12:08:00.570Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-20T12:09:13.716Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-20T12:09:42.480Z"}
