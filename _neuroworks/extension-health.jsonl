@@ -2457,3 +2457,4 @@
 {"id":"openrouter","ok":false,"detail":"OPENROUTER_API_KEY not set","ts":"2026-09-20T17:54:55.285Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1750,"ts":"2026-09-20T17:54:57.053Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":4146,"ts":"2026-09-20T17:54:59.433Z"}
+{"id":"openrouter","ok":false,"detail":"OPENROUTER_API_KEY not set","ts":"2026-09-20T17:57:04.337Z"}
