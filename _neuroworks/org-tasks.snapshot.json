@@ -474,6 +474,31 @@
       "createdAt": "2026-09-20T04:00:21.390Z",
       "updatedAt": "2026-09-20T04:07:10.958Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "88d94d5c-0803-440a-b695-4907d8a5611d",
+      "role": "admin",
+      "title": "MD Audit: Org Tasks — 10 tasks stuck in blocked — may need triage",
+      "detail": "Review blocked OrgTasks on /org-dashboard, resolve or archive stale items.\n\nEvidence: orgTasks blocked=10 total=37\n\nFrom the 2026-09-20 MD System Audit — _neuroworks/system-audits/2026-09-20.md",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-20T05:11:52.710Z",
+      "updatedAt": "2026-09-20T05:11:52.710Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "98564ffa-5195-46cd-980d-450dfee43104",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "55807ce7-2811-4bde-a556-ea4c7b334398",
+      "createdAt": "2026-09-20T05:30:25.509Z",
+      "updatedAt": "2026-09-20T05:35:42.975Z",
+      "createdBy": "daemon"
     }
   ]
 }
