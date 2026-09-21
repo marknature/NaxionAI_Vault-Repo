@@ -2,7 +2,7 @@
 type: template
 title: Adapt tone to question + time of day — crisp by day, warm by night, specialis… (custom-naxie-adapt-tone-to-question-time-of-day-crisp)
 slug: custom-naxie-adapt-tone-to-question-time-of-day-crisp
-created: 2026-09-21T19:56:39.696Z
+created: 2026-09-21T20:04:48.360Z
 templateId: custom-naxie-adapt-tone-to-question-time-of-day-crisp
 role: Custom
 originTask: As a Personal Assistant to Nature, adapt tone to question + time of day — crisp by day, warm by night, specialist when needed.
