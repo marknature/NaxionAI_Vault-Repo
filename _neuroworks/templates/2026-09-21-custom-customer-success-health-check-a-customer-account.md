@@ -2,7 +2,7 @@
 type: template
 title: Health-check a customer account (custom-customer-success-health-check-a-customer-account)
 slug: custom-customer-success-health-check-a-customer-account
-created: 2026-09-21T06:58:45.426Z
+created: 2026-09-21T07:02:29.134Z
 templateId: custom-customer-success-health-check-a-customer-account
 role: Custom
 originTask: Health-check the following customer account based on the messages / data provided. Output: 1) Sentiment trajectory (last 30/60/90 days). 2) Outstanding issues (with age + last touch). 3) Churn signals (specific phrases or behaviours, with quotes if available). 4) Expansion signals. 5) Recommended next action (specific — message, call, escalation) with a date.
