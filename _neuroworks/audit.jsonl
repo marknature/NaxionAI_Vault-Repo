@@ -4551,3 +4551,4 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:3","detail":"core fails:  | alerts: openrouter,heygen,n8n","result":"failure","id":"mubnftqf-93","ts":"2026-09-21T19:39:37.671Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: 36e71474-3626-4915-b7cb-1590731c682e:fetch failed | alerts: openrouter,heygen,n8n","result":"failure","id":"mubnnpgv-1","ts":"2026-09-21T19:45:45.391Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:3","detail":"core fails:  | alerts: openrouter,heygen,n8n","result":"failure","id":"mubnp7sg-1","ts":"2026-09-21T19:46:55.792Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:3","detail":"core fails:  | alerts: openrouter,heygen,n8n","result":"failure","id":"mubo285o-1","ts":"2026-09-21T19:57:02.796Z"}
