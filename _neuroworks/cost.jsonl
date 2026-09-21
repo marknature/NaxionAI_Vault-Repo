@@ -1957,3 +1957,4 @@
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2029,"outputTokens":15,"costUsd":0,"ts":"2026-09-21T07:34:56.529Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2047,"outputTokens":15,"costUsd":0,"ts":"2026-09-21T07:36:04.810Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":1199,"outputTokens":493,"costUsd":0,"ts":"2026-09-21T07:40:46.665Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"balanced","inputTokens":273,"outputTokens":66,"costUsd":0,"ts":"2026-09-21T08:51:35.664Z"}
