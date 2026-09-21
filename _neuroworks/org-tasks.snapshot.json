@@ -531,12 +531,12 @@
       "role": "scheduler",
       "title": "Daily briefing",
       "detail": "Daily briefing",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "867be57c-b46f-4506-a128-a462a03dc421",
       "createdAt": "2026-09-21T06:47:40.123Z",
-      "updatedAt": "2026-09-21T06:47:40.126Z",
+      "updatedAt": "2026-09-21T07:21:23.971Z",
       "createdBy": "daemon"
     },
     {
@@ -544,12 +544,12 @@
       "role": "scheduler",
       "title": "Innovation scan",
       "detail": "Innovation scan",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "ceb754da-0c04-422c-8397-5d4742b78d5d",
       "createdAt": "2026-09-21T06:47:40.247Z",
-      "updatedAt": "2026-09-21T06:47:40.250Z",
+      "updatedAt": "2026-09-21T07:21:23.968Z",
       "createdBy": "daemon"
     }
   ]
