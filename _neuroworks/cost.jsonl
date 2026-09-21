@@ -1962,3 +1962,4 @@
 {"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"balanced","inputTokens":375,"outputTokens":293,"costUsd":0,"ts":"2026-09-21T10:51:37.602Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":999,"outputTokens":285,"costUsd":0,"ts":"2026-09-21T12:03:36.362Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":1395,"outputTokens":361,"costUsd":0,"ts":"2026-09-21T12:07:17.144Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"balanced","inputTokens":273,"outputTokens":49,"costUsd":0,"ts":"2026-09-21T12:51:35.164Z"}
