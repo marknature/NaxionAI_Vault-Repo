@@ -4738,3 +4738,6 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucezp9j-2","ts":"2026-09-22T08:30:54.633Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucf0xtg-1","ts":"2026-09-22T08:31:52.372Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucf0xu1-2","ts":"2026-09-22T08:31:52.393Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: 36e71474-3626-4915-b7cb-1590731c682e:fetch failed | alerts: openrouter,heygen,n8n","result":"failure","id":"mucf25gg-1","ts":"2026-09-22T08:32:48.928Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucf284a-2","ts":"2026-09-22T08:32:52.378Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucf284m-3","ts":"2026-09-22T08:32:52.390Z"}
