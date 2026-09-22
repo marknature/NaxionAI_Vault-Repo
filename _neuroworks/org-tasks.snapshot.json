@@ -590,6 +590,19 @@
       "createdAt": "2026-09-22T04:00:27.192Z",
       "updatedAt": "2026-09-22T04:32:45.867Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "7b93d157-69cc-47ea-b90b-52a808a03db1",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "b0ebd631-04fb-40e9-979d-5ec354984c5b",
+      "createdAt": "2026-09-22T06:05:40.671Z",
+      "updatedAt": "2026-09-22T06:11:53.507Z",
+      "createdBy": "daemon"
     }
   ]
 }
