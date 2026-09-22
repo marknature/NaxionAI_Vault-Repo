@@ -4731,3 +4731,10 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucevqh6-174","ts":"2026-09-22T08:27:49.578Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucex2w9-175","ts":"2026-09-22T08:28:52.329Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucex2wp-176","ts":"2026-09-22T08:28:52.345Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:3","detail":"core fails:  | alerts: openrouter,heygen,n8n","result":"failure","id":"mucey65d-1","ts":"2026-09-22T08:29:43.202Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muceydl7-2","ts":"2026-09-22T08:29:52.843Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muceydmw-3","ts":"2026-09-22T08:29:52.904Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucezp71-1","ts":"2026-09-22T08:30:54.541Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucezp9j-2","ts":"2026-09-22T08:30:54.633Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucf0xtg-1","ts":"2026-09-22T08:31:52.372Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucf0xu1-2","ts":"2026-09-22T08:31:52.393Z"}
