@@ -583,12 +583,12 @@
       "role": "scheduler",
       "title": "Innovation scan",
       "detail": "Innovation scan",
-      "status": "active",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "21728dea-56e8-46b7-b90b-0876e84af73b",
       "createdAt": "2026-09-22T04:00:27.192Z",
-      "updatedAt": "2026-09-22T04:00:27.194Z",
+      "updatedAt": "2026-09-22T04:32:45.867Z",
       "createdBy": "daemon"
     }
   ]
