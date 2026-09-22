@@ -1,14 +1,15 @@
 ---
 type: social-story-leads
-generated: 2026-09-20T04:07:10.955Z
+generated: 2026-09-22T04:32:45.789Z
 source: innovation-scan
 ---
 
 # Story leads for social posts
 
-* Zimbabwean SMEs rely on mobile data for business continuity, making WhatsApp HITL a critical feature for AI Institute Africa's platform [TechCabal · 2026-09-18]
-* South Africa's $21.5 billion SME funding gap is a data problem, highlighting the need for AI-driven solutions to address the issue [TechCabal · 2026-09-18]
-* Kenyan fintech Payd resumes services after FX losses disrupt customer payouts, emphasizing the importance of robust treasury systems in fintech [TechCabal · 2026-09-18]
-* AI Institute Africa's platform can benefit from integrating Gemini as a secondary cloud router to improve system health and reduce vault stagnation [Innovation Scan Report]
-* Automated Vault Janitor (Self-Correction Agent) can directly address the 61/100 health plateau and 99 dormant files identified in recent audits [Innovation Scan Report]
-* Multi-Provider Cloud Routing (Gemini Integration) can fulfill operator requests for Gemini usage and provide a fallback when other cloud synthesisers exceed time limits [Innovation Scan Report]
+* Nigeria’s new phone registry threatens rising smartphone prices: TechCabal · 2026-09-21
+* Where did the $100k cheques go? Inside the exit drought paralysing early-stage African tech: TechCabal · 2026-09-21
+* Spiro Secures $18M More from Africa Go Green Fund, Doubling Debt to $36M: Ventureburn · 2026-09-21
+* With an additional $18 Million, Africa Go Green Fund renews its confidence in Spiro and doubles down its financing commitment: Tech in Africa · 2026-09-21
+* Afreximbank, ATDC Sign $500 Million Facility to Boost African Trade and Distribution Networks: Tech in Africa · 2026-09-21
+* Africa Go Green Fund invests $18 million in Spiro: Tech in Africa · 2026-09-21
+* Village Capital is investing $4 million in Africa: TechCabal · 2026-09-21

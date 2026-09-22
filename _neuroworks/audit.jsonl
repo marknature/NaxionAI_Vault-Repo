@@ -4578,3 +4578,5 @@
 {"level":"info","actor":"scheduler","action":"org_task.created","target":"Innovation scan","detail":"Innovation scan","jobId":"21728dea-56e8-46b7-b90b-0876e84af73b","result":"success","id":"muc5bw3d-21","ts":"2026-09-22T04:00:27.193Z"}
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Innovation scan","detail":"","jobId":"21728dea-56e8-46b7-b90b-0876e84af73b","result":"pending","id":"muc5bw3e-22","ts":"2026-09-22T04:00:27.194Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:3","detail":"core fails:  | alerts: openrouter,heygen,n8n","result":"failure","id":"muc5k53l-23","ts":"2026-09-22T04:06:52.114Z"}
+{"level":"info","actor":"neuroworks","action":"job.insights:innovation-scan","target":"innovation-scan","detail":"Innovation scan","jobId":"21728dea-56e8-46b7-b90b-0876e84af73b","result":"success","id":"muc6hfzb-24","ts":"2026-09-22T04:32:45.864Z"}
+{"level":"info","actor":"scheduler","action":"org_task.done","target":"Innovation scan","detail":"","jobId":"21728dea-56e8-46b7-b90b-0876e84af73b","result":"success","id":"muc6hfzg-25","ts":"2026-09-22T04:32:45.868Z"}
