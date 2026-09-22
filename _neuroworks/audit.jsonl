@@ -4995,3 +4995,5 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: openrouter:HTTP 404 | alerts: openrouter","result":"failure","id":"mud49bh7-1","ts":"2026-09-22T20:18:13.723Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"5 backlog, 2 blocked, 2 active","result":"success","id":"mud4aq1o-1","ts":"2026-09-22T20:19:19.260Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 63h. Outstanding: 5 backlog, 2 blocked, 2 active.","result":"success","id":"mud4asqr-2","ts":"2026-09-22T20:19:22.755Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: openrouter:HTTP 404 | alerts: openrouter","result":"failure","id":"mud4bacm-3","ts":"2026-09-22T20:19:45.574Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: openrouter:HTTP 404 | alerts: openrouter","result":"failure","id":"mud6fu5a-4","ts":"2026-09-22T21:19:17.086Z"}
