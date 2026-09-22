@@ -4741,3 +4741,26 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: 36e71474-3626-4915-b7cb-1590731c682e:fetch failed | alerts: openrouter,heygen,n8n","result":"failure","id":"mucf25gg-1","ts":"2026-09-22T08:32:48.928Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucf284a-2","ts":"2026-09-22T08:32:52.378Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucf284m-3","ts":"2026-09-22T08:32:52.390Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:3","detail":"core fails:  | alerts: openrouter,heygen,n8n","result":"failure","id":"mucf8u6c-1","ts":"2026-09-22T08:38:00.900Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucfhwgg-2","ts":"2026-09-22T08:45:03.760Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucfhwgo-3","ts":"2026-09-22T08:45:03.768Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucfjp6x-4","ts":"2026-09-22T08:46:27.657Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucfjp79-5","ts":"2026-09-22T08:46:27.669Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucfk7al-6","ts":"2026-09-22T08:46:51.117Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucfk7at-7","ts":"2026-09-22T08:46:51.125Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mucfkcx4-8","ts":"2026-09-22T08:46:58.408Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mucfkcxq-9","ts":"2026-09-22T08:46:58.430Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mucfkj8v-10","ts":"2026-09-22T08:47:06.607Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mucfl19v-11","ts":"2026-09-22T08:47:29.971Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mucfl29j-12","ts":"2026-09-22T08:47:31.255Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/github-accounts","detail":"/github-accounts","result":"success","id":"mucfl7go-13","ts":"2026-09-22T08:47:37.992Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mucfl91l-14","ts":"2026-09-22T08:47:40.041Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mucflcf2-15","ts":"2026-09-22T08:47:44.414Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucfpljb-16","ts":"2026-09-22T08:51:02.856Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mucfpljk-17","ts":"2026-09-22T08:51:02.864Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/squads","detail":"/squads","result":"success","id":"mucfqmv1-18","ts":"2026-09-22T08:51:51.230Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/squads","detail":"/squads","result":"success","id":"mucfqmxu-19","ts":"2026-09-22T08:51:51.330Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agents","detail":"/agents","result":"success","id":"mucfraoy-20","ts":"2026-09-22T08:52:22.114Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/squads","detail":"/squads","result":"success","id":"mucfrdja-21","ts":"2026-09-22T08:52:25.798Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mucftx3w-22","ts":"2026-09-22T08:54:24.476Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:3","detail":"core fails:  | alerts: openrouter,heygen,n8n","result":"failure","id":"muchddpk-23","ts":"2026-09-22T09:37:32.072Z"}
