@@ -4947,3 +4947,5 @@
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 62h. Outstanding: 5 backlog, 2 blocked, 2 active.","result":"success","id":"mud2rhcv-2","ts":"2026-09-22T19:36:21.919Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"5 backlog, 2 blocked, 2 active","result":"success","id":"mud2s269-1","ts":"2026-09-22T19:36:48.897Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 62h. Outstanding: 5 backlog, 2 blocked, 2 active.","result":"success","id":"mud2s356-2","ts":"2026-09-22T19:36:50.154Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"5 backlog, 2 blocked, 2 active","result":"success","id":"mud2sghx-1","ts":"2026-09-22T19:37:07.461Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 62h. Outstanding: 5 backlog, 2 blocked, 2 active.","result":"success","id":"mud2sher-2","ts":"2026-09-22T19:37:08.643Z"}
