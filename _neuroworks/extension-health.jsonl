@@ -2636,3 +2636,4 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":118049,"ts":"2026-09-22T18:49:45.213Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":9570,"ts":"2026-09-22T18:57:09.113Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":10216,"ts":"2026-09-22T18:57:10.202Z"}
+{"id":"openrouter","ok":false,"detail":"This operation was aborted","latencyMs":18136,"ts":"2026-09-22T18:57:17.244Z"}

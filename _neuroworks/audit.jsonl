@@ -4940,3 +4940,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mud17kcx-3","ts":"2026-09-22T18:52:53.073Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mud1c5kg-1","ts":"2026-09-22T18:56:27.184Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mud1c5on-2","ts":"2026-09-22T18:56:27.335Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: openrouter:This operation was aborted | alerts: openrouter","result":"failure","id":"mud1d9ma-3","ts":"2026-09-22T18:57:19.090Z"}
