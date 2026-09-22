@@ -4959,3 +4959,4 @@
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"5 backlog, 2 blocked, 2 active","result":"success","id":"mud2zn1t-1","ts":"2026-09-22T19:42:42.545Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 63h. Outstanding: 5 backlog, 2 blocked, 2 active.","result":"success","id":"mud2zo9u-2","ts":"2026-09-22T19:42:44.130Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: openrouter:HTTP 404 | alerts: openrouter","result":"failure","id":"mud307cz-3","ts":"2026-09-22T19:43:08.867Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"5 backlog, 2 blocked, 2 active","result":"success","id":"mud33thh-1","ts":"2026-09-22T19:45:57.509Z"}
