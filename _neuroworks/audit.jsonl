@@ -4804,3 +4804,6 @@
 {"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mucm6j6s-61","ts":"2026-09-22T11:52:10.660Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mucm6vl1-62","ts":"2026-09-22T11:52:26.725Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mucm6vld-63","ts":"2026-09-22T11:52:26.737Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mucm86s2-1","ts":"2026-09-22T11:53:27.890Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mucm86sb-2","ts":"2026-09-22T11:53:27.899Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: openrouter:HTTP 404 | alerts: openrouter,heygen,n8n","result":"failure","id":"mucm8g9k-3","ts":"2026-09-22T11:53:40.185Z"}
