@@ -2613,3 +2613,6 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":594,"ts":"2026-09-22T14:57:51.719Z"}
 {"id":"openrouter","ok":false,"detail":"HTTP 404","latencyMs":688,"ts":"2026-09-22T14:57:51.809Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1840,"ts":"2026-09-22T14:57:52.967Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":664,"ts":"2026-09-22T16:31:30.219Z"}
+{"id":"openrouter","ok":false,"detail":"fetch failed","latencyMs":1176,"ts":"2026-09-22T16:31:30.631Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1537,"ts":"2026-09-22T16:31:31.060Z"}
