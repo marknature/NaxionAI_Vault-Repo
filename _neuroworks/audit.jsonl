@@ -4764,3 +4764,6 @@
 {"level":"info","actor":"web","action":"page.view","target":"/squads","detail":"/squads","result":"success","id":"mucfrdja-21","ts":"2026-09-22T08:52:25.798Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mucftx3w-22","ts":"2026-09-22T08:54:24.476Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:3","detail":"core fails:  | alerts: openrouter,heygen,n8n","result":"failure","id":"muchddpk-23","ts":"2026-09-22T09:37:32.072Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"98h idle","result":"success","id":"mucimfma-24","ts":"2026-09-22T10:12:34.066Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"I'm checking in to see if any new priorities have surfaced in your engineering work that need triaging or delegation. Let me know if there’s anything I can take off your plate, or just a quick \"all good\" is fine if you're in the flow.","result":"success","id":"mucimg3z-25","ts":"2026-09-22T10:12:34.703Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:3","detail":"core fails:  | alerts: openrouter,heygen,n8n","result":"failure","id":"mucjijvh-26","ts":"2026-09-22T10:37:32.573Z"}
