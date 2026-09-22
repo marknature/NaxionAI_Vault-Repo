@@ -4933,3 +4933,4 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: openrouter:This operation was aborted | alerts: openrouter","result":"failure","id":"muczuy3h-1","ts":"2026-09-22T18:15:04.737Z"}
 {"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"107h idle","result":"success","id":"mud0of8p-1","ts":"2026-09-22T18:37:59.977Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: openrouter:This operation was aborted | alerts: openrouter","result":"failure","id":"mud0ohxz-2","ts":"2026-09-22T18:38:03.479Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: openrouter:HTTP 404 | alerts: openrouter","result":"failure","id":"mud0qvc8-1","ts":"2026-09-22T18:39:54.152Z"}
