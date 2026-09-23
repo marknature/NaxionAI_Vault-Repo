@@ -668,6 +668,56 @@
       "createdAt": "2026-09-23T04:00:21.437Z",
       "updatedAt": "2026-09-23T04:33:15.138Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "137dbcf5-226f-40b6-871f-f1e83401ce40",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "f8d97774-310f-423b-8f8f-211aba5e048f",
+      "createdAt": "2026-09-23T06:18:08.845Z",
+      "updatedAt": "2026-09-23T06:24:02.426Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "c72e7019-19fa-453e-bf9f-886ffa801f33",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "df8583d7-c8a7-4bca-b1d3-43a2458ba277",
+      "createdAt": "2026-09-23T06:18:09.031Z",
+      "updatedAt": "2026-09-23T06:24:02.480Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "b7388a2e-e683-4eba-9b7c-8eba531ce950",
+      "role": "admin",
+      "title": "MD Audit: Template: general-task — 50% failure rate (2/4)",
+      "detail": "Investigate failure pattern for general-task and tighten validation / retry logic.\n\nEvidence: byTemplate[general-task]\n\nFrom the 2026-09-23 MD System Audit — _neuroworks/system-audits/2026-09-23.md",
+      "status": "backlog",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-23T06:26:06.693Z",
+      "updatedAt": "2026-09-23T06:26:06.693Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "0b677468-8c57-4dbb-bf3a-3d9269ab0179",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — \"gemma4:31b\" is failing 100% of calls (6/6)",
+      "detail": "Switch the tier using \"gemma4:31b\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"gemma4:31b\"]: calls=6 failed=6 failureRate=1.00",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-23T06:37:26.711Z",
+      "updatedAt": "2026-09-23T06:37:26.711Z",
+      "createdBy": "daemon"
     }
   ]
 }
