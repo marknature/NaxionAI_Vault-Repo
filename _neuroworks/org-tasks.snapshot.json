@@ -718,6 +718,19 @@
       "createdAt": "2026-09-23T06:37:26.711Z",
       "updatedAt": "2026-09-23T06:37:26.711Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "102703c2-24c9-47fd-9e5f-8936bf95c2d8",
+      "role": "scheduler",
+      "title": "Africa AI news — BREAKING",
+      "detail": "Africa AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "c7c97852-e657-49ec-afc2-36b4dc75c185",
+      "createdAt": "2026-09-23T07:30:14.484Z",
+      "updatedAt": "2026-09-23T07:39:23.468Z",
+      "createdBy": "daemon"
     }
   ]
 }
