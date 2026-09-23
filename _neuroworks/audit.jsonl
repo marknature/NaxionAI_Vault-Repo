@@ -5254,3 +5254,7 @@
 {"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"muef5t1n-259","ts":"2026-09-23T18:11:11.819Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"muef873e-260","ts":"2026-09-23T18:13:03.338Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"muef8747-261","ts":"2026-09-23T18:13:03.367Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"muegl4rs-262","ts":"2026-09-23T18:51:06.472Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"muegl5cr-263","ts":"2026-09-23T18:51:07.227Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"muegl5cy-264","ts":"2026-09-23T18:51:07.234Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:3 alert:2","detail":"core fails: openrouter:fetch failed | supabase:fetch failed | 36e71474-3626-4915-b7cb-1590731c682e:fetch failed | alerts: openrouter,supabase","result":"failure","id":"muegzzs7-265","ts":"2026-09-23T19:02:39.847Z"}
