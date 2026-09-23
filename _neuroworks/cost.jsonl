@@ -2256,3 +2256,5 @@
 {"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-23T06:24:02.396Z","ok":false,"error":"fetch failed"}
 {"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-23T06:24:02.459Z","ok":false,"error":"fetch failed"}
 {"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-23T06:24:02.482Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-23T06:24:10.306Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-23T06:24:10.326Z","ok":false,"error":"fetch failed"}
