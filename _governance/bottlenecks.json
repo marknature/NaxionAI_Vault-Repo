@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-22T18:22:33.469Z",
+  "updatedAt": "2026-09-23T18:19:13.937Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
-      "totalRuns": 15,
+      "totalRuns": 16,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 480.1,
+      "avgDurationSec": 480.9,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-20"
+      "lastSeen": "2026-09-22"
     },
     "search-brain": {
       "template": "search-brain",
@@ -23,23 +23,23 @@
     },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 17,
+      "totalRuns": 24,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 1233.2,
+      "avgDurationSec": 447.8,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-21"
+      "lastSeen": "2026-09-22"
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 9,
+      "totalRuns": 10,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-21"
+      "lastSeen": "2026-09-22"
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
@@ -53,13 +53,13 @@
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 12,
+      "totalRuns": 13,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 525.2,
+      "avgDurationSec": 2652.8,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-21"
+      "lastSeen": "2026-09-22"
     },
     "naxie:converse": {
       "template": "naxie:converse",
@@ -73,33 +73,43 @@
     },
     "africa-ai-news": {
       "template": "africa-ai-news",
-      "totalRuns": 4,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 540.9,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-21"
-    },
-    "world-ai-news": {
-      "template": "world-ai-news",
       "totalRuns": 5,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 401.1,
+      "avgDurationSec": 549,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-21"
+      "lastSeen": "2026-09-22"
+    },
+    "world-ai-news": {
+      "template": "world-ai-news",
+      "totalRuns": 6,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 658.6,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-09-22"
     },
     "daily-briefing": {
       "template": "daily-briefing",
-      "totalRuns": 3,
+      "totalRuns": 5,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 372.9,
+      "avgDurationSec": 353.5,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-21"
+      "lastSeen": "2026-09-22"
+    },
+    "add-note": {
+      "template": "add-note",
+      "totalRuns": 2,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 3.3,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-09-22"
     }
   }
 }
