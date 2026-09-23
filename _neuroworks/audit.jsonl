@@ -5240,3 +5240,13 @@
 {"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"muea8tsp-245","ts":"2026-09-23T15:53:34.681Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"muea9aru-246","ts":"2026-09-23T15:53:56.682Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:3 alert:1","detail":"core fails: openrouter:fetch failed | supabase:fetch failed | 36e71474-3626-4915-b7cb-1590731c682e:network error reaching Telegram (fetch failed) — check connectivity, then re-tes | alerts: openrouter","result":"failure","id":"muecq61h-247","ts":"2026-09-23T17:03:02.933Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hey Mark Nature — it's been 21h since we last talked. Anything I can help with?","result":"success","id":"mueda4xs-248","ts":"2026-09-23T17:18:34.624Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"mueda7un-249","ts":"2026-09-23T17:18:38.399Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"mueda7uq-250","ts":"2026-09-23T17:18:38.402Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"muedbb1u-251","ts":"2026-09-23T17:19:29.202Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"muedbb2n-252","ts":"2026-09-23T17:19:29.231Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"muee3a9c-253","ts":"2026-09-23T17:41:14.544Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"muee3aj0-254","ts":"2026-09-23T17:41:14.892Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"mueeqlf7-255","ts":"2026-09-23T17:59:22.099Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"mueeqlge-256","ts":"2026-09-23T17:59:22.142Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: openrouter:fetch failed | supabase:fetch failed | alerts: openrouter","result":"failure","id":"mueeure2-257","ts":"2026-09-23T18:02:36.458Z"}
