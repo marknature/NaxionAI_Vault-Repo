@@ -744,6 +744,70 @@
       "createdAt": "2026-09-23T12:00:18.960Z",
       "updatedAt": "2026-09-23T12:11:17.571Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "d94b6031-61f9-475b-8315-ae04b90b7cc5",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "b514c254-907f-46a8-8f12-5383ab16c774",
+      "createdAt": "2026-09-24T05:53:27.608Z",
+      "updatedAt": "2026-09-24T06:10:04.643Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "0b23b33b-c489-4fd3-8220-9dae6751e096",
+      "role": "scheduler",
+      "title": "Innovation scan",
+      "detail": "Innovation scan",
+      "status": "blocked",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "00925f23-cde4-4b7e-a9df-7e08c8888137",
+      "createdAt": "2026-09-24T05:53:27.657Z",
+      "updatedAt": "2026-09-24T06:31:03.726Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "3d6ef25e-458c-46e0-b3af-6cbaf46ab476",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "2f5ca160-b774-4aae-9bdf-bdc66ca0db08",
+      "createdAt": "2026-09-24T05:53:27.743Z",
+      "updatedAt": "2026-09-24T06:10:04.665Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "f8b1abda-5ce4-4b20-bb03-998c3b63a017",
+      "role": "scheduler",
+      "title": "Innovation scan",
+      "detail": "Innovation scan",
+      "status": "blocked",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "9861635f-e73d-4a77-933a-c5a5e7dc98a1",
+      "createdAt": "2026-09-24T05:53:27.830Z",
+      "updatedAt": "2026-09-24T06:31:03.706Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "dfb6385e-ecdf-4c27-8b6b-a84b5fb1713c",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — \"gemma4:31b\" is failing 100% of calls (20/20)",
+      "detail": "Switch the tier using \"gemma4:31b\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"gemma4:31b\"]: calls=20 failed=20 failureRate=1.00",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-24T06:24:57.211Z",
+      "updatedAt": "2026-09-24T06:24:57.211Z",
+      "createdBy": "daemon"
     }
   ]
 }
