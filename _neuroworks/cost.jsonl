@@ -2320,3 +2320,5 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-24T06:59:10.467Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1954,"outputTokens":14,"costUsd":0,"ts":"2026-09-24T06:59:37.844Z"}
 {"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T07:00:23.864Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-24T07:34:14.108Z"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"planning","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T07:35:46.127Z","ok":false,"error":"Ollama 500: {\"error\":\"health resp: Get \\\"http://127.0.0.1:60228/health\\\": http: server closed idle connection\"}"}
