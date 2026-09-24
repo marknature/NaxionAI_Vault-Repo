@@ -1,0 +1,6 @@
+{"ts":"2026-09-24T05:53:27.650Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-09-24T05:53:27.708Z","kind":"progress","text":"Starting plan: 1 step — Looking in your documents for \"REPORT RAG\""}
+{"ts":"2026-09-24T05:53:27.825Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-09-24T05:53:27.854Z","kind":"progress","text":"Starting plan: 1 step — Looking in your documents for \"REPORT RAG\""}
+{"ts":"2026-09-24T05:53:27.927Z","kind":"progress","text":"Step \"Looking in your documents for \"REPORT RAG\"\" succeeded (14ms)","stepId":"0"}
+{"ts":"2026-09-24T05:53:28.098Z","kind":"progress","text":"Step \"Looking in your documents for \"REPORT RAG\"\" succeeded (21ms)","stepId":"0"}
