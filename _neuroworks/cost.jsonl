@@ -2341,3 +2341,4 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-24T08:06:45.457Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T08:06:59.964Z","ok":false,"error":"Ollama 500: {\"error\":\"health resp: Get \\\"http://127.0.0.1:57935/health\\\": http: server closed idle connection\"}"}
 {"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"planning","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T08:07:55.993Z","ok":false,"error":"Ollama: Post \"http://127.0.0.1:60228/tokenize\": write tcp 127.0.0.1:63672->127.0.0.1:60228: use of closed network connection"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-24T08:08:26.471Z"}
