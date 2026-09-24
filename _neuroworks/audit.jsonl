@@ -5355,3 +5355,5 @@
 {"level":"info","actor":"web","action":"page.view","target":"/approvals","detail":"/approvals","result":"success","id":"muf8ooyg-5","ts":"2026-09-24T07:57:41.848Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"muf8ovfx-6","ts":"2026-09-24T07:57:50.253Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: openrouter:This operation was aborted | alerts: openrouter","result":"failure","id":"muf8pawq-7","ts":"2026-09-24T07:58:10.299Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"muf8u6uc-8","ts":"2026-09-24T08:01:58.308Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"muf8u8t3-9","ts":"2026-09-24T08:02:00.855Z"}
