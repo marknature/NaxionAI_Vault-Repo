@@ -2279,3 +2279,10 @@
 {"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-23T18:29:56.863Z","ok":false,"error":"This operation was aborted"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"balanced","inputTokens":290,"outputTokens":53,"costUsd":0,"ts":"2026-09-23T19:06:39.935Z"}
 {"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"balanced","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T05:53:27.448Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"balanced","inputTokens":377,"outputTokens":331,"costUsd":0,"ts":"2026-09-24T06:00:35.241Z"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"balanced","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T06:09:59.772Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T06:10:03.050Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T06:10:04.654Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T06:10:05.493Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T06:10:05.547Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-24T06:10:05.564Z","ok":false,"error":"This operation was aborted"}
