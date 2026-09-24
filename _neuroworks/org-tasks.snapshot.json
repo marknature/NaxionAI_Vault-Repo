@@ -834,6 +834,19 @@
       "createdAt": "2026-09-24T12:00:22.638Z",
       "updatedAt": "2026-09-24T12:07:45.815Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "a3495cff-33e9-416c-8282-062a18cf0e99",
+      "role": "executor",
+      "title": "Ad-hoc: Draft a reply to this WhatsApp message from Lizzy Tech:\n\nLil",
+      "detail": "Ad-hoc: Draft a reply to this WhatsApp message from Lizzy Tech:\n\nLil",
+      "status": "blocked",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "140649e5-db5e-4fe4-9372-04ac778fc7aa",
+      "createdAt": "2026-09-24T18:40:18.433Z",
+      "updatedAt": "2026-09-24T18:40:23.544Z",
+      "createdBy": "naxie"
     }
   ]
 }
