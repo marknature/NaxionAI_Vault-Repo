@@ -2372,3 +2372,10 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"balanced","inputTokens":290,"outputTokens":53,"costUsd":0,"ts":"2026-09-25T04:41:19.784Z"}
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T05:55:49.335Z","ok":false,"error":"fetch failed"}
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T05:55:49.817Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T06:00:57.622Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T06:05:35.209Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T06:05:56.107Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T06:05:57.134Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T06:11:04.653Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T06:16:21.477Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T07:11:04.285Z","ok":false,"error":"This operation was aborted"}

@@ -860,6 +860,55 @@
       "createdAt": "2026-09-25T04:00:13.194Z",
       "updatedAt": "2026-09-25T04:33:26.280Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "999f8231-ddf6-4e8c-b655-36a9dcbba870",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "1d7df289-4e2d-436c-a19f-716b2b18b9c9",
+      "createdAt": "2026-09-25T05:50:36.485Z",
+      "updatedAt": "2026-09-25T05:55:49.922Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "42ef2c1c-1a35-44eb-bc13-3a32f3ccea8e",
+      "role": "admin",
+      "title": "MD Audit: Template: general-task — 60% failure rate (3/5)",
+      "detail": "Investigate failure pattern for general-task and tighten validation / retry logic.\n\nEvidence: byTemplate[general-task]\n\nFrom the 2026-09-25 MD System Audit — _neuroworks/system-audits/2026-09-25.md",
+      "status": "backlog",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-25T05:58:36.067Z",
+      "updatedAt": "2026-09-25T05:58:36.067Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "ce06b5b0-9d10-44af-865b-c31eaa95059b",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — \"meta/llama-3.3-70b-instruct\" is failing 35% of calls (8/23)",
+      "detail": "Switch the tier using \"meta/llama-3.3-70b-instruct\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"meta/llama-3.3-70b-instruct\"]: calls=23 failed=8 failureRate=0.35",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-25T07:11:01.860Z",
+      "updatedAt": "2026-09-25T07:11:01.860Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "5b62ea70-9ee5-4b55-a5ce-f0c5e805d49a",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — \"gemma4:31b\" is failing 100% of calls (37/37)",
+      "detail": "Switch the tier using \"gemma4:31b\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"gemma4:31b\"]: calls=37 failed=37 failureRate=1.00",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-25T07:11:01.894Z",
+      "updatedAt": "2026-09-25T07:11:01.894Z",
+      "createdBy": "daemon"
     }
   ]
 }
