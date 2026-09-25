@@ -5,3 +5,4 @@
 {"ts":"2026-09-25T04:12:35.089Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (120023ms)","stepId":"1"}
 {"ts":"2026-09-25T04:12:35.103Z","kind":"progress","text":"Starting plan: 4 steps — Looking in your documents for \"REPORT RAG\", Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
 {"ts":"2026-09-25T04:14:05.298Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
+{"ts":"2026-09-25T05:50:36.602Z","kind":"progress","text":"Starting plan: 0 steps —"}
