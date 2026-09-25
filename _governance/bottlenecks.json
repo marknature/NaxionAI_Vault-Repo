@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T18:43:25.298Z",
+  "updatedAt": "2026-09-25T19:16:38.879Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
@@ -11,35 +11,25 @@
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
       "lastSeen": "2026-09-22"
     },
-    "search-brain": {
-      "template": "search-brain",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0.5,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-08-26"
-    },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 25,
+      "totalRuns": 27,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 907.5,
+      "avgDurationSec": 3109.4,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24"
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 11,
+      "totalRuns": 12,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24"
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
@@ -53,13 +43,13 @@
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 14,
+      "totalRuns": 15,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 990.6,
+      "avgDurationSec": 489.6,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24"
     },
     "naxie:converse": {
       "template": "naxie:converse",
@@ -73,33 +63,33 @@
     },
     "africa-ai-news": {
       "template": "africa-ai-news",
-      "totalRuns": 6,
+      "totalRuns": 7,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 802.6,
+      "avgDurationSec": 349.6,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24"
     },
     "world-ai-news": {
       "template": "world-ai-news",
-      "totalRuns": 7,
+      "totalRuns": 8,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 443.2,
+      "avgDurationSec": 513.5,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24"
     },
     "daily-briefing": {
       "template": "daily-briefing",
-      "totalRuns": 7,
+      "totalRuns": 8,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 996.6,
+      "avgDurationSec": 313.4,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-23"
+      "lastSeen": "2026-09-24"
     },
     "add-note": {
       "template": "add-note",
