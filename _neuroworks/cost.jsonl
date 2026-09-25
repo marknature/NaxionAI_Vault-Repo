@@ -2381,3 +2381,6 @@
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T07:11:04.285Z","ok":false,"error":"This operation was aborted"}
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"balanced","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T09:30:50.133Z","ok":false,"error":"This operation was aborted"}
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"balanced","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-25T09:30:50.491Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"balanced","inputTokens":290,"outputTokens":62,"costUsd":0,"ts":"2026-09-25T09:31:54.784Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":681,"outputTokens":264,"costUsd":0,"ts":"2026-09-25T09:34:01.094Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":898,"outputTokens":454,"costUsd":0,"ts":"2026-09-25T09:36:42.693Z"}
