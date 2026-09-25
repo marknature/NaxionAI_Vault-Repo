@@ -847,6 +847,19 @@
       "createdAt": "2026-09-24T18:40:18.433Z",
       "updatedAt": "2026-09-24T18:40:23.544Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "a8d818cf-1218-43dd-9d0a-4353c162c115",
+      "role": "scheduler",
+      "title": "Innovation scan",
+      "detail": "Innovation scan",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "fcb80512-d852-4070-a9ae-c5988a210c72",
+      "createdAt": "2026-09-25T04:00:13.194Z",
+      "updatedAt": "2026-09-25T04:33:26.280Z",
+      "createdBy": "daemon"
     }
   ]
 }

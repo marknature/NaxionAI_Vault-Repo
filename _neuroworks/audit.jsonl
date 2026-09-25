@@ -5594,3 +5594,4 @@
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Innovation scan","detail":"","jobId":"fcb80512-d852-4070-a9ae-c5988a210c72","result":"pending","id":"mugfn5ak-235","ts":"2026-09-25T04:00:13.196Z"}
 {"level":"info","actor":"neuroworks","action":"job.insights:innovation-scan","target":"innovation-scan","detail":"Innovation scan","jobId":"fcb80512-d852-4070-a9ae-c5988a210c72","result":"success","id":"muggtv5x-236","ts":"2026-09-25T04:33:26.277Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Innovation scan","detail":"","jobId":"fcb80512-d852-4070-a9ae-c5988a210c72","result":"success","id":"muggtv65-237","ts":"2026-09-25T04:33:26.285Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:1","detail":"core fails:  | alerts: openrouter","result":"failure","id":"muggvz89-238","ts":"2026-09-25T04:35:04.857Z"}
