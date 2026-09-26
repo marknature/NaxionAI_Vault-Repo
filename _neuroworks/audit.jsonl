@@ -5833,3 +5833,7 @@
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 1 integrations ok in 2882ms","result":"success","id":"mui3kbhr-9","ts":"2026-09-26T07:57:38.223Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mui4h4m3-10","ts":"2026-09-26T08:23:08.955Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mui4incz-11","ts":"2026-09-26T08:24:19.907Z"}
+{"level":"warn","actor":"scheduler","action":"org_task.sla_breach","target":"Innovation scan","detail":"blocked >48h — escalated","jobId":"00925f23-cde4-4b7e-a9df-7e08c8888137","result":"failure","id":"mui4j8fc-1","ts":"2026-09-26T08:24:47.208Z"}
+{"level":"warn","actor":"scheduler","action":"org_task.sla_breach","target":"Innovation scan","detail":"blocked >48h — escalated","jobId":"9861635f-e73d-4a77-933a-c5a5e7dc98a1","result":"failure","id":"mui4j8ff-2","ts":"2026-09-26T08:24:47.211Z"}
+{"level":"warn","actor":"scheduler","action":"org_task.sla_breach","target":"Daily briefing","detail":"blocked >48h — escalated","jobId":"867be57c-b46f-4506-a128-a462a03dc421","result":"failure","id":"mui4j8fi-3","ts":"2026-09-26T08:24:47.214Z"}
+{"level":"warn","actor":"scheduler","action":"org_task.sla_breach","target":"Innovation scan","detail":"blocked >48h — escalated","jobId":"ceb754da-0c04-422c-8397-5d4742b78d5d","result":"failure","id":"mui4j8fq-4","ts":"2026-09-26T08:24:47.222Z"}
