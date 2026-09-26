@@ -2871,3 +2871,6 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":723,"ts":"2026-09-26T09:41:11.666Z"}
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — meta/llama-3.3-70b-instruct","latencyMs":729,"ts":"2026-09-26T09:41:11.670Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":2676,"ts":"2026-09-26T09:41:13.620Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":934,"ts":"2026-09-26T10:41:11.868Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — meta/llama-3.3-70b-instruct","latencyMs":940,"ts":"2026-09-26T10:41:11.871Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1369,"ts":"2026-09-26T10:41:12.304Z"}
