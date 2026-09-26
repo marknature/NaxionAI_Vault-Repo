@@ -1,14 +1,14 @@
 ---
 type: social-story-leads
-generated: 2026-09-25T04:33:26.118Z
+generated: 2026-09-26T06:24:07.167Z
 source: innovation-scan
 ---
 
 # Story leads for social posts
 
-* Africa's AI boom is leaving 100 million disabled citizens behind, highlighting the need for inclusive AI development and deployment in Africa. [TechCabal · 2026-09-24]
-* Dar Ventures taps Plug and Play to expand startup programme across Africa, supporting innovation and entrepreneurship in the continent's built-environment tech sector. [TechCabal · 2026-09-24]
+* Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge. [TechCrunch AI · 2026-09-25]
+* Anthropic to pay Akamai $11.6 billion over seven years in cloud deal. [TechCrunch AI · 2026-09-25]
+* Crusoe abandons $1.25B plan to use Boom turbines at AI data centers. [TechCrunch AI · 2026-09-25]
+* Dar Ventures taps Plug and Play to expand startup programme across Africa, supporting innovation and entrepreneurship in the continent's built-environment tech. [TechCabal · 2026-09-24]
 * Kenswitch enters Kenya's card market with domestic card scheme, offering a local alternative to international payment systems and promoting financial inclusion. [TechCabal · 2026-09-24]
-* Could AI threaten humanity? 8 Africans weigh the risks, sparking a conversation about the potential consequences of AI development and deployment. [TechCabal · 2026-09-24]
-* Africa's $30 smartphone goal is becoming harder to achieve, highlighting the challenges of making affordable technology accessible to the continent's growing population. [TechCabal · 2026-09-24]
-* Is Nigeria's higher education sector ready for a true digital leap?, exploring the potential for digital transformation in the country's education system. [TechCabal · 2026-09-24]
+* Africa's AI boom is leaving 100 million disabled citizens behind, highlighting the need for inclusive AI development and deployment in Africa. [TechCabal · 2026-09-24]
