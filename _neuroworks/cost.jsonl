@@ -2429,3 +2429,5 @@
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-26T06:23:05.846Z","ok":false,"error":"fetch failed"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":1630,"outputTokens":217,"costUsd":0,"ts":"2026-09-26T06:24:07.166Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":1215,"outputTokens":483,"costUsd":0,"ts":"2026-09-26T07:38:07.926Z"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"balanced","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-26T07:44:06.233Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":1824,"outputTokens":378,"costUsd":0,"ts":"2026-09-26T07:46:00.317Z"}
