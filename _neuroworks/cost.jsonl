@@ -2454,3 +2454,4 @@
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1932,"outputTokens":17,"costUsd":0,"ts":"2026-09-26T08:31:20.666Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1953,"outputTokens":12,"costUsd":0,"ts":"2026-09-26T08:31:33.212Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1969,"outputTokens":14,"costUsd":0,"ts":"2026-09-26T08:31:44.662Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-26T08:37:10.622Z"}
