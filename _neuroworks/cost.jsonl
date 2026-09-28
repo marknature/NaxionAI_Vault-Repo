@@ -2484,3 +2484,11 @@
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-28T08:44:29.252Z","ok":false,"error":"This operation was aborted"}
 {"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-28T08:44:50.779Z","ok":false,"error":"This operation was aborted"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1241,"outputTokens":11,"costUsd":0,"ts":"2026-09-28T08:49:17.971Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1256,"outputTokens":11,"costUsd":0,"ts":"2026-09-28T08:53:17.312Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1270,"outputTokens":11,"costUsd":0,"ts":"2026-09-28T08:53:54.450Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1285,"outputTokens":11,"costUsd":0,"ts":"2026-09-28T08:54:35.786Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1300,"outputTokens":11,"costUsd":0,"ts":"2026-09-28T08:55:06.307Z"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-28T08:57:21.997Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-28T08:57:25.633Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":1207,"outputTokens":435,"costUsd":0,"ts":"2026-09-28T08:57:46.081Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-28T08:57:50.389Z","ok":false,"error":"fetch failed"}
