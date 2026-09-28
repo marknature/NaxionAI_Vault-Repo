@@ -2562,3 +2562,4 @@
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2173,"outputTokens":13,"costUsd":0,"ts":"2026-09-28T15:02:59.394Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2190,"outputTokens":10,"costUsd":0,"ts":"2026-09-28T15:05:18.798Z"}
 {"jobId":"adhoc","model":"gemini-flash-latest","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-28T15:42:06.984Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-28T15:47:32.300Z","ok":false,"error":"fetch failed"}
