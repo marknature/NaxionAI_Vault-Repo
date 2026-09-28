@@ -2928,3 +2928,6 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1392,"ts":"2026-09-28T14:14:10.259Z"}
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — meta/llama-3.3-70b-instruct","latencyMs":1461,"ts":"2026-09-28T14:14:10.303Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1413,"ts":"2026-09-28T14:14:10.324Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":3777,"ts":"2026-09-28T14:50:13.067Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — openai/gpt-4o","latencyMs":4046,"ts":"2026-09-28T14:50:13.325Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":3855,"ts":"2026-09-28T14:50:13.337Z"}
