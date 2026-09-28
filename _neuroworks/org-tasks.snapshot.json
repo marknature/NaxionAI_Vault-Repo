@@ -1005,12 +1005,12 @@
       "role": "scheduler",
       "title": "Africa AI news — BREAKING",
       "detail": "Africa AI news — BREAKING",
-      "status": "active",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "3d86b14a-9865-458e-ac73-0e454556676c",
       "createdAt": "2026-09-28T08:28:24.256Z",
-      "updatedAt": "2026-09-28T08:28:24.257Z",
+      "updatedAt": "2026-09-28T08:57:48.143Z",
       "createdBy": "daemon"
     },
     {
@@ -1018,12 +1018,12 @@
       "role": "scheduler",
       "title": "Daily briefing",
       "detail": "Daily briefing",
-      "status": "active",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "0037b689-aaf2-40be-b906-7ce56a9f4f26",
       "createdAt": "2026-09-28T08:28:24.287Z",
-      "updatedAt": "2026-09-28T08:28:24.289Z",
+      "updatedAt": "2026-09-28T08:44:17.491Z",
       "createdBy": "daemon"
     },
     {
@@ -1031,12 +1031,12 @@
       "role": "scheduler",
       "title": "Innovation scan",
       "detail": "Innovation scan",
-      "status": "active",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "ebacdba6-9dbd-401a-8f92-69ef14fac1a5",
       "createdAt": "2026-09-28T08:28:24.320Z",
-      "updatedAt": "2026-09-28T08:28:24.322Z",
+      "updatedAt": "2026-09-28T09:27:09.204Z",
       "createdBy": "daemon"
     },
     {
@@ -1044,12 +1044,24 @@
       "role": "scheduler",
       "title": "World AI news — BREAKING",
       "detail": "World AI news — BREAKING",
-      "status": "active",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "3603e20e-e869-490f-9272-fd6e987d9d7e",
       "createdAt": "2026-09-28T08:28:24.340Z",
-      "updatedAt": "2026-09-28T08:28:24.341Z",
+      "updatedAt": "2026-09-28T08:57:54.023Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "379268b9-410b-46df-b404-668f56fe7b04",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — \"meta/llama-3.3-70b-instruct\" is failing 68% of calls (32/47)",
+      "detail": "Switch the tier using \"meta/llama-3.3-70b-instruct\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"meta/llama-3.3-70b-instruct\"]: calls=47 failed=32 failureRate=0.68",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-28T08:59:24.399Z",
+      "updatedAt": "2026-09-28T08:59:24.399Z",
       "createdBy": "daemon"
     }
   ]
