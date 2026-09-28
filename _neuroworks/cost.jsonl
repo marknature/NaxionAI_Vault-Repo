@@ -2471,3 +2471,8 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":1490,"outputTokens":358,"costUsd":0,"ts":"2026-09-26T12:07:48.669Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"balanced","inputTokens":290,"outputTokens":52,"costUsd":0,"ts":"2026-09-26T13:41:59.613Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"balanced","inputTokens":377,"outputTokens":326,"costUsd":0,"ts":"2026-09-26T13:43:31.537Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":2,"costUsd":0,"ts":"2026-09-28T08:28:45.746Z"}
+{"jobId":"adhoc","model":"meta/llama-3.3-70b-instruct","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-28T08:33:33.852Z","ok":false,"error":"Ollama 500: {\"error\":\"Post \\\"http://127.0.0.1:64411/tokenize\\\": http: server closed idle connection\"}"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-28T08:40:51.213Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-09-28T08:41:04.114Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1226,"outputTokens":11,"costUsd":0,"ts":"2026-09-28T08:42:02.031Z"}
