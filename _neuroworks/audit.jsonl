@@ -6255,3 +6255,7 @@
 {"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mul4vf9a-129","ts":"2026-09-28T10:57:34.462Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mul4vf9u-130","ts":"2026-09-28T10:57:34.482Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 1 integrations ok in 3151ms","result":"success","id":"mul5z3ce-131","ts":"2026-09-28T11:28:25.263Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mul6rqpi-132","ts":"2026-09-28T11:50:41.910Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mul6rqpk-133","ts":"2026-09-28T11:50:41.912Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mul6u017-134","ts":"2026-09-28T11:52:27.307Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mul6u01e-135","ts":"2026-09-28T11:52:27.314Z"}
