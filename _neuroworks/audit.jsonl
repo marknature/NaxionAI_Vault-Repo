@@ -6150,3 +6150,6 @@
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 1 integrations ok in 9980ms","result":"success","id":"mukzkef2-24","ts":"2026-09-28T08:29:02.078Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mul01uvi-25","ts":"2026-09-28T08:42:36.559Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mul020sw-26","ts":"2026-09-28T08:42:44.240Z"}
+{"level":"info","actor":"neuroworks","action":"job.operations:daily-briefing","target":"daily-briefing","detail":"Daily briefing","jobId":"0037b689-aaf2-40be-b906-7ce56a9f4f26","result":"success","id":"mul040ka-27","ts":"2026-09-28T08:44:17.242Z"}
+{"level":"info","actor":"scheduler","action":"org_task.done","target":"Daily briefing","detail":"","jobId":"0037b689-aaf2-40be-b906-7ce56a9f4f26","result":"success","id":"mul042gg-28","ts":"2026-09-28T08:44:19.696Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hey Mark Nature — it's been 86h since we last talked. Anything I can help with?","result":"success","id":"mul0c9f4-29","ts":"2026-09-28T08:50:41.968Z"}
