@@ -2678,3 +2678,11 @@
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1611,"outputTokens":12,"costUsd":0,"ts":"2026-09-29T14:02:00.916Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1627,"outputTokens":12,"costUsd":0,"ts":"2026-09-29T14:02:19.033Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-29T14:09:53.260Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-29T14:10:09.997Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q8_0","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-09-29T14:10:10.116Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1583,"outputTokens":11,"costUsd":0,"ts":"2026-09-29T14:13:33.189Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1597,"outputTokens":16,"costUsd":0,"ts":"2026-09-29T14:13:52.253Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1617,"outputTokens":11,"costUsd":0,"ts":"2026-09-29T14:14:08.162Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":1632,"outputTokens":6,"costUsd":0,"ts":"2026-09-29T14:14:20.624Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2562,"outputTokens":15,"costUsd":0,"ts":"2026-09-29T14:16:46.596Z"}
+{"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":2580,"outputTokens":11,"costUsd":0,"ts":"2026-09-29T14:17:08.746Z"}
