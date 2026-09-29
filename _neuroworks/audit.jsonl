@@ -6489,3 +6489,4 @@
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 1 integrations ok in 2995ms","result":"success","id":"mum3aedy-25","ts":"2026-09-29T03:01:00.118Z"}
 {"level":"info","actor":"scheduler","action":"org_task.created","target":"Innovation scan","detail":"Innovation scan","jobId":"69cb8cb6-dcd4-4bd3-9448-a3dabc5d1e07","result":"success","id":"mum5eck1-26","ts":"2026-09-29T04:00:03.601Z"}
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Innovation scan","detail":"","jobId":"69cb8cb6-dcd4-4bd3-9448-a3dabc5d1e07","result":"pending","id":"mum5eck2-27","ts":"2026-09-29T04:00:03.602Z"}
+{"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 1 integrations ok in 13091ms","result":"success","id":"mum5fryr-28","ts":"2026-09-29T04:01:10.227Z"}
