@@ -2988,3 +2988,9 @@
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — gemini-3-flash-preview","latencyMs":603,"ts":"2026-09-29T10:08:50.956Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":746,"ts":"2026-09-29T10:08:51.100Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1604,"ts":"2026-09-29T10:08:51.960Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":1002,"ts":"2026-09-29T11:09:58.383Z"}
+{"id":"openrouter","ok":false,"detail":"fetch failed","latencyMs":1145,"ts":"2026-09-29T11:09:58.509Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1142,"ts":"2026-09-29T11:09:58.514Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":994,"ts":"2026-09-29T12:54:46.337Z"}
+{"id":"openrouter","ok":false,"detail":"fetch failed","latencyMs":1228,"ts":"2026-09-29T12:54:46.517Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q8_0","latencyMs":1200,"ts":"2026-09-29T12:54:46.523Z"}
