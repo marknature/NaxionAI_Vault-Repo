@@ -6619,3 +6619,14 @@
 {"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"116h idle","result":"success","id":"mumsz5el-4","ts":"2026-09-29T15:00:05.277Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hi Mark, hope you're doing well. I noticed you've been working on that new AI framework for the past few days, and I'm here if you need any help or just want to bounce some ideas off me. How's the project coming along?","result":"success","id":"mumsz72c-5","ts":"2026-09-29T15:00:07.428Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 1 integrations ok in 3024ms","result":"success","id":"mumv1e1a-6","ts":"2026-09-29T15:57:49.006Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mumvysqp-7","ts":"2026-09-29T16:23:47.713Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mumvysr4-8","ts":"2026-09-29T16:23:47.728Z"}
+{"level":"info","actor":"system","action":"mcp.add","target":"0da0e07e-b9fd-4968-9b9d-15ab66ecdff5","detail":"Strix Pentest (this NeuroWorks instance)","result":"success","id":"mumw44kl-9","ts":"2026-09-29T16:27:56.325Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mumw4iwh-10","ts":"2026-09-29T16:28:14.897Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mumw4iwq-11","ts":"2026-09-29T16:28:14.906Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"mumw54vj-12","ts":"2026-09-29T16:28:43.375Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ambient","detail":"/ambient","result":"success","id":"mumw5hkv-13","ts":"2026-09-29T16:28:59.839Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"mumw5t4d-14","ts":"2026-09-29T16:29:14.797Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"mumw6bue-15","ts":"2026-09-29T16:29:39.062Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/workflow-tree","detail":"/workflow-tree","result":"success","id":"mumw6e0n-16","ts":"2026-09-29T16:29:41.879Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Ad-hoc: Draft a reply to this WhatsApp message from Lizzy Tech:\n\nLil","detail":"blocked >48h — escalated","jobId":"140649e5-db5e-4fe4-9372-04ac778fc7aa","result":"failure","id":"mumwe8ew-1","ts":"2026-09-29T16:35:47.864Z"}
