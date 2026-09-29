@@ -531,12 +531,12 @@
       "role": "scheduler",
       "title": "Daily briefing",
       "detail": "Daily briefing",
-      "status": "blocked",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "867be57c-b46f-4506-a128-a462a03dc421",
       "createdAt": "2026-09-21T06:47:40.123Z",
-      "updatedAt": "2026-09-21T07:21:23.971Z",
+      "updatedAt": "2026-09-29T06:22:02.177Z",
       "createdBy": "daemon"
     },
     {
@@ -1088,6 +1088,44 @@
       "jobId": "69cb8cb6-dcd4-4bd3-9448-a3dabc5d1e07",
       "createdAt": "2026-09-29T04:00:03.600Z",
       "updatedAt": "2026-09-29T04:13:20.456Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "a0d6deb2-ad6f-4998-ba91-5cd016691d5f",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "98e435dc-013b-4a73-99eb-a22a1208cda1",
+      "createdAt": "2026-09-29T06:08:09.992Z",
+      "updatedAt": "2026-09-29T06:21:59.934Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "2756c8fe-d14e-4e4f-8e63-1efdaaadbf54",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "c619b832-6e1c-4a06-bf8c-8925cd6cfbd0",
+      "createdAt": "2026-09-29T06:08:10.432Z",
+      "updatedAt": "2026-09-29T06:22:02.562Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "26d69ce0-65e8-43e5-aeb3-150e4a05f58b",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — \"meta/llama-3.3-70b-instruct\" is failing 75% of calls (45/60)",
+      "detail": "Switch the tier using \"meta/llama-3.3-70b-instruct\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"meta/llama-3.3-70b-instruct\"]: calls=60 failed=45 failureRate=0.75",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-09-29T06:16:35.099Z",
+      "updatedAt": "2026-09-29T06:16:35.099Z",
       "createdBy": "daemon"
     }
   ]
