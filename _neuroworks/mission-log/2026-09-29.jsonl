@@ -8,3 +8,8 @@
 {"ts":"2026-09-29T06:01:13.758Z","kind":"progress","text":"Starting plan: 0 steps —"}
 {"ts":"2026-09-29T06:08:10.316Z","kind":"progress","text":"Starting plan: 0 steps —"}
 {"ts":"2026-09-29T06:08:10.490Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-09-29T06:08:28.017Z","kind":"progress","text":"Starting plan: 2 steps — Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-09-29T06:08:28.044Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (4ms)","stepId":"1"}
+{"ts":"2026-09-29T06:10:30.842Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (122252ms)","stepId":"0"}
+{"ts":"2026-09-29T06:10:33.292Z","kind":"progress","text":"Starting plan: 3 steps — Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-09-29T06:12:39.911Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"2"}
