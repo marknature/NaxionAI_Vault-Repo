@@ -544,12 +544,12 @@
       "role": "scheduler",
       "title": "Innovation scan",
       "detail": "Innovation scan",
-      "status": "blocked",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "ceb754da-0c04-422c-8397-5d4742b78d5d",
       "createdAt": "2026-09-21T06:47:40.247Z",
-      "updatedAt": "2026-09-21T07:21:23.968Z",
+      "updatedAt": "2026-09-29T04:13:20.460Z",
       "createdBy": "daemon"
     },
     {
@@ -763,12 +763,12 @@
       "role": "scheduler",
       "title": "Innovation scan",
       "detail": "Innovation scan",
-      "status": "blocked",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "00925f23-cde4-4b7e-a9df-7e08c8888137",
       "createdAt": "2026-09-24T05:53:27.657Z",
-      "updatedAt": "2026-09-24T06:31:03.726Z",
+      "updatedAt": "2026-09-29T04:13:20.458Z",
       "createdBy": "daemon"
     },
     {
@@ -789,12 +789,12 @@
       "role": "scheduler",
       "title": "Innovation scan",
       "detail": "Innovation scan",
-      "status": "blocked",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "9861635f-e73d-4a77-933a-c5a5e7dc98a1",
       "createdAt": "2026-09-24T05:53:27.830Z",
-      "updatedAt": "2026-09-24T06:31:03.706Z",
+      "updatedAt": "2026-09-29T04:13:20.459Z",
       "createdBy": "daemon"
     },
     {
@@ -1082,12 +1082,12 @@
       "role": "scheduler",
       "title": "Innovation scan",
       "detail": "Innovation scan",
-      "status": "active",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "69cb8cb6-dcd4-4bd3-9448-a3dabc5d1e07",
       "createdAt": "2026-09-29T04:00:03.600Z",
-      "updatedAt": "2026-09-29T04:00:03.601Z",
+      "updatedAt": "2026-09-29T04:13:20.456Z",
       "createdBy": "daemon"
     }
   ]
