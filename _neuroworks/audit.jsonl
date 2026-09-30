@@ -6779,3 +6779,4 @@
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Innovation scan","detail":"","jobId":"1e16c4f8-c0e2-468f-b734-959f816c62d5","result":"pending","id":"munkugrv-5","ts":"2026-09-30T04:00:15.979Z"}
 {"level":"info","actor":"neuroworks","action":"job.insights:innovation-scan","target":"innovation-scan","detail":"Innovation scan","jobId":"1e16c4f8-c0e2-468f-b734-959f816c62d5","result":"success","id":"munmksx9-6","ts":"2026-09-30T04:48:44.398Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Innovation scan","detail":"","jobId":"1e16c4f8-c0e2-468f-b734-959f816c62d5","result":"success","id":"munmksxc-7","ts":"2026-09-30T04:48:44.400Z"}
+{"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 1 integrations ok in 2943ms","result":"success","id":"munmt1h9-8","ts":"2026-09-30T04:55:08.733Z"}

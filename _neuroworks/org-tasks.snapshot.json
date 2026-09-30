@@ -1153,6 +1153,19 @@
       "createdAt": "2026-09-29T12:54:46.428Z",
       "updatedAt": "2026-09-29T13:16:02.725Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "dcd43887-00d7-43a5-8e0b-af0bf6a02ff8",
+      "role": "scheduler",
+      "title": "Innovation scan",
+      "detail": "Innovation scan",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "1e16c4f8-c0e2-468f-b734-959f816c62d5",
+      "createdAt": "2026-09-30T04:00:15.935Z",
+      "updatedAt": "2026-09-30T04:48:44.399Z",
+      "createdBy": "daemon"
     }
   ]
 }
