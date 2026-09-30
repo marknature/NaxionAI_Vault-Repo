@@ -315,11 +315,11 @@
       "role": "admin",
       "title": "MD Audit: Personas — 50/50 personas dormant — roster may be bloated",
       "detail": "Review personas catalog and retire unused personas; keep roster lean so Naxie's routing stays precise.\n\nEvidence: personas=50, dormant=50\n\nFrom the 2026-09-15 MD System Audit — _neuroworks/system-audits/2026-09-15.md",
-      "status": "backlog",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "createdAt": "2026-09-15T18:43:53.415Z",
-      "updatedAt": "2026-09-15T18:43:53.415Z",
+      "updatedAt": "2026-09-30T07:03:04.195Z",
       "createdBy": "daemon"
     },
     {
@@ -327,11 +327,11 @@
       "role": "admin",
       "title": "MD Audit: Org Tasks — 9 tasks stuck in blocked — may need triage",
       "detail": "Review blocked OrgTasks on /org-dashboard, resolve or archive stale items.\n\nEvidence: orgTasks blocked=9 total=24\n\nFrom the 2026-09-15 MD System Audit — _neuroworks/system-audits/2026-09-15.md",
-      "status": "backlog",
+      "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
       "createdAt": "2026-09-15T18:43:53.433Z",
-      "updatedAt": "2026-09-15T18:43:53.433Z",
+      "updatedAt": "2026-09-30T07:03:04.201Z",
       "createdBy": "daemon"
     },
     {
@@ -339,11 +339,11 @@
       "role": "admin",
       "title": "MD Audit: Personas — 37/37 personas dormant — roster may be bloated",
       "detail": "Review personas catalog and retire unused personas; keep roster lean so Naxie's routing stays precise.\n\nEvidence: personas=37, dormant=37\n\nFrom the 2026-09-16 MD System Audit — _neuroworks/system-audits/2026-09-16.md",
-      "status": "backlog",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "createdAt": "2026-09-16T05:54:45.801Z",
-      "updatedAt": "2026-09-16T05:54:45.801Z",
+      "updatedAt": "2026-09-30T07:03:04.199Z",
       "createdBy": "daemon"
     },
     {
@@ -700,11 +700,11 @@
       "role": "admin",
       "title": "MD Audit: Template: general-task — 50% failure rate (2/4)",
       "detail": "Investigate failure pattern for general-task and tighten validation / retry logic.\n\nEvidence: byTemplate[general-task]\n\nFrom the 2026-09-23 MD System Audit — _neuroworks/system-audits/2026-09-23.md",
-      "status": "backlog",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "createdAt": "2026-09-23T06:26:06.693Z",
-      "updatedAt": "2026-09-23T06:26:06.693Z",
+      "updatedAt": "2026-09-30T07:03:04.202Z",
       "createdBy": "daemon"
     },
     {
