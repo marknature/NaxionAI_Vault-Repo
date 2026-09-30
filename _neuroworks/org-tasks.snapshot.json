@@ -712,11 +712,11 @@
       "role": "admin",
       "title": "Innovation Scan: Model reliability — \"gemma4:31b\" is failing 100% of calls (6/6)",
       "detail": "Switch the tier using \"gemma4:31b\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"gemma4:31b\"]: calls=6 failed=6 failureRate=1.00",
-      "status": "backlog",
+      "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
       "createdAt": "2026-09-23T06:37:26.711Z",
-      "updatedAt": "2026-09-23T06:37:26.711Z",
+      "updatedAt": "2026-09-30T06:59:32.575Z",
       "createdBy": "daemon"
     },
     {
@@ -802,11 +802,11 @@
       "role": "admin",
       "title": "Innovation Scan: Model reliability — \"gemma4:31b\" is failing 100% of calls (20/20)",
       "detail": "Switch the tier using \"gemma4:31b\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"gemma4:31b\"]: calls=20 failed=20 failureRate=1.00",
-      "status": "backlog",
+      "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
       "createdAt": "2026-09-24T06:24:57.211Z",
-      "updatedAt": "2026-09-24T06:24:57.211Z",
+      "updatedAt": "2026-09-30T06:59:32.583Z",
       "createdBy": "daemon"
     },
     {
@@ -891,11 +891,11 @@
       "role": "admin",
       "title": "Innovation Scan: Model reliability — \"meta/llama-3.3-70b-instruct\" is failing 35% of calls (8/23)",
       "detail": "Switch the tier using \"meta/llama-3.3-70b-instruct\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"meta/llama-3.3-70b-instruct\"]: calls=23 failed=8 failureRate=0.35",
-      "status": "backlog",
+      "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
       "createdAt": "2026-09-25T07:11:01.860Z",
-      "updatedAt": "2026-09-25T07:11:01.860Z",
+      "updatedAt": "2026-09-30T06:59:32.692Z",
       "createdBy": "daemon"
     },
     {
@@ -903,11 +903,11 @@
       "role": "admin",
       "title": "Innovation Scan: Model reliability — \"gemma4:31b\" is failing 100% of calls (37/37)",
       "detail": "Switch the tier using \"gemma4:31b\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"gemma4:31b\"]: calls=37 failed=37 failureRate=1.00",
-      "status": "backlog",
+      "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
       "createdAt": "2026-09-25T07:11:01.894Z",
-      "updatedAt": "2026-09-25T07:11:01.894Z",
+      "updatedAt": "2026-09-30T06:59:32.696Z",
       "createdBy": "daemon"
     },
     {
@@ -967,11 +967,11 @@
       "role": "admin",
       "title": "Innovation Scan: Model reliability — \"meta/llama-3.3-70b-instruct\" is failing 65% of calls (28/43)",
       "detail": "Switch the tier using \"meta/llama-3.3-70b-instruct\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"meta/llama-3.3-70b-instruct\"]: calls=43 failed=28 failureRate=0.65",
-      "status": "backlog",
+      "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
       "createdAt": "2026-09-26T06:19:42.960Z",
-      "updatedAt": "2026-09-26T06:19:42.960Z",
+      "updatedAt": "2026-09-30T06:59:32.697Z",
       "createdBy": "daemon"
     },
     {
@@ -1057,11 +1057,11 @@
       "role": "admin",
       "title": "Innovation Scan: Model reliability — \"meta/llama-3.3-70b-instruct\" is failing 68% of calls (32/47)",
       "detail": "Switch the tier using \"meta/llama-3.3-70b-instruct\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"meta/llama-3.3-70b-instruct\"]: calls=47 failed=32 failureRate=0.68",
-      "status": "backlog",
+      "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
       "createdAt": "2026-09-28T08:59:24.399Z",
-      "updatedAt": "2026-09-28T08:59:24.399Z",
+      "updatedAt": "2026-09-30T06:59:32.701Z",
       "createdBy": "daemon"
     },
     {
@@ -1121,11 +1121,11 @@
       "role": "admin",
       "title": "Innovation Scan: Model reliability — \"meta/llama-3.3-70b-instruct\" is failing 75% of calls (45/60)",
       "detail": "Switch the tier using \"meta/llama-3.3-70b-instruct\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"meta/llama-3.3-70b-instruct\"]: calls=60 failed=45 failureRate=0.75",
-      "status": "backlog",
+      "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
       "createdAt": "2026-09-29T06:16:35.099Z",
-      "updatedAt": "2026-09-29T06:16:35.099Z",
+      "updatedAt": "2026-09-30T06:59:32.703Z",
       "createdBy": "daemon"
     },
     {
