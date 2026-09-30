@@ -6805,3 +6805,5 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:0","detail":"core fails: openrouter:This operation was aborted | alerts: ","result":"failure","id":"munpn4od-3","ts":"2026-09-30T06:14:31.790Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"14 backlog, 1 blocked, 2 active","result":"success","id":"munpuif5-4","ts":"2026-09-30T06:20:16.195Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 24h. Outstanding: 14 backlog, 1 blocked, 2 active.","result":"success","id":"munpwykr-5","ts":"2026-09-30T06:22:10.443Z"}
+{"level":"info","actor":"naxie","action":"briefing.generated","target":"daily-briefing","detail":"96 chars","result":"success","id":"munq4iya-6","ts":"2026-09-30T06:28:03.442Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — morning briefing ready","detail":"I couldn't get anywhere on this — nothing executed. Could you rephrase what you'd like me to do?","result":"success","id":"munq4k2t-7","ts":"2026-09-30T06:28:04.901Z"}
