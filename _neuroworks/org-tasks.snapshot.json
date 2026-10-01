@@ -549,7 +549,7 @@
       "linkedTaskIds": [],
       "jobId": "ceb754da-0c04-422c-8397-5d4742b78d5d",
       "createdAt": "2026-09-21T06:47:40.247Z",
-      "updatedAt": "2026-09-29T04:13:20.460Z",
+      "updatedAt": "2026-09-29T04:13:20.46Z",
       "createdBy": "daemon"
     },
     {
@@ -626,7 +626,7 @@
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "ba39d944-2f27-4d11-94d8-aee987839770",
-      "createdAt": "2026-09-22T12:00:06.000Z",
+      "createdAt": "2026-09-22T12:00:06Z",
       "updatedAt": "2026-09-22T12:06:47.112Z",
       "createdBy": "daemon"
     },
@@ -692,7 +692,7 @@
       "linkedTaskIds": [],
       "jobId": "df8583d7-c8a7-4bca-b1d3-43a2458ba277",
       "createdAt": "2026-09-23T06:18:09.031Z",
-      "updatedAt": "2026-09-23T06:24:02.480Z",
+      "updatedAt": "2026-09-23T06:24:02.48Z",
       "createdBy": "daemon"
     },
     {
@@ -741,7 +741,7 @@
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "2a1b8158-422f-4a23-b45a-784a55bf41a1",
-      "createdAt": "2026-09-23T12:00:18.960Z",
+      "createdAt": "2026-09-23T12:00:18.96Z",
       "updatedAt": "2026-09-23T12:11:17.571Z",
       "createdBy": "daemon"
     },
@@ -793,7 +793,7 @@
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "9861635f-e73d-4a77-933a-c5a5e7dc98a1",
-      "createdAt": "2026-09-24T05:53:27.830Z",
+      "createdAt": "2026-09-24T05:53:27.83Z",
       "updatedAt": "2026-09-29T04:13:20.459Z",
       "createdBy": "daemon"
     },
@@ -858,7 +858,7 @@
       "linkedTaskIds": [],
       "jobId": "fcb80512-d852-4070-a9ae-c5988a210c72",
       "createdAt": "2026-09-25T04:00:13.194Z",
-      "updatedAt": "2026-09-25T04:33:26.280Z",
+      "updatedAt": "2026-09-25T04:33:26.28Z",
       "createdBy": "daemon"
     },
     {
@@ -894,7 +894,7 @@
       "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
-      "createdAt": "2026-09-25T07:11:01.860Z",
+      "createdAt": "2026-09-25T07:11:01.86Z",
       "updatedAt": "2026-09-30T06:59:32.692Z",
       "createdBy": "daemon"
     },
@@ -919,8 +919,8 @@
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "cd1447f2-3621-4098-88d9-061135628265",
-      "createdAt": "2026-09-25T09:30:53.100Z",
-      "updatedAt": "2026-09-25T09:36:42.730Z",
+      "createdAt": "2026-09-25T09:30:53.1Z",
+      "updatedAt": "2026-09-25T09:36:42.73Z",
       "createdBy": "daemon"
     },
     {
@@ -933,7 +933,7 @@
       "linkedTaskIds": [],
       "jobId": "64c6baae-7481-4f62-ac39-5ffc31e744cf",
       "createdAt": "2026-09-25T12:00:16.442Z",
-      "updatedAt": "2026-09-25T12:08:49.890Z",
+      "updatedAt": "2026-09-25T12:08:49.89Z",
       "createdBy": "daemon"
     },
     {
@@ -970,7 +970,7 @@
       "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
-      "createdAt": "2026-09-26T06:19:42.960Z",
+      "createdAt": "2026-09-26T06:19:42.96Z",
       "updatedAt": "2026-09-30T06:59:32.697Z",
       "createdBy": "daemon"
     },
@@ -1035,7 +1035,7 @@
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "ebacdba6-9dbd-401a-8f92-69ef14fac1a5",
-      "createdAt": "2026-09-28T08:28:24.320Z",
+      "createdAt": "2026-09-28T08:28:24.32Z",
       "updatedAt": "2026-09-28T09:27:09.204Z",
       "createdBy": "daemon"
     },
@@ -1048,7 +1048,7 @@
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "3603e20e-e869-490f-9272-fd6e987d9d7e",
-      "createdAt": "2026-09-28T08:28:24.340Z",
+      "createdAt": "2026-09-28T08:28:24.34Z",
       "updatedAt": "2026-09-28T08:57:54.023Z",
       "createdBy": "daemon"
     },
@@ -1086,7 +1086,7 @@
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "69cb8cb6-dcd4-4bd3-9448-a3dabc5d1e07",
-      "createdAt": "2026-09-29T04:00:03.600Z",
+      "createdAt": "2026-09-29T04:00:03.6Z",
       "updatedAt": "2026-09-29T04:13:20.456Z",
       "createdBy": "daemon"
     },
@@ -1178,6 +1178,19 @@
       "jobId": "01442c9a-e47c-498d-b069-af64c9d14722",
       "createdAt": "2026-09-30T05:30:27.816Z",
       "updatedAt": "2026-09-30T05:35:43.041Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "79d2fff2-9f14-4d20-810a-65bada97b639",
+      "role": "scheduler",
+      "title": "Africa AI news — BREAKING",
+      "detail": "Africa AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "135f23a3-ed14-485a-a5d7-08c1bf3e5d9f",
+      "createdAt": "2026-09-30T07:30:02.263Z",
+      "updatedAt": "2026-09-30T07:31:02.619Z",
       "createdBy": "daemon"
     }
   ]

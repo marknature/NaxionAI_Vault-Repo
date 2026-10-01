@@ -9,7 +9,7 @@ Auto-generated from `_neuroworks/reflections/*.md`. Each daily reflection's *Wha
 ## 2026-09-28
 
 ### Try next
-- Check the LLM backend (OpenRouter/OpenAI/Anthropic/Ollama): a hung or very slow provider call, not a code fault, drove the timeout. Raise `NEUROWORKS_REFLECTION_SYNTH_TIMEOUT_MS` only if legitimate synthesis is being cut short.
+- Check the LLM backend (OpenRouter/OpenAI/Anthropic/Ollama): a hung or very slow provider call, not a code fault, drove the timeout. Raise `NAXION_REFLECTION_SYNTH_TIMEOUT_MS` only if legitimate synthesis is being cut short.
 
 ## 2026-09-20
 
@@ -86,3 +86,4 @@ Auto-generated from `_neuroworks/reflections/*.md`. Each daily reflection's *Wha
 - Check the task ingestion queue to see if incoming jobs are being rejected before reaching the clawbot fleet.
 - Trigger a test task using `ollama.generate` to ensure the LLM worker pipeline is still responsive.
 - Verify employee schedules; zero active staff suggests a configuration gap or intentional downtime.
+
