@@ -2,7 +2,7 @@
 type: template
 title: Delegate deep work to the right hired persona (Maya, Sam, Olivia, etc.) and r… (custom-naxie-delegate-deep-work-to-the-right-hired-pe)
 slug: custom-naxie-delegate-deep-work-to-the-right-hired-pe
-created: 2026-10-02T17:43:19.070Z
+created: 2026-10-02T18:19:46.692Z
 templateId: custom-naxie-delegate-deep-work-to-the-right-hired-pe
 role: Custom
 originTask: As a Personal Assistant to Nature, delegate deep work to the right hired persona (maya, sam, olivia, etc.) and report back as naxie.
