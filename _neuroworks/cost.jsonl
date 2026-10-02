@@ -2930,3 +2930,20 @@
 {"jobId":"adhoc","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-01T16:20:17.730Z","ok":false,"error":"fetch failed"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"extraction","inputTokens":1127,"outputTokens":233,"costUsd":0,"ts":"2026-10-01T16:32:11.484Z"}
 {"jobId":"0393e332-6dd1-4f6e-ae2d-7e73eccab463","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-02T12:53:43.485Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"balanced","inputTokens":270,"outputTokens":54,"costUsd":0,"ts":"2026-10-02T12:53:55.321Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"balanced","inputTokens":374,"outputTokens":253,"costUsd":0,"ts":"2026-10-02T12:53:58.346Z"}
+{"jobId":"d4d31b11-b2f1-48c3-8fdf-7dcef9e41018","model":"gemini-3-flash-preview","backend":"ollama","profile":"synthesis","inputTokens":5688,"outputTokens":866,"costUsd":0,"ts":"2026-10-02T12:54:13.174Z"}
+{"jobId":"66ee0431-abcb-4ee0-8747-0888328f4229","model":"gemini-3-flash-preview","backend":"ollama","profile":"synthesis","inputTokens":3564,"outputTokens":227,"costUsd":0,"ts":"2026-10-02T12:54:15.317Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"extraction","inputTokens":1602,"outputTokens":124,"costUsd":0,"ts":"2026-10-02T12:56:30.782Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"extraction","inputTokens":1465,"outputTokens":242,"costUsd":0,"ts":"2026-10-02T12:56:35.359Z"}
+{"jobId":"d4d31b11-b2f1-48c3-8fdf-7dcef9e41018","model":"gemini-flash-latest","backend":"ollama","profile":"synthesis","inputTokens":6473,"outputTokens":41,"costUsd":0,"ts":"2026-10-02T12:56:41.759Z"}
+{"jobId":"66ee0431-abcb-4ee0-8747-0888328f4229","model":"gemini-flash-latest","backend":"ollama","profile":"synthesis","inputTokens":6903,"outputTokens":261,"costUsd":0,"ts":"2026-10-02T12:56:54.521Z"}
+{"jobId":"d4d31b11-b2f1-48c3-8fdf-7dcef9e41018","model":"gemini-3-flash-preview","backend":"ollama","profile":"extraction","inputTokens":1098,"outputTokens":111,"costUsd":0,"ts":"2026-10-02T12:57:02.517Z"}
+{"jobId":"66ee0431-abcb-4ee0-8747-0888328f4229","model":"gemini-3-flash-preview","backend":"ollama","profile":"extraction","inputTokens":1821,"outputTokens":78,"costUsd":0,"ts":"2026-10-02T12:57:08.840Z"}
+{"jobId":"d4d31b11-b2f1-48c3-8fdf-7dcef9e41018","model":"gemini-flash-latest","backend":"ollama","profile":"synthesis","inputTokens":6679,"outputTokens":164,"costUsd":0,"ts":"2026-10-02T12:57:16.095Z"}
+{"jobId":"66ee0431-abcb-4ee0-8747-0888328f4229","model":"gemini-flash-latest","backend":"ollama","profile":"synthesis","inputTokens":7018,"outputTokens":40,"costUsd":0,"ts":"2026-10-02T12:57:19.532Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"extraction","inputTokens":900,"outputTokens":693,"costUsd":0,"ts":"2026-10-02T12:57:30.745Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"extraction","inputTokens":1278,"outputTokens":191,"costUsd":0,"ts":"2026-10-02T12:57:39.753Z"}
+{"jobId":"d4d31b11-b2f1-48c3-8fdf-7dcef9e41018","model":"gemini-flash-latest","backend":"ollama","profile":"extraction","inputTokens":1222,"outputTokens":75,"costUsd":0,"ts":"2026-10-02T12:57:46.872Z"}
+{"jobId":"d4d31b11-b2f1-48c3-8fdf-7dcef9e41018","model":"gemini-3-flash-preview","backend":"ollama","profile":"none","inputTokens":1494,"outputTokens":397,"costUsd":0,"ts":"2026-10-02T12:58:15.854Z"}
+{"jobId":"d4d31b11-b2f1-48c3-8fdf-7dcef9e41018","model":"gemini-3-flash-preview","backend":"ollama","profile":"none","inputTokens":1967,"outputTokens":476,"costUsd":0,"ts":"2026-10-02T12:58:23.172Z"}
