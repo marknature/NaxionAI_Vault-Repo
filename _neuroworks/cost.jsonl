@@ -2956,3 +2956,4 @@
 {"jobId":"67cdc740-71e2-415f-b063-1b0113f87404","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":1555,"outputTokens":335,"costUsd":0,"ts":"2026-10-02T13:19:09.267Z"}
 {"jobId":"adhoc","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-02T13:22:09.710Z","ok":false,"error":"This operation was aborted"}
 {"jobId":"0393e332-6dd1-4f6e-ae2d-7e73eccab463","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-02T13:27:45.024Z","ok":false,"error":"fetch failed"}
+{"jobId":"212b9a63-6df7-42fb-b6b3-66851737f500","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-02T13:33:03.926Z","ok":false,"error":"fetch failed"}
