@@ -3169,3 +3169,4 @@
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — gemini-3-flash-preview","latencyMs":650,"ts":"2026-10-02T18:18:15.403Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":1003,"ts":"2026-10-02T18:18:15.774Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1619,"ts":"2026-10-02T18:18:16.403Z"}
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-02T18:19:06.506Z"}
