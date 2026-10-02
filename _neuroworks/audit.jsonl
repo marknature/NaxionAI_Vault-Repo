@@ -6868,3 +6868,43 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupplguv-21","ts":"2026-10-01T15:48:46.616Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupplk1l-22","ts":"2026-10-01T15:48:50.745Z"}
 {"level":"info","actor":"admin","action":"org_task.created","target":"MD Audit: Template: general-task","detail":"60% failure rate (3/5)\n\nInvestigate failure pattern for general-task and tighten validation / retry logic.\n\nEvidence: byTemplate[general-task]\n\nFrom the 2026-10-01 MD System Audit — _neuroworks/system","result":"success","id":"muppn3qa-23","ts":"2026-10-01T15:50:02.914Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muppn81z-24","ts":"2026-10-01T15:50:08.519Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muppn85n-25","ts":"2026-10-01T15:50:08.651Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqa2qd-26","ts":"2026-10-01T16:07:54.714Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqa3rm-27","ts":"2026-10-01T16:07:56.050Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqcbng-28","ts":"2026-10-01T16:09:39.581Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqcbw1-29","ts":"2026-10-01T16:09:39.889Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqdidk-30","ts":"2026-10-01T16:10:34.953Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqdie5-31","ts":"2026-10-01T16:10:34.973Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqe73b-32","ts":"2026-10-01T16:11:06.983Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqe74n-33","ts":"2026-10-01T16:11:07.031Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqk1se-34","ts":"2026-10-01T16:15:40.046Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqk1z9-35","ts":"2026-10-01T16:15:40.293Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqo4wl-36","ts":"2026-10-01T16:18:50.710Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqo5ky-37","ts":"2026-10-01T16:18:51.586Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqp44x-38","ts":"2026-10-01T16:19:36.369Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqp4jm-39","ts":"2026-10-01T16:19:36.898Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqq0w2-40","ts":"2026-10-01T16:20:18.818Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupqq0xo-41","ts":"2026-10-01T16:20:18.876Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupr36r2-42","ts":"2026-10-01T16:30:32.942Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupr36to-43","ts":"2026-10-01T16:30:33.036Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupr4h9o-44","ts":"2026-10-01T16:31:33.228Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupr4hkp-45","ts":"2026-10-01T16:31:33.625Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupr5cs9-46","ts":"2026-10-01T16:32:14.073Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mupr5csk-47","ts":"2026-10-01T16:32:14.084Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Africa AI news — BREAKING","detail":"Africa AI news — BREAKING","jobId":"22eb6ad7-3c16-4402-85a6-7eea66093c0b","result":"success","id":"muqys7t4-48","ts":"2026-10-02T12:53:44.200Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Africa AI news — BREAKING","detail":"","jobId":"22eb6ad7-3c16-4402-85a6-7eea66093c0b","result":"pending","id":"muqys7te-49","ts":"2026-10-02T12:53:44.210Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Daily briefing","detail":"Daily briefing","jobId":"212b9a63-6df7-42fb-b6b3-66851737f500","result":"success","id":"muqys885-50","ts":"2026-10-02T12:53:44.741Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Daily briefing","detail":"","jobId":"212b9a63-6df7-42fb-b6b3-66851737f500","result":"pending","id":"muqys88q-51","ts":"2026-10-02T12:53:44.762Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Innovation scan","detail":"Innovation scan","jobId":"7a2865e4-37b7-498b-86e5-52c9dfacc6b6","result":"success","id":"muqys8fu-52","ts":"2026-10-02T12:53:45.018Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Innovation scan","detail":"","jobId":"7a2865e4-37b7-498b-86e5-52c9dfacc6b6","result":"pending","id":"muqys8gn-53","ts":"2026-10-02T12:53:45.047Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"World AI news — BREAKING","detail":"World AI news — BREAKING","jobId":"e97c2c18-04cf-4403-b362-6bffc4877de7","result":"success","id":"muqys8ju-54","ts":"2026-10-02T12:53:45.162Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"World AI news — BREAKING","detail":"","jobId":"e97c2c18-04cf-4403-b362-6bffc4877de7","result":"pending","id":"muqys8ly-55","ts":"2026-10-02T12:53:45.238Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Africa AI news — BREAKING","detail":"Africa AI news — BREAKING","jobId":"fd4b944b-cd74-4b7d-9876-fbda821959fa","result":"success","id":"muqys9xj-56","ts":"2026-10-02T12:53:46.951Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Africa AI news — BREAKING","detail":"","jobId":"fd4b944b-cd74-4b7d-9876-fbda821959fa","result":"pending","id":"muqys9xo-57","ts":"2026-10-02T12:53:46.956Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Daily briefing","detail":"Daily briefing","jobId":"66ee0431-abcb-4ee0-8747-0888328f4229","result":"success","id":"muqysa2t-58","ts":"2026-10-02T12:53:47.141Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Daily briefing","detail":"","jobId":"66ee0431-abcb-4ee0-8747-0888328f4229","result":"pending","id":"muqysa3g-59","ts":"2026-10-02T12:53:47.164Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Innovation scan","detail":"Innovation scan","jobId":"d4d31b11-b2f1-48c3-8fdf-7dcef9e41018","result":"success","id":"muqysa69-60","ts":"2026-10-02T12:53:47.265Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Innovation scan","detail":"","jobId":"d4d31b11-b2f1-48c3-8fdf-7dcef9e41018","result":"pending","id":"muqysa7t-61","ts":"2026-10-02T12:53:47.321Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"World AI news — BREAKING","detail":"World AI news — BREAKING","jobId":"cce948a4-df6d-4135-afb1-940d4db27092","result":"success","id":"muqysab1-62","ts":"2026-10-02T12:53:47.437Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"World AI news — BREAKING","detail":"","jobId":"cce948a4-df6d-4135-afb1-940d4db27092","result":"pending","id":"muqysab3-63","ts":"2026-10-02T12:53:47.459Z"}

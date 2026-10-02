@@ -1192,6 +1192,70 @@
       "createdAt": "2026-09-30T07:30:02.263Z",
       "updatedAt": "2026-09-30T07:31:02.619Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "f032c4a1-840a-4138-9ea3-b858c3679888",
+      "role": "scheduler",
+      "title": "Africa AI news — BREAKING",
+      "detail": "Africa AI news — BREAKING",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "54de2df4-8c56-4e06-a335-2523f98779f8",
+      "createdAt": "2026-10-01T15:46:01.201Z",
+      "updatedAt": "2026-10-01T15:46:01.234Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "33d7e800-8789-427d-a734-5e282c608d41",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "4d53b63f-6758-41f3-9638-926d3f677438",
+      "createdAt": "2026-10-01T15:46:01.483Z",
+      "updatedAt": "2026-10-01T15:46:01.485Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "c0b5e5da-84c3-491a-b84c-9c3082d97238",
+      "role": "scheduler",
+      "title": "Innovation scan",
+      "detail": "Innovation scan",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "0393e332-6dd1-4f6e-ae2d-7e73eccab463",
+      "createdAt": "2026-10-01T15:46:01.634Z",
+      "updatedAt": "2026-10-01T15:46:01.636Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "713f1bd4-ad5e-497d-b740-a861c526cb71",
+      "role": "scheduler",
+      "title": "World AI news — BREAKING",
+      "detail": "World AI news — BREAKING",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "67cdc740-71e2-415f-b063-1b0113f87404",
+      "createdAt": "2026-10-01T15:46:01.755Z",
+      "updatedAt": "2026-10-01T15:46:01.756Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "40eb6a41-a3c1-45fe-a6b7-2fcbac346287",
+      "role": "admin",
+      "title": "MD Audit: Template: general-task",
+      "detail": "60% failure rate (3/5)\n\nInvestigate failure pattern for general-task and tighten validation / retry logic.\n\nEvidence: byTemplate[general-task]\n\nFrom the 2026-10-01 MD System Audit — _neuroworks/system-audits/2026-10-01.md",
+      "status": "backlog",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-01T15:50:02.910Z",
+      "updatedAt": "2026-10-01T15:50:02.910Z",
+      "createdBy": "daemon"
     }
   ]
 }
