@@ -2,7 +2,7 @@
 type: template
 title: Quick web look-up (custom-clawbot-quick-web-look-up)
 slug: custom-clawbot-quick-web-look-up
-created: 2026-10-02T18:44:53.928Z
+created: 2026-10-02T18:45:18.052Z
 templateId: custom-clawbot-quick-web-look-up
 role: Custom
 originTask: Look up the following question on the web. Give a tight 3-5 sentence answer with cited sources. Do not capture to the vault unless the answer is non-obvious.
