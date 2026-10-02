@@ -3221,3 +3221,4 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":901,"ts":"2026-10-02T20:05:02.926Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1210,"ts":"2026-10-02T20:05:03.275Z"}
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — gemini-3-flash-preview","latencyMs":2036,"ts":"2026-10-02T20:05:04.021Z"}
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-02T20:08:42.480Z"}
