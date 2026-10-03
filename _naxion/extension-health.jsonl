@@ -1,0 +1,4 @@
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-03T09:38:16.848Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":1715,"ts":"2026-10-03T09:38:18.573Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — openai/gpt-4o","latencyMs":2016,"ts":"2026-10-03T09:38:18.797Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":2436,"ts":"2026-10-03T09:38:19.305Z"}
