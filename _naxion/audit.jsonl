@@ -82,3 +82,4 @@
 {"level":"info","actor":"architect","action":"notify.attention","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"1 task waiting on your approval. Oldest: \"Proposed improvement: naxionai/docs/EXTENSIONS.md\".","result":"success","id":"mushfhw6-2","ts":"2026-10-03T14:23:29.622Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mushflcd-3","ts":"2026-10-03T14:23:34.093Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mushfle9-4","ts":"2026-10-03T14:23:34.161Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mushfupj-5","ts":"2026-10-03T14:23:46.231Z"}
