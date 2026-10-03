@@ -8,8 +8,8 @@ edit takes effect within a minute).
 
 | Task type | Check first | Notes |
 |---|---|---|
-| Finance / revenue / invoices / expenses | `_company/`, a connected finance database (`db.list_sources`) | Never guess a number — pull it from the source. |
-| Sales / CRM / pipeline / deals | a CRM connector, `_company/` | |
+| Finance / revenue / invoices / expenses | a connected finance database (`db.list_sources`), `2-Permanent/` | Never guess a number — pull it from the source. |
+| Sales / CRM / pipeline / deals | a CRM connector | |
 | Marketing / campaigns / objections / call themes | `_wiki/` (compiled) | Raw call transcripts live in `_archive/`; only the nightly compile writes `_wiki/`. |
 | Operations / SOPs / how-we-do-X / policies | `2-Permanent/`, `_wiki/` | |
 | "What did we learn from recent calls/videos/notes?" | `_wiki/` first, `_archive/` for the source material | |
