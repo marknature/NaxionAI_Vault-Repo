@@ -474,3 +474,6 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musso8i5-309","ts":"2026-10-03T19:38:13.133Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/onboarding","detail":"/onboarding","result":"success","id":"mussodxv-310","ts":"2026-10-03T19:38:20.179Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/onboarding","detail":"/onboarding","result":"success","id":"mussodyh-311","ts":"2026-10-03T19:38:20.201Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"must6gkd-1","ts":"2026-10-03T19:52:23.389Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/onboarding","detail":"/onboarding","result":"success","id":"must6lfp-2","ts":"2026-10-03T19:52:29.701Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/onboarding","detail":"/onboarding","result":"success","id":"must6lgd-3","ts":"2026-10-03T19:52:29.725Z"}
