@@ -101,3 +101,4 @@
 {"level":"info","actor":"architect","action":"org_task.nudge","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"1 waiting","result":"success","id":"musi4wci-1","ts":"2026-10-03T14:43:14.754Z"}
 {"level":"info","actor":"architect","action":"org_task.nudge","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"1 waiting","result":"success","id":"musi5f6q-1","ts":"2026-10-03T14:43:39.170Z"}
 {"level":"info","actor":"architect","action":"org_task.nudge","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"1 waiting","result":"success","id":"musi5pwv-1","ts":"2026-10-03T14:43:53.071Z"}
+{"level":"info","actor":"architect","action":"notify.attention","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"1 task waiting on your approval. Oldest: \"Proposed improvement: naxionai/docs/EXTENSIONS.md\".","result":"success","id":"musi5qu6-2","ts":"2026-10-03T14:43:54.270Z"}
