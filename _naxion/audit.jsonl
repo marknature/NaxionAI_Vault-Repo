@@ -3,3 +3,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mus7b5cm-3","ts":"2026-10-03T09:40:10.585Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mus7b5pk-4","ts":"2026-10-03T09:40:11.048Z"}
 {"level":"info","actor":"admin","action":"org_task.created","target":"MD Audit: Audit","detail":"No audit events in 30d — logging may be broken or system unused\n\nVerify audit log writes (check _naxion/audit.jsonl) and ensure jobs log events.\n\nEvidence: auditEvents30d=0\n\nFrom the 2026-10-03 MD Sys","result":"success","id":"mus7czgi-5","ts":"2026-10-03T09:41:36.258Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:0","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: ","result":"failure","id":"mus7g0tm-1","ts":"2026-10-03T09:43:57.994Z"}
