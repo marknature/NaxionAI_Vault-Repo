@@ -136,3 +136,5 @@
 {"level":"info","actor":"architect","action":"org_task.waiting-on-approval","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"A small code improvement has been proposed for review — see the attached diff.","result":"pending","id":"musio5i2-31","ts":"2026-10-03T14:58:13.082Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musiok9o-32","ts":"2026-10-03T14:58:32.220Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musiok9t-33","ts":"2026-10-03T14:58:32.225Z"}
+{"level":"info","actor":"architect","action":"org_task.nudge","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"2 waiting","result":"success","id":"musip5zs-1","ts":"2026-10-03T14:59:00.376Z"}
+{"level":"info","actor":"architect","action":"notify.attention","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"2 tasks waiting on your approval. Oldest: \"Proposed improvement: naxionai/docs/EXTENSIONS.md\".","result":"success","id":"musip6og-2","ts":"2026-10-03T14:59:01.264Z"}
