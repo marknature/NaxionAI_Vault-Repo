@@ -1390,12 +1390,12 @@
       "role": "scheduler",
       "title": "Africa AI news — BREAKING",
       "detail": "Africa AI news — BREAKING",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "9dcee0fd-7473-44d5-a0ba-573d29ca5808",
       "createdAt": "2026-10-03T08:08:03.567Z",
-      "updatedAt": "2026-10-03T08:08:03.569Z",
+      "updatedAt": "2026-10-03T08:55:21.832Z",
       "createdBy": "daemon"
     },
     {
@@ -1403,12 +1403,12 @@
       "role": "scheduler",
       "title": "Daily briefing",
       "detail": "Daily briefing",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "0a0f32a5-519b-4346-827c-37226e4684c6",
       "createdAt": "2026-10-03T08:08:03.938Z",
-      "updatedAt": "2026-10-03T08:08:03.940Z",
+      "updatedAt": "2026-10-03T08:55:21.818Z",
       "createdBy": "daemon"
     },
     {
@@ -1416,12 +1416,36 @@
       "role": "scheduler",
       "title": "Innovation scan",
       "detail": "Innovation scan",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "4508e254-301e-4d90-a89f-fc7be5515c5c",
       "createdAt": "2026-10-03T08:08:04.007Z",
-      "updatedAt": "2026-10-03T08:08:04.009Z",
+      "updatedAt": "2026-10-03T08:55:21.813Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "ecaabb9d-3602-43c9-b1fe-0349693d94ef",
+      "role": "admin",
+      "title": "MD Audit: Org Tasks",
+      "detail": "8 tasks stuck in blocked — may need triage\n\nReview blocked OrgTasks on /org-dashboard, resolve or archive stale items.\n\nEvidence: orgTasks blocked=8 total=111\n\nFrom the 2026-10-03 MD System Audit — _neuroworks/system-audits/2026-10-03.md",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-03T08:36:14.492Z",
+      "updatedAt": "2026-10-03T08:36:14.492Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "4bd6442e-02f5-47e3-bc63-e7a9495fa0e8",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — model-reliability:muse-glimmer:latest",
+      "detail": "\"muse-glimmer:latest\" is failing 58% of calls (11/19)\n\nSwitch the tier using \"muse-glimmer:latest\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"muse-glimmer:latest\"]: calls=19 failed=11 failureRate=0.58",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-03T08:37:02.036Z",
+      "updatedAt": "2026-10-03T08:37:02.036Z",
       "createdBy": "daemon"
     }
   ]
