@@ -11,3 +11,6 @@
 {"jobId":"adhoc","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-03T10:00:02.489Z","ok":false,"error":"fetch failed"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-03T10:05:23.097Z","ok":false,"error":"fetch failed"}
 {"jobId":"adhoc","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-03T10:11:20.702Z","ok":false,"error":"fetch failed"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-03T11:01:47.102Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-03T11:01:47.929Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-03T11:01:48.614Z"}
