@@ -1,3 +1,16 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "id": "10052de9-4be4-479f-8ded-cd0ef6116fa7",
+      "role": "admin",
+      "title": "MD Audit: Audit",
+      "detail": "No audit events in 30d — logging may be broken or system unused\n\nVerify audit log writes (check _naxion/audit.jsonl) and ensure jobs log events.\n\nEvidence: auditEvents30d=0\n\nFrom the 2026-10-03 MD System Audit — _naxion/system-audits/2026-10-03.md",
+      "status": "backlog",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-03T09:41:36.227Z",
+      "updatedAt": "2026-10-03T09:41:36.227Z",
+      "createdBy": "daemon"
+    }
+  ]
 }
