@@ -3277,3 +3277,7 @@
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — gemini-3-flash-preview","latencyMs":1197,"ts":"2026-10-03T08:36:31.206Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":1843,"ts":"2026-10-03T08:36:31.912Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":2066,"ts":"2026-10-03T08:36:32.195Z"}
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-03T08:55:22.879Z"}
+{"id":"openrouter","ok":false,"detail":"This operation was aborted","latencyMs":4676,"ts":"2026-10-03T08:55:27.449Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":5132,"ts":"2026-10-03T08:55:28.049Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":5955,"ts":"2026-10-03T08:55:28.841Z"}
