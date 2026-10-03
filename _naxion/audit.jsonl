@@ -458,3 +458,19 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"musrucan-293","ts":"2026-10-03T19:14:58.367Z"}
 {"level":"info","actor":"architect","action":"org_task.nudge","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"2 waiting","result":"success","id":"muss0p23-294","ts":"2026-10-03T19:19:54.843Z"}
 {"level":"info","actor":"architect","action":"notify.attention","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"2 tasks waiting on your approval. Oldest: \"Proposed improvement: naxionai/docs/EXTENSIONS.md\".","result":"success","id":"muss0pd1-295","ts":"2026-10-03T19:19:55.237Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mussnez8-296","ts":"2026-10-03T19:37:34.868Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mussnf05-297","ts":"2026-10-03T19:37:34.901Z"}
+{"level":"info","actor":"architect","action":"org_task.active","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"","result":"pending","id":"mussnhp3-298","ts":"2026-10-03T19:37:38.391Z"}
+{"level":"info","actor":"architect","action":"org_task.active","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"","result":"pending","id":"mussnizk-299","ts":"2026-10-03T19:37:40.064Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mussnnzs-300","ts":"2026-10-03T19:37:46.552Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mussno19-301","ts":"2026-10-03T19:37:46.605Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"musso2yq-302","ts":"2026-10-03T19:38:05.954Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"musso3ex-303","ts":"2026-10-03T19:38:06.537Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"musso85e-304","ts":"2026-10-03T19:38:12.674Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"musso85w-305","ts":"2026-10-03T19:38:12.692Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"musso86a-306","ts":"2026-10-03T19:38:12.706Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"musso870-307","ts":"2026-10-03T19:38:12.732Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musso8fx-308","ts":"2026-10-03T19:38:13.053Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musso8i5-309","ts":"2026-10-03T19:38:13.133Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/onboarding","detail":"/onboarding","result":"success","id":"mussodxv-310","ts":"2026-10-03T19:38:20.179Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/onboarding","detail":"/onboarding","result":"success","id":"mussodyh-311","ts":"2026-10-03T19:38:20.201Z"}
