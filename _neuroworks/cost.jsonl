@@ -3056,3 +3056,12 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":2,"costUsd":0,"ts":"2026-10-02T21:40:06.553Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":2,"costUsd":0,"ts":"2026-10-02T21:40:07.642Z"}
 {"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"planning","inputTokens":2284,"outputTokens":11,"costUsd":0,"ts":"2026-10-03T08:08:06.023Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"planning","inputTokens":2374,"outputTokens":14,"costUsd":0,"ts":"2026-10-03T08:08:07.969Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"balanced","inputTokens":270,"outputTokens":49,"costUsd":0,"ts":"2026-10-03T08:08:08.476Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"planning","inputTokens":2490,"outputTokens":16,"costUsd":0,"ts":"2026-10-03T08:08:17.934Z"}
+{"jobId":"0a0f32a5-519b-4346-827c-37226e4684c6","model":"gemini-flash-latest","backend":"ollama","profile":"synthesis","inputTokens":4069,"outputTokens":43,"costUsd":0,"ts":"2026-10-03T08:08:20.865Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"balanced","inputTokens":374,"outputTokens":264,"costUsd":0,"ts":"2026-10-03T08:08:20.959Z"}
+{"jobId":"4508e254-301e-4d90-a89f-fc7be5515c5c","model":"gemini-3-flash-preview","backend":"ollama","profile":"synthesis","inputTokens":5780,"outputTokens":1086,"costUsd":0,"ts":"2026-10-03T08:08:28.552Z"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":2513,"outputTokens":11,"costUsd":0,"ts":"2026-10-03T08:08:29.081Z"}
+{"jobId":"0a0f32a5-519b-4346-827c-37226e4684c6","model":"gemini-flash-latest","backend":"ollama","profile":"extraction","inputTokens":2147,"outputTokens":18,"costUsd":0,"ts":"2026-10-03T08:08:29.996Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-03T08:08:35.586Z"}
