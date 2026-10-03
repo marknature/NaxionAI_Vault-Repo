@@ -1384,6 +1384,45 @@
       "createdAt": "2026-10-02T13:31:15.846Z",
       "updatedAt": "2026-10-02T13:31:15.846Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "03c07580-b16f-442f-8d8f-1e266ac55675",
+      "role": "scheduler",
+      "title": "Africa AI news — BREAKING",
+      "detail": "Africa AI news — BREAKING",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "9dcee0fd-7473-44d5-a0ba-573d29ca5808",
+      "createdAt": "2026-10-03T08:08:03.567Z",
+      "updatedAt": "2026-10-03T08:08:03.569Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "4e3de3c6-c880-4e1b-bc02-682b496010d9",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "0a0f32a5-519b-4346-827c-37226e4684c6",
+      "createdAt": "2026-10-03T08:08:03.938Z",
+      "updatedAt": "2026-10-03T08:08:03.940Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "521c4664-e786-43ea-95a3-b79047fad3eb",
+      "role": "scheduler",
+      "title": "Innovation scan",
+      "detail": "Innovation scan",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "4508e254-301e-4d90-a89f-fc7be5515c5c",
+      "createdAt": "2026-10-03T08:08:04.007Z",
+      "updatedAt": "2026-10-03T08:08:04.009Z",
+      "createdBy": "daemon"
     }
   ]
 }
