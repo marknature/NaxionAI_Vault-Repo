@@ -108,3 +108,31 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"musi7yye-3","ts":"2026-10-03T14:45:38.103Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musi85eo-4","ts":"2026-10-03T14:45:46.464Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musi85v3-5","ts":"2026-10-03T14:45:47.055Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musi98ym-6","ts":"2026-10-03T14:46:37.726Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musi993e-7","ts":"2026-10-03T14:46:37.898Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musi9v37-8","ts":"2026-10-03T14:47:06.403Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musi9v43-9","ts":"2026-10-03T14:47:06.435Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musid11z-10","ts":"2026-10-03T14:49:34.103Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musid128-11","ts":"2026-10-03T14:49:34.112Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musiea8b-12","ts":"2026-10-03T14:50:32.651Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musiea9h-13","ts":"2026-10-03T14:50:32.693Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musifknm-14","ts":"2026-10-03T14:51:32.818Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musifleh-15","ts":"2026-10-03T14:51:33.785Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musiguox-16","ts":"2026-10-03T14:52:32.481Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musigupg-17","ts":"2026-10-03T14:52:32.500Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musii4xw-18","ts":"2026-10-03T14:53:32.420Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musii4yy-19","ts":"2026-10-03T14:53:32.458Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musiintl-20","ts":"2026-10-03T14:53:56.889Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musiinua-21","ts":"2026-10-03T14:53:56.914Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musijfb1-22","ts":"2026-10-03T14:54:32.509Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musijfb8-23","ts":"2026-10-03T14:54:32.516Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musikph2-24","ts":"2026-10-03T14:55:32.342Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musikphe-25","ts":"2026-10-03T14:55:32.354Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musilzqa-26","ts":"2026-10-03T14:56:32.290Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musilzr5-27","ts":"2026-10-03T14:56:32.321Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musina0i-28","ts":"2026-10-03T14:57:32.274Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musina0u-29","ts":"2026-10-03T14:57:32.286Z"}
+{"level":"info","actor":"architect","action":"org_task.created","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"Add `N8N_WORKFLOW_ID` to enable specific workflows for n8n integration.","result":"success","id":"musio5i0-30","ts":"2026-10-03T14:58:13.080Z"}
+{"level":"info","actor":"architect","action":"org_task.waiting-on-approval","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"A small code improvement has been proposed for review — see the attached diff.","result":"pending","id":"musio5i2-31","ts":"2026-10-03T14:58:13.082Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musiok9o-32","ts":"2026-10-03T14:58:32.220Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musiok9t-33","ts":"2026-10-03T14:58:32.225Z"}
