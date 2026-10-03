@@ -936,3 +936,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"musy1eyo-190","ts":"2026-10-03T22:08:26.112Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"musy1ez0-191","ts":"2026-10-03T22:08:26.124Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"musyfbq9-192","ts":"2026-10-03T22:19:15.105Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mut0khl5-193","ts":"2026-10-03T23:19:15.209Z"}
