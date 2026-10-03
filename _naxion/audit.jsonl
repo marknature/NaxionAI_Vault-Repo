@@ -169,3 +169,17 @@
 {"level":"info","actor":"architect","action":"notify.attention","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"2 tasks waiting on your approval. Oldest: \"Proposed improvement: naxionai/docs/EXTENSIONS.md\".","result":"success","id":"musj9rni-4","ts":"2026-10-03T15:15:01.567Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"musj9svu-5","ts":"2026-10-03T15:15:03.162Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"musj9swj-6","ts":"2026-10-03T15:15:03.187Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | ollama:fetch failed | alerts: jev","result":"failure","id":"musjab1h-7","ts":"2026-10-03T15:15:26.693Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"musjain4-8","ts":"2026-10-03T15:15:36.544Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"musjainu-9","ts":"2026-10-03T15:15:36.570Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musk1x8h-10","ts":"2026-10-03T15:36:55.169Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"musk1x8r-11","ts":"2026-10-03T15:36:55.179Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"musk1xpx-12","ts":"2026-10-03T15:36:55.797Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"musk1xpz-13","ts":"2026-10-03T15:36:55.799Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"musk1xq3-14","ts":"2026-10-03T15:36:55.803Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"musk1xqg-15","ts":"2026-10-03T15:36:55.816Z"}
+{"level":"info","actor":"architect","action":"org_task.nudge","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"2 waiting","result":"success","id":"muskimbt-16","ts":"2026-10-03T15:49:54.185Z"}
+{"level":"info","actor":"architect","action":"notify.attention","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"2 tasks waiting on your approval. Oldest: \"Proposed improvement: naxionai/docs/EXTENSIONS.md\".","result":"success","id":"muskin4u-17","ts":"2026-10-03T15:49:55.230Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"musleu3w-18","ts":"2026-10-03T16:14:57.260Z"}
+{"level":"info","actor":"architect","action":"org_task.nudge","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"2 waiting","result":"success","id":"musll796-19","ts":"2026-10-03T16:19:54.235Z"}
+{"level":"info","actor":"architect","action":"notify.attention","target":"Proposed improvement: naxionai/docs/EXTENSIONS.md","detail":"2 tasks waiting on your approval. Oldest: \"Proposed improvement: naxionai/docs/EXTENSIONS.md\".","result":"success","id":"musll8ag-20","ts":"2026-10-03T16:19:55.576Z"}
