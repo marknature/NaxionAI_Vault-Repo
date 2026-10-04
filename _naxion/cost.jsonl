@@ -482,3 +482,5 @@
 {"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"planning","inputTokens":1778,"outputTokens":140,"costUsd":0,"ts":"2026-10-04T21:16:29.671Z"}
 {"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"planning","inputTokens":2247,"outputTokens":1327,"costUsd":0,"ts":"2026-10-04T21:16:43.911Z"}
 {"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"planning","inputTokens":2350,"outputTokens":503,"costUsd":0,"ts":"2026-10-04T21:16:58.611Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-04T21:22:08.688Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-04T21:22:08.705Z","ok":false,"error":"Ollama 404: {\"error\":\"model 'qwen2.5:3b' not found\"}"}
