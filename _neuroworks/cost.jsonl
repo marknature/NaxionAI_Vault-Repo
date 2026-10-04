@@ -2,3 +2,4 @@
 {"jobId":"adhoc","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-04T13:17:07.402Z","ok":false,"error":"This operation was aborted"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-04T13:17:38.523Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-04T13:17:39.034Z"}
+{"jobId":"adhoc","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-04T13:31:49.270Z","ok":false,"error":"fetch failed"}
