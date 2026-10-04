@@ -287,3 +287,13 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-04T12:30:49.772Z"}
 {"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"planning","inputTokens":1458,"outputTokens":35,"costUsd":0,"ts":"2026-10-04T12:30:51.412Z"}
 {"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"synthesis","inputTokens":849,"outputTokens":518,"costUsd":0,"ts":"2026-10-04T12:38:42.090Z"}
+{"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"planning","inputTokens":338,"outputTokens":1039,"costUsd":0,"ts":"2026-10-04T12:39:56.725Z"}
+{"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"planning","inputTokens":7795,"outputTokens":914,"costUsd":0,"ts":"2026-10-04T12:40:01.660Z"}
+{"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"planning","inputTokens":7794,"outputTokens":637,"costUsd":0,"ts":"2026-10-04T12:40:04.002Z"}
+{"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"planning","inputTokens":7793,"outputTokens":359,"costUsd":0,"ts":"2026-10-04T12:40:05.737Z"}
+{"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"synthesis","inputTokens":349,"outputTokens":1232,"costUsd":0,"ts":"2026-10-04T12:40:14.952Z"}
+{"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"synthesis","inputTokens":4154,"outputTokens":744,"costUsd":0,"ts":"2026-10-04T12:40:26.176Z"}
+{"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"extraction","inputTokens":1479,"outputTokens":491,"costUsd":0,"ts":"2026-10-04T12:40:31.288Z"}
+{"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"synthesis","inputTokens":5529,"outputTokens":754,"costUsd":0,"ts":"2026-10-04T12:40:33.893Z"}
+{"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"extraction","inputTokens":796,"outputTokens":921,"costUsd":0,"ts":"2026-10-04T12:40:36.750Z"}
+{"jobId":"adhoc","model":"gpt-oss:120b","backend":"ollama","profile":"synthesis","inputTokens":5653,"outputTokens":727,"costUsd":0,"ts":"2026-10-04T12:40:39.148Z"}

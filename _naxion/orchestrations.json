@@ -1,0 +1,54 @@
+[
+  {
+    "id": "23efabaa-f43d-4f3a-852b-af43718a28e5",
+    "label": "Naxie Improvement Research",
+    "objective": "Research on how to improve Naxie",
+    "decomposition": "The overall goal is to gather comprehensive, independent insights that together form a complete picture of how Naxie can be improved. The work is split into parallel tracks: a technical audit to pinpoint engineering upgrades, a market study to understand user demand and competitive positioning, a UX/UI evaluation to enhance user experience, a business model review to explore revenue and growth opportunities, and a high‑level implementation roadmap that outlines feasible steps and timelines. Each sub‑task can be completed without relying on the outputs of the others, allowing simultaneous execution.",
+    "subTasks": [
+      {
+        "label": "Technical Audit & Enhancement Proposals",
+        "personaName": "Technical Analyst",
+        "instructions": "Conduct a technical assessment of the current Naxie product or platform. Identify existing limitations, performance bottlenecks, security concerns, and scalability issues. For each identified area, propose concrete improvement actions, estimate implementation effort (low/medium/high), and predict potential impact on performance or user value. Output format: a markdown table with columns: Issue, Proposed Improvement, Effort Level, Expected Impact.",
+        "status": "pending",
+        "id": "23efabaa-f43d-4f3a-852b-af43718a28e5-0",
+        "output": ""
+      },
+      {
+        "label": "Market & Competitor Landscape",
+        "personaName": "Market Researcher",
+        "instructions": "Research the target market for Naxie, including key user demographics, pain points, and unmet needs. Identify at least three direct competitors and summarize their strengths, weaknesses, and feature sets. Provide insights on market trends that could affect Naxie's positioning. Output format: a concise report (max 500 words) with three sections – User Needs, Competitor Summary (bullet points), Market Trends – followed by a bullet list of top three opportunities for Naxie.",
+        "status": "pending",
+        "id": "23efabaa-f43d-4f3a-852b-af43718a28e5-1",
+        "output": ""
+      },
+      {
+        "label": "UX/UI Evaluation & Recommendations",
+        "personaName": "UX Designer",
+        "instructions": "Review the user experience and interface of Naxie based on publicly available screenshots, demos, or descriptions. Identify usability issues, visual inconsistencies, and navigation problems. Provide a prioritized list of UX/UI improvements, each with a brief rationale and suggested design change. Output format: numbered list of recommendations, each entry containing: Issue, Recommendation, Rationale, Priority (High/Medium/Low).",
+        "status": "pending",
+        "id": "23efabaa-f43d-4f3a-852b-af43718a28e5-2",
+        "output": ""
+      },
+      {
+        "label": "Business Model & Monetization Review",
+        "personaName": "Business Analyst",
+        "instructions": "Analyze Naxie's current business model (if known) or infer a plausible model based on its product type. Propose at least three alternative or supplemental monetization strategies, evaluating each for feasibility, revenue potential, and alignment with user needs. Output format: a markdown table with columns: Strategy, Description, Feasibility (Low/Medium/High), Revenue Potential (Low/Medium/High), Alignment with Users.",
+        "status": "pending",
+        "id": "23efabaa-f43d-4f3a-852b-af43718a28e5-3",
+        "output": ""
+      },
+      {
+        "label": "High‑Level Implementation Roadmap",
+        "personaName": "Product Manager",
+        "instructions": "Create a high‑level roadmap that outlines the sequence of improvement initiatives for Naxie over the next 12‑18 months. Include major milestones, estimated timeframes (quarters), and which type of improvement each milestone addresses (technical, UX, market, business). Output format: a simple Gantt‑style table with columns: Quarter, Milestone, Focus Area, Key Deliverables.",
+        "status": "pending",
+        "id": "23efabaa-f43d-4f3a-852b-af43718a28e5-4",
+        "output": ""
+      }
+    ],
+    "status": "running",
+    "finalReport": "",
+    "createdAt": "2026-10-04T12:39:56.728Z",
+    "updatedAt": "2026-10-04T12:39:56.729Z"
+  }
+]
