@@ -1273,3 +1273,4 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"muu50zfk-3","ts":"2026-10-04T18:11:49.472Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muu52izl-1","ts":"2026-10-04T18:13:01.473Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muu5aap4-1","ts":"2026-10-04T18:19:03.976Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"muu5p5if-1","ts":"2026-10-04T18:30:37.095Z"}
