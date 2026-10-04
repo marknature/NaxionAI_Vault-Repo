@@ -1,40 +1,39 @@
 {
-  "updatedAt": "2026-10-04T09:11:27.637Z",
+  "updatedAt": "2026-10-04T12:38:42.117Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
-      "totalRuns": 20,
+      "totalRuns": 23,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 242.4,
+      "avgDurationSec": 162.6,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
       "lastSeen": "2026-10-03"
     },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 75,
+      "totalRuns": 77,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 621.5,
+      "avgDurationSec": 521.9,
       "topError": "",
-      "remedy": "prior runs of this type are SLOW (avg ~622s vs a 600s budget) — split the work into parallel independent sub-agents and avoid unnecessarily heavy steps.",
-      "lastSeen": "2026-10-03",
-      "slow": true
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-03"
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 20,
+      "totalRuns": 21,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 0.1,
+      "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
       "lastSeen": "2026-10-03"
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
-      "totalRuns": 4,
+      "totalRuns": 5,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
@@ -44,10 +43,10 @@
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 28,
+      "totalRuns": 30,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 296.8,
+      "avgDurationSec": 333.6,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
       "lastSeen": "2026-10-03"
@@ -105,7 +104,7 @@
     },
     "weekly-improvement": {
       "template": "weekly-improvement",
-      "totalRuns": 3,
+      "totalRuns": 5,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
