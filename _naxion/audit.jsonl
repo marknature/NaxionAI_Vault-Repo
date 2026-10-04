@@ -1313,3 +1313,20 @@
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6yea9-13","ts":"2026-10-04T19:05:47.985Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6ym2q-14","ts":"2026-10-04T19:05:58.082Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6ym35-15","ts":"2026-10-04T19:05:58.097Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6yxot-1","ts":"2026-10-04T19:06:13.133Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6yxpw-2","ts":"2026-10-04T19:06:13.172Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"muu6zmuf-3","ts":"2026-10-04T19:06:45.735Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6zoo3-4","ts":"2026-10-04T19:06:48.099Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6zoo6-5","ts":"2026-10-04T19:06:48.102Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6zskc-6","ts":"2026-10-04T19:06:53.148Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6zskj-7","ts":"2026-10-04T19:06:53.155Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu70nif-8","ts":"2026-10-04T19:07:33.255Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu70nii-9","ts":"2026-10-04T19:07:33.258Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu70v6v-10","ts":"2026-10-04T19:07:43.207Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu70v76-11","ts":"2026-10-04T19:07:43.218Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu716rm-12","ts":"2026-10-04T19:07:58.210Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu716s5-13","ts":"2026-10-04T19:07:58.229Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu7295f-14","ts":"2026-10-04T19:08:47.955Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu7295j-15","ts":"2026-10-04T19:08:47.959Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu732e0-16","ts":"2026-10-04T19:09:25.848Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu732gb-17","ts":"2026-10-04T19:09:25.931Z"}
