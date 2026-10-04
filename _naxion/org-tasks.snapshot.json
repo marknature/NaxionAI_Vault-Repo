@@ -73,6 +73,18 @@
       "createdAt": "2026-10-04T08:44:27.828Z",
       "updatedAt": "2026-10-04T09:14:29.444Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "27f03218-8dea-4527-8f4b-d0255dd83968",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — model-reliability:gemma4:31b",
+      "detail": "\"gemma4:31b\" is failing 100% of calls (6/6)\n\nSwitch the tier using \"gemma4:31b\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"gemma4:31b\"]: calls=6 failed=6 failureRate=1.00",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-04T09:46:59.924Z",
+      "updatedAt": "2026-10-04T09:46:59.924Z",
+      "createdBy": "daemon"
     }
   ]
 }
