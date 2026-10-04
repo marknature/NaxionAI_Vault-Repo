@@ -993,3 +993,5 @@
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mutk7m3w-247","ts":"2026-10-04T08:29:06.860Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mutk8f33-248","ts":"2026-10-04T08:29:44.415Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mutk8f5n-249","ts":"2026-10-04T08:29:44.507Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutk9ntt-1","ts":"2026-10-04T08:30:42.401Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutk9nx3-2","ts":"2026-10-04T08:30:42.519Z"}
