@@ -451,3 +451,7 @@
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":417,"ts":"2026-10-04T21:16:03.185Z"}
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — gpt-oss:120b","latencyMs":637,"ts":"2026-10-04T21:16:03.400Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":1341,"ts":"2026-10-04T21:16:04.107Z"}
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-04T21:23:05.196Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — gpt-oss:120b","latencyMs":459,"ts":"2026-10-04T21:23:05.653Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":1112,"ts":"2026-10-04T21:23:06.310Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":10243,"ts":"2026-10-04T21:23:15.442Z"}

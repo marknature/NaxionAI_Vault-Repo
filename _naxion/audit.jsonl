@@ -1358,3 +1358,4 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muubfmj4-1","ts":"2026-10-04T21:11:10.288Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muubjgba-1","ts":"2026-10-04T21:14:08.854Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muublxxy-1","ts":"2026-10-04T21:16:05.014Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"muubv72d-1","ts":"2026-10-04T21:23:16.741Z"}
