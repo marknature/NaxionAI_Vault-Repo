@@ -1279,3 +1279,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu5w5h5-3","ts":"2026-10-04T18:36:03.641Z"}
 {"level":"info","actor":"system","action":"integration.add","target":"mailjet:c035f4d0-2a6b-43c6-982f-0af85952cad6","detail":"label=Mailjet","result":"success","id":"muu5xq16-4","ts":"2026-10-04T18:37:16.938Z"}
 {"level":"info","actor":"system","action":"integration.test","target":"c035f4d0-2a6b-43c6-982f-0af85952cad6","detail":"token valid","result":"success","id":"muu5xquc-5","ts":"2026-10-04T18:37:17.988Z"}
+{"level":"warn","actor":"system","action":"extension.test","target":"jev","detail":"TYPESAFE_API_KEY not set","result":"failure","id":"muu5ztsp-1","ts":"2026-10-04T18:38:55.130Z"}
