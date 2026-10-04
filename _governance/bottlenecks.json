@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-04T12:38:42.117Z",
+  "updatedAt": "2026-10-04T21:06:14.245Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
-      "totalRuns": 23,
+      "totalRuns": 26,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 162.6,
+      "avgDurationSec": 4.3,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
       "lastSeen": "2026-10-03"
     },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 77,
+      "totalRuns": 79,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 521.9,
@@ -23,7 +23,7 @@
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 21,
+      "totalRuns": 22,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
@@ -33,7 +33,7 @@
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
-      "totalRuns": 5,
+      "totalRuns": 6,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
@@ -43,10 +43,10 @@
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 30,
+      "totalRuns": 31,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 333.6,
+      "avgDurationSec": 182.5,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
       "lastSeen": "2026-10-03"
@@ -104,10 +104,20 @@
     },
     "weekly-improvement": {
       "template": "weekly-improvement",
-      "totalRuns": 5,
+      "totalRuns": 7,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-03"
+    },
+    "insights:board-meeting": {
+      "template": "insights:board-meeting",
+      "totalRuns": 2,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 84,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
       "lastSeen": "2026-10-03"
