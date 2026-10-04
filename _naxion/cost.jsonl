@@ -147,3 +147,5 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-04T09:06:11.397Z"}
 {"jobId":"adhoc","model":"openai/gpt-4o","backend":"openrouter","profile":"synthesis","inputTokens":787,"outputTokens":216,"costUsd":0.005601,"ts":"2026-10-04T09:10:01.796Z"}
 {"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"planning","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-04T09:10:39.004Z","ok":false,"error":"OpenRouter 404: {\"error\":\"path \\\"/api/v1/chat/completions\\\" not found\"}\n"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"openrouter","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-04T09:11:04.538Z","ok":false,"error":"OpenRouter 404: {\"error\":\"path \\\"/api/v1/chat/completions\\\" not found\"}\n"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":2,"costUsd":0,"ts":"2026-10-04T09:11:08.575Z"}
