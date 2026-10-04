@@ -1044,3 +1044,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"mutm0xvv-7","ts":"2026-10-04T09:19:54.763Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mutm9s4s-1","ts":"2026-10-04T09:26:47.212Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"mutmhf90-1","ts":"2026-10-04T09:32:43.764Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mutmk053-1","ts":"2026-10-04T09:34:44.151Z"}
