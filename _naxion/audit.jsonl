@@ -947,3 +947,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mutd36yd-201","ts":"2026-10-04T05:09:43.285Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mutd47l3-202","ts":"2026-10-04T05:10:30.759Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mutd47ph-203","ts":"2026-10-04T05:10:30.917Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mutdfgbi-204","ts":"2026-10-04T05:19:15.294Z"}
