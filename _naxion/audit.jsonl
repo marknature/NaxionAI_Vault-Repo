@@ -1007,3 +1007,5 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mutkhgot-1","ts":"2026-10-04T08:36:46.397Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutkpu43-1","ts":"2026-10-04T08:43:17.043Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutkpu7w-2","ts":"2026-10-04T08:43:17.180Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mutkq4bg-3","ts":"2026-10-04T08:43:30.268Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mutkq4g3-4","ts":"2026-10-04T08:43:30.435Z"}
