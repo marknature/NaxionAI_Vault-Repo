@@ -1244,3 +1244,4 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:2","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev,supabase","result":"failure","id":"muu3bqmo-141","ts":"2026-10-04T17:24:12.048Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu3c00y-142","ts":"2026-10-04T17:24:24.226Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu3c03h-143","ts":"2026-10-04T17:24:24.317Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muu3f8bb-1","ts":"2026-10-04T17:26:54.935Z"}
