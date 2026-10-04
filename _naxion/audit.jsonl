@@ -1367,3 +1367,6 @@
 {"level":"info","actor":"web","action":"page.view","target":"/skills","detail":"/skills","result":"success","id":"muuc6luk-2","ts":"2026-10-04T21:32:09.116Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/templates","detail":"/templates","result":"success","id":"muuc6pxi-3","ts":"2026-10-04T21:32:14.406Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muue9u3h-4","ts":"2026-10-04T22:30:39.005Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"14h idle","result":"success","id":"muufj14x-5","ts":"2026-10-04T23:05:47.649Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Ending: Light way","result":"success","id":"muufj1hk-6","ts":"2026-10-04T23:05:48.104Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muugf0fk-7","ts":"2026-10-04T23:30:39.728Z"}
