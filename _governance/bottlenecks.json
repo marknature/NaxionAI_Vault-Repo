@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-04T09:10:02.215Z",
+  "updatedAt": "2026-10-04T09:11:27.637Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
-      "totalRuns": 18,
+      "totalRuns": 20,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 477.1,
+      "avgDurationSec": 242.4,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
       "lastSeen": "2026-10-03"
     },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 67,
+      "totalRuns": 75,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 621.5,
@@ -24,7 +24,7 @@
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 18,
+      "totalRuns": 20,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0.1,
@@ -34,7 +34,7 @@
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
-      "totalRuns": 3,
+      "totalRuns": 4,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
@@ -44,7 +44,7 @@
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 25,
+      "totalRuns": 28,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 296.8,
@@ -105,7 +105,7 @@
     },
     "weekly-improvement": {
       "template": "weekly-improvement",
-      "totalRuns": 1,
+      "totalRuns": 3,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
