@@ -948,3 +948,6 @@
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mutd47l3-202","ts":"2026-10-04T05:10:30.759Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mutd47ph-203","ts":"2026-10-04T05:10:30.917Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mutdfgbi-204","ts":"2026-10-04T05:19:15.294Z"}
+{"level":"info","actor":"naxie","action":"briefing.generated","target":"daily-briefing","detail":"96 chars","result":"success","id":"mutf83zv-205","ts":"2026-10-04T06:09:31.965Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — morning briefing ready","detail":"I couldn't get anywhere on this — nothing executed. Could you rephrase what you'd like me to do?","result":"success","id":"mutf87h5-206","ts":"2026-10-04T06:09:36.473Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mutfkm66-207","ts":"2026-10-04T06:19:15.391Z"}
