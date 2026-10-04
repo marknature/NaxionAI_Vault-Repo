@@ -35,6 +35,18 @@
       "createdAt": "2026-10-03T14:58:13.079Z",
       "updatedAt": "2026-10-03T19:37:38.390Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "d974b6c1-2e15-4c41-b04a-615b42f4dc80",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — model-reliability:muse-glimmer:latest",
+      "detail": "\"muse-glimmer:latest\" is failing 100% of calls (7/7)\n\nSwitch the tier using \"muse-glimmer:latest\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"muse-glimmer:latest\"]: calls=7 failed=7 failureRate=1.00",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-04T06:26:04.002Z",
+      "updatedAt": "2026-10-04T06:26:04.002Z",
+      "createdBy": "daemon"
     }
   ]
 }
