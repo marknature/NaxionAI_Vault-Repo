@@ -1004,3 +1004,4 @@
 {"level":"info","actor":"system","action":"integration.test","target":"920acca5-d657-400d-afad-4fd04972d627","detail":"bot @naxionbot → chat \"8767926406\"","result":"success","id":"mutkeyvl-9","ts":"2026-10-04T08:34:50.001Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mutkf7yv-10","ts":"2026-10-04T08:35:01.783Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mutkf7zj-11","ts":"2026-10-04T08:35:01.807Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mutkhgot-1","ts":"2026-10-04T08:36:46.397Z"}
