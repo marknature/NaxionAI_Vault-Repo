@@ -1,3 +1,60 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "id": "4eeb37d0-ed4a-4849-90e4-095b85b66646",
+      "role": "executor",
+      "title": "part 5",
+      "detail": "part 5",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "a76dc5c3-67a8-40aa-ad26-de9165fe6359",
+      "createdAt": "2026-10-04T13:11:17.875Z",
+      "updatedAt": "2026-10-04T13:11:17.913Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "3c412f66-09b7-4612-a175-68b1389af6e1",
+      "role": "admin",
+      "title": "MD Audit: Audit",
+      "detail": "No audit events in 30d — logging may be broken or system unused\n\nVerify audit log writes (check _neuroworks/audit.jsonl) and ensure jobs log events.\n\nEvidence: auditEvents30d=0\n\nFrom the 2026-10-04 MD System Audit — _neuroworks/system-audits/2026-10-04.md",
+      "status": "backlog",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-04T13:17:08.542Z",
+      "updatedAt": "2026-10-04T13:17:08.542Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "0bd7a39e-9ad9-4573-85ee-628d0c6a073b",
+      "role": "improver",
+      "title": "Rebuild the vault search index",
+      "detail": "The MiniSearch index is empty, so every lookup falls back to the slow vault walk.\n\nHow we'll implement it:\n1. Run buildIndex() over the vault now\n2. Check index age again in next week's review",
+      "status": "waiting-on-approval",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-04T13:31:51.304Z",
+      "updatedAt": "2026-10-04T13:31:52.208Z",
+      "createdBy": "daemon",
+      "pendingApproval": {
+        "actionDescription": "Improve retrieval: Rebuild the vault search index",
+        "kind": "improvement",
+        "improvement": {
+          "kind": "retrieval",
+          "title": "Rebuild the vault search index",
+          "effort": "S",
+          "why": "The MiniSearch index is empty, so every lookup falls back to the slow vault walk.",
+          "implementation": [
+            "Run buildIndex() over the vault now",
+            "Check index age again in next week's review"
+          ],
+          "payload": {
+            "action": "reindex"
+          },
+          "reviewDate": "2026-10-04"
+        },
+        "requestedAt": "2026-10-04T13:31:52.206Z"
+      }
+    }
+  ]
 }
