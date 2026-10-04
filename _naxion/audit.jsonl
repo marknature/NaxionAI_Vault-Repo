@@ -1274,3 +1274,8 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muu52izl-1","ts":"2026-10-04T18:13:01.473Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muu5aap4-1","ts":"2026-10-04T18:19:03.976Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"muu5p5if-1","ts":"2026-10-04T18:30:37.095Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muu5rkxy-1","ts":"2026-10-04T18:32:30.406Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu5w5h2-2","ts":"2026-10-04T18:36:03.638Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu5w5h5-3","ts":"2026-10-04T18:36:03.641Z"}
+{"level":"info","actor":"system","action":"integration.add","target":"mailjet:c035f4d0-2a6b-43c6-982f-0af85952cad6","detail":"label=Mailjet","result":"success","id":"muu5xq16-4","ts":"2026-10-04T18:37:16.938Z"}
+{"level":"info","actor":"system","action":"integration.test","target":"c035f4d0-2a6b-43c6-982f-0af85952cad6","detail":"token valid","result":"success","id":"muu5xquc-5","ts":"2026-10-04T18:37:17.988Z"}
