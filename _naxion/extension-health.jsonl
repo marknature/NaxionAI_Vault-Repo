@@ -322,3 +322,11 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":771,"ts":"2026-10-04T12:31:15.562Z"}
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — gpt-oss:120b","latencyMs":786,"ts":"2026-10-04T12:31:15.570Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1518,"ts":"2026-10-04T12:31:16.312Z"}
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-04T14:24:38.353Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — gpt-oss:120b","latencyMs":848,"ts":"2026-10-04T14:24:39.192Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":921,"ts":"2026-10-04T14:24:39.276Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":10383,"ts":"2026-10-04T14:24:48.747Z"}
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-04T15:24:08.345Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":597,"ts":"2026-10-04T15:24:08.945Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — gpt-oss:120b","latencyMs":613,"ts":"2026-10-04T15:24:08.952Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1803,"ts":"2026-10-04T15:24:10.154Z"}

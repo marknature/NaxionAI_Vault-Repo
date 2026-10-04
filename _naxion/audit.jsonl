@@ -1101,3 +1101,34 @@
 {"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"muttz7lc-26","ts":"2026-10-04T13:02:30.960Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"muttzd06-27","ts":"2026-10-04T13:02:37.974Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mutu6bzq-28","ts":"2026-10-04T13:08:03.254Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"mutwx2dv-1","ts":"2026-10-04T14:24:49.747Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutwy1j2-2","ts":"2026-10-04T14:25:35.294Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutwy1kv-3","ts":"2026-10-04T14:25:35.359Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutwy26j-4","ts":"2026-10-04T14:25:36.139Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"6h idle","result":"success","id":"mutxysdt-5","ts":"2026-10-04T14:54:09.713Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hey Nature, just checking in after a few hours—hope your day’s going smoothly! If anything’s popped up or you’d like a quick update on anything, just give me a shout.","result":"success","id":"mutxytcc-6","ts":"2026-10-04T14:54:10.956Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutywsmm-7","ts":"2026-10-04T15:20:36.335Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutywsmu-8","ts":"2026-10-04T15:20:36.342Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutyy1gt-9","ts":"2026-10-04T15:21:34.445Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutyy1j8-10","ts":"2026-10-04T15:21:34.532Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutyzcwg-11","ts":"2026-10-04T15:22:35.920Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutyzcx7-12","ts":"2026-10-04T15:22:35.947Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz02td-13","ts":"2026-10-04T15:23:09.505Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz02ts-14","ts":"2026-10-04T15:23:09.520Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz0n63-15","ts":"2026-10-04T15:23:35.883Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz0n6l-16","ts":"2026-10-04T15:23:35.901Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz0xof-17","ts":"2026-10-04T15:23:49.503Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz0xp3-18","ts":"2026-10-04T15:23:49.527Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mutz1ghk-19","ts":"2026-10-04T15:24:13.880Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz1xhy-20","ts":"2026-10-04T15:24:35.926Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz1xi6-21","ts":"2026-10-04T15:24:35.934Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz37u4-22","ts":"2026-10-04T15:25:35.980Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz37ue-23","ts":"2026-10-04T15:25:35.990Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz3tza-24","ts":"2026-10-04T15:26:04.678Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz3tze-25","ts":"2026-10-04T15:26:04.682Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz4i21-26","ts":"2026-10-04T15:26:35.881Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz4i26-27","ts":"2026-10-04T15:26:35.886Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz5sdi-28","ts":"2026-10-04T15:27:35.910Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz5sdq-29","ts":"2026-10-04T15:27:35.919Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz72mj-30","ts":"2026-10-04T15:28:35.851Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mutz72mw-31","ts":"2026-10-04T15:28:35.864Z"}
