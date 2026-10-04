@@ -1353,3 +1353,4 @@
 {"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"12h idle","result":"success","id":"muub4kao-8","ts":"2026-10-04T21:02:34.176Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hey Nature, just wanted to see how things are going on your end — no rush at all. If anything comes up, feel free to ping me or any of the team (Cole, Ivy, Sasha, Sam, or Kit).","result":"success","id":"muub4kxz-9","ts":"2026-10-04T21:02:35.015Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"muubam8k-1","ts":"2026-10-04T21:07:16.628Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muubbba2-2","ts":"2026-10-04T21:07:49.082Z"}
