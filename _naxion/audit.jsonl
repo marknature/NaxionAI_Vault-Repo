@@ -1021,3 +1021,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mutkve4k-12","ts":"2026-10-04T08:47:36.260Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mutkve6q-13","ts":"2026-10-04T08:47:36.338Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mutl3gly-14","ts":"2026-10-04T08:53:52.727Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"mutla0jl-1","ts":"2026-10-04T08:58:58.497Z"}
