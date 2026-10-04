@@ -47,6 +47,32 @@
       "createdAt": "2026-10-04T06:26:04.002Z",
       "updatedAt": "2026-10-04T06:26:04.002Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "c0175847-617b-4e72-9adc-30d6762bb325",
+      "role": "researcher",
+      "title": "Ad-hoc: Good morning can I get a brief on my day and the system",
+      "detail": "Ad-hoc: Good morning can I get a brief on my day and the system",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "635a87ec-4ad3-491e-9704-f4d1d59027c3",
+      "createdAt": "2026-10-04T08:44:27.748Z",
+      "updatedAt": "2026-10-04T08:44:27.750Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "ff81aaa0-1e6c-4c15-9da3-6e00e38e7be6",
+      "role": "executor",
+      "title": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
+      "detail": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "8e4abd75-adbe-4976-bb72-58481b4b941d",
+      "createdAt": "2026-10-04T08:44:27.828Z",
+      "updatedAt": "2026-10-04T08:44:27.830Z",
+      "createdBy": "naxie"
     }
   ]
 }
