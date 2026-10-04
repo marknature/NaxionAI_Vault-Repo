@@ -2,7 +2,7 @@
 type: template
 title: Capture and connect (custom-naxie-agent-capture-and-connect)
 slug: custom-naxie-agent-capture-and-connect
-created: 2026-10-04T12:23:38.905Z
+created: 2026-10-04T12:24:50.681Z
 templateId: custom-naxie-agent-capture-and-connect
 role: Custom
 originTask: Capture the following thought as a new vault note. Then search the vault for related material and add [[wikilinks]] to the 2-3 most relevant existing notes.
