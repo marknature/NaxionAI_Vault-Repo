@@ -1,1 +1,4 @@
 {"level":"warn","actor":"wiki-compile","action":"notify.urgent","target":"Wiki compile: 0 new entries","detail":"Overnight second-brain compile summary:\n\nNothing new in the archive overnight. (email not sent — not configured or no operator address)","result":"pending","id":"mutu83x1-1","ts":"2026-10-04T13:09:26.101Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mutu87aw-2","ts":"2026-10-04T13:09:30.488Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mutu8f5a-3","ts":"2026-10-04T13:09:40.654Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:0","detail":"core fails: openrouter:This operation was aborted | jev:TYPESAFE_API_KEY not set | alerts: ","result":"failure","id":"mutu8l9k-4","ts":"2026-10-04T13:09:48.584Z"}
