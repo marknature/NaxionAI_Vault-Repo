@@ -102,3 +102,4 @@
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":864,"outputTokens":11,"costUsd":0,"ts":"2026-10-03T21:23:01.331Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":890,"outputTokens":15,"costUsd":0,"ts":"2026-10-03T21:23:21.788Z"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-03T21:38:21.815Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"adhoc","model":"muse-glimmer:latest","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-04T05:12:16.331Z","ok":false,"error":"This operation was aborted"}

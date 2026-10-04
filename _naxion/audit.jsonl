@@ -942,3 +942,8 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mut6zyw6-196","ts":"2026-10-04T02:19:15.174Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mut954pb-197","ts":"2026-10-04T03:19:15.215Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mutbaaiv-198","ts":"2026-10-04T04:19:15.271Z"}
+{"level":"warn","actor":"wiki-compile","action":"notify.urgent","target":"Wiki compile: 0 new entries","detail":"Overnight second-brain compile summary:\n\nNothing new in the archive overnight. (email not sent — not configured or no operator address)","result":"pending","id":"mutd2mrr-199","ts":"2026-10-04T05:09:17.127Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mutd36xr-200","ts":"2026-10-04T05:09:43.263Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mutd36yd-201","ts":"2026-10-04T05:09:43.285Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mutd47l3-202","ts":"2026-10-04T05:10:30.759Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mutd47ph-203","ts":"2026-10-04T05:10:30.917Z"}
