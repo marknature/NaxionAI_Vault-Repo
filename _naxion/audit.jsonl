@@ -1280,3 +1280,23 @@
 {"level":"info","actor":"system","action":"integration.add","target":"mailjet:c035f4d0-2a6b-43c6-982f-0af85952cad6","detail":"label=Mailjet","result":"success","id":"muu5xq16-4","ts":"2026-10-04T18:37:16.938Z"}
 {"level":"info","actor":"system","action":"integration.test","target":"c035f4d0-2a6b-43c6-982f-0af85952cad6","detail":"token valid","result":"success","id":"muu5xquc-5","ts":"2026-10-04T18:37:17.988Z"}
 {"level":"warn","actor":"system","action":"extension.test","target":"jev","detail":"TYPESAFE_API_KEY not set","result":"failure","id":"muu5ztsp-1","ts":"2026-10-04T18:38:55.130Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muu60d40-2","ts":"2026-10-04T18:39:20.160Z"}
+{"level":"info","actor":"system","action":"extension.test","target":"supabase","detail":"Supabase reachable (HTTP 200)","result":"success","id":"muu61ioz-3","ts":"2026-10-04T18:40:14.051Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu61xrd-4","ts":"2026-10-04T18:40:33.577Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu61xrp-5","ts":"2026-10-04T18:40:33.589Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu62imn-6","ts":"2026-10-04T18:41:00.623Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu62iob-7","ts":"2026-10-04T18:41:00.683Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu63qqx-8","ts":"2026-10-04T18:41:57.801Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu63qrr-9","ts":"2026-10-04T18:41:57.831Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6434g-10","ts":"2026-10-04T18:42:13.840Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6435o-11","ts":"2026-10-04T18:42:13.884Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu66p6v-12","ts":"2026-10-04T18:44:15.751Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu66p82-13","ts":"2026-10-04T18:44:15.794Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu66q88-14","ts":"2026-10-04T18:44:17.096Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu66q8o-15","ts":"2026-10-04T18:44:17.112Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu67km3-16","ts":"2026-10-04T18:44:56.475Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu67knw-17","ts":"2026-10-04T18:44:56.540Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"10h idle","result":"success","id":"muu6pfhv-18","ts":"2026-10-04T18:58:49.652Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hey Nature, just popping in to see how you’re feeling after our chat yesterday—hope the garden’s thriving! If anything’s on your mind or you’d like a quick update, just give me a shout.","result":"success","id":"muu6pg0n-19","ts":"2026-10-04T18:58:50.327Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6rz81-1","ts":"2026-10-04T19:00:48.529Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muu6rz8u-2","ts":"2026-10-04T19:00:48.558Z"}
