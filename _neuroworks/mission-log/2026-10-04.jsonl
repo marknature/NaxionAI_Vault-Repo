@@ -1,0 +1,5 @@
+{"ts":"2026-10-04T14:13:48.423Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"## RAG — retrieved context (cite as [R#], [M#], [S#], [T#], or [I#] when used)\n[…\" — vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-10-04T14:13:48.854Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (78ms)","stepId":"2"}
+{"ts":"2026-10-04T14:15:48.875Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (120084ms)","stepId":"1"}
+{"ts":"2026-10-04T14:15:48.925Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"## RAG — retrieved context (cite as [R#], [M#], [S#], [T#], or [I#] when used)\n[…\" — vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-10-04T14:17:19.013Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}

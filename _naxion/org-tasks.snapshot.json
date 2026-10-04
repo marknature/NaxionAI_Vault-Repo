@@ -85,6 +85,32 @@
       "createdAt": "2026-10-04T09:46:59.924Z",
       "updatedAt": "2026-10-04T09:46:59.924Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "531f3be0-e151-423c-a858-f16b45a65731",
+      "role": "executor",
+      "title": "Board meeting: brainstrom how to improve naxie",
+      "detail": "Board meeting: brainstrom how to improve naxie",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "13b2bad3-8b4e-418e-902c-8b9d614f2093",
+      "createdAt": "2026-10-04T12:47:08.163Z",
+      "updatedAt": "2026-10-04T12:48:31.368Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "c4a1290c-0c16-4f84-b065-e037e3671be4",
+      "role": "executor",
+      "title": "Board meeting: brainstrom how to improve naxie",
+      "detail": "Board meeting: brainstrom how to improve naxie",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "9094e11a-dff5-4a5b-a223-0c2342463861",
+      "createdAt": "2026-10-04T12:47:13.272Z",
+      "updatedAt": "2026-10-04T12:48:38.170Z",
+      "createdBy": "naxie"
     }
   ]
 }
