@@ -1378,3 +1378,4 @@
 {"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"18h idle","result":"success","id":"muuo3pt3-13","ts":"2026-10-05T03:05:49.671Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"","result":"success","id":"muuo3q45-14","ts":"2026-10-05T03:05:50.069Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"muuoztou-15","ts":"2026-10-05T03:30:47.694Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muur4sj9-16","ts":"2026-10-05T04:30:38.709Z"}
