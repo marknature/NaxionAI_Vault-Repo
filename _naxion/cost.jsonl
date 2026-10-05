@@ -518,3 +518,12 @@
 {"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"balanced","inputTokens":281,"outputTokens":4,"costUsd":0,"ts":"2026-10-04T23:05:47.632Z"}
 {"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"balanced","inputTokens":281,"outputTokens":1,"costUsd":0,"ts":"2026-10-05T01:05:47.189Z"}
 {"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"balanced","inputTokens":281,"outputTokens":0,"costUsd":0,"ts":"2026-10-05T03:05:49.657Z"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":1713,"outputTokens":11,"costUsd":0,"ts":"2026-10-05T04:35:38.018Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"planning","inputTokens":1807,"outputTokens":183,"costUsd":0,"ts":"2026-10-05T04:35:46.836Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":2,"costUsd":0,"ts":"2026-10-05T04:35:55.064Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-05T04:35:55.088Z","ok":false,"error":"Ollama 404: {\"error\":\"model 'qwen2.5:3b' not found\"}"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"planning","inputTokens":1910,"outputTokens":147,"costUsd":0,"ts":"2026-10-05T04:35:57.670Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"planning","inputTokens":1955,"outputTokens":110,"costUsd":0,"ts":"2026-10-05T04:36:06.376Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"planning","inputTokens":1985,"outputTokens":134,"costUsd":0,"ts":"2026-10-05T04:36:14.468Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"planning","inputTokens":2014,"outputTokens":116,"costUsd":0,"ts":"2026-10-05T04:36:23.506Z"}
+{"jobId":"adhoc","model":"gemini-3-flash-preview","backend":"ollama","profile":"synthesis","inputTokens":2883,"outputTokens":630,"costUsd":0,"ts":"2026-10-05T05:05:44.160Z"}
