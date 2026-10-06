@@ -1493,3 +1493,5 @@
 {"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwaqxof-63","ts":"2026-10-06T06:27:30.687Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muwb6wup-64","ts":"2026-10-06T06:39:56.113Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muwdc02c-65","ts":"2026-10-06T07:39:52.788Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Ad-hoc: Morning when's the next news scheduled","detail":"Ad-hoc: Morning when's the next news scheduled","jobId":"4f92899d-5d95-4a34-9af9-fb3d3fd8c656","result":"success","id":"muwdj2vw-66","ts":"2026-10-06T07:45:23.036Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Ad-hoc: Morning when's the next news scheduled","detail":"","jobId":"4f92899d-5d95-4a34-9af9-fb3d3fd8c656","result":"pending","id":"muwdj2vy-67","ts":"2026-10-06T07:45:23.038Z"}
