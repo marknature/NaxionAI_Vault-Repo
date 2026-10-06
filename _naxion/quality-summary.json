@@ -1,15 +1,33 @@
 {
-  "totalFlags": 6,
-  "upvotes": 5,
+  "totalFlags": 7,
+  "upvotes": 6,
   "downvotes": 1,
-  "rate": 0.8333333333333334,
+  "rate": 0.8571428571428571,
   "topCategories": [
     {
       "category": "accuracy",
-      "count": 4
+      "count": 5
     }
   ],
   "recentFlags": [
+    {
+      "jobId": "d3798d43-b754-426c-aa71-9b5290373638",
+      "rating": "up",
+      "score": 0.92,
+      "category": "accuracy",
+      "persona": "Naxie",
+      "template": "general-task",
+      "taskKind": "insights:general-task",
+      "axes": {
+        "factuality_risk": 0.1,
+        "citation_coverage": 1,
+        "persona_fit": 0.9,
+        "prompt_alignment": 0.9
+      },
+      "note": "auto · quality.check",
+      "source": "auto",
+      "ts": "2026-10-06T14:52:30.710Z"
+    },
     {
       "jobId": "5a95356e-e9d4-4cc2-9f43-4cb8a9488dbc",
       "rating": "up",
