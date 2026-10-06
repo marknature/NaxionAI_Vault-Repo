@@ -1428,3 +1428,67 @@
 {"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw8p84g-16","ts":"2026-10-06T05:30:11.680Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw8t6uq-17","ts":"2026-10-06T05:33:16.658Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw8tb3s-18","ts":"2026-10-06T05:33:22.168Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muw92bpj-1","ts":"2026-10-06T05:40:22.855Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw92k9a-2","ts":"2026-10-06T05:40:33.934Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muw9e5pm-3","ts":"2026-10-06T05:49:34.954Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"muw9edbe-4","ts":"2026-10-06T05:49:44.810Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"muw9eunz-5","ts":"2026-10-06T05:50:07.295Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muw9f50o-6","ts":"2026-10-06T05:50:20.712Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"muw9g3qn-7","ts":"2026-10-06T05:51:05.711Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"muw9g7uu-8","ts":"2026-10-06T05:51:11.046Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"muw9i7nc-9","ts":"2026-10-06T05:52:44.088Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"muw9i8za-10","ts":"2026-10-06T05:52:45.814Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"muw9ktqx-11","ts":"2026-10-06T05:54:46.041Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"muw9mj57-12","ts":"2026-10-06T05:56:05.611Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/automation","detail":"/automation","result":"success","id":"muw9ml0k-13","ts":"2026-10-06T05:56:08.036Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"muw9mn0i-14","ts":"2026-10-06T05:56:10.626Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw9mokt-15","ts":"2026-10-06T05:56:12.653Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muw9mqjn-16","ts":"2026-10-06T05:56:15.203Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muw9o4gh-17","ts":"2026-10-06T05:57:19.889Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw9od3b-18","ts":"2026-10-06T05:57:31.079Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"muw9oeq6-19","ts":"2026-10-06T05:57:33.198Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw9og4w-20","ts":"2026-10-06T05:57:35.024Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw9okyy-21","ts":"2026-10-06T05:57:41.290Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw9p4hj-22","ts":"2026-10-06T05:58:06.583Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/automation","detail":"/automation","result":"success","id":"muw9ppay-23","ts":"2026-10-06T05:58:33.562Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"muw9pyya-24","ts":"2026-10-06T05:58:46.066Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muw9q1f0-25","ts":"2026-10-06T05:58:49.260Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw9q34t-26","ts":"2026-10-06T05:58:51.485Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"muw9q5jh-27","ts":"2026-10-06T05:58:54.605Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/automation","detail":"/automation","result":"success","id":"muw9q6rh-28","ts":"2026-10-06T05:58:56.189Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"muw9q7mj-29","ts":"2026-10-06T05:58:57.307Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/github-accounts","detail":"/github-accounts","result":"success","id":"muw9q921-30","ts":"2026-10-06T05:58:59.161Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library","detail":"/library","result":"success","id":"muw9qk6c-31","ts":"2026-10-06T05:59:13.572Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library/data","detail":"/library/data","result":"success","id":"muw9qmq5-32","ts":"2026-10-06T05:59:16.877Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library","detail":"/library","result":"success","id":"muw9qz9s-33","ts":"2026-10-06T05:59:33.136Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library/data","detail":"/library/data","result":"success","id":"muw9r0hy-34","ts":"2026-10-06T05:59:34.726Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw9r7w8-35","ts":"2026-10-06T05:59:44.312Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"muw9rc9z-36","ts":"2026-10-06T05:59:49.991Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"muw9rdy9-37","ts":"2026-10-06T05:59:52.161Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skills","detail":"/skills","result":"success","id":"muw9scdf-38","ts":"2026-10-06T06:00:36.771Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/templates","detail":"/templates","result":"success","id":"muw9se0t-39","ts":"2026-10-06T06:00:38.909Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library","detail":"/library","result":"success","id":"muw9sg3a-40","ts":"2026-10-06T06:00:41.590Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library/data","detail":"/library/data","result":"success","id":"muw9siut-41","ts":"2026-10-06T06:00:45.173Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library/datasets","detail":"/library/datasets","result":"success","id":"muw9tads-42","ts":"2026-10-06T06:01:20.848Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library","detail":"/library","result":"success","id":"muw9tcxb-43","ts":"2026-10-06T06:01:24.143Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie/memory","detail":"/naxie/memory","result":"success","id":"muw9tgu5-44","ts":"2026-10-06T06:01:29.213Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie/memory","detail":"/naxie/memory","result":"success","id":"muw9tguf-45","ts":"2026-10-06T06:01:29.223Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"muw9totr-46","ts":"2026-10-06T06:01:39.567Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"muw9toud-47","ts":"2026-10-06T06:01:39.589Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"muw9uulo-48","ts":"2026-10-06T06:02:33.708Z"}
+{"level":"info","actor":"naxie","action":"briefing.generated","target":"daily-briefing","detail":"1005 chars","result":"success","id":"muw9ygsl-49","ts":"2026-10-06T06:05:22.437Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — morning briefing ready","detail":"## Focus today\n- Review MD System Audit findings: 3 improvements and 49 dormant personas need review to optimize the current 76/100 health score.\n- Monitor Breaking AI News: Both Africa and World edit","result":"success","id":"muw9yhji-50","ts":"2026-10-06T06:05:23.406Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"muwa0u8u-51","ts":"2026-10-06T06:07:13.182Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"muwa0u92-52","ts":"2026-10-06T06:07:13.190Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"muwa23ts-53","ts":"2026-10-06T06:08:12.256Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwa2fut-54","ts":"2026-10-06T06:08:27.845Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"46h idle","result":"success","id":"muwaayd8-55","ts":"2026-10-06T06:15:05.085Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hey Nature, just checking in — hope your day is going smoothly. Let me know if anything comes up or if you'd like to bounce ideas around.","result":"success","id":"muwaazb2-56","ts":"2026-10-06T06:15:06.302Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwaiixq-57","ts":"2026-10-06T06:20:58.334Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwaiixy-58","ts":"2026-10-06T06:20:58.342Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwaiizo-59","ts":"2026-10-06T06:20:58.404Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwakqng-60","ts":"2026-10-06T06:22:41.644Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwakqnl-61","ts":"2026-10-06T06:22:41.649Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwalvbn-62","ts":"2026-10-06T06:23:34.355Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwaqxof-63","ts":"2026-10-06T06:27:30.687Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muwb6wup-64","ts":"2026-10-06T06:39:56.113Z"}
