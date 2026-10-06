@@ -1,8 +1,8 @@
 ---
 type: identity
 role: subagent-roster
-updated: 2026-10-06T21:13:38.582Z
-count: 10
+updated: 2026-10-06T21:19:14.142Z
+count: 16
 ---
 
 # Subagents — who Naxie can delegate to
@@ -19,6 +19,12 @@ Naxie and every subagent share this roster. Chat is for talking to a specific ag
 - **Naxie** (`naxie`) — Personal Assistant to Nature · COO, Operations & Admin: Your first point of contact — triages, remembers, and delegates to the right specialist. Also serves as COO, part of Operations & Admin.
 - **Personal Social Manager** (`social-media-manager-personal`) — Social Media Manager: Owns Personal's social channels — content calendar, drafting, publishing (with sign-off), and engagement monitoring.
 - **Variety Vault Social Manager** (`social-media-manager-business`) — Social Media Manager: Owns Variety Vault's social channels — content calendar, drafting, publishing (with sign-off), and engagement monitoring.
+- **Mark** (`mark`) — Operations: Part of the Business Ops department
+- **Takunda** (`takunda`) — Knowledge: Part of the Business Ops department
+- **Lesley** (`lesley`) — Knowledge: Part of the Business Ops department
+- **Kupakwashe** (`kupakwashe`) — Knowledge: Part of the Business Ops department
+- **Tricia** (`tricia`) — Operations: Part of the Business Ops department
+- **Roselene** (`roselene`) — Operations: Part of the Business Ops department
 
 ## Routing note
 - `Chat` surface = talk directly to a specific persona/worker
