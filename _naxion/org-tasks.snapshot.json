@@ -117,13 +117,51 @@
       "role": "executor",
       "title": "MD Weekly Board — 2026-10-05",
       "detail": "MD Weekly Board — 2026-10-05",
-      "status": "active",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "21faf691-abac-4ba1-8cff-5df7a05e2a2e",
       "createdAt": "2026-10-05T06:49:58.685Z",
-      "updatedAt": "2026-10-05T06:49:58.694Z",
+      "updatedAt": "2026-10-06T04:15:20.189Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "3830c72a-ffd5-400e-8750-b953a7979f11",
+      "role": "scheduler",
+      "title": "Africa AI news — BREAKING",
+      "detail": "Africa AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "80e218a2-ef6e-4dcc-86f0-aff0586df79a",
+      "createdAt": "2026-10-06T04:13:37.691Z",
+      "updatedAt": "2026-10-06T04:15:12.474Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "bafad55b-1067-45ce-a266-db58b4c331a6",
+      "role": "scheduler",
+      "title": "World AI news — BREAKING",
+      "detail": "World AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "63f77a1a-9f06-4685-af25-bc4884f31a5e",
+      "createdAt": "2026-10-06T04:15:12.475Z",
+      "updatedAt": "2026-10-06T04:16:02.173Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "d1f94c1c-e403-41bf-837c-6e1a973456cf",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — model-reliability:qwen2.5:3b",
+      "detail": "\"qwen2.5:3b\" is failing 100% of calls (36/36)\n\nSwitch the tier using \"qwen2.5:3b\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"qwen2.5:3b\"]: calls=36 failed=36 failureRate=1.00",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-06T04:15:39.594Z",
+      "updatedAt": "2026-10-06T04:15:39.594Z",
+      "createdBy": "daemon"
     }
   ]
 }
