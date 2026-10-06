@@ -1492,3 +1492,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwalvbn-62","ts":"2026-10-06T06:23:34.355Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"muwaqxof-63","ts":"2026-10-06T06:27:30.687Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muwb6wup-64","ts":"2026-10-06T06:39:56.113Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muwdc02c-65","ts":"2026-10-06T07:39:52.788Z"}
