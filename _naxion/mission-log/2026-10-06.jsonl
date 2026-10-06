@@ -42,3 +42,8 @@
 {"ts":"2026-10-06T14:45:55.004Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (43595ms)","stepId":"1"}
 {"ts":"2026-10-06T14:49:14.830Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Next step\n\n## RAG — retrieved context (cite as [R#], [M#], [S#], [T#], or [I#] w…\" — vault + web"}
 {"ts":"2026-10-06T14:49:36.990Z","kind":"progress","text":"Step \"Researching \"Next step\n\n## RAG — retrieved context (cite as [R#], [M#], [S#], [T#], or [I#] w…\" — vault + web\" succeeded (22159ms)","stepId":"0"}
+{"ts":"2026-10-06T14:50:18.069Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Next step\n\n## RAG — retrieved context (cite as [R#], [M#], [S#], [T#], or [I#] w…\" — vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-10-06T14:50:18.073Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (2ms)","stepId":"2"}
+{"ts":"2026-10-06T14:51:03.275Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (45204ms)","stepId":"1"}
+{"ts":"2026-10-06T14:51:03.278Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Next step\n\n## RAG — retrieved context (cite as [R#], [M#], [S#], [T#], or [I#] w…\" — vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-10-06T14:51:14.878Z","kind":"progress","text":"Step \"Asking a peer to review the draft\" succeeded (11599ms)","stepId":"3"}
