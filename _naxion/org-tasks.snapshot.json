@@ -188,6 +188,19 @@
       "createdAt": "2026-10-06T07:50:19.524Z",
       "updatedAt": "2026-10-06T07:50:54.879Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "685f219e-684e-4a9e-ae17-761010e83850",
+      "role": "executor",
+      "title": "Ad-hoc: Can u make a new schedule for Events & Compatition Scan",
+      "detail": "Ad-hoc: Can u make a new schedule for Events & Compatition Scan",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "30a181fd-dcc5-4185-b1ce-6432275e51a8",
+      "createdAt": "2026-10-06T11:57:23.894Z",
+      "updatedAt": "2026-10-06T12:00:27.275Z",
+      "createdBy": "naxie"
     }
   ]
 }
