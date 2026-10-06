@@ -1551,3 +1551,5 @@
 {"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"muwzwxee-121","ts":"2026-10-06T18:12:00.662Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"muwzx5c0-122","ts":"2026-10-06T18:12:10.944Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mux03qge-123","ts":"2026-10-06T18:17:18.254Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mux0g4lb-124","ts":"2026-10-06T18:26:56.450Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mux0wqy4-125","ts":"2026-10-06T18:39:51.916Z"}
