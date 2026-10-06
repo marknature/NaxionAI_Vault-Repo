@@ -201,6 +201,45 @@
       "createdAt": "2026-10-06T11:57:23.894Z",
       "updatedAt": "2026-10-06T12:00:27.275Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "8d17f890-171f-415f-8663-67e79246c03b",
+      "role": "executor",
+      "title": "Ad-hoc: For the Events and Competition Scan modify the template so t",
+      "detail": "Ad-hoc: For the Events and Competition Scan modify the template so t",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "d9bcdd61-0e46-4215-8c80-eb939da86ca1",
+      "createdAt": "2026-10-06T14:29:39.400Z",
+      "updatedAt": "2026-10-06T14:32:41.653Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "cf8f6a94-13ae-4ddf-96b6-1956990fa6fc",
+      "role": "executor",
+      "title": "Ad-hoc: For sources use social media, the internet and specific site",
+      "detail": "Ad-hoc: For sources use social media, the internet and specific site",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "5a95356e-e9d4-4cc2-9f43-4cb8a9488dbc",
+      "createdAt": "2026-10-06T14:43:53.763Z",
+      "updatedAt": "2026-10-06T14:45:56.418Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "b54e4836-5a01-473d-adc9-40c00ded9940",
+      "role": "executor",
+      "title": "Ad-hoc: Next step",
+      "detail": "Ad-hoc: Next step",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "d3798d43-b754-426c-aa71-9b5290373638",
+      "createdAt": "2026-10-06T14:48:56.798Z",
+      "updatedAt": "2026-10-06T14:48:56.799Z",
+      "createdBy": "naxie"
     }
   ]
 }
