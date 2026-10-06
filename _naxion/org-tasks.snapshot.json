@@ -162,6 +162,32 @@
       "createdAt": "2026-10-06T04:15:39.594Z",
       "updatedAt": "2026-10-06T04:15:39.594Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "b6f1cdf5-9d09-4215-874a-a50387351815",
+      "role": "executor",
+      "title": "Ad-hoc: Morning when's the next news scheduled",
+      "detail": "Ad-hoc: Morning when's the next news scheduled",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "4f92899d-5d95-4a34-9af9-fb3d3fd8c656",
+      "createdAt": "2026-10-06T07:45:23.035Z",
+      "updatedAt": "2026-10-06T07:49:50.880Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "2f8f5b91-b7bc-4ec6-90f3-d925aff70cd4",
+      "role": "executor",
+      "title": "Ad-hoc: Retrieve",
+      "detail": "Ad-hoc: Retrieve",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "5c55bf6c-cc0f-4506-9735-af6560c9db61",
+      "createdAt": "2026-10-06T07:50:19.524Z",
+      "updatedAt": "2026-10-06T07:50:54.879Z",
+      "createdBy": "naxie"
     }
   ]
 }
