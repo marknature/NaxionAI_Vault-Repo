@@ -698,3 +698,4 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-06T21:19:49.167Z"}
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-06T21:19:49.236Z","ok":false,"error":"Ollama 404: {\"error\":\"model 'qwen2.5:3b' not found\"}"}
 {"jobId":"adhoc","model":"mistral-nemo:12b","backend":"ollama","profile":"planning","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-06T21:21:19.249Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"balanced","inputTokens":290,"outputTokens":387,"costUsd":0,"ts":"2026-10-07T04:01:37.887Z"}
