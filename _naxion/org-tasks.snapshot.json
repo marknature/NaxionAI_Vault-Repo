@@ -317,6 +317,19 @@
       "createdAt": "2026-10-07T07:00:07.820Z",
       "updatedAt": "2026-10-07T07:04:29.081Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "1cc37ee5-f5de-44a6-8a7c-9f6859acce7d",
+      "role": "scheduler",
+      "title": "Super Intelligence news — daily",
+      "detail": "Super Intelligence news — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "b77069d9-5e08-434b-bb2f-583dce3c9583",
+      "createdAt": "2026-10-07T07:30:09.206Z",
+      "updatedAt": "2026-10-07T07:34:23.470Z",
+      "createdBy": "daemon"
     }
   ]
 }
