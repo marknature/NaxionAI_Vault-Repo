@@ -266,6 +266,44 @@
       "createdAt": "2026-10-07T04:17:46.896Z",
       "updatedAt": "2026-10-07T04:18:01.148Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "df0b36d7-1b3a-4b0d-9477-3468460d7a61",
+      "role": "scheduler",
+      "title": "Africa AI news — BREAKING",
+      "detail": "Africa AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "a732cc97-b14f-40a6-9ca7-69fdf7952391",
+      "createdAt": "2026-10-07T06:00:04.483Z",
+      "updatedAt": "2026-10-07T06:06:29.033Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "8ff09c69-0b1b-49fe-aff9-bf43374dcc77",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "af2b5ac7-2839-4c02-b656-16172c7b0bdc",
+      "createdAt": "2026-10-07T06:00:05.269Z",
+      "updatedAt": "2026-10-07T06:02:15.000Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "e3ae7d23-3f52-43fd-b6b8-f89436cd3e5f",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — model-reliability:mistral-nemo:12b",
+      "detail": "\"mistral-nemo:12b\" is failing 38% of calls (21/56)\n\nSwitch the tier using \"mistral-nemo:12b\" to a healthier model via system.admin's switch_model action — prefer a free one (isFreeModelId) unless paid models are separately approved.\n\nEvidence: byModel[\"mistral-nemo:12b\"]: calls=56 failed=21 failureRate=0.38",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-07T06:08:17.305Z",
+      "updatedAt": "2026-10-07T06:08:17.305Z",
+      "createdBy": "daemon"
     }
   ]
 }
