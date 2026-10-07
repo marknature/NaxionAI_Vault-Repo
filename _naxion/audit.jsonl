@@ -1756,3 +1756,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"muxn8qg8-13","ts":"2026-10-07T05:05:02.696Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"muxn9zp8-14","ts":"2026-10-07T05:06:01.340Z"}
 {"level":"warn","actor":"wiki-compile","action":"notify.urgent","target":"Wiki compile: 0 new entries","detail":"Overnight second-brain compile summary:\n\nNothing new in the archive overnight. (email not sent — not configured or no operator address)","result":"pending","id":"muxna5xj-15","ts":"2026-10-07T05:06:09.415Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muxnm3vd-16","ts":"2026-10-07T05:15:26.617Z"}
