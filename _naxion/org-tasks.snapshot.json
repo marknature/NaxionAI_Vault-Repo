@@ -412,6 +412,45 @@
       "createdAt": "2026-10-08T06:00:13.415Z",
       "updatedAt": "2026-10-08T06:02:52.226Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "1f4ee770-4b47-4f7e-a8b6-3a6c284f8a73",
+      "role": "scheduler",
+      "title": "World AI news — BREAKING",
+      "detail": "World AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "ae94f6e1-9d07-4922-a80c-65bee9195e3b",
+      "createdAt": "2026-10-08T07:00:15.059Z",
+      "updatedAt": "2026-10-08T07:03:02.397Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "e6256974-662f-4c6a-a555-c2fd268cc354",
+      "role": "scheduler",
+      "title": "Super Intelligence news — daily",
+      "detail": "Super Intelligence news — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "d4f2113d-809d-422c-8742-866363c4a32f",
+      "createdAt": "2026-10-08T07:30:16.073Z",
+      "updatedAt": "2026-10-08T07:38:41.298Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "2291138b-d025-430d-b15c-bc47234161d9",
+      "role": "executor",
+      "title": "Ad-hoc: I approve the Oldest: \"Proposed improvement: src/agents/exec",
+      "detail": "Ad-hoc: I approve the Oldest: \"Proposed improvement: src/agents/exec",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "25021f4d-a479-4f62-afd8-af43711df9d0",
+      "createdAt": "2026-10-08T07:55:39.675Z",
+      "updatedAt": "2026-10-08T07:55:39.676Z",
+      "createdBy": "naxie"
     }
   ]
 }
