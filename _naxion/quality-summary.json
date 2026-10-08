@@ -1,15 +1,32 @@
 {
-  "totalFlags": 8,
-  "upvotes": 7,
+  "totalFlags": 9,
+  "upvotes": 8,
   "downvotes": 1,
-  "rate": 0.875,
+  "rate": 0.8888888888888888,
   "topCategories": [
     {
       "category": "accuracy",
-      "count": 6
+      "count": 7
     }
   ],
   "recentFlags": [
+    {
+      "jobId": "41a09502-8899-4df4-a243-bd1dcc47ea1e",
+      "rating": "up",
+      "score": 0.94,
+      "category": "accuracy",
+      "template": "daily-briefing",
+      "taskKind": "operations:daily-briefing",
+      "axes": {
+        "factuality_risk": 0.1,
+        "citation_coverage": 1,
+        "persona_fit": 0.9,
+        "prompt_alignment": 0.95
+      },
+      "note": "auto · quality.check",
+      "source": "auto",
+      "ts": "2026-10-08T06:02:52.235Z"
+    },
     {
       "jobId": "af2b5ac7-2839-4c02-b656-16172c7b0bdc",
       "rating": "up",
