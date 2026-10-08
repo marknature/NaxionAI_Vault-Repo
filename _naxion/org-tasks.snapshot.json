@@ -343,6 +343,19 @@
       "createdAt": "2026-10-08T05:30:10.033Z",
       "updatedAt": "2026-10-08T05:30:44.312Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "9bd0c653-d24a-4e70-a46f-01bfd01523cd",
+      "role": "executor",
+      "title": "Events & Competition Scan — daily",
+      "detail": "Events & Competition Scan — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "52141e45-7fd2-4b4d-a64d-d7e053677705",
+      "createdAt": "2026-10-08T05:48:46.084Z",
+      "updatedAt": "2026-10-08T05:49:51.756Z",
+      "createdBy": "naxie"
     }
   ]
 }
