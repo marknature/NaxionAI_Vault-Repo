@@ -976,3 +976,5 @@
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-08T20:21:39.990Z"}
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-08T20:21:40.157Z","ok":false,"error":"Ollama 404: {\"error\":\"model 'qwen2.5:3b' not found\"}"}
 {"jobId":"adhoc","model":"nomic-embed-text:latest","backend":"ollama","profile":"planning","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-08T20:21:53.291Z","ok":false,"error":"Ollama 400: {\"error\":\"\\\"nomic-embed-text:latest\\\" does not support generate\"}"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-08T21:47:26.555Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-08T21:47:26.630Z","ok":false,"error":"Ollama 404: {\"error\":\"model 'qwen2.5:3b' not found\"}"}
