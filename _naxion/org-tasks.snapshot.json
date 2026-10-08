@@ -330,6 +330,19 @@
       "createdAt": "2026-10-07T07:30:09.206Z",
       "updatedAt": "2026-10-07T07:34:23.470Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "65f7fbb2-7852-478d-b23b-c29782abefc7",
+      "role": "scheduler",
+      "title": "Events & Competition Scan — daily",
+      "detail": "Events & Competition Scan — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "2e777c79-1fa2-4cd9-bc07-0795df5d2dfe",
+      "createdAt": "2026-10-08T05:30:10.033Z",
+      "updatedAt": "2026-10-08T05:30:44.312Z",
+      "createdBy": "daemon"
     }
   ]
 }
