@@ -445,6 +445,19 @@
       "createdAt": "2026-10-08T18:12:50.574Z",
       "updatedAt": "2026-10-08T20:15:25.696Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "e6bd2198-b83f-4ff2-9201-1a8ce57568d3",
+      "role": "executor",
+      "title": "Event deadline reminders",
+      "detail": "Event deadline reminders",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "ce4e8b36-34c2-4682-a2f5-4c4125a43012",
+      "createdAt": "2026-10-08T20:24:32.985Z",
+      "updatedAt": "2026-10-08T20:24:33.037Z",
+      "createdBy": "naxie"
     }
   ]
 }
