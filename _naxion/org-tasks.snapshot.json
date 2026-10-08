@@ -439,31 +439,12 @@
       "role": "architect",
       "title": "Proposed improvement: src/agents/executor.py",
       "detail": "Changed the success condition from `bool(step_results) and all(s[\"success\"] for s in step_results)` to just `all(s[\"success\"] for s in step_results)`. This correctly handles zero-step plans (which should succeed) by leveraging the fact that `all()` returns True on an empty iterable. The error message construction remains unchanged and only runs when `ok` is False. This is a safe, minimal fix that ",
-      "status": "waiting-on-approval",
+      "status": "active",
       "priority": "low",
       "linkedTaskIds": [],
       "createdAt": "2026-10-08T18:12:50.574Z",
-      "updatedAt": "2026-10-08T18:12:50.576Z",
-      "createdBy": "naxie",
-      "pendingApproval": {
-        "actionDescription": "A small code improvement has been proposed for review — see the attached diff.",
-        "kind": "architect-change",
-        "diff": "--- a/src/agents/executor.py\n+++ b/src/agents/executor.py\n@@ -86,1 +86,1 @@\n-        ok = bool(step_results) and all(s[\"success\"] for s in step_results)\n+        ok = all(s[\"success\"] for s in step_results)",
-        "proposal": {
-          "diff": "--- a/src/agents/executor.py\n+++ b/src/agents/executor.py\n@@ -86,1 +86,1 @@\n-        ok = bool(step_results) and all(s[\"success\"] for s in step_results)\n+        ok = all(s[\"success\"] for s in step_results)",
-          "filesTouched": [
-            "src/agents/executor.py"
-          ],
-          "rationale": "Changed the success condition from `bool(step_results) and all(s[\"success\"] for s in step_results)` to just `all(s[\"success\"] for s in step_results)`. This correctly handles zero-step plans (which should succeed) by leveraging the fact that `all()` returns True on an empty iterable. The error message construction remains unchanged and only runs when `ok` is False. This is a safe, minimal fix that improves robustness for edge-case plans without steps.",
-          "basedOn": {
-            "sourceFilesRead": [
-              "src/agents/executor.py",
-              "src/agents/executor.py"
-            ]
-          }
-        },
-        "requestedAt": "2026-10-08T18:12:50.576Z"
-      }
+      "updatedAt": "2026-10-08T20:15:25.696Z",
+      "createdBy": "naxie"
     }
   ]
 }
