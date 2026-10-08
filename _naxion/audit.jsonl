@@ -2344,3 +2344,23 @@
 {"level":"warn","actor":"researcher","action":"notify.urgent","target":"Ad-hoc: Good morning can I get a brief on my day and the system","detail":"Task c0175847-617b-4e72-9adc-30d6762bb325 (researcher) has been blocked for 106h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"muzyxkzg-6","ts":"2026-10-08T20:07:50.140Z"}
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"Task ff81aaa0-1e6c-4c15-9da3-6e00e38e7be6 (executor) has been blocked for 107h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"muzyxl11-7","ts":"2026-10-08T20:07:50.197Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 38h. Outstanding: 5 backlog, 2 blocked, 1 waiting-on-approval, 3 active.","result":"success","id":"muzyxl2x-8","ts":"2026-10-08T20:07:50.265Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muzyy03t-9","ts":"2026-10-08T20:08:09.737Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muzyy045-10","ts":"2026-10-08T20:08:09.751Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"muzyy3c6-11","ts":"2026-10-08T20:08:13.926Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muzyyzg1-12","ts":"2026-10-08T20:08:55.537Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muzyyzmh-13","ts":"2026-10-08T20:08:55.769Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muzz1k8s-14","ts":"2026-10-08T20:10:55.804Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muzz1k9r-15","ts":"2026-10-08T20:10:55.839Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muzz2uca-16","ts":"2026-10-08T20:11:55.546Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muzz2uct-17","ts":"2026-10-08T20:11:55.565Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muzz3t3f-18","ts":"2026-10-08T20:12:40.587Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"muzz3t8m-19","ts":"2026-10-08T20:12:40.774Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"muzz59bk-20","ts":"2026-10-08T20:13:48.272Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"muzz59fd-21","ts":"2026-10-08T20:13:48.409Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"muzz798y-22","ts":"2026-10-08T20:15:21.490Z"}
+{"level":"info","actor":"architect","action":"org_task.active","target":"Proposed improvement: src/agents/executor.py","detail":"","result":"pending","id":"muzz7chx-23","ts":"2026-10-08T20:15:25.701Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"muzz7gvs-24","ts":"2026-10-08T20:15:31.384Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"muzz7l2c-25","ts":"2026-10-08T20:15:36.804Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"muzz7qjq-26","ts":"2026-10-08T20:15:43.910Z"}
+{"level":"warn","actor":"researcher","action":"org_task.sla_breach","target":"Ad-hoc: Good morning can I get a brief on my day and the system","detail":"blocked >48h — escalated","jobId":"635a87ec-4ad3-491e-9704-f4d1d59027c3","result":"failure","id":"muzzeqa8-1","ts":"2026-10-08T20:21:10.160Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"blocked >48h — escalated","jobId":"8e4abd75-adbe-4976-bb72-58481b4b941d","result":"failure","id":"muzzeqai-2","ts":"2026-10-08T20:21:10.170Z"}
