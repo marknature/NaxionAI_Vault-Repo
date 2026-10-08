@@ -1985,3 +1985,6 @@
 {"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"muzt5f2v-91","ts":"2026-10-08T17:25:58.039Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"muzt5g27-92","ts":"2026-10-08T17:25:59.311Z"}
 {"level":"info","actor":"architect","action":"org_task.active","target":"Proposed improvement: src/agents/executor.py","detail":"","result":"pending","id":"muzt5hz7-93","ts":"2026-10-08T17:26:01.795Z"}
+{"level":"warn","actor":"researcher","action":"org_task.sla_breach","target":"Ad-hoc: Good morning can I get a brief on my day and the system","detail":"blocked >48h — escalated","jobId":"635a87ec-4ad3-491e-9704-f4d1d59027c3","result":"failure","id":"muztgcu9-1","ts":"2026-10-08T17:34:28.353Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"blocked >48h — escalated","jobId":"8e4abd75-adbe-4976-bb72-58481b4b941d","result":"failure","id":"muztgcud-2","ts":"2026-10-08T17:34:28.357Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"5 backlog, 2 blocked, 3 active","result":"success","id":"muztgcv5-3","ts":"2026-10-08T17:34:28.385Z"}

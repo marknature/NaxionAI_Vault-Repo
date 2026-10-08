@@ -362,30 +362,12 @@
       "role": "architect",
       "title": "Proposed improvement: src/agents/executor.py",
       "detail": "In the DelegatingExecutor.execute method, when a tool is not found (KeyError), we now include context from the previous step's data (if available) in the error entry, mirroring the approach used for the file_edit validation error. This provides additional debugging information without changing the external behavior, as the error string construction only uses the 'error' field. The change is safe a",
-      "status": "waiting-on-approval",
+      "status": "active",
       "priority": "low",
       "linkedTaskIds": [],
       "createdAt": "2026-10-08T05:57:18.196Z",
-      "updatedAt": "2026-10-08T05:57:18.200Z",
-      "createdBy": "naxie",
-      "pendingApproval": {
-        "actionDescription": "A small code improvement has been proposed for review — see the attached diff.",
-        "kind": "architect-change",
-        "diff": "--- a/src/agents/executor.py\n+++ b/src/agents/executor.py\n@@ -64,1 +64,6 @@\n-                step_results.append({\"step\": idx, \"tool\": tool, \"success\": False, \"error\": str(e)})\n+                prev = step_results[-1] if step_results else {}\n+                step_results.append({\n+                    \"step\": idx, \"tool\": tool, \"success\": False,\n+                    \"error\": str(e),\n+                    \"context\": prev.get(\"data\"),\n+                })",
-        "proposal": {
-          "diff": "--- a/src/agents/executor.py\n+++ b/src/agents/executor.py\n@@ -64,1 +64,6 @@\n-                step_results.append({\"step\": idx, \"tool\": tool, \"success\": False, \"error\": str(e)})\n+                prev = step_results[-1] if step_results else {}\n+                step_results.append({\n+                    \"step\": idx, \"tool\": tool, \"success\": False,\n+                    \"error\": str(e),\n+                    \"context\": prev.get(\"data\"),\n+                })",
-          "filesTouched": [
-            "src/agents/executor.py"
-          ],
-          "rationale": "In the DelegatingExecutor.execute method, when a tool is not found (KeyError), we now include context from the previous step's data (if available) in the error entry, mirroring the approach used for the file_edit validation error. This provides additional debugging information without changing the external behavior, as the error string construction only uses the 'error' field. The change is safe and minimal.",
-          "basedOn": {
-            "sourceFilesRead": [
-              "src/agents/executor.py"
-            ]
-          }
-        },
-        "requestedAt": "2026-10-08T05:57:18.199Z"
-      }
+      "updatedAt": "2026-10-08T17:26:01.795Z",
+      "createdBy": "naxie"
     },
     {
       "id": "dd5c087f-9caa-43e3-929a-5f641552fd3b",
