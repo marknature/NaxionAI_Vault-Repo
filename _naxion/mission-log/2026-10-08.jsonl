@@ -18,3 +18,4 @@
 {"ts":"2026-10-08T07:56:19.653Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (3ms)","stepId":"4"}
 {"ts":"2026-10-08T07:58:18.124Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (118472ms)","stepId":"3"}
 {"ts":"2026-10-08T07:58:18.128Z","kind":"progress","text":"Starting plan: 6 steps — Searching your second brain for \"Proposed improvement: src/agents/executor.py\", Looking in your Downloads, Desktop, Documents, and vault Inbox for \"executor.py\", hermes.delegate, Quality-checking the draft, Security-scanning the note, …"}
+{"ts":"2026-10-08T07:59:48.143Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"5"}
