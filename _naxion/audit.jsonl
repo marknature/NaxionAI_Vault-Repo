@@ -2417,3 +2417,4 @@
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 40h. Outstanding: 5 backlog, 2 blocked, 4 active.","result":"success","id":"mv02ksfv-6","ts":"2026-10-08T21:49:51.739Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv02l8rr-7","ts":"2026-10-08T21:50:12.903Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv04pspl-8","ts":"2026-10-08T22:49:44.601Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv06uy64-9","ts":"2026-10-08T23:49:44.188Z"}
