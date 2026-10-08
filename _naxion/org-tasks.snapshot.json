@@ -444,12 +444,12 @@
       "role": "executor",
       "title": "Ad-hoc: I approve the Oldest: \"Proposed improvement: src/agents/exec",
       "detail": "Ad-hoc: I approve the Oldest: \"Proposed improvement: src/agents/exec",
-      "status": "active",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "25021f4d-a479-4f62-afd8-af43711df9d0",
       "createdAt": "2026-10-08T07:55:39.675Z",
-      "updatedAt": "2026-10-08T07:55:39.676Z",
+      "updatedAt": "2026-10-08T08:04:05.318Z",
       "createdBy": "naxie"
     }
   ]
