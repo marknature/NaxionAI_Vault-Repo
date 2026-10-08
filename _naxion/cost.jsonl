@@ -846,3 +846,11 @@
 {"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"extraction","inputTokens":1009,"outputTokens":762,"costUsd":0,"ts":"2026-10-08T08:04:24.133Z"}
 {"jobId":"25021f4d-a479-4f62-afd8-af43711df9d0","model":"gemini-flash-latest","backend":"ollama","profile":"extraction","inputTokens":740,"outputTokens":44,"costUsd":0,"ts":"2026-10-08T08:04:25.636Z"}
 {"jobId":"25021f4d-a479-4f62-afd8-af43711df9d0","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"extraction","inputTokens":1329,"outputTokens":1484,"costUsd":0,"ts":"2026-10-08T08:12:30.705Z"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":1937,"outputTokens":11,"costUsd":0,"ts":"2026-10-08T17:34:54.955Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":2,"costUsd":0,"ts":"2026-10-08T17:34:57.638Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-08T17:34:57.727Z","ok":false,"error":"Ollama 404: {\"error\":\"model 'qwen2.5:3b' not found\"}"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":2051,"outputTokens":11,"costUsd":0,"ts":"2026-10-08T17:35:06.985Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-super-120b-a12b:free","backend":"openrouter","profile":"planning","inputTokens":2053,"outputTokens":152,"costUsd":0,"ts":"2026-10-08T17:35:16.539Z"}
+{"jobId":"adhoc","model":"gemini-flash-latest","backend":"ollama","profile":"planning","inputTokens":3144,"outputTokens":17,"costUsd":0,"ts":"2026-10-08T17:35:25.779Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-08T17:35:50.947Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-08T17:35:50.986Z","ok":false,"error":"Ollama 404: {\"error\":\"model 'qwen2.5:3b' not found\"}"}
