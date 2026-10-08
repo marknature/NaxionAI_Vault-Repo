@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-10-07T18:05:51.571Z",
+  "updatedAt": "2026-10-08T18:01:19.702Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
-      "totalRuns": 27,
+      "totalRuns": 28,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 482.2,
+      "avgDurationSec": 26.8,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-06"
+      "lastSeen": "2026-10-07"
     },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 82,
+      "totalRuns": 84,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 58.1,
+      "avgDurationSec": 89.7,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-06"
+      "lastSeen": "2026-10-07"
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 24,
+      "totalRuns": 25,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 2.1,
+      "avgDurationSec": 3.2,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-06"
+      "lastSeen": "2026-10-07"
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
@@ -43,13 +43,13 @@
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 33,
+      "totalRuns": 34,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 60.9,
+      "avgDurationSec": 23.6,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-06"
+      "lastSeen": "2026-10-07"
     },
     "naxie:converse": {
       "template": "naxie:converse",
@@ -63,33 +63,33 @@
     },
     "africa-ai-news": {
       "template": "africa-ai-news",
-      "totalRuns": 11,
+      "totalRuns": 12,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 384.6,
+      "avgDurationSec": 115.7,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-06"
+      "lastSeen": "2026-10-07"
     },
     "world-ai-news": {
       "template": "world-ai-news",
-      "totalRuns": 13,
+      "totalRuns": 14,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 261.2,
+      "avgDurationSec": 167.3,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-06"
+      "lastSeen": "2026-10-07"
     },
     "daily-briefing": {
       "template": "daily-briefing",
-      "totalRuns": 16,
+      "totalRuns": 17,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 129.6,
-      "topError": "",
+      "avgDurationSec": 158.8,
+      "topError": "tool:peer.review step failed 1/2 runs",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-06"
+      "lastSeen": "2026-10-07"
     },
     "add-note": {
       "template": "add-note",
@@ -123,13 +123,13 @@
     },
     "general-task": {
       "template": "general-task",
-      "totalRuns": 7,
+      "totalRuns": 8,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 348.4,
-      "topError": "tool:vault.read step failed 1/2 runs",
+      "avgDurationSec": 505.6,
+      "topError": "tool:peer.review step failed 1/2 runs",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-05"
+      "lastSeen": "2026-10-07"
     },
     "sync-downloads": {
       "template": "sync-downloads",
@@ -143,13 +143,23 @@
     },
     "super-intelligence-news": {
       "template": "super-intelligence-news",
-      "totalRuns": 1,
+      "totalRuns": 2,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 254.3,
+      "avgDurationSec": 505.2,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-06"
+      "lastSeen": "2026-10-07"
+    },
+    "events-competition-scan": {
+      "template": "events-competition-scan",
+      "totalRuns": 2,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 50,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-07"
     }
   }
 }

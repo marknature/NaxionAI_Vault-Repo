@@ -6,50 +6,64 @@ Auto-generated from `_naxion/reflections/*.md`. Each daily reflection's *What we
 
 ---
 
+## 2026-10-07
+
+### Went wrong
+- Despite step failures, the overall tasks still succeeded, indicating hidden retries or fallback paths that add latency and complexity.
+- hermes.delegate failed its sole execution (100% failure rate) in the general‑task template.
+- peer.review failed 1 of 2 executions (50% failure rate), affecting the daily‑briefing and general‑task templates.
+
+### Try next
+- Review the skill‑picker for send‑attachment; the weak keyword match (score 15) suggests a better‑matched skill could reduce unnecessary attachment handling.
+- Consider replacing the placeholder security.scan with an actual scanner if real security checks are required, otherwise keep the current fast implementation.
+- Add result caching for frequent pipeline calls (e.g., news‑scan templates) to cut the avg 95.6 s duration.
+- Improve peer.review reliability: adjust its input validation or increase timeout to eliminate the 50% failure rate.
+- Investigate and fix hermes.delegate configuration or retire the template if delegation is unnecessary.
+
 ## 2026-10-06
 
 ### Went wrong
 - No tasks failed or were rejected; there were no errors to report.
 
 ### Try next
-- Retain the current security.scan configuration; its 0 s average is correct and indicates no unnecessary I/O.
-- Merge africa‑ai‑news, world‑ai‑news, and super‑intelligence‑news into a single parameterized news‑briefing tool that takes a region/topic flag, lowering template maintenance overhead.
-- Cut innovation-scan frequency from three runs per day to two (morning and evening) to reduce pipeline load by roughly one‑third while preserving coverage.
 - Profile the pipeline substeps for jobs a732cc97, 69041923, and b77069d9 to pinpoint operations >250 s and replace them with pre‑compiled regex or cached results.
+- Cut innovation-scan frequency from three runs per day to two (morning and evening) to reduce pipeline load by roughly one‑third while preserving coverage.
+- Merge africa‑ai‑news, world‑ai‑news, and super‑intelligence‑news into a single parameterized news‑briefing tool that takes a region/topic flag, lowering template maintenance overhead.
+- Retain the current security.scan configuration; its 0 s average is correct and indicates no unnecessary I/O.
 
 ## 2026-10-05
 
 ### Went wrong
-- "tool:vault.read step failed 1/2 runs" — 1x (templates: general-task).
-- Skill picker weak on `brief-writing`: avg score 15 (keyword-only) over 1 run(s).
 - Skill picker weak on `research-deep`: avg score 15 (keyword-only) over 1 run(s).
+- Skill picker weak on `brief-writing`: avg score 15 (keyword-only) over 1 run(s).
+- "tool:vault.read step failed 1/2 runs" — 1x (templates: general-task).
 
 ### Try next
-- Investigate tool `vault.read`: 1/2 step runs failed — check its error output before the next scheduled run.
-- Enrich the `brief-writing` skill metadata (intent phrases) so the picker stops matching on keywords alone.
 - Re-run `POST /api/reflection/run` once the LLM backend is healthy to replace this deterministic digest with a full synthesis.
+- Enrich the `brief-writing` skill metadata (intent phrases) so the picker stops matching on keywords alone.
+- Investigate tool `vault.read`: 1/2 step runs failed — check its error output before the next scheduled run.
 
 ## 2026-10-03
 
 ### Went wrong
-- No failures or errors recorded; nothing went wrong
-- `innovation-scan` averaged 621.5s over 4 run(s) — over the 600s perf budget.
-- Nothing went wrong; all tasks were completed successfully without any failures or rejections.
 - No failures or rejections to report.
+- Nothing went wrong; all tasks were completed successfully without any failures or rejections.
+- `innovation-scan` averaged 621.5s over 4 run(s) — over the 600s perf budget.
+- No failures or errors recorded; nothing went wrong
 
 ### Try next
-- Review the insights:board-meeting template to see if its 84 s average can be trimmed by caching reusable data sources
-- Schedule system-audit during off‑peak hours to reduce impact on other local tasks
-- Consider batching innovation-scan runs or increasing its timeout to avoid potential stalls if duration trends upward
-- Add a lightweight validation step to todo-brief, weekly-rollup, and weekly-improvement to confirm they are performing intended work (e.g., check output length > 0)
-- Split `innovation-scan` into parallel sub-agents or trim its heaviest steps — it is the fleet bottleneck at ~10 min/run.
-- Investigate the weekly-rollup and weekly-improvement tasks to ensure they are functioning as intended and not skipping necessary steps.
-- Consider monitoring tool usage and skill picker correlations to better understand system interactions and improve task efficiency.
-- Review the automation process to ensure that employee involvement is correctly logged when necessary.
-- Enable employee logging to track who runs which tasks.
-- Review the zero‑duration templates to confirm they are performing intended actions.
-- Introduce at least one peer‑delegated task to test load‑balancing across the fleet.
 - Add a low‑frequency, higher‑complexity task (e.g., a quarterly strategy scan) to diversify workload.
+- Introduce at least one peer‑delegated task to test load‑balancing across the fleet.
+- Review the zero‑duration templates to confirm they are performing intended actions.
+- Enable employee logging to track who runs which tasks.
+- Review the automation process to ensure that employee involvement is correctly logged when necessary.
+- Consider monitoring tool usage and skill picker correlations to better understand system interactions and improve task efficiency.
+- Investigate the weekly-rollup and weekly-improvement tasks to ensure they are functioning as intended and not skipping necessary steps.
+- Split `innovation-scan` into parallel sub-agents or trim its heaviest steps — it is the fleet bottleneck at ~10 min/run.
+- Add a lightweight validation step to todo-brief, weekly-rollup, and weekly-improvement to confirm they are performing intended work (e.g., check output length > 0)
+- Consider batching innovation-scan runs or increasing its timeout to avoid potential stalls if duration trends upward
+- Schedule system-audit during off‑peak hours to reduce impact on other local tasks
+- Review the insights:board-meeting template to see if its 84 s average can be trimmed by caching reusable data sources
 
 ## 2026-10-02
 
@@ -59,12 +73,12 @@ Auto-generated from `_naxion/reflections/*.md`. Each daily reflection's *What we
 ## 2026-10-01
 
 ### Went wrong
-- `daily-briefing` averaged 1355.9s over 2 run(s) — over the 600s perf budget.
 - Skill picker weak on `send-attachment`: avg score 15 (keyword-only) over 2 run(s).
+- `daily-briefing` averaged 1355.9s over 2 run(s) — over the 600s perf budget.
 
 ### Try next
-- Split `daily-briefing` into parallel sub-agents or trim its heaviest steps — it is the fleet bottleneck at ~23 min/run.
 - Enrich the `send-attachment` skill metadata (intent phrases) so the picker stops matching on keywords alone.
+- Split `daily-briefing` into parallel sub-agents or trim its heaviest steps — it is the fleet bottleneck at ~23 min/run.
 
 ## 2026-09-28
 
@@ -77,20 +91,20 @@ Auto-generated from `_naxion/reflections/*.md`. Each daily reflection's *What we
 - Nothing went wrong. There were 0 failures and 0 rejected tasks.
 
 ### Try next
-- Increase the frequency of `innovation-scan` or `system-audit` to better utilize the fleet during low-volume periods.
-- Audit the employee tracking system to determine why no staff were recorded as active during task execution.
 - Investigate the `todo-brief` template to ensure it isn't returning empty results or skipping logic.
+- Audit the employee tracking system to determine why no staff were recorded as active during task execution.
+- Increase the frequency of `innovation-scan` or `system-audit` to better utilize the fleet during low-volume periods.
 
 ## 2026-09-17
 
 ### Went wrong
-- The `todo-brief` template reported an `avgDurationSec` of 0s. Unlike synchronous scanners, a brief generation typically requires LLM I/O; this suggests the task may have returned a cached result or skipped execution.
 - Skill picker for `brief-writing` returned a weak score of 15 (keyword-only match) for 2 runs, indicating poor alignment between task requirements and employee metadata.
+- The `todo-brief` template reported an `avgDurationSec` of 0s. Unlike synchronous scanners, a brief generation typically requires LLM I/O; this suggests the task may have returned a cached result or skipped execution.
 
 ### Try next
-- Audit the `todo-brief` template to ensure it is not failing silently or returning empty strings.
-- Update the `brief-writing` skill definition with more descriptive metadata to improve picker confidence scores.
 - Increase task load or schedule additional persona-driven tasks; the current fleet utilization is negligible.
+- Update the `brief-writing` skill definition with more descriptive metadata to improve picker confidence scores.
+- Audit the `todo-brief` template to ensure it is not failing silently or returning empty strings.
 
 ## 2026-09-16
 
@@ -98,38 +112,31 @@ Auto-generated from `_naxion/reflections/*.md`. Each daily reflection's *What we
 - Nothing went wrong.
 
 ### Try next
-- Integrate `web.search` or `research.query` into the `innovation-scan` template to move beyond internal data processing.
-- Investigate the employee tracking configuration to ensure active clawbots are correctly attributed to the "on the clock" stat.
 - Audit the `todo-brief` template logic to confirm it is actually generating content and not just returning an empty string or cached result.
+- Investigate the employee tracking configuration to ensure active clawbots are correctly attributed to the "on the clock" stat.
+- Integrate `web.search` or `research.query` into the `innovation-scan` template to move beyond internal data processing.
 
 ## 2026-09-15
 
 ### Went wrong
-- The `todo-brief` template recorded a 0s duration. Unlike synchronous scanners, a briefing template should involve processing time; this indicates the task likely exited early or found no data to process.
 - Zero employees were recorded as "on the clock" despite 5 tasks being completed, suggesting a disconnect between task execution and employee session logging.
+- The `todo-brief` template recorded a 0s duration. Unlike synchronous scanners, a briefing template should involve processing time; this indicates the task likely exited early or found no data to process.
 
 ### Try next
-- Audit the `todo-brief` template to ensure it isn't skipping logic; 0s duration is a red flag for a non-security tool.
-- Check the integration between the task runner and the employee time-tracking module to fix the "none recorded" status.
 - Assign a `research` or `web` based task to verify if the tool-call logging (currently empty) is actually functional.
+- Check the integration between the task runner and the employee time-tracking module to fix the "none recorded" status.
+- Audit the `todo-brief` template to ensure it isn't skipping logic; 0s duration is a red flag for a non-security tool.
 
 ## 2026-09-12
 
 ### Try next
-- Investigate the employee logging system; tasks are executing without being attributed to active staff.
-- Audit the `weekly-rollup` template; 0s duration suggests it may be returning empty results or skipping processing logic.
 - Increase task load to test system performance beyond single-instance runs.
+- Audit the `weekly-rollup` template; 0s duration suggests it may be returning empty results or skipping processing logic.
+- Investigate the employee logging system; tasks are executing without being attributed to active staff.
 
 ## 2026-09-10
 
 ### Try next
-- Increase task frequency or batch size to gather statistically significant performance data.
-- Verify the employee heartbeat/clock-in mechanism to ensure active users are being tracked during task execution.
 - Attach `web.search` or `research.market` tools to the `innovation-scan` template to provide real-time data.
-
-## 2026-09-07
-
-### Try next
-- Review the `innovation-scan` template to determine if adding `web.search` or `research.market` tools would improve the scan's depth beyond internal LLM knowledge.
-- Increase task volume or trigger frequency for the `innovation-scan` to utilize idle capacity.
-- Audit the employee logging configuration to determine why active tasks are not being attributed to "on the clock" staff.
+- Verify the employee heartbeat/clock-in mechanism to ensure active users are being tracked during task execution.
+- Increase task frequency or batch size to gather statistically significant performance data.
