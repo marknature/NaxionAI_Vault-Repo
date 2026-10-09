@@ -995,3 +995,13 @@
 {"jobId":"be372865-591e-4766-b3d3-73e07708ea31","model":"gemma4:31b","backend":"ollama","profile":"none","inputTokens":2768,"outputTokens":520,"costUsd":0,"ts":"2026-10-09T05:30:36.103Z"}
 {"jobId":"3403ef8e-8407-4e57-abcd-c57d649cd8d7","model":"gemma4:31b","backend":"ollama","profile":"synthesis","inputTokens":7443,"outputTokens":215,"costUsd":0,"ts":"2026-10-09T05:45:25.143Z"}
 {"jobId":"3403ef8e-8407-4e57-abcd-c57d649cd8d7","model":"gemma4:31b","backend":"ollama","profile":"extraction","inputTokens":2406,"outputTokens":56,"costUsd":0,"ts":"2026-10-09T05:45:26.066Z"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"planning","inputTokens":1910,"outputTokens":12,"costUsd":0,"ts":"2026-10-09T05:46:30.956Z"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"planning","inputTokens":2038,"outputTokens":17,"costUsd":0,"ts":"2026-10-09T05:46:31.658Z"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"planning","inputTokens":2074,"outputTokens":19,"costUsd":0,"ts":"2026-10-09T05:46:33.039Z"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"planning","inputTokens":2117,"outputTokens":23,"costUsd":0,"ts":"2026-10-09T05:46:33.932Z"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"planning","inputTokens":3173,"outputTokens":25,"costUsd":0,"ts":"2026-10-09T05:46:34.716Z"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"planning","inputTokens":3674,"outputTokens":522,"costUsd":0,"ts":"2026-10-09T05:46:39.418Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-09T05:46:41.985Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-09T05:46:42.033Z","ok":false,"error":"Ollama 404: {\"error\":\"model 'qwen2.5:3b' not found\"}"}
+{"jobId":"819632b6-b35c-4347-b800-375fcc3a9b1f","model":"gemma4:31b","backend":"ollama","profile":"none","inputTokens":1562,"outputTokens":425,"costUsd":0,"ts":"2026-10-09T06:00:41.271Z"}
+{"jobId":"819632b6-b35c-4347-b800-375fcc3a9b1f","model":"gemma4:31b","backend":"ollama","profile":"none","inputTokens":2342,"outputTokens":217,"costUsd":0,"ts":"2026-10-09T06:00:42.976Z"}
