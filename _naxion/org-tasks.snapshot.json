@@ -528,6 +528,32 @@
       "createdAt": "2026-10-09T06:00:16.869Z",
       "updatedAt": "2026-10-09T06:00:43.764Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "8d48fac2-751c-4c3b-86d6-e79558014db9",
+      "role": "scheduler",
+      "title": "World AI news — BREAKING",
+      "detail": "World AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "2a6a218d-049e-43be-bf01-92791e5d7a66",
+      "createdAt": "2026-10-09T07:00:18.175Z",
+      "updatedAt": "2026-10-09T07:00:41.440Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "86234ff5-3aea-4495-99f5-9ea31bf63981",
+      "role": "scheduler",
+      "title": "Super Intelligence news — daily",
+      "detail": "Super Intelligence news — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "2f858034-011a-401d-bc8e-e0b81bec72b5",
+      "createdAt": "2026-10-09T07:30:18.636Z",
+      "updatedAt": "2026-10-09T07:30:39.957Z",
+      "createdBy": "daemon"
     }
   ]
 }
