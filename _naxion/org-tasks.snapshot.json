@@ -580,6 +580,19 @@
       "createdAt": "2026-10-09T12:40:13.722Z",
       "updatedAt": "2026-10-09T12:43:16.347Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "a9933a46-4f38-4e48-acef-a62716af5690",
+      "role": "scheduler",
+      "title": "Evening AI recap — daily",
+      "detail": "Evening AI recap — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "1ba118c5-f647-4f7d-a04d-4a1703ac83a4",
+      "createdAt": "2026-10-09T16:58:13.622Z",
+      "updatedAt": "2026-10-09T16:59:45.888Z",
+      "createdBy": "daemon"
     }
   ]
 }
