@@ -1015,3 +1015,4 @@
 {"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"synthesis","inputTokens":757,"outputTokens":211,"costUsd":0,"ts":"2026-10-09T09:06:46.225Z"}
 {"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"synthesis","inputTokens":1627,"outputTokens":242,"costUsd":0,"ts":"2026-10-09T09:06:47.612Z"}
 {"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"synthesis","inputTokens":706,"outputTokens":103,"costUsd":0,"ts":"2026-10-09T09:06:49.267Z"}
+{"jobId":"73792620-bd8e-4cf6-9739-4345930ba008","model":"gemma4:31b","backend":"ollama","profile":"planning","inputTokens":10027,"outputTokens":248,"costUsd":0,"ts":"2026-10-09T12:43:15.911Z"}
