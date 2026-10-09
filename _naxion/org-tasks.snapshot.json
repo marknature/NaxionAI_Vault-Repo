@@ -458,6 +458,32 @@
       "createdAt": "2026-10-08T20:24:32.985Z",
       "updatedAt": "2026-10-08T20:24:33.037Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "abe4fb31-dbab-4a5a-9db3-c04476837bff",
+      "role": "scheduler",
+      "title": "Events & Competition Scan — daily",
+      "detail": "Events & Competition Scan — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "be372865-591e-4766-b3d3-73e07708ea31",
+      "createdAt": "2026-10-09T05:30:18.212Z",
+      "updatedAt": "2026-10-09T05:30:36.878Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "5df8d0b3-5652-49b0-98e4-c9b2e45b6418",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "3403ef8e-8407-4e57-abcd-c57d649cd8d7",
+      "createdAt": "2026-10-09T05:45:18.400Z",
+      "updatedAt": "2026-10-09T05:45:26.074Z",
+      "createdBy": "daemon"
     }
   ]
 }

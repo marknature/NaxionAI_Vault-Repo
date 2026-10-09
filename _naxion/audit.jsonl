@@ -2436,3 +2436,7 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv0jlijj-1","ts":"2026-10-09T05:46:19.039Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"mv0jlimh-2","ts":"2026-10-09T05:46:19.145Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"mv0jlinn-3","ts":"2026-10-09T05:46:19.187Z"}
+{"level":"warn","actor":"researcher","action":"org_task.sla_breach","target":"Ad-hoc: Good morning can I get a brief on my day and the system","detail":"blocked >48h — escalated","jobId":"635a87ec-4ad3-491e-9704-f4d1d59027c3","result":"failure","id":"mv0jlkmm-4","ts":"2026-10-09T05:46:21.742Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"blocked >48h — escalated","jobId":"8e4abd75-adbe-4976-bb72-58481b4b941d","result":"failure","id":"mv0jlkmo-5","ts":"2026-10-09T05:46:21.744Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"5 backlog, 2 blocked, 4 active","result":"success","id":"mv0jlknl-6","ts":"2026-10-09T05:46:21.777Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 48h. Outstanding: 5 backlog, 2 blocked, 4 active.","result":"success","id":"mv0jlme6-7","ts":"2026-10-09T05:46:24.030Z"}
