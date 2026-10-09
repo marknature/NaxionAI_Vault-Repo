@@ -2465,3 +2465,4 @@
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Super Intelligence news — daily","detail":"","jobId":"2f858034-011a-401d-bc8e-e0b81bec72b5","result":"success","id":"mv0nbphx-30","ts":"2026-10-09T07:30:39.957Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv0nvx0f-31","ts":"2026-10-09T07:46:22.815Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"mv0q175t-32","ts":"2026-10-09T08:46:28.481Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv0s67vd-33","ts":"2026-10-09T09:46:21.913Z"}
