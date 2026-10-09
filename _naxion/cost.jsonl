@@ -992,3 +992,4 @@
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-08T21:49:43.229Z","ok":false,"error":"Ollama 404: {\"error\":\"model 'qwen2.5:3b' not found\"}"}
 {"jobId":"adhoc","model":"nomic-embed-text:latest","backend":"ollama","profile":"planning","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-10-08T21:50:14.895Z","ok":false,"error":"Ollama 400: {\"error\":\"\\\"nomic-embed-text:latest\\\" does not support generate\"}"}
 {"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"synthesis","inputTokens":3286,"outputTokens":638,"costUsd":0,"ts":"2026-10-09T05:09:50.280Z"}
+{"jobId":"be372865-591e-4766-b3d3-73e07708ea31","model":"gemma4:31b","backend":"ollama","profile":"none","inputTokens":2768,"outputTokens":520,"costUsd":0,"ts":"2026-10-09T05:30:36.103Z"}
