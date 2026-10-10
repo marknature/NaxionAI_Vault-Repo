@@ -2645,3 +2645,13 @@
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Event deadline reminders","detail":"","jobId":"64fc7fc5-c7c7-4f34-a534-32f13ad54469","result":"pending","id":"mv2847mn-101","ts":"2026-10-10T10:00:28.319Z"}
 {"level":"info","actor":"naxie","action":"job.operations:deadline-reminders","target":"deadline-reminders","detail":"Event deadline reminders","jobId":"64fc7fc5-c7c7-4f34-a534-32f13ad54469","result":"success","id":"mv2847mv-102","ts":"2026-10-10T10:00:28.327Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Event deadline reminders","detail":"","jobId":"64fc7fc5-c7c7-4f34-a534-32f13ad54469","result":"success","id":"mv2847mx-103","ts":"2026-10-10T10:00:28.329Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv28h6rs-104","ts":"2026-10-10T10:10:33.736Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv28yrtc-105","ts":"2026-10-10T10:24:14.160Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv28z73s-106","ts":"2026-10-10T10:24:33.976Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv28zqva-107","ts":"2026-10-10T10:24:59.590Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv28zr5c-108","ts":"2026-10-10T10:24:59.952Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv290m4l-109","ts":"2026-10-10T10:25:40.101Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2911qi-110","ts":"2026-10-10T10:26:00.330Z"}
+{"level":"warn","actor":"researcher","action":"org_task.sla_breach","target":"Ad-hoc: Good morning can I get a brief on my day and the system","detail":"blocked >48h — escalated","jobId":"635a87ec-4ad3-491e-9704-f4d1d59027c3","result":"failure","id":"mv29dzgo-1","ts":"2026-10-10T10:36:03.912Z"}
+{"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"blocked >48h — escalated","jobId":"8e4abd75-adbe-4976-bb72-58481b4b941d","result":"failure","id":"mv29dzgq-2","ts":"2026-10-10T10:36:03.914Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"5 backlog, 2 blocked, 10 active","result":"success","id":"mv29dzlq-3","ts":"2026-10-10T10:36:04.094Z"}
