@@ -2640,3 +2640,8 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv24icwq-96","ts":"2026-10-10T08:19:29.882Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv25lruj-97","ts":"2026-10-10T08:50:08.827Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv25lrv1-98","ts":"2026-10-10T08:50:08.845Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv26c0ik-99","ts":"2026-10-10T09:10:33.116Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Event deadline reminders","detail":"Event deadline reminders","jobId":"64fc7fc5-c7c7-4f34-a534-32f13ad54469","result":"success","id":"mv2847mk-100","ts":"2026-10-10T10:00:28.316Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Event deadline reminders","detail":"","jobId":"64fc7fc5-c7c7-4f34-a534-32f13ad54469","result":"pending","id":"mv2847mn-101","ts":"2026-10-10T10:00:28.319Z"}
+{"level":"info","actor":"naxie","action":"job.operations:deadline-reminders","target":"deadline-reminders","detail":"Event deadline reminders","jobId":"64fc7fc5-c7c7-4f34-a534-32f13ad54469","result":"success","id":"mv2847mv-102","ts":"2026-10-10T10:00:28.327Z"}
+{"level":"info","actor":"scheduler","action":"org_task.done","target":"Event deadline reminders","detail":"","jobId":"64fc7fc5-c7c7-4f34-a534-32f13ad54469","result":"success","id":"mv2847mx-103","ts":"2026-10-10T10:00:28.329Z"}
