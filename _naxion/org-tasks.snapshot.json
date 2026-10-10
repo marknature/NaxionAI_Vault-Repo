@@ -660,6 +660,19 @@
       "createdAt": "2026-10-10T05:45:24.321Z",
       "updatedAt": "2026-10-10T05:45:31.547Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "f50f402d-d9c1-4238-a90b-5dac8f22cf39",
+      "role": "scheduler",
+      "title": "Weekend AI digest",
+      "detail": "Weekend AI digest",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "92b24667-61d5-44c5-bca1-6fd01ac18801",
+      "createdAt": "2026-10-10T07:00:25.448Z",
+      "updatedAt": "2026-10-10T07:00:51.038Z",
+      "createdBy": "daemon"
     }
   ]
 }
