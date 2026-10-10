@@ -2588,3 +2588,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mv1xbswt-44","ts":"2026-10-10T04:58:26.717Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/my-finances","detail":"/my-finances","result":"success","id":"mv1xcg8p-45","ts":"2026-10-10T04:58:56.953Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/business-finance","detail":"/business-finance","result":"success","id":"mv1xcwi0-46","ts":"2026-10-10T04:59:18.024Z"}
+{"level":"warn","actor":"wiki-compile","action":"notify.urgent","target":"Wiki compile: 0 new entries","detail":"Overnight second-brain compile summary:\n\nNothing new in the archive overnight. (email not sent — not configured or no operator address)","result":"pending","id":"mv1xoozn-47","ts":"2026-10-10T05:08:28.163Z"}
