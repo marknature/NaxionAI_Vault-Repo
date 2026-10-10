@@ -2575,3 +2575,6 @@
 {"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"mv1obsjy-31","ts":"2026-10-10T00:46:29.710Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mv1oc2vn-32","ts":"2026-10-10T00:46:43.091Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:5 alert:1","detail":"core fails: openrouter:fetch failed | jev:TYPESAFE_API_KEY not set | supabase:fetch failed | 920acca5-d657-400d-afad-4fd04972d627:network error reaching Telegram (fetch failed) — check connectivity, then re-tes | c035f4d0-2a6b-43c6-982f-0af85952cad6:fetch failed | alerts: jev","result":"failure","id":"mv1qluvk-33","ts":"2026-10-10T01:50:18.512Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mv1qmhww-34","ts":"2026-10-10T01:50:48.368Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mv1qmhyx-35","ts":"2026-10-10T01:50:48.441Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv1rbws8-36","ts":"2026-10-10T02:10:34.040Z"}
