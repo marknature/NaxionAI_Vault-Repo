@@ -2,7 +2,7 @@
 type: template
 title: Latest news scan (web-only) (custom-researcher-latest-news-scan-web-only)
 slug: custom-researcher-latest-news-scan-web-only
-created: 2026-10-10T16:28:42.460Z
+created: 2026-10-10T16:30:55.199Z
 templateId: custom-researcher-latest-news-scan-web-only
 role: Custom
 originTask: Use research.multiperspective with perspectives='recent' to scan the live web for developments in the last 6-12 months on the following topic. Prefer news, blogs, releases, official announcements. Cite every claim with [N]. Note what changed compared to earlier consensus and flag what's still unconfirmed.

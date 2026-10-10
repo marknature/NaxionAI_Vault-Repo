@@ -804,12 +804,12 @@
       "role": "scheduler",
       "title": "Evening AI recap — daily",
       "detail": "Evening AI recap — daily",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "a75bef27-2ab9-4e21-8abf-a3bd88b83226",
       "createdAt": "2026-10-10T16:00:23.845Z",
-      "updatedAt": "2026-10-10T16:00:23.849Z",
+      "updatedAt": "2026-10-10T16:31:02.889Z",
       "createdBy": "daemon"
     }
   ]
