@@ -3168,3 +3168,83 @@
 {"level":"warn","actor":"executor","action":"org_task.sla_breach","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"blocked >48h — escalated","jobId":"8e4abd75-adbe-4976-bb72-58481b4b941d","result":"failure","id":"mv2n4if5-2","ts":"2026-10-10T17:00:36.545Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"5 backlog, 6 blocked, 12 active","result":"success","id":"mv2n4ih0-3","ts":"2026-10-10T17:00:36.612Z"}
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"Task ff81aaa0-1e6c-4c15-9da3-6e00e38e7be6 (executor) has been blocked for 152h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mv2n4m8j-4","ts":"2026-10-10T17:00:41.491Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 83h. Outstanding: 5 backlog, 6 blocked, 12 active.","result":"success","id":"mv2n4ndt-5","ts":"2026-10-10T17:00:42.977Z"}
+{"level":"warn","actor":"researcher","action":"notify.urgent","target":"Ad-hoc: Good morning can I get a brief on my day and the system","detail":"Task c0175847-617b-4e72-9adc-30d6762bb325 (researcher) has been blocked for 151h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mv2n4o4r-6","ts":"2026-10-10T17:00:43.947Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv2n56b2-7","ts":"2026-10-10T17:01:07.502Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"e8bc39d1","detail":"t","result":"success","id":"mv2n6ii7-1","ts":"2026-10-10T17:02:09.967Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"503c883f","detail":"journal","result":"success","id":"mv2n6iiv-2","ts":"2026-10-10T17:02:09.991Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Flow: journal","detail":"Flow: journal","jobId":"0be80eab-1d09-42e5-94c0-47412b4625b3","result":"success","id":"mv2n6irt-3","ts":"2026-10-10T17:02:10.313Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Flow: journal","detail":"","jobId":"0be80eab-1d09-42e5-94c0-47412b4625b3","result":"pending","id":"mv2n6irw-4","ts":"2026-10-10T17:02:10.316Z"}
+{"level":"info","actor":"naxie","action":"job.flow:503c883f","target":"Flow: journal","detail":"Flow: journal","jobId":"0be80eab-1d09-42e5-94c0-47412b4625b3","result":"success","id":"mv2n6iss-5","ts":"2026-10-10T17:02:10.348Z"}
+{"level":"info","actor":"executor","action":"org_task.done","target":"Flow: journal","detail":"","jobId":"0be80eab-1d09-42e5-94c0-47412b4625b3","result":"success","id":"mv2n6isu-6","ts":"2026-10-10T17:02:10.350Z"}
+{"level":"info","actor":"system","action":"flow.invoke","target":"503c883f","detail":"run=6888b2f8 status=succeeded","result":"success","jobId":"0be80eab-1d09-42e5-94c0-47412b4625b3","id":"mv2n6itg-7","ts":"2026-10-10T17:02:10.372Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"bb89ba35","detail":"journal","result":"success","id":"mv2n6itr-8","ts":"2026-10-10T17:02:10.383Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Flow: journal","detail":"Flow: journal","jobId":"3ea1ede1-eb7d-4f09-86dc-661d92818ccf","result":"success","id":"mv2n6iu8-9","ts":"2026-10-10T17:02:10.400Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Flow: journal","detail":"","jobId":"3ea1ede1-eb7d-4f09-86dc-661d92818ccf","result":"pending","id":"mv2n6iua-10","ts":"2026-10-10T17:02:10.402Z"}
+{"level":"info","actor":"naxie","action":"job.flow:bb89ba35","target":"Flow: journal","detail":"Flow: journal","jobId":"3ea1ede1-eb7d-4f09-86dc-661d92818ccf","result":"success","id":"mv2n6iul-11","ts":"2026-10-10T17:02:10.413Z"}
+{"level":"info","actor":"executor","action":"org_task.done","target":"Flow: journal","detail":"","jobId":"3ea1ede1-eb7d-4f09-86dc-661d92818ccf","result":"success","id":"mv2n6iun-12","ts":"2026-10-10T17:02:10.415Z"}
+{"level":"info","actor":"system","action":"flow.invoke","target":"bb89ba35","detail":"run=c487a250 status=succeeded","result":"success","jobId":"3ea1ede1-eb7d-4f09-86dc-661d92818ccf","id":"mv2n6iut-13","ts":"2026-10-10T17:02:10.421Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"3735efce","detail":"journal","result":"success","id":"mv2n6iv6-14","ts":"2026-10-10T17:02:10.434Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"07943af2","detail":"t","result":"success","id":"mv2nab0p-1","ts":"2026-10-10T17:05:06.889Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"45855e78","detail":"journal","result":"success","id":"mv2nab29-2","ts":"2026-10-10T17:05:06.945Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Flow: journal","detail":"Flow: journal","jobId":"166f2c4e-d68d-4279-8125-149047f77678","result":"success","id":"mv2nac0x-3","ts":"2026-10-10T17:05:08.193Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Flow: journal","detail":"","jobId":"166f2c4e-d68d-4279-8125-149047f77678","result":"pending","id":"mv2nac0z-4","ts":"2026-10-10T17:05:08.195Z"}
+{"level":"info","actor":"naxie","action":"job.flow:45855e78","target":"Flow: journal","detail":"Flow: journal","jobId":"166f2c4e-d68d-4279-8125-149047f77678","result":"success","id":"mv2nac1p-5","ts":"2026-10-10T17:05:08.221Z"}
+{"level":"info","actor":"executor","action":"org_task.done","target":"Flow: journal","detail":"","jobId":"166f2c4e-d68d-4279-8125-149047f77678","result":"success","id":"mv2nac1r-6","ts":"2026-10-10T17:05:08.223Z"}
+{"level":"info","actor":"system","action":"flow.invoke","target":"45855e78","detail":"run=afb4d6cc status=succeeded","result":"success","jobId":"166f2c4e-d68d-4279-8125-149047f77678","id":"mv2nac2d-7","ts":"2026-10-10T17:05:08.245Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"4640b47b","detail":"journal","result":"success","id":"mv2nac31-8","ts":"2026-10-10T17:05:08.269Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Flow: journal","detail":"Flow: journal","jobId":"0801a77f-2000-42ae-8d76-ed4d36893878","result":"success","id":"mv2nac3i-9","ts":"2026-10-10T17:05:08.286Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Flow: journal","detail":"","jobId":"0801a77f-2000-42ae-8d76-ed4d36893878","result":"pending","id":"mv2nac3k-10","ts":"2026-10-10T17:05:08.288Z"}
+{"level":"info","actor":"naxie","action":"job.flow:4640b47b","target":"Flow: journal","detail":"Flow: journal","jobId":"0801a77f-2000-42ae-8d76-ed4d36893878","result":"success","id":"mv2nac48-11","ts":"2026-10-10T17:05:08.312Z"}
+{"level":"info","actor":"executor","action":"org_task.done","target":"Flow: journal","detail":"","jobId":"0801a77f-2000-42ae-8d76-ed4d36893878","result":"success","id":"mv2nac4d-12","ts":"2026-10-10T17:05:08.317Z"}
+{"level":"info","actor":"system","action":"flow.invoke","target":"4640b47b","detail":"run=47c6175c status=succeeded","result":"success","jobId":"0801a77f-2000-42ae-8d76-ed4d36893878","id":"mv2nac4e-13","ts":"2026-10-10T17:05:08.318Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"a6e4c1a0","detail":"journal","result":"success","id":"mv2nac4q-14","ts":"2026-10-10T17:05:08.330Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2noe51-8","ts":"2026-10-10T17:16:04.117Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2noe5a-9","ts":"2026-10-10T17:16:04.126Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2nso54-10","ts":"2026-10-10T17:19:23.704Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2nso59-11","ts":"2026-10-10T17:19:23.709Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2nvzwd-12","ts":"2026-10-10T17:21:58.909Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2nvzwq-13","ts":"2026-10-10T17:21:58.922Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2nxe3v-14","ts":"2026-10-10T17:23:03.979Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2nxe48-15","ts":"2026-10-10T17:23:03.992Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2o06l9-16","ts":"2026-10-10T17:25:14.205Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2o06lk-17","ts":"2026-10-10T17:25:14.216Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2osiju-18","ts":"2026-10-10T17:47:16.074Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2osik6-19","ts":"2026-10-10T17:47:16.086Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2otsse-20","ts":"2026-10-10T17:48:15.998Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2otssl-21","ts":"2026-10-10T17:48:16.005Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2ouk48-22","ts":"2026-10-10T17:48:51.416Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2ouk4e-23","ts":"2026-10-10T17:48:51.422Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2ouvp2-24","ts":"2026-10-10T17:49:06.422Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2ouvpb-25","ts":"2026-10-10T17:49:06.431Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2ov30x-26","ts":"2026-10-10T17:49:15.921Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2ov316-27","ts":"2026-10-10T17:49:15.930Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2ovb7z-28","ts":"2026-10-10T17:49:26.543Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2ovb86-29","ts":"2026-10-10T17:49:26.550Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p2t2b-30","ts":"2026-10-10T17:55:16.259Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p2t3i-31","ts":"2026-10-10T17:55:16.302Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p3kr4-32","ts":"2026-10-10T17:55:52.144Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p3krd-33","ts":"2026-10-10T17:55:52.153Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p437p-34","ts":"2026-10-10T17:56:16.069Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p4387-35","ts":"2026-10-10T17:56:16.087Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"32d73542","detail":"t","result":"success","id":"mv2p5kia-1","ts":"2026-10-10T17:57:25.138Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"98dfad3f","detail":"journal","result":"success","id":"mv2p5kiv-2","ts":"2026-10-10T17:57:25.159Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Flow: journal","detail":"Flow: journal","jobId":"9d918998-659e-47f2-82fe-7a5012ea11f4","result":"success","id":"mv2p5kur-3","ts":"2026-10-10T17:57:25.587Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Flow: journal","detail":"","jobId":"9d918998-659e-47f2-82fe-7a5012ea11f4","result":"pending","id":"mv2p5kut-4","ts":"2026-10-10T17:57:25.589Z"}
+{"level":"info","actor":"naxie","action":"job.flow:98dfad3f","target":"Flow: journal","detail":"Flow: journal","jobId":"9d918998-659e-47f2-82fe-7a5012ea11f4","result":"success","id":"mv2p5kvj-5","ts":"2026-10-10T17:57:25.615Z"}
+{"level":"info","actor":"executor","action":"org_task.done","target":"Flow: journal","detail":"","jobId":"9d918998-659e-47f2-82fe-7a5012ea11f4","result":"success","id":"mv2p5kvl-6","ts":"2026-10-10T17:57:25.617Z"}
+{"level":"info","actor":"system","action":"flow.invoke","target":"98dfad3f","detail":"run=f86767f5 status=succeeded","result":"success","jobId":"9d918998-659e-47f2-82fe-7a5012ea11f4","id":"mv2p5kw8-7","ts":"2026-10-10T17:57:25.640Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"27314603","detail":"journal","result":"success","id":"mv2p5kxz-8","ts":"2026-10-10T17:57:25.703Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Flow: journal","detail":"Flow: journal","jobId":"db34f9b4-6eea-4751-a5dc-56e0365e5c8c","result":"success","id":"mv2p5kya-9","ts":"2026-10-10T17:57:25.714Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Flow: journal","detail":"","jobId":"db34f9b4-6eea-4751-a5dc-56e0365e5c8c","result":"pending","id":"mv2p5kyc-10","ts":"2026-10-10T17:57:25.716Z"}
+{"level":"info","actor":"naxie","action":"job.flow:27314603","target":"Flow: journal","detail":"Flow: journal","jobId":"db34f9b4-6eea-4751-a5dc-56e0365e5c8c","result":"success","id":"mv2p5kym-11","ts":"2026-10-10T17:57:25.726Z"}
+{"level":"info","actor":"executor","action":"org_task.done","target":"Flow: journal","detail":"","jobId":"db34f9b4-6eea-4751-a5dc-56e0365e5c8c","result":"success","id":"mv2p5kyo-12","ts":"2026-10-10T17:57:25.728Z"}
+{"level":"info","actor":"system","action":"flow.invoke","target":"27314603","detail":"run=d5c2b116 status=succeeded","result":"success","jobId":"db34f9b4-6eea-4751-a5dc-56e0365e5c8c","id":"mv2p5kyo-13","ts":"2026-10-10T17:57:25.728Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"91ce2102","detail":"journal","result":"success","id":"mv2p5kz2-14","ts":"2026-10-10T17:57:25.742Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p6t3a-36","ts":"2026-10-10T17:58:22.918Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p6t3m-37","ts":"2026-10-10T17:58:22.930Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p7yjc-38","ts":"2026-10-10T17:59:16.632Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p7yng-39","ts":"2026-10-10T17:59:16.780Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p98dz-40","ts":"2026-10-10T18:00:16.055Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2p98ea-41","ts":"2026-10-10T18:00:16.066Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv2p9rtu-42","ts":"2026-10-10T18:00:41.250Z"}
