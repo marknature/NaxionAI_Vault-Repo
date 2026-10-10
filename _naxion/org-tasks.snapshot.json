@@ -811,6 +811,84 @@
       "createdAt": "2026-10-10T16:00:23.845Z",
       "updatedAt": "2026-10-10T16:31:02.889Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "ad68f2d8-d134-48d1-ab81-7f42fe2a64e7",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "0be80eab-1d09-42e5-94c0-47412b4625b3",
+      "createdAt": "2026-10-10T17:02:10.312Z",
+      "updatedAt": "2026-10-10T17:02:10.349Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "1bed56a0-d842-41c6-b278-f4c114054462",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "3ea1ede1-eb7d-4f09-86dc-661d92818ccf",
+      "createdAt": "2026-10-10T17:02:10.399Z",
+      "updatedAt": "2026-10-10T17:02:10.414Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "51969ffb-fc20-49bf-b68c-1ad15539c32c",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "166f2c4e-d68d-4279-8125-149047f77678",
+      "createdAt": "2026-10-10T17:05:08.192Z",
+      "updatedAt": "2026-10-10T17:05:08.222Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "08428030-3bc8-436a-b078-ec1356444f67",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "0801a77f-2000-42ae-8d76-ed4d36893878",
+      "createdAt": "2026-10-10T17:05:08.281Z",
+      "updatedAt": "2026-10-10T17:05:08.313Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "742aaa68-a516-4097-b0c5-691e0a642956",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "9d918998-659e-47f2-82fe-7a5012ea11f4",
+      "createdAt": "2026-10-10T17:57:25.586Z",
+      "updatedAt": "2026-10-10T17:57:25.616Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "2516963f-c492-4813-8331-06d4bc78bc85",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "db34f9b4-6eea-4751-a5dc-56e0365e5c8c",
+      "createdAt": "2026-10-10T17:57:25.712Z",
+      "updatedAt": "2026-10-10T17:57:25.726Z",
+      "createdBy": "naxie"
     }
   ]
 }
