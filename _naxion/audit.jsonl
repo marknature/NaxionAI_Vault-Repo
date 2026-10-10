@@ -2862,3 +2862,20 @@
 {"level":"warn","actor":"researcher","action":"notify.urgent","target":"Ad-hoc: Good morning can I get a brief on my day and the system","detail":"Task c0175847-617b-4e72-9adc-30d6762bb325 (researcher) has been blocked for 148h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mv2evi6a-6","ts":"2026-10-10T13:09:39.394Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 79h. Outstanding: 5 backlog, 2 blocked, 3 waiting-on-approval, 11 active.","result":"success","id":"mv2evi7r-7","ts":"2026-10-10T13:09:39.458Z"}
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"Task ff81aaa0-1e6c-4c15-9da3-6e00e38e7be6 (executor) has been blocked for 148h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mv2evid8-8","ts":"2026-10-10T13:09:39.644Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv2ewfvj-9","ts":"2026-10-10T13:10:23.071Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2ewtph-10","ts":"2026-10-10T13:10:40.997Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2ewtr8-11","ts":"2026-10-10T13:10:41.060Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2ewty0-12","ts":"2026-10-10T13:10:41.304Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2ewty4-13","ts":"2026-10-10T13:10:41.308Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2exrpz-14","ts":"2026-10-10T13:11:25.079Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2exrqn-15","ts":"2026-10-10T13:11:25.103Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2exstl-16","ts":"2026-10-10T13:11:26.505Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2extyv-17","ts":"2026-10-10T13:11:27.991Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2exyxp-18","ts":"2026-10-10T13:11:34.429Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2exyyz-19","ts":"2026-10-10T13:11:34.475Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2ezpci-20","ts":"2026-10-10T13:12:55.315Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2ezpe1-21","ts":"2026-10-10T13:12:55.369Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2ezpg2-22","ts":"2026-10-10T13:12:55.442Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2ezpgx-23","ts":"2026-10-10T13:12:55.473Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2f15a9-24","ts":"2026-10-10T13:14:02.625Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2f15aq-25","ts":"2026-10-10T13:14:02.642Z"}
