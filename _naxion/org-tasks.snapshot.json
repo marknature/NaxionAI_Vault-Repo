@@ -785,6 +785,19 @@
       "createdAt": "2026-10-10T14:50:46.398Z",
       "updatedAt": "2026-10-10T14:50:54.315Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "59dabd7e-82cc-46ef-8b8c-dd95efc4b3b8",
+      "role": "executor",
+      "title": "Show system health",
+      "detail": "Show system health",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "f31ed222-ab0a-4625-8970-719fea3b4add",
+      "createdAt": "2026-10-10T15:12:01.855Z",
+      "updatedAt": "2026-10-10T15:12:08.215Z",
+      "createdBy": "naxie"
     }
   ]
 }
