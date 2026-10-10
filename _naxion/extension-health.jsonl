@@ -1213,3 +1213,7 @@
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":10996,"ts":"2026-10-10T18:19:16.730Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":15158,"ts":"2026-10-10T18:19:20.888Z"}
 {"id":"openrouter","ok":false,"detail":"This operation was aborted","latencyMs":18187,"ts":"2026-10-10T18:19:23.904Z"}
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-10T19:18:21.204Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — gpt-oss:120b","latencyMs":869,"ts":"2026-10-10T19:18:22.067Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":1694,"ts":"2026-10-10T19:18:22.899Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1896,"ts":"2026-10-10T19:18:23.104Z"}
