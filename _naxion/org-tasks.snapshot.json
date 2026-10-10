@@ -686,6 +686,18 @@
       "createdAt": "2026-10-10T10:00:28.315Z",
       "updatedAt": "2026-10-10T10:00:28.328Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "26a314fa-695f-4535-95a6-d1c97b5e865f",
+      "role": "architect",
+      "title": "Proposed improvement: src/agents/self_healing.py",
+      "detail": "Removed the Byte Order Mark (BOM) from the start of the file to ensure consistent encoding and prevent potential parsing issues in some environments.",
+      "status": "active",
+      "priority": "low",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-10T10:36:44.039Z",
+      "updatedAt": "2026-10-10T10:39:10.462Z",
+      "createdBy": "naxie"
     }
   ]
 }
