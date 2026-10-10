@@ -2705,3 +2705,66 @@
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"Delegated: (You are operating as Naxie, the Personal Assistant to Natur","detail":"Task ff81aaa0-1e6c-4c15-9da3-6e00e38e7be6 (executor) has been blocked for 146h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mv2akvf0-4","ts":"2026-10-10T11:09:24.876Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 77h. Outstanding: 5 backlog, 2 blocked, 2 waiting-on-approval, 11 active.","result":"success","id":"mv2akwhx-5","ts":"2026-10-10T11:09:26.277Z"}
 {"level":"warn","actor":"researcher","action":"notify.urgent","target":"Ad-hoc: Good morning can I get a brief on my day and the system","detail":"Task c0175847-617b-4e72-9adc-30d6762bb325 (researcher) has been blocked for 146h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mv2akwyt-6","ts":"2026-10-10T11:09:26.885Z"}
+{"level":"info","actor":"architect","action":"org_task.created","target":"Proposed improvement: src/agents/self_healing.py","detail":"Removed Byte Order Mark (BOM) from the start of the file to ensure consistent encoding and prevent potential parsing issues in some environments.","result":"success","id":"mv2al4z3-7","ts":"2026-10-10T11:09:37.263Z"}
+{"level":"info","actor":"architect","action":"org_task.waiting-on-approval","target":"Proposed improvement: src/agents/self_healing.py","detail":"A small code improvement has been proposed for review — see the attached diff.","result":"pending","id":"mv2al506-8","ts":"2026-10-10T11:09:37.302Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv2al9rs-9","ts":"2026-10-10T11:09:43.480Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2amcni-10","ts":"2026-10-10T11:10:33.870Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2amgn0-11","ts":"2026-10-10T11:10:39.036Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2aoj8x-12","ts":"2026-10-10T11:12:15.729Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2aojag-13","ts":"2026-10-10T11:12:15.784Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2aqxmx-14","ts":"2026-10-10T11:14:07.689Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2aqxod-15","ts":"2026-10-10T11:14:07.741Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2as82w-16","ts":"2026-10-10T11:15:07.880Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2as850-17","ts":"2026-10-10T11:15:07.956Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2athz1-18","ts":"2026-10-10T11:16:07.357Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2athzf-19","ts":"2026-10-10T11:16:07.371Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2ausds-20","ts":"2026-10-10T11:17:07.504Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2ausem-21","ts":"2026-10-10T11:17:07.534Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mv2auzzo-22","ts":"2026-10-10T11:17:17.364Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2aw2lj-23","ts":"2026-10-10T11:18:07.399Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2aw2m2-24","ts":"2026-10-10T11:18:07.418Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2axcw0-25","ts":"2026-10-10T11:19:07.392Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2axcwn-26","ts":"2026-10-10T11:19:07.415Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2ayn7v-27","ts":"2026-10-10T11:20:07.435Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2ayn8x-28","ts":"2026-10-10T11:20:07.473Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2azxh1-29","ts":"2026-10-10T11:21:07.381Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2azxhj-30","ts":"2026-10-10T11:21:07.399Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2b17r9-31","ts":"2026-10-10T11:22:07.365Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2b17se-32","ts":"2026-10-10T11:22:07.406Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2b2i3c-33","ts":"2026-10-10T11:23:07.416Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2b2i44-34","ts":"2026-10-10T11:23:07.444Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2b2pyu-35","ts":"2026-10-10T11:23:17.622Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2b2pzp-36","ts":"2026-10-10T11:23:17.653Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2b5u65-37","ts":"2026-10-10T11:25:43.037Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2b5u6d-38","ts":"2026-10-10T11:25:43.045Z"}
+{"level":"info","actor":"architect","action":"org_task.nudge","target":"Proposed improvement: src/agents/self_healing.py","detail":"3 waiting","result":"success","id":"mv2b9yit-39","ts":"2026-10-10T11:28:55.301Z"}
+{"level":"info","actor":"architect","action":"notify.attention","target":"Proposed improvement: src/agents/self_healing.py","detail":"3 tasks waiting on your approval. Oldest: 1. \"Proposed improvement: src/agents/self_healing.py\" (code diff — review in app) 2. \"Proposed improvement: src/agents/self_healing.py\" (code diff — review in app) 3. \"Proposed improvement: src/agents/self_healing.py\" (code diff — review in app)","result":"success","id":"mv2b9zp4-40","ts":"2026-10-10T11:28:56.824Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bcww8-41","ts":"2026-10-10T11:31:13.160Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bcwwj-42","ts":"2026-10-10T11:31:13.171Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bd4jx-43","ts":"2026-10-10T11:31:23.085Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bd4ke-44","ts":"2026-10-10T11:31:23.102Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2beue2-45","ts":"2026-10-10T11:32:43.226Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2beuem-46","ts":"2026-10-10T11:32:43.246Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bflfr-47","ts":"2026-10-10T11:33:18.279Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bflg0-48","ts":"2026-10-10T11:33:18.288Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bg4ru-49","ts":"2026-10-10T11:33:43.338Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bg4rz-50","ts":"2026-10-10T11:33:43.343Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bia23-51","ts":"2026-10-10T11:35:23.499Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bia2b-52","ts":"2026-10-10T11:35:23.507Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2biln0-53","ts":"2026-10-10T11:35:38.508Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bilnq-54","ts":"2026-10-10T11:35:38.534Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2blsez-55","ts":"2026-10-10T11:38:07.259Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2blsff-56","ts":"2026-10-10T11:38:07.275Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bn2li-57","ts":"2026-10-10T11:39:07.110Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bn2lp-58","ts":"2026-10-10T11:39:07.117Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bnuvu-59","ts":"2026-10-10T11:39:43.770Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bnuw3-60","ts":"2026-10-10T11:39:43.779Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bo71q-61","ts":"2026-10-10T11:39:59.534Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bo74v-62","ts":"2026-10-10T11:39:59.647Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bv5qi-63","ts":"2026-10-10T11:45:24.426Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2bv5r7-64","ts":"2026-10-10T11:45:24.451Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"mv2cpnj6-65","ts":"2026-10-10T12:09:07.171Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2cvb25-66","ts":"2026-10-10T12:13:30.941Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2cvb2c-67","ts":"2026-10-10T12:13:30.948Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2cvmlh-68","ts":"2026-10-10T12:13:45.893Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv2cvmll-69","ts":"2026-10-10T12:13:45.897Z"}
