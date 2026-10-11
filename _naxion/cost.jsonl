@@ -1168,3 +1168,4 @@
 {"jobId":"60265d2c-2804-4e06-bc01-bf87ca860303","model":"gemma4:31b","backend":"ollama","profile":"extraction","inputTokens":2351,"outputTokens":47,"costUsd":0,"ts":"2026-10-11T05:45:27.233Z"}
 {"jobId":"6510e7b0-7073-4c02-9f0c-490239fcbee3","model":"gemma4:31b","backend":"ollama","profile":"none","inputTokens":1474,"outputTokens":392,"costUsd":0,"ts":"2026-10-11T07:00:40.396Z"}
 {"jobId":"6510e7b0-7073-4c02-9f0c-490239fcbee3","model":"gemma4:31b","backend":"ollama","profile":"none","inputTokens":796,"outputTokens":367,"costUsd":0,"ts":"2026-10-11T07:00:43.045Z"}
+{"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"synthesis","inputTokens":5809,"outputTokens":1058,"costUsd":0,"ts":"2026-10-11T08:02:24.033Z"}
