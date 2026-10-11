@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:00:40.698Z",
+  "updatedAt": "2026-10-11T18:06:39.083Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
@@ -14,53 +14,53 @@
     },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 92,
+      "totalRuns": 94,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 4.3,
+      "avgDurationSec": 17.4,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
+      "lastSeen": "2026-10-10"
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 27,
+      "totalRuns": 28,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 0.3,
+      "avgDurationSec": 0.4,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
+      "lastSeen": "2026-10-10"
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
-      "totalRuns": 6,
+      "totalRuns": 7,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-10"
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 36,
+      "totalRuns": 37,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 9.2,
+      "avgDurationSec": 20,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
+      "lastSeen": "2026-10-10"
     },
     "naxie:converse": {
       "template": "naxie:converse",
-      "totalRuns": 4,
+      "totalRuns": 5,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 6.4,
+      "avgDurationSec": 0,
       "topError": "tool:vault.read step failed 1/1 runs",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
+      "lastSeen": "2026-10-10"
     },
     "africa-ai-news": {
       "template": "africa-ai-news",
@@ -84,13 +84,13 @@
     },
     "daily-briefing": {
       "template": "daily-briefing",
-      "totalRuns": 20,
+      "totalRuns": 21,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 7.6,
+      "avgDurationSec": 8.8,
       "topError": "tool:peer.review step failed 1/2 runs",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
+      "lastSeen": "2026-10-10"
     },
     "add-note": {
       "template": "add-note",
@@ -104,13 +104,13 @@
     },
     "weekly-improvement": {
       "template": "weekly-improvement",
-      "totalRuns": 7,
+      "totalRuns": 8,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-10"
     },
     "insights:board-meeting": {
       "template": "insights:board-meeting",
@@ -154,43 +154,43 @@
     },
     "events-competition-scan": {
       "template": "events-competition-scan",
-      "totalRuns": 4,
+      "totalRuns": 5,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 22.4,
+      "avgDurationSec": 33.6,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
+      "lastSeen": "2026-10-10"
     },
     "deadline-reminders": {
       "template": "deadline-reminders",
-      "totalRuns": 3,
+      "totalRuns": 4,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
+      "lastSeen": "2026-10-10"
     },
     "evening-recap": {
       "template": "evening-recap",
-      "totalRuns": 1,
+      "totalRuns": 2,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 92.1,
+      "avgDurationSec": 6.8,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-08"
+      "lastSeen": "2026-10-10"
     },
     "weekend-digest": {
       "template": "weekend-digest",
-      "totalRuns": 1,
+      "totalRuns": 2,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 25.6,
+      "avgDurationSec": 21.6,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
+      "lastSeen": "2026-10-10"
     },
     "flow:32ab1cf9": {
       "template": "flow:32ab1cf9",
@@ -271,6 +271,26 @@
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
       "lastSeen": "2026-10-09"
+    },
+    "flow:24c2f50e": {
+      "template": "flow:24c2f50e",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-10"
+    },
+    "flow:f1748896": {
+      "template": "flow:f1748896",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-10"
     }
   }
 }
