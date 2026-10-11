@@ -1253,3 +1253,4 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":1454,"ts":"2026-10-11T11:12:12.272Z"}
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — gpt-oss:120b","latencyMs":1462,"ts":"2026-10-11T11:12:12.274Z"}
 {"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":11445,"ts":"2026-10-11T11:12:22.265Z"}
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-11T12:08:33.345Z"}
