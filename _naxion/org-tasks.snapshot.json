@@ -889,6 +889,18 @@
       "createdAt": "2026-10-10T17:57:25.712Z",
       "updatedAt": "2026-10-10T17:57:25.726Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "288146ba-6617-4420-b2d6-8b94df437e4f",
+      "role": "admin",
+      "title": "MD Audit: Org Tasks",
+      "detail": "6 tasks stuck in blocked — may need triage\n\nReview blocked OrgTasks on /org-dashboard, resolve or archive stale items.\n\nEvidence: orgTasks blocked=6 total=70\n\nFrom the 2026-10-11 MD System Audit — _naxion/system-audits/2026-10-11.md",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-10-11T05:02:22.895Z",
+      "updatedAt": "2026-10-11T05:02:22.895Z",
+      "createdBy": "daemon"
     }
   ]
 }
