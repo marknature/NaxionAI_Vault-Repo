@@ -3618,3 +3618,4 @@
 {"level":"info","actor":"naxie","action":"job.operations:evening-recap","target":"evening-recap","detail":"Evening AI recap — daily","jobId":"b4a249e4-3199-4104-b69c-3bbc799fa13a","result":"success","id":"mv40eoi2-17","ts":"2026-10-11T16:00:12.170Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Evening AI recap — daily","detail":"","jobId":"b4a249e4-3199-4104-b69c-3bbc799fa13a","result":"success","id":"mv40eoi3-18","ts":"2026-10-11T16:00:12.171Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Evening AI recap — daily","detail":"","jobId":"a75bef27-2ab9-4e21-8abf-a3bd88b83226","result":"success","id":"mv40eoi5-19","ts":"2026-10-11T16:00:12.173Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv40zrrq-20","ts":"2026-10-11T16:16:36.182Z"}

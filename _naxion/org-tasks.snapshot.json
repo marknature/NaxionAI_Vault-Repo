@@ -804,12 +804,12 @@
       "role": "scheduler",
       "title": "Evening AI recap — daily",
       "detail": "Evening AI recap — daily",
-      "status": "blocked",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "a75bef27-2ab9-4e21-8abf-a3bd88b83226",
       "createdAt": "2026-10-10T16:00:23.845Z",
-      "updatedAt": "2026-10-10T16:31:02.889Z",
+      "updatedAt": "2026-10-11T16:00:12.171Z",
       "createdBy": "daemon"
     },
     {
@@ -1045,6 +1045,19 @@
         "kind": "other",
         "requestedAt": "2026-10-11T15:14:01.916Z"
       }
+    },
+    {
+      "id": "5792d43c-613a-4baf-a8ed-58469d87b8ca",
+      "role": "scheduler",
+      "title": "Evening AI recap — daily",
+      "detail": "Evening AI recap — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "b4a249e4-3199-4104-b69c-3bbc799fa13a",
+      "createdAt": "2026-10-11T16:00:05.371Z",
+      "updatedAt": "2026-10-11T16:00:12.170Z",
+      "createdBy": "daemon"
     }
   ]
 }
