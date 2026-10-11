@@ -1112,6 +1112,32 @@
       "createdAt": "2026-10-11T10:00:01.338Z",
       "updatedAt": "2026-10-11T10:00:01.354Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "4adcff41-2165-4c65-af31-320e108a5a87",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "47bcd7e0-bedf-4a6f-9a3c-608fdf51191e",
+      "createdAt": "2026-10-11T13:59:15.826Z",
+      "updatedAt": "2026-10-11T13:59:15.862Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "5e587f2c-05a0-4333-a414-5cf8b5942035",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "d7c057f7-8640-44ab-a3c4-7d5be1e2f45a",
+      "createdAt": "2026-10-11T13:59:15.994Z",
+      "updatedAt": "2026-10-11T13:59:16.011Z",
+      "createdBy": "naxie"
     }
   ]
 }
