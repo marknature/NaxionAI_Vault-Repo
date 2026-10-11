@@ -3391,3 +3391,4 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2td5jd-102","ts":"2026-10-10T19:55:17.449Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2tfq4s-103","ts":"2026-10-10T19:57:17.452Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv2tfq9l-104","ts":"2026-10-10T19:57:17.625Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv2vgohb-105","ts":"2026-10-10T20:54:01.200Z"}
