@@ -946,159 +946,48 @@
       "role": "improver",
       "title": "Reindex Event and Competition data",
       "detail": "Retrieval health shows 20% zero-hit rate; missed queries specifically include 'Events & Compatition Scan' and regional tech event terms.\n\nHow we'll implement it:\n1. Capture current event scan outputs into the vault\n2. Reindex the vault to ensure 'competition', 'hackathon', and 'summit' terms are properly embedded",
-      "status": "waiting-on-approval",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "createdAt": "2026-10-11T08:02:24.053Z",
-      "updatedAt": "2026-10-11T08:02:24.058Z",
-      "createdBy": "daemon",
-      "pendingApproval": {
-        "actionDescription": "Improve retrieval: Reindex Event and Competition data",
-        "kind": "improvement",
-        "improvement": {
-          "kind": "retrieval",
-          "title": "Reindex Event and Competition data",
-          "why": "Retrieval health shows 20% zero-hit rate; missed queries specifically include 'Events & Compatition Scan' and regional tech event terms.",
-          "implementation": [
-            "Capture current event scan outputs into the vault",
-            "Reindex the vault to ensure 'competition', 'hackathon', and 'summit' terms are properly embedded"
-          ],
-          "effort": "S",
-          "payload": {
-            "action": "reindex",
-            "topics": [
-              "events",
-              "competitions",
-              "hackathons",
-              "tech summits Africa"
-            ]
-          },
-          "reviewDate": "2026-10-11"
-        },
-        "requestedAt": "2026-10-11T08:02:24.058Z"
-      }
+      "updatedAt": "2026-10-11T14:04:25.472Z",
+      "createdBy": "daemon"
     },
     {
       "id": "a747447f-07dc-4529-94f1-07a792262a50",
       "role": "improver",
       "title": "Switch failing model tiers",
       "detail": "Innovation scans from Oct 8-10 show qwen2.5:3b (99% failure), muse-glimmer (95% failure), and mistral-nemo (44% failure).\n\nHow we'll implement it:\n1. Identify stable free alternatives for the 3b and 12b tiers\n2. Execute system.admin.switch_model for each failing tier",
-      "status": "waiting-on-approval",
+      "status": "active",
       "priority": "normal",
       "linkedTaskIds": [],
       "createdAt": "2026-10-11T08:02:24.059Z",
-      "updatedAt": "2026-10-11T08:02:24.061Z",
-      "createdBy": "daemon",
-      "pendingApproval": {
-        "actionDescription": "Track an improvement: Switch failing model tiers",
-        "kind": "improvement",
-        "improvement": {
-          "kind": "other",
-          "title": "Switch failing model tiers",
-          "why": "Innovation scans from Oct 8-10 show qwen2.5:3b (99% failure), muse-glimmer (95% failure), and mistral-nemo (44% failure).",
-          "implementation": [
-            "Identify stable free alternatives for the 3b and 12b tiers",
-            "Execute system.admin.switch_model for each failing tier"
-          ],
-          "effort": "S",
-          "payload": {
-            "files": [
-              "system/config/models.json"
-            ]
-          },
-          "reviewDate": "2026-10-11"
-        },
-        "requestedAt": "2026-10-11T08:02:24.061Z"
-      }
+      "updatedAt": "2026-10-11T14:04:13.605Z",
+      "createdBy": "daemon"
     },
     {
       "id": "6ce7c470-ff5d-4802-ba78-f59949c640d6",
       "role": "improver",
       "title": "Debug vault.read and github.get_file permissions",
       "detail": "Intermittent step failures in vault.read (2/3) and github.get_file (1/1) are causing hidden retries and latency.\n\nHow we'll implement it:\n1. Audit filesystem permissions for the Naxie process\n2. Check GitHub MCP server token scopes for get_file operations\n3. Add detailed error logging to the tool wrapper to capture the exact failure reason",
-      "status": "waiting-on-approval",
+      "status": "active",
       "priority": "low",
       "linkedTaskIds": [],
       "createdAt": "2026-10-11T08:02:24.063Z",
-      "updatedAt": "2026-10-11T08:02:24.064Z",
-      "createdBy": "daemon",
-      "pendingApproval": {
-        "actionDescription": "Draft a code change for review: Debug vault.read and github.get_file permissions (the diff comes back as its own approval)",
-        "kind": "improvement",
-        "improvement": {
-          "kind": "code",
-          "title": "Debug vault.read and github.get_file permissions",
-          "why": "Intermittent step failures in vault.read (2/3) and github.get_file (1/1) are causing hidden retries and latency.",
-          "implementation": [
-            "Audit filesystem permissions for the Naxie process",
-            "Check GitHub MCP server token scopes for get_file operations",
-            "Add detailed error logging to the tool wrapper to capture the exact failure reason"
-          ],
-          "effort": "M",
-          "payload": {
-            "files": [
-              "naxionai/server/mcp/vault-wrapper.mjs",
-              "naxionai/server/mcp/github-wrapper.mjs"
-            ]
-          },
-          "reviewDate": "2026-10-11"
-        },
-        "requestedAt": "2026-10-11T08:02:24.064Z"
-      }
+      "updatedAt": "2026-10-11T14:04:46.370Z",
+      "createdBy": "daemon"
     },
     {
       "id": "1a7bb3d3-6b5d-4e61-927c-19b3484221c9",
       "role": "improver",
       "title": "Refine Events & Competition Scan template",
       "detail": "Operator requested a specific 80/20 split between free/paid events and expanded scope to include hackathons and corporate competitions in Africa.\n\nHow we'll implement it:\n1. Update the events-competition-scan template prompt to enforce the 80% free / 20% paid ratio\n2. Expand search keywords to include 'hackathons', 'innovation challenges', 'startup pitch', and 'corporate software competitions'",
-      "status": "waiting-on-approval",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "createdAt": "2026-10-11T08:02:24.065Z",
-      "updatedAt": "2026-10-11T08:02:24.067Z",
-      "createdBy": "daemon",
-      "pendingApproval": {
-        "actionDescription": "Add a new schedule: Refine Events & Competition Scan template",
-        "kind": "improvement",
-        "improvement": {
-          "kind": "schedule",
-          "title": "Refine Events & Competition Scan template",
-          "why": "Operator requested a specific 80/20 split between free/paid events and expanded scope to include hackathons and corporate competitions in Africa.",
-          "implementation": [
-            "Update the events-competition-scan template prompt to enforce the 80% free / 20% paid ratio",
-            "Expand search keywords to include 'hackathons', 'innovation challenges', 'startup pitch', and 'corporate software competitions'"
-          ],
-          "effort": "S",
-          "payload": {
-            "name": "Events & Competition Scan",
-            "templateId": "events-competition-scan",
-            "inputs": {
-              "ratio": "80% free, 20% paid",
-              "regions": [
-                "Zimbabwe",
-                "South Africa",
-                "Africa"
-              ],
-              "categories": [
-                "summits",
-                "conferences",
-                "hackathons",
-                "innovation challenges",
-                "expos",
-                "startup pitch",
-                "corporate software competitions"
-              ]
-            },
-            "cadence": {
-              "daysOfWeek": [],
-              "hour": 7,
-              "minute": 30
-            }
-          },
-          "reviewDate": "2026-10-11"
-        },
-        "requestedAt": "2026-10-11T08:02:24.067Z"
-      }
+      "updatedAt": "2026-10-11T14:04:08.925Z",
+      "createdBy": "daemon"
     },
     {
       "id": "994053f2-257f-41b0-9cda-7a78a3db5340",
