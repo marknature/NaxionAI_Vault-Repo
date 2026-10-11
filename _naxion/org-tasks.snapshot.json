@@ -1027,6 +1027,24 @@
       "createdAt": "2026-10-11T13:59:15.994Z",
       "updatedAt": "2026-10-11T13:59:16.011Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "568fd535-5a1b-41d9-a01d-541cb097ecb8",
+      "role": "executor",
+      "title": "listen to your list  to do list",
+      "detail": "listen to your list  to do list",
+      "status": "waiting-on-approval",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "f6c96b9d-dca7-4690-b7ab-d52a31ee6814",
+      "createdAt": "2026-10-11T15:14:01.887Z",
+      "updatedAt": "2026-10-11T15:14:01.916Z",
+      "createdBy": "naxie",
+      "pendingApproval": {
+        "actionDescription": "Run \"listen to your list  to do list\" as planned",
+        "kind": "other",
+        "requestedAt": "2026-10-11T15:14:01.916Z"
+      }
     }
   ]
 }
