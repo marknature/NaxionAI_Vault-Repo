@@ -2,3 +2,5 @@
 {"ts":"2026-10-11T05:45:25.674Z","kind":"progress","text":"Starting plan: 2 steps — Quality-checking the draft, Security-scanning the note"}
 {"ts":"2026-10-11T05:45:25.683Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (5ms)","stepId":"1"}
 {"ts":"2026-10-11T05:45:27.240Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (1561ms)","stepId":"0"}
+{"ts":"2026-10-11T19:27:24.717Z","kind":"progress","text":"Starting plan: 1 step — Querying MongoDB Atlas"}
+{"ts":"2026-10-11T19:27:24.734Z","kind":"blocker","text":"Step \"Querying MongoDB Atlas\" failed: db.query question-mode only supports SQL sources (this source is mongodb) — pass an explicit 'query' document instead","stepId":"0"}

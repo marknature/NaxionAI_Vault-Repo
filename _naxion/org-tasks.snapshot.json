@@ -58,7 +58,7 @@
       "linkedTaskIds": [],
       "jobId": "635a87ec-4ad3-491e-9704-f4d1d59027c3",
       "createdAt": "2026-10-04T08:44:27.748Z",
-      "updatedAt": "2026-10-04T09:37:56.980Z",
+      "updatedAt": "2026-10-11T20:46:48.109Z",
       "createdBy": "naxie"
     },
     {
@@ -71,7 +71,7 @@
       "linkedTaskIds": [],
       "jobId": "8e4abd75-adbe-4976-bb72-58481b4b941d",
       "createdAt": "2026-10-04T08:44:27.828Z",
-      "updatedAt": "2026-10-04T09:14:29.444Z",
+      "updatedAt": "2026-10-11T20:46:48.103Z",
       "createdBy": "naxie"
     },
     {
@@ -704,11 +704,11 @@
       "role": "architect",
       "title": "Proposed improvement: src/agents/self_healing.py",
       "detail": "Removed Byte Order Mark (BOM) from the start of the file to ensure consistent encoding and prevent potential parsing issues in some environments.",
-      "status": "blocked",
+      "status": "active",
       "priority": "low",
       "linkedTaskIds": [],
       "createdAt": "2026-10-10T10:57:54.017Z",
-      "updatedAt": "2026-10-10T13:17:21.711Z",
+      "updatedAt": "2026-10-11T19:28:58.542Z",
       "createdBy": "naxie"
     },
     {
@@ -716,11 +716,11 @@
       "role": "architect",
       "title": "Proposed improvement: src/agents/self_healing.py",
       "detail": "Removed Byte Order Mark (BOM) from the start of the file to ensure consistent encoding and prevent potential parsing issues in some environments.",
-      "status": "blocked",
+      "status": "active",
       "priority": "low",
       "linkedTaskIds": [],
       "createdAt": "2026-10-10T11:02:46.043Z",
-      "updatedAt": "2026-10-10T13:17:21.724Z",
+      "updatedAt": "2026-10-11T19:28:58.533Z",
       "createdBy": "naxie"
     },
     {
@@ -728,11 +728,11 @@
       "role": "architect",
       "title": "Proposed improvement: src/agents/self_healing.py",
       "detail": "Removed Byte Order Mark (BOM) from the start of the file to ensure consistent encoding and prevent potential parsing issues in some environments.",
-      "status": "blocked",
+      "status": "active",
       "priority": "low",
       "linkedTaskIds": [],
       "createdAt": "2026-10-10T11:09:37.257Z",
-      "updatedAt": "2026-10-10T13:17:21.726Z",
+      "updatedAt": "2026-10-11T19:28:58.506Z",
       "createdBy": "naxie"
     },
     {
@@ -1033,18 +1033,13 @@
       "role": "executor",
       "title": "listen to your list  to do list",
       "detail": "listen to your list  to do list",
-      "status": "waiting-on-approval",
+      "status": "active",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "f6c96b9d-dca7-4690-b7ab-d52a31ee6814",
       "createdAt": "2026-10-11T15:14:01.887Z",
-      "updatedAt": "2026-10-11T15:14:01.916Z",
-      "createdBy": "naxie",
-      "pendingApproval": {
-        "actionDescription": "Run \"listen to your list  to do list\" as planned",
-        "kind": "other",
-        "requestedAt": "2026-10-11T15:14:01.916Z"
-      }
+      "updatedAt": "2026-10-11T19:27:18.144Z",
+      "createdBy": "naxie"
     },
     {
       "id": "5792d43c-613a-4baf-a8ed-58469d87b8ca",
@@ -1058,6 +1053,19 @@
       "createdAt": "2026-10-11T16:00:05.371Z",
       "updatedAt": "2026-10-11T16:00:12.170Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "edb34196-e6a8-4927-9327-aa948b228bd3",
+      "role": "admin",
+      "title": "listen to your list  to do list",
+      "detail": "Recent conversation:\nUser: Show system health\nNaxionAI: I tried to read a note from your vault and hit an error I don't have a clean recovery for. Could you tell me a bit more about what you're trying to achieve, or try a different angle?\n\n_Technical detail: arg \"path\" references $step_0.matches.0.path which could not be resolved: step 1 (vault.read) has not produced a result_\n\n## RAG — retrieved context (cite as [R#], [M#], [S#], [T#], or [I#] when used)\n[R1 vault:0-Inbox/202610041248-board-brainstrom-how-to-improve-naxie.md:2] title: \"Board Meeting: brainstrom how to improve naxie\"\n[R2 vault:_naxion/jobs/2026-10-06-ad-hoc-for-sources-use-social-media-the-internet-and-specifi-5a95356e.md:26]   \"task\": \"(You are operating as Naxie, the Personal Assistant to Nature · COO, Operations & Admin. Bias tool choices, output shape, and depth toward this role's conventions.)\\n\\nRecent conversation (\n[R3 vault:2-Permanent/scraper-hub-build-guide.md:3] ## Recommended repository architecture\n[R4 vault:_naxion/jobs/2026-10-06-ad-hoc-for-the-events-and-competition-scan-modify-the-templa-d9bcdd61.md:26]   \"task\": \"(You are operating as Naxie, the Personal Assistant to Nature · COO, Operations & Admin. Bias tool choices, output shape, and depth toward this role's conventions.)\\n\\nRecent conversation (\n[R5 vault:_naxion/innovation-scans/2026-10-10.md:12] # 🔭 Innovation Scan — Saturday, October 10, 2026\n[R6 vault:_naxion/innovation-scans/2026-10-11.md:12] # 🔭 Innovation Scan — Sunday, October 11, 2026\n\nThe user just said: \"listen to your list  to do list\"\n\nRespond as Naxie — speak naturally, use a tool only if you genuinely need one.",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "f6c96b9d-dca7-4690-b7ab-d52a31ee6814",
+      "createdAt": "2026-10-11T19:27:24.682Z",
+      "updatedAt": "2026-10-11T19:27:24.751Z",
+      "createdBy": "naxie"
     }
   ]
 }
