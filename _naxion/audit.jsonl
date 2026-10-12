@@ -3965,3 +3965,4 @@
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 21 active","result":"success","id":"mv5pcjhi-1","ts":"2026-10-12T20:26:08.935Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 39h. Outstanding: 6 backlog, 21 active.","result":"success","id":"mv5pcm69-2","ts":"2026-10-12T20:26:12.417Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 21 active","result":"success","id":"mv5pd8xf-1","ts":"2026-10-12T20:26:41.907Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 21 active","result":"success","id":"mv5pdje2-1","ts":"2026-10-12T20:26:55.466Z"}
