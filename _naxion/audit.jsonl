@@ -3819,3 +3819,6 @@
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5kd5ub-1","ts":"2026-10-12T18:06:39.827Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5kdj8w-1","ts":"2026-10-12T18:06:57.200Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 37h. Outstanding: 6 backlog, 4 blocked, 17 active.","result":"success","id":"mv5kdm2n-2","ts":"2026-10-12T18:07:00.863Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv5kegn0-3","ts":"2026-10-12T18:07:40.476Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mv5khp5f-4","ts":"2026-10-12T18:10:11.475Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mv5khp5q-5","ts":"2026-10-12T18:10:11.486Z"}
