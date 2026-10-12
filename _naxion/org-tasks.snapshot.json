@@ -1144,6 +1144,19 @@
       "createdAt": "2026-10-12T05:51:41.238Z",
       "updatedAt": "2026-10-12T05:51:41.293Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "8bcf732c-5c32-460b-b33f-c0ec13006a1b",
+      "role": "scheduler",
+      "title": "Africa AI news — BREAKING",
+      "detail": "Africa AI news — BREAKING",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "0f27d63a-f239-473e-ac57-7589fcd49067",
+      "createdAt": "2026-10-12T06:00:04.480Z",
+      "updatedAt": "2026-10-12T06:00:04.483Z",
+      "createdBy": "daemon"
     }
   ]
 }

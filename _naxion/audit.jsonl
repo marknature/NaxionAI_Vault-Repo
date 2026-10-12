@@ -3708,3 +3708,4 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv4udtun-3","ts":"2026-10-12T05:59:20.927Z"}
 {"level":"info","actor":"scheduler","action":"org_task.created","target":"Africa AI news — BREAKING","detail":"Africa AI news — BREAKING","jobId":"0f27d63a-f239-473e-ac57-7589fcd49067","result":"success","id":"mv4uergi-1","ts":"2026-10-12T06:00:04.482Z"}
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Africa AI news — BREAKING","detail":"","jobId":"0f27d63a-f239-473e-ac57-7589fcd49067","result":"pending","id":"mv4uergn-2","ts":"2026-10-12T06:00:04.487Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 18 active, 3 blocked","result":"success","id":"mv4uf9bb-1","ts":"2026-10-12T06:00:27.623Z"}
