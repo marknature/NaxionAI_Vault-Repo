@@ -3709,3 +3709,5 @@
 {"level":"info","actor":"scheduler","action":"org_task.created","target":"Africa AI news — BREAKING","detail":"Africa AI news — BREAKING","jobId":"0f27d63a-f239-473e-ac57-7589fcd49067","result":"success","id":"mv4uergi-1","ts":"2026-10-12T06:00:04.482Z"}
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Africa AI news — BREAKING","detail":"","jobId":"0f27d63a-f239-473e-ac57-7589fcd49067","result":"pending","id":"mv4uergn-2","ts":"2026-10-12T06:00:04.487Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 18 active, 3 blocked","result":"success","id":"mv4uf9bb-1","ts":"2026-10-12T06:00:27.623Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 18 active, 3 blocked","result":"success","id":"mv4ufyym-1","ts":"2026-10-12T06:01:00.862Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 25h. Outstanding: 6 backlog, 18 active, 3 blocked.","result":"success","id":"mv4ug1e4-2","ts":"2026-10-12T06:01:04.012Z"}
