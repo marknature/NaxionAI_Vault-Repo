@@ -1105,6 +1105,45 @@
       "createdAt": "2026-10-12T05:45:15.841Z",
       "updatedAt": "2026-10-12T05:45:22.501Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "b8efcc9a-faa6-4a1d-b9d5-dbed4af428c5",
+      "role": "scheduler",
+      "title": "Events & Competition Scan — daily",
+      "detail": "Events & Competition Scan — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "c3c068a9-8b89-4263-800d-d10905f36d56",
+      "createdAt": "2026-10-12T05:49:07.086Z",
+      "updatedAt": "2026-10-12T05:50:04.967Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "e1bda90f-db7c-422b-9fa3-21af30c80f4c",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "64ef2d20-32e3-41e6-bd8f-9a15f4c7363b",
+      "createdAt": "2026-10-12T05:51:41.018Z",
+      "updatedAt": "2026-10-12T05:51:41.055Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "ab0164e0-7401-4de3-8297-3ed628403a14",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "55b4e2cc-0092-4d54-a0df-1ba99b079321",
+      "createdAt": "2026-10-12T05:51:41.238Z",
+      "updatedAt": "2026-10-12T05:51:41.293Z",
+      "createdBy": "naxie"
     }
   ]
 }
