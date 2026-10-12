@@ -3962,3 +3962,6 @@
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 21 active","result":"success","id":"mv5passp-1","ts":"2026-10-12T20:24:47.689Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 39h. Outstanding: 6 backlog, 21 active.","result":"success","id":"mv5pavt4-2","ts":"2026-10-12T20:24:51.592Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv5pbe6f-3","ts":"2026-10-12T20:25:15.399Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 21 active","result":"success","id":"mv5pcjhi-1","ts":"2026-10-12T20:26:08.935Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 39h. Outstanding: 6 backlog, 21 active.","result":"success","id":"mv5pcm69-2","ts":"2026-10-12T20:26:12.417Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 21 active","result":"success","id":"mv5pd8xf-1","ts":"2026-10-12T20:26:41.907Z"}
