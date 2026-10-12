@@ -16,3 +16,6 @@
 {"ts":"2026-10-12T06:02:14.929Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (27ms)","stepId":"1"}
 {"ts":"2026-10-12T06:02:16.048Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (1145ms)","stepId":"0"}
 {"ts":"2026-10-12T06:03:03.726Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-10-12T06:03:35.030Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-10-12T06:03:42.657Z","kind":"progress","text":"Starting plan: 2 steps — Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-10-12T06:03:42.688Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (15ms)","stepId":"1"}
