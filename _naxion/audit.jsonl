@@ -3949,3 +3949,6 @@
 {"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mv5orz6s-48","ts":"2026-10-12T20:10:09.508Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mv5os9lo-49","ts":"2026-10-12T20:10:23.004Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5osdi1-50","ts":"2026-10-12T20:10:28.057Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 21 active","result":"success","id":"mv5p627v-1","ts":"2026-10-12T20:21:06.619Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 39h. Outstanding: 6 backlog, 21 active.","result":"success","id":"mv5p671c-2","ts":"2026-10-12T20:21:12.864Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 21 active","result":"success","id":"mv5p7cx1-1","ts":"2026-10-12T20:22:07.141Z"}

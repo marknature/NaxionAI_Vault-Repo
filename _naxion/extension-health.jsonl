@@ -1457,3 +1457,4 @@
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — gpt-oss:120b","latencyMs":536,"ts":"2026-10-12T20:04:42.026Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":1251,"ts":"2026-10-12T20:04:42.744Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":3109,"ts":"2026-10-12T20:04:44.604Z"}
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-12T20:21:46.400Z"}
