@@ -1033,12 +1033,12 @@
       "role": "executor",
       "title": "listen to your list  to do list",
       "detail": "listen to your list  to do list",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "f6c96b9d-dca7-4690-b7ab-d52a31ee6814",
       "createdAt": "2026-10-11T15:14:01.887Z",
-      "updatedAt": "2026-10-11T19:27:18.144Z",
+      "updatedAt": "2026-10-12T05:49:06.806Z",
       "createdBy": "naxie"
     },
     {
@@ -1066,6 +1066,45 @@
       "createdAt": "2026-10-11T19:27:24.682Z",
       "updatedAt": "2026-10-11T19:27:24.751Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "8f964f36-5810-42dd-964c-519fec986707",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "73ab0fdd-b6c2-4816-9c8e-cf4f59195bfc",
+      "createdAt": "2026-10-12T05:09:31.257Z",
+      "updatedAt": "2026-10-12T05:09:41.043Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "3f02033b-700b-4bfc-be7e-20e6951328e0",
+      "role": "scheduler",
+      "title": "Events & Competition Scan — daily",
+      "detail": "Events & Competition Scan — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "9fff70bf-5c0a-4957-a5f1-12730f350784",
+      "createdAt": "2026-10-12T05:30:15.578Z",
+      "updatedAt": "2026-10-12T05:30:33.497Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "d0f407d7-db18-473b-9ba1-d678e19182bc",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "ecbee3bb-71d0-42d7-87a4-284c07a021be",
+      "createdAt": "2026-10-12T05:45:15.841Z",
+      "updatedAt": "2026-10-12T05:45:22.501Z",
+      "createdBy": "daemon"
     }
   ]
 }
