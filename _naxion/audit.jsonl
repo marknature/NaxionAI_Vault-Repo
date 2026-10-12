@@ -3798,3 +3798,9 @@
 {"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"26h idle","result":"success","id":"mv5ihkfu-46","ts":"2026-10-12T17:14:06.138Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv5ihkgt-47","ts":"2026-10-12T17:14:06.173Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hi Nature, just checking in to see how your day is shaping up. I'm here if you need anything triaged or coordinated across the businesses—otherwise, feel free to just send a 👋 when you're back!","result":"success","id":"mv5ihlhs-48","ts":"2026-10-12T17:14:07.504Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5k1pml-1","ts":"2026-10-12T17:57:45.597Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5k23ys-1","ts":"2026-10-12T17:58:04.180Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5k2gdu-1","ts":"2026-10-12T17:58:20.274Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5k2ush-1","ts":"2026-10-12T17:58:38.945Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5k376l-1","ts":"2026-10-12T17:58:55.005Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5k3jdh-1","ts":"2026-10-12T17:59:10.805Z"}
