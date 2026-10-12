@@ -3977,3 +3977,43 @@
 {"level":"warn","actor":"scheduler","action":"org_task.orphaned","target":"Africa AI news — BREAKING","detail":"underlying job is no longer tracked (likely a server restart) — marked blocked rather than left stuck active","jobId":"0f27d63a-f239-473e-ac57-7589fcd49067","result":"failure","id":"mv5pf3i3-8","ts":"2026-10-12T20:28:08.187Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5pf3kv-9","ts":"2026-10-12T20:28:08.287Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 39h. Outstanding: 6 backlog, 4 blocked, 17 active.","result":"success","id":"mv5pf6ng-10","ts":"2026-10-12T20:28:12.268Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv5pfs13-11","ts":"2026-10-12T20:28:39.975Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5r3vws-12","ts":"2026-10-12T21:15:24.364Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5r3vzq-13","ts":"2026-10-12T21:15:24.470Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5r5579-14","ts":"2026-10-12T21:16:23.061Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5r557t-15","ts":"2026-10-12T21:16:23.081Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5r6flv-16","ts":"2026-10-12T21:17:23.203Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5r6fmg-17","ts":"2026-10-12T21:17:23.224Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"30h idle","result":"success","id":"mv5r7dl6-18","ts":"2026-10-12T21:18:07.242Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hi Nature, just checking in to see how your last day or so has been. I'm here if you need anything triaged or coordinated across your ops—otherwise, feel free to just send a quick 👋 when you're back.","result":"success","id":"mv5r7fm4-19","ts":"2026-10-12T21:18:09.868Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5r7q0k-20","ts":"2026-10-12T21:18:23.348Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5r7q14-21","ts":"2026-10-12T21:18:23.368Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5r906h-22","ts":"2026-10-12T21:19:23.177Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5r9075-23","ts":"2026-10-12T21:19:23.201Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5raadq-24","ts":"2026-10-12T21:20:23.054Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5raadw-25","ts":"2026-10-12T21:20:23.060Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rbkn2-26","ts":"2026-10-12T21:21:23.006Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rbknt-27","ts":"2026-10-12T21:21:23.033Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rcux5-28","ts":"2026-10-12T21:22:22.985Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rcuy2-29","ts":"2026-10-12T21:22:23.018Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5re5s3-30","ts":"2026-10-12T21:23:23.715Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5re5um-31","ts":"2026-10-12T21:23:23.806Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rffiy-32","ts":"2026-10-12T21:24:23.002Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rffj9-33","ts":"2026-10-12T21:24:23.013Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rgpvm-34","ts":"2026-10-12T21:25:23.074Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rgpw6-35","ts":"2026-10-12T21:25:23.094Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5ri08b-36","ts":"2026-10-12T21:26:23.147Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5ri09n-37","ts":"2026-10-12T21:26:23.195Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rjaod-38","ts":"2026-10-12T21:27:23.341Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rjapd-39","ts":"2026-10-12T21:27:23.377Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | supabase:fetch failed | alerts: jev","result":"failure","id":"mv5rkdfo-40","ts":"2026-10-12T21:28:13.572Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rkkt2-41","ts":"2026-10-12T21:28:23.126Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rkku0-42","ts":"2026-10-12T21:28:23.160Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rluzq-43","ts":"2026-10-12T21:29:22.982Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rluzw-44","ts":"2026-10-12T21:29:22.988Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rn5gi-45","ts":"2026-10-12T21:30:23.202Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rn5gv-46","ts":"2026-10-12T21:30:23.215Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rofqe-47","ts":"2026-10-12T21:31:23.174Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rofsa-48","ts":"2026-10-12T21:31:23.242Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rppyv-49","ts":"2026-10-12T21:32:23.095Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv5rppzo-50","ts":"2026-10-12T21:32:23.124Z"}
