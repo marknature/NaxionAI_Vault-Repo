@@ -3804,3 +3804,5 @@
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5k2ush-1","ts":"2026-10-12T17:58:38.945Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5k376l-1","ts":"2026-10-12T17:58:55.005Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5k3jdh-1","ts":"2026-10-12T17:59:10.805Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5k506e-1","ts":"2026-10-12T18:00:19.238Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 37h. Outstanding: 6 backlog, 4 blocked, 17 active.","result":"success","id":"mv5k5eya-2","ts":"2026-10-12T18:00:38.386Z"}
