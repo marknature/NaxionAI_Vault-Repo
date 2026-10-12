@@ -3847,3 +3847,20 @@
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5kw33b-1","ts":"2026-10-12T18:21:22.727Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 4 blocked, 17 active","result":"success","id":"mv5kwh9j-1","ts":"2026-10-12T18:21:41.095Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 37h. Outstanding: 6 backlog, 4 blocked, 17 active.","result":"success","id":"mv5kwnry-2","ts":"2026-10-12T18:21:49.534Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv5kxf17-3","ts":"2026-10-12T18:22:24.859Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mv5kxs53-4","ts":"2026-10-12T18:22:41.847Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mv5kxscc-5","ts":"2026-10-12T18:22:42.108Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"9f54b32d","detail":"t","result":"success","id":"mv5lec1b-1","ts":"2026-10-12T18:35:34.127Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"4a9842dd","detail":"journal","result":"success","id":"mv5lec2l-2","ts":"2026-10-12T18:35:34.173Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Flow: journal","detail":"Flow: journal","jobId":"82328e3c-0a5d-4b2b-a411-35040c7fbb10","result":"success","id":"mv5lechb-3","ts":"2026-10-12T18:35:34.703Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Flow: journal","detail":"","jobId":"82328e3c-0a5d-4b2b-a411-35040c7fbb10","result":"pending","id":"mv5lechd-4","ts":"2026-10-12T18:35:34.705Z"}
+{"level":"info","actor":"naxie","action":"job.flow:4a9842dd","target":"Flow: journal","detail":"Flow: journal","jobId":"82328e3c-0a5d-4b2b-a411-35040c7fbb10","result":"success","id":"mv5lecib-5","ts":"2026-10-12T18:35:34.739Z"}
+{"level":"info","actor":"executor","action":"org_task.done","target":"Flow: journal","detail":"","jobId":"82328e3c-0a5d-4b2b-a411-35040c7fbb10","result":"success","id":"mv5lecif-6","ts":"2026-10-12T18:35:34.743Z"}
+{"level":"info","actor":"system","action":"flow.invoke","target":"4a9842dd","detail":"run=c9d7d7ca status=succeeded","result":"success","jobId":"82328e3c-0a5d-4b2b-a411-35040c7fbb10","id":"mv5lecj4-7","ts":"2026-10-12T18:35:34.768Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"361e0309","detail":"journal","result":"success","id":"mv5leckd-8","ts":"2026-10-12T18:35:34.813Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Flow: journal","detail":"Flow: journal","jobId":"b76dcc37-e89a-40b9-bc03-3bc479780dca","result":"success","id":"mv5leclk-9","ts":"2026-10-12T18:35:34.856Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Flow: journal","detail":"","jobId":"b76dcc37-e89a-40b9-bc03-3bc479780dca","result":"pending","id":"mv5leclr-10","ts":"2026-10-12T18:35:34.863Z"}
+{"level":"info","actor":"naxie","action":"job.flow:361e0309","target":"Flow: journal","detail":"Flow: journal","jobId":"b76dcc37-e89a-40b9-bc03-3bc479780dca","result":"success","id":"mv5lecm9-11","ts":"2026-10-12T18:35:34.881Z"}
+{"level":"info","actor":"executor","action":"org_task.done","target":"Flow: journal","detail":"","jobId":"b76dcc37-e89a-40b9-bc03-3bc479780dca","result":"success","id":"mv5lecmd-12","ts":"2026-10-12T18:35:34.885Z"}
+{"level":"info","actor":"system","action":"flow.invoke","target":"361e0309","detail":"run=c33987d6 status=succeeded","result":"success","jobId":"b76dcc37-e89a-40b9-bc03-3bc479780dca","id":"mv5lecmf-13","ts":"2026-10-12T18:35:34.887Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"e1466bed","detail":"journal","result":"success","id":"mv5lecop-14","ts":"2026-10-12T18:35:34.969Z"}
