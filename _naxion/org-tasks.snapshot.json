@@ -1150,12 +1150,25 @@
       "role": "scheduler",
       "title": "Africa AI news — BREAKING",
       "detail": "Africa AI news — BREAKING",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "0f27d63a-f239-473e-ac57-7589fcd49067",
       "createdAt": "2026-10-12T06:00:04.480Z",
-      "updatedAt": "2026-10-12T06:00:04.483Z",
+      "updatedAt": "2026-10-12T06:34:00.641Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "189895b2-d181-467f-a8df-a8387e6b753a",
+      "role": "scheduler",
+      "title": "World AI news — BREAKING",
+      "detail": "World AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "65ab7044-56cb-424a-a75a-7a09cd04cd23",
+      "createdAt": "2026-10-12T07:00:05.757Z",
+      "updatedAt": "2026-10-12T07:00:29.422Z",
       "createdBy": "daemon"
     }
   ]
