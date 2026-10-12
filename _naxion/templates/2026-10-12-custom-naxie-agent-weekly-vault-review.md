@@ -2,7 +2,7 @@
 type: template
 title: Weekly vault review (custom-naxie-agent-weekly-vault-review)
 slug: custom-naxie-agent-weekly-vault-review
-created: 2026-10-12T06:08:45.594Z
+created: 2026-10-12T06:09:58.504Z
 templateId: custom-naxie-agent-weekly-vault-review
 role: Custom
 originTask: Review what landed in the vault this past week. Surface notes worth promoting from 0-Inbox/ to 2-Permanent/, flag stale items, and suggest 2-3 new links between notes I might have missed.
