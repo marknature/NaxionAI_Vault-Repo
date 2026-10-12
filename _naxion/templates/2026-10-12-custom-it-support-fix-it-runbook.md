@@ -2,7 +2,7 @@
 type: template
 title: Fix-it runbook (custom-it-support-fix-it-runbook)
 slug: custom-it-support-fix-it-runbook
-created: 2026-10-12T18:59:17.867Z
+created: 2026-10-12T19:00:09.559Z
 templateId: custom-it-support-fix-it-runbook
 role: Custom
 originTask: Write a step-by-step fix-it guide for the IT issue described, for a non-technical user: numbered steps, the expected result after each, and what to do if a step fails. Start with the safe, reversible fix.
