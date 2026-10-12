@@ -1243,3 +1243,4 @@
 {"jobId":"73ab0fdd-b6c2-4816-9c8e-cf4f59195bfc","model":"gemma4:31b","backend":"ollama","profile":"synthesis","inputTokens":7805,"outputTokens":229,"costUsd":0,"ts":"2026-10-12T05:09:38.421Z"}
 {"jobId":"adhoc","model":"gemma4:31b","backend":"ollama","profile":"balanced","inputTokens":293,"outputTokens":47,"costUsd":0,"ts":"2026-10-12T05:09:39.225Z"}
 {"jobId":"73ab0fdd-b6c2-4816-9c8e-cf4f59195bfc","model":"gemma4:31b","backend":"ollama","profile":"extraction","inputTokens":2377,"outputTokens":56,"costUsd":0,"ts":"2026-10-12T05:09:41.031Z"}
+{"jobId":"9fff70bf-5c0a-4957-a5f1-12730f350784","model":"gemma4:31b","backend":"ollama","profile":"none","inputTokens":2918,"outputTokens":367,"costUsd":0,"ts":"2026-10-12T05:30:32.572Z"}
