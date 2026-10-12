@@ -3717,3 +3717,5 @@
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 18 active, 3 blocked","result":"success","id":"mv4uhddy-1","ts":"2026-10-12T06:02:06.214Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 25h. Outstanding: 6 backlog, 18 active, 3 blocked.","result":"success","id":"mv4uhfxt-2","ts":"2026-10-12T06:02:09.521Z"}
 {"level":"info","actor":"naxie","action":"briefing.generated","target":"daily-briefing","detail":"947 chars","result":"success","id":"mv4uhkzt-3","ts":"2026-10-12T06:02:16.073Z"}
+{"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 18 active, 3 blocked","result":"success","id":"mv4uilc5-1","ts":"2026-10-12T06:03:03.173Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 25h. Outstanding: 6 backlog, 18 active, 3 blocked.","result":"success","id":"mv4uinf5-2","ts":"2026-10-12T06:03:05.873Z"}
