@@ -1246,3 +1246,5 @@
 {"jobId":"9fff70bf-5c0a-4957-a5f1-12730f350784","model":"gemma4:31b","backend":"ollama","profile":"none","inputTokens":2918,"outputTokens":367,"costUsd":0,"ts":"2026-10-12T05:30:32.572Z"}
 {"jobId":"ecbee3bb-71d0-42d7-87a4-284c07a021be","model":"gemma4:31b","backend":"ollama","profile":"synthesis","inputTokens":7841,"outputTokens":245,"costUsd":0,"ts":"2026-10-12T05:45:21.548Z"}
 {"jobId":"ecbee3bb-71d0-42d7-87a4-284c07a021be","model":"gemma4:31b","backend":"ollama","profile":"extraction","inputTokens":2429,"outputTokens":47,"costUsd":0,"ts":"2026-10-12T05:45:22.484Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"none","inputTokens":7,"outputTokens":1,"costUsd":0,"ts":"2026-10-12T05:49:59.525Z"}
+{"jobId":"c3c068a9-8b89-4263-800d-d10905f36d56","model":"gemma4:31b","backend":"ollama","profile":"none","inputTokens":3691,"outputTokens":480,"costUsd":0,"ts":"2026-10-12T05:50:04.634Z"}
