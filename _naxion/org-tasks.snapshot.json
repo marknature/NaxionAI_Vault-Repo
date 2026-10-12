@@ -53,12 +53,12 @@
       "role": "researcher",
       "title": "Ad-hoc: Good morning can I get a brief on my day and the system",
       "detail": "Ad-hoc: Good morning can I get a brief on my day and the system",
-      "status": "blocked",
+      "status": "active",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "635a87ec-4ad3-491e-9704-f4d1d59027c3",
       "createdAt": "2026-10-04T08:44:27.748Z",
-      "updatedAt": "2026-10-11T20:46:48.109Z",
+      "updatedAt": "2026-10-12T18:47:05.730Z",
       "createdBy": "naxie"
     },
     {
@@ -66,12 +66,12 @@
       "role": "executor",
       "title": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
       "detail": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
-      "status": "blocked",
+      "status": "active",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "8e4abd75-adbe-4976-bb72-58481b4b941d",
       "createdAt": "2026-10-04T08:44:27.828Z",
-      "updatedAt": "2026-10-11T20:46:48.103Z",
+      "updatedAt": "2026-10-12T18:47:03.465Z",
       "createdBy": "naxie"
     },
     {
@@ -1033,12 +1033,12 @@
       "role": "executor",
       "title": "listen to your list  to do list",
       "detail": "listen to your list  to do list",
-      "status": "blocked",
+      "status": "active",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "f6c96b9d-dca7-4690-b7ab-d52a31ee6814",
       "createdAt": "2026-10-11T15:14:01.887Z",
-      "updatedAt": "2026-10-12T05:49:06.806Z",
+      "updatedAt": "2026-10-12T18:47:01.122Z",
       "createdBy": "naxie"
     },
     {
@@ -1150,12 +1150,12 @@
       "role": "scheduler",
       "title": "Africa AI news — BREAKING",
       "detail": "Africa AI news — BREAKING",
-      "status": "blocked",
+      "status": "active",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "0f27d63a-f239-473e-ac57-7589fcd49067",
       "createdAt": "2026-10-12T06:00:04.480Z",
-      "updatedAt": "2026-10-12T06:34:00.641Z",
+      "updatedAt": "2026-10-12T18:46:58.592Z",
       "createdBy": "daemon"
     },
     {
@@ -1234,6 +1234,32 @@
       "jobId": "b76dcc37-e89a-40b9-bc03-3bc479780dca",
       "createdAt": "2026-10-12T18:35:34.854Z",
       "updatedAt": "2026-10-12T18:35:34.881Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "bdc9c7b7-ddfc-4e0c-ad43-b60ad8520397",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "646e4869-8bb3-4c09-8ee7-a93c844ae487",
+      "createdAt": "2026-10-12T18:44:34.901Z",
+      "updatedAt": "2026-10-12T18:44:34.951Z",
+      "createdBy": "naxie"
+    },
+    {
+      "id": "92bee61c-01c6-42f9-9b92-62ac1023e1d3",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "144a1806-b4c5-4c46-be75-806f5528f4f1",
+      "createdAt": "2026-10-12T18:44:35.025Z",
+      "updatedAt": "2026-10-12T18:44:35.069Z",
       "createdBy": "naxie"
     }
   ]
