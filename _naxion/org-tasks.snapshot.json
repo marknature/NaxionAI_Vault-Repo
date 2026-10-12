@@ -53,12 +53,12 @@
       "role": "researcher",
       "title": "Ad-hoc: Good morning can I get a brief on my day and the system",
       "detail": "Ad-hoc: Good morning can I get a brief on my day and the system",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "635a87ec-4ad3-491e-9704-f4d1d59027c3",
       "createdAt": "2026-10-04T08:44:27.748Z",
-      "updatedAt": "2026-10-12T19:57:13.468Z",
+      "updatedAt": "2026-10-12T20:28:08.157Z",
       "createdBy": "naxie"
     },
     {
@@ -66,12 +66,12 @@
       "role": "executor",
       "title": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
       "detail": "Delegated: (You are operating as Naxie, the Personal Assistant to Natur",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "8e4abd75-adbe-4976-bb72-58481b4b941d",
       "createdAt": "2026-10-04T08:44:27.828Z",
-      "updatedAt": "2026-10-12T19:57:11.999Z",
+      "updatedAt": "2026-10-12T20:28:08.172Z",
       "createdBy": "naxie"
     },
     {
@@ -1033,12 +1033,12 @@
       "role": "executor",
       "title": "listen to your list  to do list",
       "detail": "listen to your list  to do list",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "f6c96b9d-dca7-4690-b7ab-d52a31ee6814",
       "createdAt": "2026-10-11T15:14:01.887Z",
-      "updatedAt": "2026-10-12T19:57:14.818Z",
+      "updatedAt": "2026-10-12T20:28:08.154Z",
       "createdBy": "naxie"
     },
     {
@@ -1150,12 +1150,12 @@
       "role": "scheduler",
       "title": "Africa AI news — BREAKING",
       "detail": "Africa AI news — BREAKING",
-      "status": "active",
+      "status": "blocked",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "0f27d63a-f239-473e-ac57-7589fcd49067",
       "createdAt": "2026-10-12T06:00:04.480Z",
-      "updatedAt": "2026-10-12T19:57:09.694Z",
+      "updatedAt": "2026-10-12T20:28:08.185Z",
       "createdBy": "daemon"
     },
     {
