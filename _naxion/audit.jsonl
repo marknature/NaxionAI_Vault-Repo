@@ -5566,3 +5566,20 @@
 {"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vavm6-269","ts":"2026-10-13T16:00:35.214Z"}
 {"level":"info","actor":"naxie","action":"job.operations:evening-recap","target":"evening-recap","detail":"Evening AI recap — daily","jobId":"b2c24798-2e7a-4669-98cd-3a550e4906ff","result":"success","id":"mv6vaycs-270","ts":"2026-10-13T16:00:38.764Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Evening AI recap — daily","detail":"","jobId":"b2c24798-2e7a-4669-98cd-3a550e4906ff","result":"success","id":"mv6vaycv-271","ts":"2026-10-13T16:00:38.767Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vbua0-272","ts":"2026-10-13T16:01:20.136Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vbua5-273","ts":"2026-10-13T16:01:20.141Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vc9pi-274","ts":"2026-10-13T16:01:40.134Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vc9pk-275","ts":"2026-10-13T16:01:40.136Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vdugc-276","ts":"2026-10-13T16:02:53.676Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vduhf-277","ts":"2026-10-13T16:02:53.715Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:3","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev,openrouter,supabase","result":"failure","id":"mv6ve83e-278","ts":"2026-10-13T16:03:11.354Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vf4n2-279","ts":"2026-10-13T16:03:53.534Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vf4n7-280","ts":"2026-10-13T16:03:53.539Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vgexj-281","ts":"2026-10-13T16:04:53.527Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vgexl-282","ts":"2026-10-13T16:04:53.529Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vhp9x-283","ts":"2026-10-13T16:05:53.589Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vhpa0-284","ts":"2026-10-13T16:05:53.592Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vizjn-285","ts":"2026-10-13T16:06:53.555Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vizjx-286","ts":"2026-10-13T16:06:53.565Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vk9u4-287","ts":"2026-10-13T16:07:53.548Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6vk9ui-288","ts":"2026-10-13T16:07:53.562Z"}
