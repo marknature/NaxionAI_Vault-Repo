@@ -4965,3 +4965,62 @@
 {"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv67yspz-996","ts":"2026-10-13T05:07:20.423Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv67ysq6-997","ts":"2026-10-13T05:07:20.430Z"}
 {"level":"warn","actor":"wiki-compile","action":"notify.urgent","target":"Wiki compile: 0 new entries","detail":"Overnight second-brain compile summary:\n\nNothing new in the archive overnight. (email not sent — not configured or no operator address)","result":"pending","id":"mv67zqp4-998","ts":"2026-10-13T05:08:04.456Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6802zi-999","ts":"2026-10-13T05:08:20.382Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6802zy-1000","ts":"2026-10-13T05:08:20.398Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv681da5-1001","ts":"2026-10-13T05:09:20.381Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv681daf-1002","ts":"2026-10-13T05:09:20.391Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv682nsk-1003","ts":"2026-10-13T05:10:20.660Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv682nt8-1004","ts":"2026-10-13T05:10:20.684Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv683xvm-1005","ts":"2026-10-13T05:11:20.386Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv683xvw-1006","ts":"2026-10-13T05:11:20.396Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68586c-1007","ts":"2026-10-13T05:12:20.388Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68586k-1008","ts":"2026-10-13T05:12:20.396Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv686igw-1009","ts":"2026-10-13T05:13:20.384Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv686ih6-1010","ts":"2026-10-13T05:13:20.394Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv687squ-1011","ts":"2026-10-13T05:14:20.358Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv687sr7-1012","ts":"2026-10-13T05:14:20.371Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv689344-1013","ts":"2026-10-13T05:15:20.452Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv689349-1014","ts":"2026-10-13T05:15:20.457Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68adfg-1015","ts":"2026-10-13T05:16:20.476Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68adfu-1016","ts":"2026-10-13T05:16:20.490Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68bnq4-1017","ts":"2026-10-13T05:17:20.476Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68bnqo-1018","ts":"2026-10-13T05:17:20.496Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68cxzx-1019","ts":"2026-10-13T05:18:20.446Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68cy06-1020","ts":"2026-10-13T05:18:20.454Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68e89g-1021","ts":"2026-10-13T05:19:20.404Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68e89r-1022","ts":"2026-10-13T05:19:20.415Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68fimt-1023","ts":"2026-10-13T05:20:20.501Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68fin7-1024","ts":"2026-10-13T05:20:20.515Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68gsu1-1025","ts":"2026-10-13T05:21:20.377Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68gsuk-1026","ts":"2026-10-13T05:21:20.396Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68i3bf-1027","ts":"2026-10-13T05:22:20.619Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68i3bi-1028","ts":"2026-10-13T05:22:20.622Z"}
+{"level":"info","actor":"naxie","action":"naxie.chat_checkin","target":"daemon","detail":"38h idle","result":"success","id":"mv68j4ap-1029","ts":"2026-10-13T05:23:08.545Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — checking in","detail":"Hi Nature, just checking in to see how your last day or two has been. I'm here whenever you need a hand with business ops or a quick triage—feel free to just shout if there's anything on your mind!","result":"success","id":"mv68j4wz-1030","ts":"2026-10-13T05:23:09.347Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68jdhx-1031","ts":"2026-10-13T05:23:20.469Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68jdiq-1032","ts":"2026-10-13T05:23:20.498Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68knq6-1033","ts":"2026-10-13T05:24:20.382Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68knqf-1034","ts":"2026-10-13T05:24:20.391Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68ly0y-1035","ts":"2026-10-13T05:25:20.386Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68ly10-1036","ts":"2026-10-13T05:25:20.388Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68n8er-1037","ts":"2026-10-13T05:26:20.499Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68n8fs-1038","ts":"2026-10-13T05:26:20.536Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68oipm-1039","ts":"2026-10-13T05:27:20.506Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68oiq5-1040","ts":"2026-10-13T05:27:20.525Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev","result":"failure","id":"mv68pf3m-1041","ts":"2026-10-13T05:28:02.482Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68psyj-1042","ts":"2026-10-13T05:28:20.443Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68psyq-1043","ts":"2026-10-13T05:28:20.450Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68r39d-1044","ts":"2026-10-13T05:29:20.449Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68r39h-1045","ts":"2026-10-13T05:29:20.453Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Events & Competition Scan — daily","detail":"Events & Competition Scan — daily","jobId":"30b33ec1-ce61-4364-b798-0f24a9afe4da","result":"success","id":"mv68s69c-1046","ts":"2026-10-13T05:30:10.992Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Events & Competition Scan — daily","detail":"","jobId":"30b33ec1-ce61-4364-b798-0f24a9afe4da","result":"pending","id":"mv68s69d-1047","ts":"2026-10-13T05:30:10.993Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Events & Competition Scan — daily","detail":"Events & Competition Scan — daily","jobId":"1ba38e35-591b-43a0-8728-77843ff2ec65","result":"success","id":"mv68s6a6-1048","ts":"2026-10-13T05:30:11.022Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Events & Competition Scan — daily","detail":"","jobId":"1ba38e35-591b-43a0-8728-77843ff2ec65","result":"pending","id":"mv68s6a7-1049","ts":"2026-10-13T05:30:11.023Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68sdiu-1050","ts":"2026-10-13T05:30:20.406Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv68sdj2-1051","ts":"2026-10-13T05:30:20.414Z"}
+{"level":"info","actor":"news","action":"events.pick","target":"https://mlai-hackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel","detail":"events candidates=20 picked=https://mlai-hackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel score=? domains=arxiv.org,arxiv.org,arxiv.org,arxiv.org,blogs.nvidia.com,arxiv.org,arxiv.org,arxiv.org","result":"success","id":"mv68sjd8-1052","ts":"2026-10-13T05:30:27.980Z"}
+{"level":"info","actor":"naxie","action":"job.operations:events-competition-scan","target":"events-competition-scan","detail":"Events & Competition Scan — daily","jobId":"30b33ec1-ce61-4364-b798-0f24a9afe4da","result":"success","id":"mv68sk5q-1053","ts":"2026-10-13T05:30:29.006Z"}
+{"level":"info","actor":"scheduler","action":"org_task.done","target":"Events & Competition Scan — daily","detail":"","jobId":"30b33ec1-ce61-4364-b798-0f24a9afe4da","result":"success","id":"mv68sk5r-1054","ts":"2026-10-13T05:30:29.007Z"}
+{"level":"info","actor":"news","action":"events.pick","target":"https://mlai-hackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel","detail":"events candidates=20 picked=https://mlai-hackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel score=? domains=arxiv.org,arxiv.org,arxiv.org,arxiv.org,blogs.nvidia.com,arxiv.org,arxiv.org,arxiv.org","result":"success","id":"mv68skqx-1055","ts":"2026-10-13T05:30:29.769Z"}
+{"level":"info","actor":"naxie","action":"job.operations:events-competition-scan","target":"events-competition-scan","detail":"Events & Competition Scan — daily","jobId":"1ba38e35-591b-43a0-8728-77843ff2ec65","result":"success","id":"mv68skz1-1056","ts":"2026-10-13T05:30:30.061Z"}
+{"level":"info","actor":"scheduler","action":"org_task.done","target":"Events & Competition Scan — daily","detail":"","jobId":"1ba38e35-591b-43a0-8728-77843ff2ec65","result":"success","id":"mv68skz1-1057","ts":"2026-10-13T05:30:30.061Z"}
