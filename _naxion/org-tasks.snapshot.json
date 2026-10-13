@@ -1261,6 +1261,32 @@
       "createdAt": "2026-10-12T18:44:35.025Z",
       "updatedAt": "2026-10-12T18:44:35.069Z",
       "createdBy": "naxie"
+    },
+    {
+      "id": "422325c3-cee8-48c4-ae1b-ddf10eb50b49",
+      "role": "scheduler",
+      "title": "Events & Competition Scan — daily",
+      "detail": "Events & Competition Scan — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "30b33ec1-ce61-4364-b798-0f24a9afe4da",
+      "createdAt": "2026-10-13T05:30:10.991Z",
+      "updatedAt": "2026-10-13T05:30:29.006Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "77ab6f39-e625-48f8-9773-a6bae8354329",
+      "role": "scheduler",
+      "title": "Events & Competition Scan — daily",
+      "detail": "Events & Competition Scan — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "1ba38e35-591b-43a0-8728-77843ff2ec65",
+      "createdAt": "2026-10-13T05:30:11.021Z",
+      "updatedAt": "2026-10-13T05:30:30.061Z",
+      "createdBy": "daemon"
     }
   ]
 }
