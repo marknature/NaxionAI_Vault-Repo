@@ -1538,3 +1538,7 @@
 {"id":"openrouter","ok":false,"detail":"This operation was aborted","latencyMs":4017,"ts":"2026-10-13T14:02:53.813Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":4007,"ts":"2026-10-13T14:02:53.937Z"}
 {"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":10428,"ts":"2026-10-13T14:03:00.365Z"}
+{"id":"jev","ok":false,"detail":"TYPESAFE_API_KEY not set","ts":"2026-10-13T15:02:49.813Z"}
+{"id":"openrouter","ok":false,"detail":"This operation was aborted","latencyMs":4008,"ts":"2026-10-13T15:02:53.814Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — llama3.1:8b-instruct-q4_K_M","latencyMs":4003,"ts":"2026-10-13T15:02:53.890Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":10535,"ts":"2026-10-13T15:03:00.427Z"}
