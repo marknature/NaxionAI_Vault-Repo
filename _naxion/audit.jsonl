@@ -5299,3 +5299,6 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mv6g25p4-2","ts":"2026-10-13T08:53:54.136Z"}
 {"level":"info","actor":"naxie","action":"org_task.idle_report","target":"daemon","detail":"6 backlog, 3 blocked, 17 active","result":"success","id":"mv6g2ar6-3","ts":"2026-10-13T08:54:00.690Z"}
 {"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — here's what's still outstanding","detail":"Nothing's moved in 52h. Outstanding: 6 backlog, 3 blocked, 17 active.","result":"success","id":"mv6g2cav-4","ts":"2026-10-13T08:54:02.695Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:2","detail":"core fails: jev:TYPESAFE_API_KEY not set | alerts: jev,supabase","result":"failure","id":"mv6g301l-5","ts":"2026-10-13T08:54:33.465Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6g9fhh-6","ts":"2026-10-13T08:59:33.413Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mv6g9fhr-7","ts":"2026-10-13T08:59:33.423Z"}
