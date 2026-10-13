@@ -5114,3 +5114,40 @@
 {"level":"info","actor":"naxie","action":"job.operations:africa-ai-news","target":"africa-ai-news","detail":"Africa AI news — BREAKING","jobId":"553787a6-fe0d-4310-b5bf-a53ba00ebae0","result":"success","id":"mv69vm8z-1145","ts":"2026-10-13T06:00:51.299Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Africa AI news — BREAKING","detail":"","jobId":"553787a6-fe0d-4310-b5bf-a53ba00ebae0","result":"success","id":"mv69vm90-1146","ts":"2026-10-13T06:00:51.300Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Africa AI news — BREAKING","detail":"","jobId":"0f27d63a-f239-473e-ac57-7589fcd49067","result":"success","id":"mv69vm91-1147","ts":"2026-10-13T06:00:51.301Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv69w8q9-1148","ts":"2026-10-13T06:01:20.433Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv69w8qc-1149","ts":"2026-10-13T06:01:20.436Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv69xj00-1150","ts":"2026-10-13T06:02:20.400Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv69xj0b-1151","ts":"2026-10-13T06:02:20.411Z"}
+{"level":"info","actor":"naxie","action":"briefing.generated","target":"daily-briefing","detail":"1094 chars","result":"success","id":"mv69ykpo-1152","ts":"2026-10-13T06:03:09.276Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"Naxie — morning briefing ready","detail":"## Focus today\nNo meetings on the calendar; day is entirely open.\n- **System Health Decline**: Health score dropped to 70/100 today, requiring immediate investigation into the cause.\n- **Persona Bloat","result":"success","id":"mv69ylei-1153","ts":"2026-10-13T06:03:10.170Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv69ytc4-1154","ts":"2026-10-13T06:03:20.452Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv69ytcm-1155","ts":"2026-10-13T06:03:20.470Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a03nh-1156","ts":"2026-10-13T06:04:20.477Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a03nx-1157","ts":"2026-10-13T06:04:20.493Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a1dxn-1158","ts":"2026-10-13T06:05:20.459Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a1dy8-1159","ts":"2026-10-13T06:05:20.480Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a2o61-1160","ts":"2026-10-13T06:06:20.377Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a2o6e-1161","ts":"2026-10-13T06:06:20.390Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a3yie-1162","ts":"2026-10-13T06:07:20.438Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a3yik-1163","ts":"2026-10-13T06:07:20.444Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a58ty-1164","ts":"2026-10-13T06:08:20.470Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a58ua-1165","ts":"2026-10-13T06:08:20.482Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a6j2a-1166","ts":"2026-10-13T06:09:20.386Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a6j2i-1167","ts":"2026-10-13T06:09:20.394Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a7te8-1168","ts":"2026-10-13T06:10:20.432Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a7tei-1169","ts":"2026-10-13T06:10:20.442Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a93p7-1170","ts":"2026-10-13T06:11:20.443Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6a93po-1171","ts":"2026-10-13T06:11:20.460Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6aae0i-1172","ts":"2026-10-13T06:12:20.466Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6aae0t-1173","ts":"2026-10-13T06:12:20.477Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6aboam-1174","ts":"2026-10-13T06:13:20.446Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6aboat-1175","ts":"2026-10-13T06:13:20.453Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6acykt-1176","ts":"2026-10-13T06:14:20.429Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6acykv-1177","ts":"2026-10-13T06:14:20.431Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6ae9f7-1178","ts":"2026-10-13T06:15:21.139Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6ae9fw-1179","ts":"2026-10-13T06:15:21.164Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6afjvc-1180","ts":"2026-10-13T06:16:21.336Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mv6afjxb-1181","ts":"2026-10-13T06:16:21.407Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"World AI news — BREAKING","detail":"World AI news — BREAKING","jobId":"95475bd0-937c-4652-813c-f1d8417d3687","result":"success","id":"mv6ccvtx-1182","ts":"2026-10-13T07:10:16.101Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"World AI news — BREAKING","detail":"","jobId":"95475bd0-937c-4652-813c-f1d8417d3687","result":"pending","id":"mv6ccvtz-1183","ts":"2026-10-13T07:10:16.103Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:5 alert:2","detail":"core fails: openrouter:fetch failed | jev:TYPESAFE_API_KEY not set | supabase:fetch failed | 920acca5-d657-400d-afad-4fd04972d627:network error reaching Telegram (fetch failed) — check connectivity, then re-tes | c035f4d0-2a6b-43c6-982f-0af85952cad6:fetch failed | alerts: jev,supabase","result":"failure","id":"mv6ccy4h-1184","ts":"2026-10-13T07:10:19.073Z"}

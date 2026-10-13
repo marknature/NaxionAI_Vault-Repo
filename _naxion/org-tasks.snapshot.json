@@ -1150,12 +1150,12 @@
       "role": "scheduler",
       "title": "Africa AI news — BREAKING",
       "detail": "Africa AI news — BREAKING",
-      "status": "blocked",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "0f27d63a-f239-473e-ac57-7589fcd49067",
       "createdAt": "2026-10-12T06:00:04.480Z",
-      "updatedAt": "2026-10-12T20:28:08.185Z",
+      "updatedAt": "2026-10-13T06:00:51.300Z",
       "createdBy": "daemon"
     },
     {
@@ -1286,6 +1286,32 @@
       "jobId": "1ba38e35-591b-43a0-8728-77843ff2ec65",
       "createdAt": "2026-10-13T05:30:11.021Z",
       "updatedAt": "2026-10-13T05:30:30.061Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "1637e9b3-b965-4816-8197-bab77207186a",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "174aeaf4-36e0-423d-9552-c46628d21647",
+      "createdAt": "2026-10-13T05:45:11.193Z",
+      "updatedAt": "2026-10-13T05:45:17.320Z",
+      "createdBy": "daemon"
+    },
+    {
+      "id": "e05f53c8-ac11-4e1e-831d-75a16cb9c0b2",
+      "role": "scheduler",
+      "title": "Africa AI news — BREAKING",
+      "detail": "Africa AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "553787a6-fe0d-4310-b5bf-a53ba00ebae0",
+      "createdAt": "2026-10-13T06:00:26.615Z",
+      "updatedAt": "2026-10-13T06:00:51.299Z",
       "createdBy": "daemon"
     }
   ]
