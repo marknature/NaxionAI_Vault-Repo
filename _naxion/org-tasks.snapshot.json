@@ -1313,6 +1313,19 @@
       "createdAt": "2026-10-13T06:00:26.615Z",
       "updatedAt": "2026-10-13T06:00:51.299Z",
       "createdBy": "daemon"
+    },
+    {
+      "id": "e7018607-8370-4707-9601-13376c234b34",
+      "role": "scheduler",
+      "title": "World AI news — BREAKING",
+      "detail": "World AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "95475bd0-937c-4652-813c-f1d8417d3687",
+      "createdAt": "2026-10-13T07:10:16.100Z",
+      "updatedAt": "2026-10-13T07:10:32.153Z",
+      "createdBy": "daemon"
     }
   ]
 }
