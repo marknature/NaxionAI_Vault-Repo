@@ -2,7 +2,7 @@
 type: template
 title: Quick web look-up (custom-naxie-agent-quick-web-look-up)
 slug: custom-naxie-agent-quick-web-look-up
-created: 2026-11-17T23:03:54.856Z
+created: 2026-11-17T23:04:33.326Z
 templateId: custom-naxie-agent-quick-web-look-up
 role: Custom
 originTask: Look up the following question on the web. Give a tight 3-5 sentence answer with cited sources. Do not capture to the vault unless the answer is non-obvious.

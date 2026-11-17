@@ -2,7 +2,7 @@
 type: template
 title: Web investigation (multi-perspective) (custom-researcher-web-investigation-multi-perspective)
 slug: custom-researcher-web-investigation-multi-perspective
-created: 2026-11-17T23:03:54.878Z
+created: 2026-11-17T23:04:33.357Z
 templateId: custom-researcher-web-investigation-multi-perspective
 role: Custom
 originTask: Use research.multiperspective on the following topic with perspectives 'mainstream, critical, practitioner, recent'. Each sub-agent must hit the live web, fetch top sources, and cite [N]. Produce a structured report with Topic statement → Perspectives → Cross-cutting themes → Open questions → Bottom line. Capture to 0-Inbox/.
