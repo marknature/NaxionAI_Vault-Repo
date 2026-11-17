@@ -8175,6 +8175,20 @@
       "updatedAt": "2026-11-17T22:40:15.609Z",
       "createdBy": "naxie",
       "progressPct": 0
+    },
+    {
+      "id": "66341c65-9866-423d-8096-03a9af546d3d",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "56bb2a6d-7b70-4706-b808-76e051ed634d",
+      "createdAt": "2026-11-17T23:08:27.863Z",
+      "updatedAt": "2026-11-17T23:08:27.898Z",
+      "createdBy": "naxie",
+      "progressPct": 0
     }
   ]
 }
