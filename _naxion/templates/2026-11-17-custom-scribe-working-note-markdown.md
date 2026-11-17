@@ -2,7 +2,7 @@
 type: template
 title: Working note (Markdown) (custom-scribe-working-note-markdown)
 slug: custom-scribe-working-note-markdown
-created: 2026-11-17T23:21:07.365Z
+created: 2026-11-17T23:21:25.852Z
 templateId: custom-scribe-working-note-markdown
 role: Custom
 originTask: Write a well-structured Markdown working note on the topic provided. Use a short intro, headed sections, tables where useful, and no decorative filler. Then call document.create with format 'md' and a descriptive filename, and return the file path.
