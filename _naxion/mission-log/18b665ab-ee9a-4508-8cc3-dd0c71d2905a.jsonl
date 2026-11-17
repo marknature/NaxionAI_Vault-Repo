@@ -1,0 +1,2 @@
+{"ts":"2026-11-10T14:19:27.913Z","kind":"progress","text":"Starting plan: 1 step — Reading Gmail for \"newer_than:7d\""}
+{"ts":"2026-11-10T14:19:27.916Z","kind":"blocker","text":"Step \"Reading Gmail for \"newer_than:7d\"\" failed: No Google connection configured Ã¢â‚¬â€ add one on the Integrations page","stepId":"0"}

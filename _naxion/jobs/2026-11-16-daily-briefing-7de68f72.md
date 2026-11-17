@@ -1,0 +1,51 @@
+---
+type: job
+title: Daily briefing
+slug: daily-briefing-7de68f72
+created: 2026-11-16T05:06:19.339Z
+jobId: 7de68f72-f757-4f6d-b319-8da33283021b
+status: succeeded
+template: daily-briefing
+persona: naxie
+personaName: Naxie
+startedAt: 2026-11-16T05:00:29.739Z
+finishedAt: 2026-11-16T05:06:19.338Z
+---
+
+# Daily briefing
+
+- **Status:** succeeded
+- **Template:** daily-briefing
+- **Started:** 2026-11-16T05:00:29.739Z
+- **Finished:** 2026-11-16T05:06:19.338Z
+- **Title:** Daily briefing
+
+## Inputs
+```json
+{
+  "department": "business-administration",
+  "focus": "Business Ops: review current goals, open work, and decisions for this week's plan. End with a short SUGGESTIONS section: 2-4 concrete recommended next actions with owner and timing. Keep this business context separate from other businesses."
+}
+```
+
+## Plan
+Direct synth from attached context
+
+## Answer
+I couldn't get anywhere on this — nothing executed. Could you rephrase what you'd like me to do?
+
+<details><summary>Log</summary>
+
+```
+[2026-11-16T05:00:29.790Z] Pulled 103 jobs across 6 days.
+[2026-11-16T05:00:29.790Z] Nothing on today's calendar.
+[2026-11-16T05:00:29.790Z] Inbox triage is clear.
+[2026-11-16T05:00:29.790Z] Latest innovation scan (97c9150b) isn't a valid opportunities report — flagging, not summarising.
+[2026-11-16T05:00:29.791Z] Working as Naxie — Personal Assistant to Nature · COO, Operations & Admin.
+[2026-11-16T05:00:29.796Z] Synthesising from the attached context.
+[2026-11-16T05:00:29.796Z] Plan ready: 0 steps — Direct synth from attached context.
+[2026-11-16T05:00:29.798Z] All sub-agents finished in 0.0s.
+[2026-11-16T05:00:29.800Z] Synthesising directly from the attached document(s).
+[2026-11-16T05:06:19.333Z] Direct synth failed: fetch failed
+```
+</details>

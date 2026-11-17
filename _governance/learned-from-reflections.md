@@ -6,166 +6,235 @@ Auto-generated from `_naxion/reflections/*.md`. Each daily reflection's *What we
 
 ---
 
-## 2026-10-11
+## 2026-11-16
+
+### Went wrong
+- No tasks failed or were rejected.
+
+### Try next
+- Consider reducing the frequency or scope of the "pipeline" task to ensure it doesn't run unnecessarily.
+- Investigate why the "africa-ai-news" task is taking so long and optimize its performance.
+
+## 2026-11-15
+
+### Went wrong
+- `board:md-weekly` averaged 1637.6s over 1 run(s) — over the 600s perf budget.
+- `events-competition-scan` averaged 609.5s over 1 run(s) — over the 600s perf budget.
+
+### Try next
+- Split `board:md-weekly` into parallel sub-agents or trim its heaviest steps — it is the fleet bottleneck at ~27 min/run.
+- Re-run `POST /api/reflection/run` once the LLM backend is healthy to replace this deterministic digest with a full synthesis.
+
+## 2026-11-14
+
+### Went wrong
+- "tool:peer.review step failed 1/1 runs" — 1x (templates: general-task)
+
+### Try next
+- Investigate why "pipeline" and "security.scan" are running very quickly, especially if they are not expected to be synchronous.
+- Ensure peer reviews are scheduled and run regularly.
+
+## 2026-11-13
+
+### Went wrong
+- No issues detected.
+
+### Try next
+- Investigate why the "security.scan" tool is consistently zero duration.
+- Optimize the "pipeline" tool to reduce its average duration.
+- Consider reducing the frequency or disabling the "peer.review" tool if it is not providing value.
+
+## 2026-11-12
+
+### Try next
+- Consider running the peer review tool more frequently to ensure it doesn't fail again.
+- Optimize the evening-recap task to reduce its average duration.
+- Investigate why the peer review tool failed once.
+
+## 2026-11-11
+
+### Try next
+- Investigate why some tasks are taking so long, especially the ones lasting over 1000 seconds.
+- Optimize the longest tasks to reduce their duration.
+- Consider using a different template or tool for the tasks that are taking the most time.
+
+## 2026-11-10
+
+### Went wrong
+- 1 instance of "aborted: server received SIGINT" in template "general-task".
+
+### Try next
+- Consider optimizing pipeline jobs to reduce their average duration.
+- Investigate why "general-task" is failing.
+
+## 2026-11-09
+
+### Went wrong
+- No failures reported.
+
+### Try next
+- Optimize "peer.review" and "integration.gmail.read" templates.
+- Investigate why "research.deep" and "pipeline" steps are consistently slow.
+
+## 2026-11-08
+
+### Try next
+- Consider optimizing or parallelizing the pipeline job to reduce its duration.
+- Investigate why job cdc6e34a is consistently taking a long time.
+
+## 2026-11-07
 
 ### Went wrong
 - Nothing went wrong.
 
 ### Try next
-- Evaluate if `operations:daily-briefing` can be merged with `todo-brief` to reduce redundant task triggers.
-- Review `flow:12a3f332` and `flow:0c168fdc` to ensure they are performing actual work, as average durations are 0s and 0.1s respectively.
+- Investigate the `evening-recap` pipeline to see if the 163s duration is due to a large data window or a bottleneck in the prompt.
+- Audit the `weekly-rollup` and `weekly-improvement` templates to ensure they are actually performing work, as 0s duration suggests they may be returning cached or empty results.
 
-## 2026-10-10
-
-### Went wrong
-- `naxie:converse` failed to record a success or failure (0 ok, 0 failed), indicating a potential hang or silent drop.
-- Multiple templates (`weekly-rollup`, `weekly-improvement`, `deadline-reminders`, and both `flow` IDs) reported 0s average duration, suggesting they may be no-ops or skipping execution logic.
-
-### Try next
-- Investigate the `naxie:converse` trigger to determine why it failed to resolve.
-- Audit the `weekly-rollup` and `weekly-improvement` templates to ensure they are actually performing work and not returning empty successes.
-- Review the `flow` templates (24c2f50e, f1748896) to verify if 0s execution is expected behavior.
-
-## 2026-10-09
+## 2026-11-06
 
 ### Went wrong
-- 7 unique flow templates (e.g., `flow:d3e13193`, `flow:503c883f`) reported 0s average duration, indicating potential no-ops or skipped logic.
-- `vault.read` failed 1/1 runs during the `naxie:converse` template.
+- `events-competition-scan` experienced extreme latency, taking 18,279.2s (approx. 5 hours) to complete.
 
 ### Try next
-- Consolidate repetitive flow IDs into named templates to reduce fragmentation.
-- Audit the 7 flow templates with 0s duration to determine if they are performing actual work or should be retired.
-- Debug `vault.read` permissions or pathing specifically for the `naxie:converse` persona.
+- Review the `todo-brief` and `evening-recap` templates; avg durations of 0s and 0.2s suggest they may be returning cached or empty results.
+- Implement a timeout or pagination limit on the competition scan tool to prevent pipeline hangs.
+- Investigate the `events-competition-scan` template to identify why it requires 5+ hours to run.
 
-## 2026-10-08
+## 2026-11-05
+
+### Try next
+- Analyze the 36s pipeline spikes in job `e6494dcd` to see if a specific news source is causing latency.
+- Consolidate `africa-ai-news` and `africa-tech-alerts` into a single persona/template to reduce redundant pipeline calls.
+
+## 2026-11-04
+
+### Try next
+- Introduce a peer-review delegation step for `africa-ai-news` to test system resilience under load.
+- Since the current fleet is operating at 100% success with low volume, increase the frequency of `innovation-scan` to capture more data.
+
+## 2026-11-03
 
 ### Went wrong
-- "tool:github.get_file step failed 1/1 runs" — 1x (templates: general-task).
+- No issues reported.
 
 ### Try next
-- Investigate tool `github.get_file`: 1/1 step runs failed — check its error output before the next scheduled run.
-- Re-run `POST /api/reflection/run` once the LLM backend is healthy to replace this deterministic digest with a full synthesis.
+- No changes are necessary as all tasks completed successfully and efficiently.
 
-## 2026-10-07
+## 2026-11-02
 
 ### Went wrong
-- Despite step failures, the overall tasks still succeeded, indicating hidden retries or fallback paths that add latency and complexity.
-- hermes.delegate failed its sole execution (100% failure rate) in the general‑task template.
-- peer.review failed 1 of 2 executions (50% failure rate), affecting the daily‑briefing and general‑task templates.
+- No failures recorded.
 
 ### Try next
-- Review the skill‑picker for send‑attachment; the weak keyword match (score 15) suggests a better‑matched skill could reduce unnecessary attachment handling.
-- Consider replacing the placeholder security.scan with an actual scanner if real security checks are required, otherwise keep the current fast implementation.
-- Add result caching for frequent pipeline calls (e.g., news‑scan templates) to cut the avg 95.6 s duration.
-- Improve peer.review reliability: adjust its input validation or increase timeout to eliminate the 50% failure rate.
-- Investigate and fix hermes.delegate configuration or retire the template if delegation is unnecessary.
+- Review the 0s duration flows to ensure they are performing intended logic and not skipping necessary steps.
+- Investigate job `00fb4a82` (africa-tech-alerts) to determine why its pipeline steps are taking 31-39s, significantly higher than the 14.8s average.
 
-## 2026-10-06
+## 2026-11-01
+
+### Try next
+- Review `flow:bd01d559` and `flow:7bc13716` (avg 0.1s) to ensure they are performing intended logic and not skipping steps.
+- Consolidate the three separate news operations (`world-ai-news`, `africa-ai-news`, `africa-tech-alerts`) into a single regional news aggregator flow to reduce pipeline overhead.
+
+## 2026-10-31
+
+### Try next
+- Audit the `pipeline` tool usage in job `ef293a76` to see if the 53s latency can be reduced via parallelization.
+- Consolidate the 8 unique `flow:xxxx` templates into named, reusable templates to improve system maintainability.
+
+## 2026-10-30
 
 ### Went wrong
-- No tasks failed or were rejected; there were no errors to report.
+- No tasks encountered any failures.
 
 ### Try next
-- Profile the pipeline substeps for jobs a732cc97, 69041923, and b77069d9 to pinpoint operations >250 s and replace them with pre‑compiled regex or cached results.
-- Cut innovation-scan frequency from three runs per day to two (morning and evening) to reduce pipeline load by roughly one‑third while preserving coverage.
-- Merge africa‑ai‑news, world‑ai‑news, and super‑intelligence‑news into a single parameterized news‑briefing tool that takes a region/topic flag, lowering template maintenance overhead.
-- Retain the current security.scan configuration; its 0 s average is correct and indicates no unnecessary I/O.
+- No specific changes are needed as all tasks completed successfully and quickly.
 
-## 2026-10-05
+## 2026-10-29
+
+### Try next
+- Investigate why events-competition-scan is consistently slow and consider whether it can be optimized or simplified.
+- Optimize the africa-ai-news and world-ai-news tasks to reduce their average duration.
+
+## 2026-10-28
 
 ### Went wrong
-- Skill picker weak on `research-deep`: avg score 15 (keyword-only) over 1 run(s).
-- Skill picker weak on `brief-writing`: avg score 15 (keyword-only) over 1 run(s).
-- "tool:vault.read step failed 1/2 runs" — 1x (templates: general-task).
+- No tasks failed.
 
 ### Try next
-- Enrich the `brief-writing` skill metadata (intent phrases) so the picker stops matching on keywords alone.
-- Investigate tool `vault.read`: 1/2 step runs failed — check its error output before the next scheduled run.
+- Investigate if there are any specific tasks or steps that consistently take longer than usual.
+- Consider optimizing the pipeline to potentially reduce the average duration.
 
-## 2026-10-03
+## 2026-10-27
+
+### Try next
+- Optimize the innovation scan task if it is a network or LLM call, as near-zero average durations are expected for these types of tasks.
+- Investigate why the innovation scan task is consistently taking around 120 seconds.
+
+## 2026-10-25
 
 ### Went wrong
-- No failures or rejections to report.
-- Nothing went wrong; all tasks were completed successfully without any failures or rejections.
-- `innovation-scan` averaged 621.5s over 4 run(s) — over the 600s perf budget.
-- No failures or errors recorded; nothing went wrong
+- "events-competition-scan" failed once, resulting in a task abort.
 
 ### Try next
-- Add a low‑frequency, higher‑complexity task (e.g., a quarterly strategy scan) to diversify workload.
-- Introduce at least one peer‑delegated task to test load‑balancing across the fleet.
-- Review the zero‑duration templates to confirm they are performing intended actions.
-- Enable employee logging to track who runs which tasks.
-- Review the automation process to ensure that employee involvement is correctly logged when necessary.
-- Consider monitoring tool usage and skill picker correlations to better understand system interactions and improve task efficiency.
-- Investigate the weekly-rollup and weekly-improvement tasks to ensure they are functioning as intended and not skipping necessary steps.
-- Split `innovation-scan` into parallel sub-agents or trim its heaviest steps — it is the fleet bottleneck at ~10 min/run.
-- Add a lightweight validation step to todo-brief, weekly-rollup, and weekly-improvement to confirm they are performing intended work (e.g., check output length > 0)
-- Consider batching innovation-scan runs or increasing its timeout to avoid potential stalls if duration trends upward
-- Schedule system-audit during off‑peak hours to reduce impact on other local tasks
-- Review the insights:board-meeting template to see if its 84 s average can be trimmed by caching reusable data sources
+- Investigate why "events-competition-scan" is failing.
+- Optimize "pipeline" jobs to reduce their average duration.
+- Review and possibly retire any underperforming tools or jobs.
 
-## 2026-10-02
+## 2026-10-24
 
 ### Went wrong
-- No failures, slow templates, or weak skill picks recorded — quiet night.
+- No issues or failures were observed.
 
-## 2026-10-01
+### Try next
+- Optimize the "pipeline" tool to reduce its average duration from 448s to a more reasonable value.
+- Investigate the single failure in the "peer.review" tool.
+
+## 2026-10-23
 
 ### Went wrong
-- Skill picker weak on `send-attachment`: avg score 15 (keyword-only) over 2 run(s).
-- `daily-briefing` averaged 1355.9s over 2 run(s) — over the 600s perf budget.
+- 2 out of 4 tasks (africa-ai-news, world-ai-news) failed.
+- Slowest steps took up to 28087 seconds.
 
 ### Try next
-- Enrich the `send-attachment` skill metadata (intent phrases) so the picker stops matching on keywords alone.
-- Split `daily-briefing` into parallel sub-agents or trim its heaviest steps — it is the fleet bottleneck at ~23 min/run.
+- Optimize the africa-ai-news template.
+- Investigate why the world-ai-news template is failing.
 
-## 2026-09-28
-
-### Try next
-- Check the LLM backend (OpenRouter/OpenAI/Anthropic/Ollama): a hung or very slow provider call, not a code fault, drove the timeout. Raise `NAXION_REFLECTION_SYNTH_TIMEOUT_MS` only if legitimate synthesis is being cut short.
-
-## 2026-09-20
+## 2026-10-22
 
 ### Went wrong
-- Nothing went wrong. There were 0 failures and 0 rejected tasks.
+- `africa-ai-news` averaged 1924.5s over 2 run(s) — over the 600s perf budget.
 
 ### Try next
-- Investigate the `todo-brief` template to ensure it isn't returning empty results or skipping logic.
-- Audit the employee tracking system to determine why no staff were recorded as active during task execution.
-- Increase the frequency of `innovation-scan` or `system-audit` to better utilize the fleet during low-volume periods.
+- Split `africa-ai-news` into parallel sub-agents or trim its heaviest steps — it is the fleet bottleneck at ~32 min/run.
 
-## 2026-09-17
+## 2026-10-21
+
+### Try next
+- Investigate why the 'events-competition-scan' and 'daily-briefing' pipelines are consistently slow.
+- Optimize the 'events-competition-scan' pipeline to reduce its duration.
+
+## 2026-10-20
 
 ### Went wrong
-- Skill picker for `brief-writing` returned a weak score of 15 (keyword-only match) for 2 runs, indicating poor alignment between task requirements and employee metadata.
-- The `todo-brief` template reported an `avgDurationSec` of 0s. Unlike synchronous scanners, a brief generation typically requires LLM I/O; this suggests the task may have returned a cached result or skipped execution.
+- 1 task failed in "africa-ai-news" template.
 
 ### Try next
-- Increase task load or schedule additional persona-driven tasks; the current fleet utilization is negligible.
-- Update the `brief-writing` skill definition with more descriptive metadata to improve picker confidence scores.
-- Audit the `todo-brief` template to ensure it is not failing silently or returning empty strings.
+- Consider optimizing the "pipeline" job to reduce its average duration.
+- Investigate why the "africa-ai-news" task failed.
 
-## 2026-09-16
-
-### Try next
-- Audit the `todo-brief` template logic to confirm it is actually generating content and not just returning an empty string or cached result.
-- Investigate the employee tracking configuration to ensure active clawbots are correctly attributed to the "on the clock" stat.
-- Integrate `web.search` or `research.query` into the `innovation-scan` template to move beyond internal data processing.
-
-## 2026-09-15
+## 2026-10-19
 
 ### Went wrong
-- Zero employees were recorded as "on the clock" despite 5 tasks being completed, suggesting a disconnect between task execution and employee session logging.
-- The `todo-brief` template recorded a 0s duration. Unlike synchronous scanners, a briefing template should involve processing time; this indicates the task likely exited early or found no data to process.
+- 1 task failed in "events-competition-scan".
+- 1 task failed in "africa-tech-alerts".
 
 ### Try next
-- Assign a `research` or `web` based task to verify if the tool-call logging (currently empty) is actually functional.
-- Check the integration between the task runner and the employee time-tracking module to fix the "none recorded" status.
-- Audit the `todo-brief` template to ensure it isn't skipping logic; 0s duration is a red flag for a non-security tool.
+- Optimize "events-competition-scan" and "africa-tech-alerts" tasks to reduce failure rates.
+- Investigate and optimize "pipeline" jobs to reduce their average duration.
 
-## 2026-09-12
+## 2026-10-18
 
 ### Try next
-- Increase task load to test system performance beyond single-instance runs.
-- Audit the `weekly-rollup` template; 0s duration suggests it may be returning empty results or skipping processing logic.
-- Investigate the employee logging system; tasks are executing without being attributed to active staff.
+- Review the `send-attachment` skill picker; it is currently triggering on weak keyword matches (score 15), which may lead to misfires as task volume increases.
+- Investigate `world-ai-news` (1.7s) to ensure it is actually retrieving fresh data and not returning a cached or empty response.

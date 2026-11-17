@@ -1,0 +1,14 @@
+{"ts":"2026-11-08T05:00:23.283Z","kind":"progress","text":"Starting plan: 1 step — Reading Gmail for \"newer_than:7d\""}
+{"ts":"2026-11-08T05:00:23.287Z","kind":"blocker","text":"Step \"Reading Gmail for \"newer_than:7d\"\" failed: No Google connection configured Ã¢â‚¬â€ add one on the Integrations page","stepId":"0"}
+{"ts":"2026-11-08T05:45:24.918Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-11-08T05:45:26.448Z","kind":"progress","text":"Starting plan: 2 steps — Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-08T05:45:26.451Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (1ms)","stepId":"1"}
+{"ts":"2026-11-08T05:45:28.595Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (2145ms)","stepId":"0"}
+{"ts":"2026-11-08T06:00:06.295Z","kind":"progress","text":"Starting plan: 1 step — Reading Gmail for \"newer_than:7d\""}
+{"ts":"2026-11-08T06:00:06.297Z","kind":"blocker","text":"Step \"Reading Gmail for \"newer_than:7d\"\" failed: No Google connection configured Ã¢â‚¬â€ add one on the Integrations page","stepId":"0"}
+{"ts":"2026-11-08T06:00:12.416Z","kind":"progress","text":"Starting plan: 2 steps — Reading your unread email, Thinking about it"}
+{"ts":"2026-11-08T06:00:12.419Z","kind":"progress","text":"Step \"Reading your unread email\" succeeded (1ms)","stepId":"0"}
+{"ts":"2026-11-08T06:00:14.042Z","kind":"progress","text":"Step \"Thinking about it\" succeeded (1622ms)","stepId":"1"}
+{"ts":"2026-11-08T06:00:16.301Z","kind":"progress","text":"Starting plan: 4 steps — Reading your unread email, Thinking about it, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-08T06:00:16.304Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (1ms)","stepId":"3"}
+{"ts":"2026-11-08T06:00:17.697Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (1394ms)","stepId":"2"}

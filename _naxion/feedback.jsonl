@@ -1,2 +1,26 @@
 {"jobId":"7bac3b9b-5080-4a85-aed7-f04c4d60ac97","rating":"up","ts":"2026-10-04T08:50:57.862Z"}
 {"jobId":"c1bddb56-ecf6-4705-8109-c2cb78f592dd","rating":"up","ts":"2026-10-04T08:53:15.602Z"}
+{"jobId":"36a5d385-97a1-430e-852f-45f46ea15af4","rating":"down","note":"the news proviede is dated 15 April and the quality of the news is poor","template":"africa-ai-news","ts":"2026-10-22T10:33:49.133Z"}
+{"jobId":"bdd3ae75-1103-4d6c-bee4-58a642239ae1","rating":"up","template":"world-ai-news","ts":"2026-10-22T10:34:01.012Z"}
+{"jobId":"071ba8d8-e481-441e-8021-678f3600925c","rating":"down","note":"improve quality","template":"deadline-reminders","ts":"2026-10-22T10:35:17.950Z"}
+{"jobId":"9cc7eac1-784b-4a9b-b7f8-dfbe581ebea0","rating":"down","ts":"2026-10-22T10:36:03.174Z"}
+{"jobId":"cccb5a99-e55d-463c-85dc-c67547b18210","rating":"up","ts":"2026-10-22T10:37:29.363Z"}
+{"jobId":"b8dddc9b-2b95-4bf9-9a07-e26f83ff1923","rating":"down","note":"Good but could be better","template":"africa-tech-alerts","ts":"2026-10-22T10:45:57.799Z"}
+{"jobId":"0a3444f2-5422-4cbf-a81b-22f468f2f8d9","rating":"down","note":"nothing was done but it was marked as completed","template":"daily-briefing","ts":"2026-10-22T10:46:48.419Z"}
+{"jobId":"270c9d74-b774-4d74-b8f8-78c25a037c2b","rating":"down","note":"repeating the same news over and over, there are morethings in ai that are happening and affecting other industries like agriculture, finance and transport","template":"africa-ai-news","ts":"2026-10-22T10:48:15.711Z"}
+{"jobId":"cff5e411-3819-4b0f-afb2-569b8d78e5eb","rating":"up","ts":"2026-10-23T09:54:27.962Z"}
+{"jobId":"cff5e411-3819-4b0f-afb2-569b8d78e5eb","rating":"up","ts":"2026-10-23T09:54:39.796Z"}
+{"jobId":"54e0df2f-c0fd-4307-8ea5-1d577cf28f67","rating":"down","note":"not sent","template":"world-ai-news","ts":"2026-10-23T09:55:13.310Z"}
+{"jobId":"c179c5ad-33c5-4429-ba32-0dcfa4ee6148","rating":"down","note":"repeating same news","template":"deadline-reminders","ts":"2026-10-23T10:05:57.418Z"}
+{"jobId":"682ede14-7c4f-415b-b112-b26489b9a8a5","rating":"down","note":"improve retrieve health table readabilkity its markdown","ts":"2026-10-25T08:59:39.030Z"}
+{"jobId":"14d9510b-463b-45d8-bd11-6d574f8ee9d1","rating":"up","template":"africa-ai-news","ts":"2026-10-25T09:00:48.913Z"}
+{"jobId":"000a3b34-6a48-459c-b3cc-8e1d6d82353c","rating":"down","note":"the text is markdown make it readable","ts":"2026-10-25T09:02:03.424Z"}
+{"jobId":"8ed5a629-5dcc-43f1-941e-2683f3bba9d2","rating":"down","note":"heading duplication and improve readablity if text with headings and bold text","template":"weekend-digest","ts":"2026-10-25T09:02:54.950Z"}
+{"jobId":"55961e4f-e27f-4296-94b4-b8c18e373f9b","rating":"down","note":"Ghana ministre just spoke on Ai and implemented a policy imrpve","template":"africa-ai-news","ts":"2026-10-25T09:03:55.861Z"}
+{"jobId":"ca8613e9-1a70-40f7-82e6-7a89d3b4a79c","rating":"down","note":"list all events not just top","template":"events-competition-scan","ts":"2026-10-25T09:04:22.691Z"}
+{"jobId":"8f1d83b6-cfd1-4d9b-8a63-6d2d2b49d7b1","rating":"up","ts":"2026-10-25T13:45:54.694Z"}
+{"jobId":"f53db699-e6c3-4696-86c9-60bc7800089a","rating":"up","ts":"2026-10-25T13:46:00.207Z"}
+{"jobId":"90ed3791-c33d-4bef-8b09-a5cc0dd5181b","rating":"up","ts":"2026-10-25T15:16:02.580Z"}
+{"jobId":"e09710d9-df99-4e6a-b6d5-a147492c8021","rating":"up","template":"events-competition-scan","ts":"2026-10-30T05:42:22.778Z"}
+{"jobId":"847d4602-05bb-4fe0-99d4-4b2547d26930","rating":"up","ts":"2026-10-30T05:42:26.873Z"}
+{"jobId":"12b69b3f-f83a-4fb9-82df-10670b510daf","rating":"up","ts":"2026-10-30T05:42:34.450Z"}

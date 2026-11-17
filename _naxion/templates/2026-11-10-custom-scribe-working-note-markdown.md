@@ -1,0 +1,24 @@
+---
+type: template
+title: Working note (Markdown) (custom-scribe-working-note-markdown)
+slug: custom-scribe-working-note-markdown
+created: 2026-11-10T15:30:26.240Z
+templateId: custom-scribe-working-note-markdown
+role: Custom
+originTask: Write a well-structured Markdown working note on the topic provided. Use a short intro, headed sections, tables where useful, and no decorative filler. Then call document.create with format 'md' and a descriptive filename, and return the file path.
+---
+
+# Working note (Markdown) (custom-scribe-working-note-markdown)
+
+A clean .md note for specs, READMEs, and handoff.
+
+**Origin task:** Write a well-structured Markdown working note on the topic provided. Use a short intro, headed sections, tables where useful, and no decorative filler. Then call document.create with format 'md' and a descriptive filename, and return the file path.
+
+## Saved plan
+
+```json
+{
+  "steps": [],
+  "waves": []
+}
+```

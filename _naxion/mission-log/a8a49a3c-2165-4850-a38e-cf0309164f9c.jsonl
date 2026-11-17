@@ -1,0 +1,2 @@
+{"ts":"2026-11-10T13:36:54.552Z","kind":"progress","text":"Starting plan: 1 step — Reading your recent social posts"}
+{"ts":"2026-11-10T13:36:54.681Z","kind":"blocker","text":"Step \"Reading your recent social posts\" failed: social history unavailable — set AYRSHARE_API_KEY, or connect Buffer on the Integrations page.","stepId":"0"}

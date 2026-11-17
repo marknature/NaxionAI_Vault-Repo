@@ -1,0 +1,35 @@
+{"ts":"2026-11-09T07:30:25.046Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-11-09T07:30:27.489Z","kind":"progress","text":"Starting plan: 2 steps — Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-09T07:30:27.537Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (20ms)","stepId":"1"}
+{"ts":"2026-11-09T07:30:29.248Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (1722ms)","stepId":"0"}
+{"ts":"2026-11-09T08:00:30.311Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Process AP/AR aging; surface overdue items and proposed follow-ups\" Ã¢â‚¬â€ vault + web"}
+{"ts":"2026-11-09T08:00:40.876Z","kind":"progress","text":"Step \"Researching \"Process AP/AR aging; surface overdue items and proposed follow-ups\" Ã¢â‚¬â€ vault + web\" succeeded (10563ms)","stepId":"0"}
+{"ts":"2026-11-09T08:00:40.883Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Process AP/AR aging; surface overdue items and proposed follow-ups\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-09T08:00:40.885Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (1ms)","stepId":"2"}
+{"ts":"2026-11-09T08:00:42.909Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (2024ms)","stepId":"1"}
+{"ts":"2026-11-09T10:00:30.979Z","kind":"progress","text":"Starting plan: 4 steps — Reading your recent social posts, buffer.history, Thinking about it, Reading social comments & mentions"}
+{"ts":"2026-11-09T10:00:31.000Z","kind":"progress","text":"Step \"buffer.history\" succeeded (18ms)","stepId":"1"}
+{"ts":"2026-11-09T10:00:31.001Z","kind":"blocker","text":"Step \"Reading your recent social posts\" failed: social history unavailable — set AYRSHARE_API_KEY, or connect Buffer on the Integrations page.","stepId":"0"}
+{"ts":"2026-11-09T10:00:33.389Z","kind":"progress","text":"Step \"Thinking about it\" succeeded (2387ms)","stepId":"2"}
+{"ts":"2026-11-09T10:00:35.313Z","kind":"progress","text":"Starting plan: 6 steps — Reading your recent social posts, buffer.history, Thinking about it, Reading social comments & mentions, Quality-checking the draft, …"}
+{"ts":"2026-11-09T10:00:35.316Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (2ms)","stepId":"5"}
+{"ts":"2026-11-09T10:00:36.464Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (1149ms)","stepId":"4"}
+{"ts":"2026-11-09T11:00:30.147Z","kind":"progress","text":"Starting plan: 3 steps — Reading your unread email, Thinking about it, vault.capture_note"}
+{"ts":"2026-11-09T11:00:30.150Z","kind":"progress","text":"Step \"Reading your unread email\" succeeded (2ms)","stepId":"0"}
+{"ts":"2026-11-09T11:00:31.373Z","kind":"progress","text":"Step \"Thinking about it\" succeeded (1222ms)","stepId":"1"}
+{"ts":"2026-11-09T11:00:31.379Z","kind":"progress","text":"Step \"vault.capture_note\" succeeded (5ms)","stepId":"2"}
+{"ts":"2026-11-09T11:00:33.281Z","kind":"progress","text":"Starting plan: 5 steps — Reading your unread email, Thinking about it, vault.capture_note, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-09T11:00:33.283Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (1ms)","stepId":"4"}
+{"ts":"2026-11-09T11:00:34.667Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (1385ms)","stepId":"3"}
+{"ts":"2026-11-09T15:00:04.984Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Use org.approvals_pending to surface a sign-off digest: count items parked in ApÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web"}
+{"ts":"2026-11-09T15:00:13.631Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web"}
+{"ts":"2026-11-09T15:00:20.574Z","kind":"progress","text":"Step \"Researching \"Use org.approvals_pending to surface a sign-off digest: count items parked in ApÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web\" succeeded (15588ms)","stepId":"0"}
+{"ts":"2026-11-09T15:00:20.588Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Use org.approvals_pending to surface a sign-off digest: count items parked in ApÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-09T15:00:20.596Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (5ms)","stepId":"2"}
+{"ts":"2026-11-09T15:00:21.791Z","kind":"progress","text":"Step \"Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web\" succeeded (8159ms)","stepId":"0"}
+{"ts":"2026-11-09T15:00:21.794Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-09T15:00:21.809Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (1ms)","stepId":"2"}
+{"ts":"2026-11-09T15:00:22.051Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (1460ms)","stepId":"1"}
+{"ts":"2026-11-09T15:00:23.895Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (2086ms)","stepId":"1"}
+{"ts":"2026-11-09T15:00:23.896Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-09T15:00:25.818Z","kind":"progress","text":"Step \"Asking a peer to review the draft\" succeeded (1921ms)","stepId":"3"}

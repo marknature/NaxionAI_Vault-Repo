@@ -1,315 +1,979 @@
 {
-  "updatedAt": "2026-10-12T18:00:29.522Z",
+  "updatedAt": "2026-11-17T18:23:11.900Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
-      "totalRuns": 31,
+      "totalRuns": 50,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 6.5,
+      "avgDurationSec": 65,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-11-15"
     },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 96,
+      "totalRuns": 181,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 15.3,
+      "avgDurationSec": 58.3,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-11-16"
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 29,
+      "totalRuns": 65,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-11-16"
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
-      "totalRuns": 7,
+      "totalRuns": 12,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-10"
+      "lastSeen": "2026-11-14"
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 38,
+      "totalRuns": 80,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 28.8,
+      "avgDurationSec": 209,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
-    },
-    "naxie:converse": {
-      "template": "naxie:converse",
-      "totalRuns": 5,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0,
-      "topError": "tool:vault.read step failed 1/1 runs",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-10"
+      "lastSeen": "2026-11-16"
     },
     "africa-ai-news": {
       "template": "africa-ai-news",
-      "totalRuns": 13,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 26.9,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-08"
+      "totalRuns": 102,
+      "totalFailed": 4,
+      "failureRate": 0.04,
+      "avgDurationSec": 4122,
+      "topError": "This operation was aborted",
+      "remedy": "prior runs of this type are SLOW (avg ~4122s vs a 600s budget) — split the work into parallel independent sub-agents and avoid unnecessarily heavy steps.",
+      "lastSeen": "2026-11-16",
+      "slow": true
     },
     "world-ai-news": {
       "template": "world-ai-news",
-      "totalRuns": 16,
+      "totalRuns": 63,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 23.7,
+      "avgDurationSec": 31.3,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-11-16"
     },
     "daily-briefing": {
       "template": "daily-briefing",
-      "totalRuns": 23,
+      "totalRuns": 73,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 8.2,
-      "topError": "tool:peer.review step failed 1/2 runs",
+      "avgDurationSec": 304.3,
+      "topError": "tool:peer.review step failed 1/1 runs",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
-    },
-    "add-note": {
-      "template": "add-note",
-      "totalRuns": 2,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 3.3,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-09-22"
+      "lastSeen": "2026-11-16"
     },
     "weekly-improvement": {
       "template": "weekly-improvement",
-      "totalRuns": 8,
+      "totalRuns": 14,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-10"
-    },
-    "insights:board-meeting": {
-      "template": "insights:board-meeting",
-      "totalRuns": 2,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 84,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-11-14"
     },
     "general-task": {
       "template": "general-task",
-      "totalRuns": 9,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 182.6,
-      "topError": "tool:github.get_file step failed 1/1 runs",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-08"
-    },
-    "sync-downloads": {
-      "template": "sync-downloads",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 14.3,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-06"
-    },
-    "super-intelligence-news": {
-      "template": "super-intelligence-news",
-      "totalRuns": 4,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 18.6,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
+      "totalRuns": 32,
+      "totalFailed": 2,
+      "failureRate": 0.06,
+      "avgDurationSec": 0,
+      "topError": "tool:peer.review step failed 1/1 runs",
+      "remedy": "prior runs of this type failed ~6% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-16"
     },
     "events-competition-scan": {
       "template": "events-competition-scan",
-      "totalRuns": 7,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 37.9,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
+      "totalRuns": 55,
+      "totalFailed": 3,
+      "failureRate": 0.05,
+      "avgDurationSec": 288.7,
+      "topError": "This operation was aborted",
+      "remedy": "prior runs of this type TIMED OUT — split the work into parallel independent sub-agents rather than one long serial chain, prefer cached/cheaper paths (e.g. db schema cache), and avoid unnecessarily heavy steps.",
+      "lastSeen": "2026-11-16"
     },
     "deadline-reminders": {
       "template": "deadline-reminders",
-      "totalRuns": 5,
+      "totalRuns": 41,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 0.7,
+      "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-11-16"
     },
     "evening-recap": {
       "template": "evening-recap",
-      "totalRuns": 3,
+      "totalRuns": 41,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 7,
+      "avgDurationSec": 24.9,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-11-16"
     },
     "weekend-digest": {
       "template": "weekend-digest",
+      "totalRuns": 14,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 1150,
+      "topError": "",
+      "remedy": "prior runs of this type are SLOW (avg ~1150s vs a 600s budget) — split the work into parallel independent sub-agents and avoid unnecessarily heavy steps.",
+      "lastSeen": "2026-11-14",
+      "slow": true
+    },
+    "africa-tech-alerts": {
+      "template": "africa-tech-alerts",
+      "totalRuns": 46,
+      "totalFailed": 1,
+      "failureRate": 0.02,
+      "avgDurationSec": 200.3,
+      "topError": "OpenRouter N: {\"error\":{\"message\":\"Provider returned error\",\"code\":N,\"metada",
+      "remedy": "prior runs of this type failed ~2% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-16"
+    },
+    "board:md-weekly": {
+      "template": "board:md-weekly",
+      "totalRuns": 5,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 1637.6,
+      "topError": "",
+      "remedy": "prior runs of this type are SLOW (avg ~1638s vs a 600s budget) — split the work into parallel independent sub-agents and avoid unnecessarily heavy steps.",
+      "lastSeen": "2026-11-15",
+      "slow": true
+    },
+    "flow:977b78f7": {
+      "template": "flow:977b78f7",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-24"
+    },
+    "flow:7a1dff30": {
+      "template": "flow:7a1dff30",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.2,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-24"
+    },
+    "flow:46808bea": {
+      "template": "flow:46808bea",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.2,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:d57dcbeb": {
+      "template": "flow:d57dcbeb",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.2,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:eb877785": {
+      "template": "flow:eb877785",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.2,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:35fee97e": {
+      "template": "flow:35fee97e",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:64e3f38e": {
+      "template": "flow:64e3f38e",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:f7549b31": {
+      "template": "flow:f7549b31",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:ecbeba12": {
+      "template": "flow:ecbeba12",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:f7183a58": {
+      "template": "flow:f7183a58",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:4489f7a4": {
+      "template": "flow:4489f7a4",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:380cf806": {
+      "template": "flow:380cf806",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:7c3d8096": {
+      "template": "flow:7c3d8096",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:765bb4f2": {
+      "template": "flow:765bb4f2",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:c3e3dcbd": {
+      "template": "flow:c3e3dcbd",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:ce985b2f": {
+      "template": "flow:ce985b2f",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-27"
+    },
+    "flow:9bad193a": {
+      "template": "flow:9bad193a",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-29"
+    },
+    "flow:e568c70e": {
+      "template": "flow:e568c70e",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-29"
+    },
+    "flow:b9fa6f68": {
+      "template": "flow:b9fa6f68",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-30"
+    },
+    "flow:1af7d703": {
+      "template": "flow:1af7d703",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-30"
+    },
+    "flow:b54ff793": {
+      "template": "flow:b54ff793",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.4,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-30"
+    },
+    "flow:f2dd51c9": {
+      "template": "flow:f2dd51c9",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-30"
+    },
+    "flow:e5753a0f": {
+      "template": "flow:e5753a0f",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-30"
+    },
+    "flow:6ea3ff8d": {
+      "template": "flow:6ea3ff8d",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-30"
+    },
+    "flow:0e690314": {
+      "template": "flow:0e690314",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-30"
+    },
+    "flow:31c3318b": {
+      "template": "flow:31c3318b",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-30"
+    },
+    "flow:3277a982": {
+      "template": "flow:3277a982",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-31"
+    },
+    "flow:e4a8705e": {
+      "template": "flow:e4a8705e",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-31"
+    },
+    "flow:ddb9edc2": {
+      "template": "flow:ddb9edc2",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-31"
+    },
+    "flow:a7782b53": {
+      "template": "flow:a7782b53",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-31"
+    },
+    "flow:1644856e": {
+      "template": "flow:1644856e",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-31"
+    },
+    "flow:4c3ce7ce": {
+      "template": "flow:4c3ce7ce",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-31"
+    },
+    "flow:394ac1a5": {
+      "template": "flow:394ac1a5",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-31"
+    },
+    "flow:691aba63": {
+      "template": "flow:691aba63",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-10-31"
+    },
+    "flow:bd01d559": {
+      "template": "flow:bd01d559",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-01"
+    },
+    "flow:7bc13716": {
+      "template": "flow:7bc13716",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-01"
+    },
+    "flow:c1fb33c9": {
+      "template": "flow:c1fb33c9",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-02"
+    },
+    "flow:07578a16": {
+      "template": "flow:07578a16",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-02"
+    },
+    "flow:b40eba17": {
+      "template": "flow:b40eba17",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-02"
+    },
+    "flow:9ab4b6f2": {
+      "template": "flow:9ab4b6f2",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-02"
+    },
+    "flow:8cf74c81": {
+      "template": "flow:8cf74c81",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-02"
+    },
+    "flow:cf0d5ef2": {
+      "template": "flow:cf0d5ef2",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-02"
+    },
+    "flow:ae481493": {
+      "template": "flow:ae481493",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-03"
+    },
+    "flow:3672b580": {
+      "template": "flow:3672b580",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-03"
+    },
+    "flow:0985864e": {
+      "template": "flow:0985864e",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-03"
+    },
+    "flow:40896d98": {
+      "template": "flow:40896d98",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-03"
+    },
+    "flow:cf362f7f": {
+      "template": "flow:cf362f7f",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-03"
+    },
+    "flow:7abe730f": {
+      "template": "flow:7abe730f",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-03"
+    },
+    "flow:3a114a8c": {
+      "template": "flow:3a114a8c",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-08"
+    },
+    "flow:8ecf296e": {
+      "template": "flow:8ecf296e",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-08"
+    },
+    "flow:a0f4a654": {
+      "template": "flow:a0f4a654",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-08"
+    },
+    "flow:b56b9223": {
+      "template": "flow:b56b9223",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-08"
+    },
+    "flow:2b0311fd": {
+      "template": "flow:2b0311fd",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-09"
+    },
+    "flow:3625ebe4": {
+      "template": "flow:3625ebe4",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-09"
+    },
+    "flow:9d25c165": {
+      "template": "flow:9d25c165",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-09"
+    },
+    "flow:00c7d954": {
+      "template": "flow:00c7d954",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-09"
+    },
+    "flow:869a5c14": {
+      "template": "flow:869a5c14",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-09"
+    },
+    "flow:869e542b": {
+      "template": "flow:869e542b",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-09"
+    },
+    "flow:6e7c2725": {
+      "template": "flow:6e7c2725",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.6,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-09"
+    },
+    "flow:3f0ffff2": {
+      "template": "flow:3f0ffff2",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.3,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-09"
+    },
+    "naxie:converse": {
+      "template": "naxie:converse",
+      "totalRuns": 34,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 619.4,
+      "topError": "tool:peer.review step failed 5/6 runs",
+      "remedy": "prior runs of this type are SLOW (avg ~619s vs a 600s budget) — split the work into parallel independent sub-agents and avoid unnecessarily heavy steps.",
+      "lastSeen": "2026-11-09",
+      "slow": true
+    },
+    "flow:5004184a": {
+      "template": "flow:5004184a",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-09"
+    },
+    "flow:b79ee3e6": {
+      "template": "flow:b79ee3e6",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-09"
+    },
+    "flow:42ac2668": {
+      "template": "flow:42ac2668",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-10"
+    },
+    "flow:2d0829f4": {
+      "template": "flow:2d0829f4",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-10"
+    },
+    "flow:8c08d9df": {
+      "template": "flow:8c08d9df",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.6,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-10"
+    },
+    "flow:408568c5": {
+      "template": "flow:408568c5",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-10"
+    },
+    "flow:a48d3f9a": {
+      "template": "flow:a48d3f9a",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.4,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-10"
+    },
+    "flow:0ffda966": {
+      "template": "flow:0ffda966",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.3,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-10"
+    },
+    "flow:8e4d4f43": {
+      "template": "flow:8e4d4f43",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-10"
+    },
+    "flow:9003c84d": {
+      "template": "flow:9003c84d",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-10"
+    },
+    "flow:b91321b7": {
+      "template": "flow:b91321b7",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-14"
+    },
+    "flow:8c90fea0": {
+      "template": "flow:8c90fea0",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-14"
+    },
+    "flow:dc150e4b": {
+      "template": "flow:dc150e4b",
       "totalRuns": 2,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 21.6,
+      "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-10"
+      "lastSeen": "2026-11-15"
     },
-    "flow:32ab1cf9": {
-      "template": "flow:32ab1cf9",
+    "flow:cd2f4930": {
+      "template": "flow:cd2f4930",
+      "totalRuns": 2,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-15"
+    },
+    "flow:1feb3597": {
+      "template": "flow:1feb3597",
+      "totalRuns": 2,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-15"
+    },
+    "flow:a1319620": {
+      "template": "flow:a1319620",
+      "totalRuns": 2,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-15"
+    },
+    "flow:ce089759": {
+      "template": "flow:ce089759",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-15"
+    },
+    "flow:9d1c737d": {
+      "template": "flow:9d1c737d",
       "totalRuns": 1,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0.1,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
+      "lastSeen": "2026-11-15"
     },
-    "flow:d3e13193": {
-      "template": "flow:d3e13193",
+    "flow:ba1b2bbd": {
+      "template": "flow:ba1b2bbd",
       "totalRuns": 1,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
+      "lastSeen": "2026-11-15"
     },
-    "flow:503c883f": {
-      "template": "flow:503c883f",
+    "flow:36263619": {
+      "template": "flow:36263619",
       "totalRuns": 1,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
-    },
-    "flow:bb89ba35": {
-      "template": "flow:bb89ba35",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
-    },
-    "flow:45855e78": {
-      "template": "flow:45855e78",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
-    },
-    "flow:4640b47b": {
-      "template": "flow:4640b47b",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
-    },
-    "flow:98dfad3f": {
-      "template": "flow:98dfad3f",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
-    },
-    "flow:27314603": {
-      "template": "flow:27314603",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-09"
-    },
-    "flow:24c2f50e": {
-      "template": "flow:24c2f50e",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-10"
-    },
-    "flow:f1748896": {
-      "template": "flow:f1748896",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-10"
-    },
-    "flow:12a3f332": {
-      "template": "flow:12a3f332",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
-    },
-    "flow:0c168fdc": {
-      "template": "flow:0c168fdc",
-      "totalRuns": 1,
-      "totalFailed": 0,
-      "failureRate": 0,
-      "avgDurationSec": 0.1,
-      "topError": "",
-      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-11-15"
     }
   }
 }

@@ -1,0 +1,38 @@
+{"ts":"2026-11-11T06:00:46.538Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-11-11T06:00:47.839Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-11-11T06:01:16.042Z","kind":"progress","text":"Starting plan: 1 step — Reading Gmail for \"newer_than:7d\""}
+{"ts":"2026-11-11T06:01:16.070Z","kind":"blocker","text":"Step \"Reading Gmail for \"newer_than:7d\"\" failed: No Google connection configured Ã¢â‚¬â€ add one on the Integrations page","stepId":"0"}
+{"ts":"2026-11-11T06:01:37.694Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web"}
+{"ts":"2026-11-11T06:03:38.789Z","kind":"progress","text":"Step \"Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web\" succeeded (121092ms)","stepId":"0"}
+{"ts":"2026-11-11T06:03:38.800Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-11T06:03:38.806Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (3ms)","stepId":"2"}
+{"ts":"2026-11-11T06:05:38.806Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (120003ms)","stepId":"1"}
+{"ts":"2026-11-11T06:05:38.809Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-11T06:07:08.841Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
+{"ts":"2026-11-11T07:01:28.232Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Daily cash position snapshot from records; flag anomalies\" Ã¢â‚¬â€ vault + web"}
+{"ts":"2026-11-11T08:01:07.715Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Process AP/AR aging; surface overdue items and proposed follow-ups\" Ã¢â‚¬â€ vault + web"}
+{"ts":"2026-11-11T08:03:46.422Z","kind":"progress","text":"Step \"Researching \"Process AP/AR aging; surface overdue items and proposed follow-ups\" Ã¢â‚¬â€ vault + web\" succeeded (158527ms)","stepId":"0"}
+{"ts":"2026-11-11T08:03:46.649Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Process AP/AR aging; surface overdue items and proposed follow-ups\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-11T08:03:46.665Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (12ms)","stepId":"2"}
+{"ts":"2026-11-11T08:05:46.656Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (120001ms)","stepId":"1"}
+{"ts":"2026-11-11T08:05:46.658Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Process AP/AR aging; surface overdue items and proposed follow-ups\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-11T08:07:16.672Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
+{"ts":"2026-11-11T10:00:39.609Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise seÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web"}
+{"ts":"2026-11-11T10:02:53.796Z","kind":"progress","text":"Step \"Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise seÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web\" succeeded (134182ms)","stepId":"0"}
+{"ts":"2026-11-11T10:02:54.156Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise seÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-11T10:02:54.203Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (36ms)","stepId":"2"}
+{"ts":"2026-11-11T10:04:54.217Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (120034ms)","stepId":"1"}
+{"ts":"2026-11-11T10:04:54.220Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise seÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-11T10:06:24.265Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
+{"ts":"2026-11-11T10:23:30.478Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Aggregate both AI news and Tech Alerts for Africa into a single consolidated repÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web"}
+{"ts":"2026-11-11T10:26:12.085Z","kind":"progress","text":"Step \"Researching \"Aggregate both AI news and Tech Alerts for Africa into a single consolidated repÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web\" succeeded (161555ms)","stepId":"0"}
+{"ts":"2026-11-11T10:26:12.639Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Aggregate both AI news and Tech Alerts for Africa into a single consolidated repÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-11T10:26:12.832Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (122ms)","stepId":"2"}
+{"ts":"2026-11-11T11:02:09.867Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web"}
+{"ts":"2026-11-11T11:04:40.131Z","kind":"progress","text":"Step \"Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web\" succeeded (150252ms)","stepId":"0"}
+{"ts":"2026-11-11T11:04:40.511Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-11T11:04:40.681Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (130ms)","stepId":"2"}
+{"ts":"2026-11-11T11:06:40.691Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (120101ms)","stepId":"1"}
+{"ts":"2026-11-11T11:06:40.693Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-11T11:08:10.702Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
+{"ts":"2026-11-11T15:01:08.858Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web"}

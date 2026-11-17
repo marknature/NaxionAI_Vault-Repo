@@ -2,17 +2,17 @@
 type: persona-profile
 personaId: naxie
 personaName: Naxie
-generatedAt: 2026-10-11T18:06:41.278Z
-factsConsidered: 0
-model: gemma4:31b
+generatedAt: 2026-11-10T18:02:19.716Z
+factsConsidered: 1
+model: llama3.1:8b-instruct-q4_K_M
 ---
 
 ## What I've learned
-* News-scanning tasks (especially super-intelligence) are the primary latency drivers, often exceeding 500s, and require LLM caching or model optimization.
-* The workflow pipeline is resilient but opaque; tasks frequently report overall success despite internal failures in `peer.review` and `hermes.delegate`.
-* `peer.review` is a current reliability bottleneck with a 50% failure rate, necessitating better input validation or increased timeouts.
-* `hermes.delegate` is currently misconfigured for local-only workflows and should be bypassed or retired to reduce template complexity.
-* Security checks are intentionally lightweight and synchronous (regex-based), prioritizing sub-millisecond execution over deep analysis.
-* The skill-picker struggles with `send-attachment` requests, indicating that skill keywords need refinement to improve matching confidence scores.
-* `naxie:converse` is prone to silent drops or hangs, failing to record success or failure states.
-* Several recurring templates (`weekly-rollup`, `weekly-improvement`, `deadline-reminders`) and specific flow IDs may be no-ops, as they report 0s execution durations.
+* The `pipeline` tool's average duration of 448s is considered high and should be optimized.
+* `peer.review` has a history of instability, but recent runs show zero failures, except for a single failure today.
+* The `pipeline` tool is consistently reliable, with no failures observed in recent runs.
+* Naxie handled all tasks successfully, with a 100% success rate.
+* Naxie completed all tasks independently.
+* The success rate is now 83%, down from 100%.
+* "peer.review" and "integration.gmail.read" templates have high failure rates.
+* "research.deep" and "pipeline" steps are consistently slow.
