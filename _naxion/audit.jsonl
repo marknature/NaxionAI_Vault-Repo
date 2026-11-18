@@ -25091,3 +25091,5 @@
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwlkaotm-35","ts":"2026-11-18T03:28:45.610Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:1","detail":"core fails:  | alerts: supabase","result":"failure","id":"mwlkas0i-36","ts":"2026-11-18T03:28:49.746Z"}
 {"level":"info","actor":"pigeon","action":"pigeon.night_shift","target":"pigeon","detail":"ok; finance:ok, tech:ok, business:ok, schedules:ok, personal:ok; delivery:voice; llm:0 calls $0","result":"success","id":"mwlkigm4-37","ts":"2026-11-18T03:34:48.220Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwlmfum0-38","ts":"2026-11-18T04:28:45.624Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:1","detail":"core fails:  | alerts: supabase","result":"failure","id":"mwlmfxxw-39","ts":"2026-11-18T04:28:49.940Z"}
