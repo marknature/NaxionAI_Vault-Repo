@@ -8482,6 +8482,34 @@
       "updatedAt": "2026-11-18T09:07:04.341Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "8a0d54bc-8756-4184-afb4-0e8290e901f6",
+      "role": "scheduler",
+      "title": "Event deadline reminders",
+      "detail": "Event deadline reminders",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "3fd7591b-b295-42c7-b196-c48e3eea15e4",
+      "createdAt": "2026-11-18T10:00:12.096Z",
+      "updatedAt": "2026-11-18T10:00:12.840Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "0b9087eb-ae36-46c6-9928-eb1d948e87c3",
+      "role": "scheduler",
+      "title": "Africa Tech Alerts — BREAKING (threats & breakthroughs)",
+      "detail": "Africa Tech Alerts — BREAKING (threats & breakthroughs)",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "fbd40a11-9818-49ef-8c01-f75ad40e358d",
+      "createdAt": "2026-11-18T10:30:07.124Z",
+      "updatedAt": "2026-11-18T10:35:22.924Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
