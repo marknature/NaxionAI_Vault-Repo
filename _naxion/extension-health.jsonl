@@ -4438,3 +4438,4 @@
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — ","latencyMs":1422,"ts":"2026-11-18T15:06:19.348Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":1425,"ts":"2026-11-18T15:06:19.355Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1965,"ts":"2026-11-18T15:06:19.897Z"}
+{"id":"supabase","ok":false,"detail":"The operation was aborted due to timeout","latencyMs":4238,"ts":"2026-11-18T18:47:53.218Z"}
