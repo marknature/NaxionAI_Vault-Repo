@@ -4425,3 +4425,4 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":9845,"ts":"2026-11-18T12:10:55.288Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":2871,"ts":"2026-11-18T13:00:33.672Z"}
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — ","latencyMs":4449,"ts":"2026-11-18T13:00:34.998Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":9017,"ts":"2026-11-18T13:00:39.703Z"}
