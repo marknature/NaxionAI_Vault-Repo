@@ -3300,3 +3300,4 @@
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1436,"outputTokens":35,"costUsd":0,"ts":"2026-11-17T15:45:50.774Z"}
 {"jobId":"d35855af-e659-4eb8-b917-235fab260eb9","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":970,"outputTokens":91,"costUsd":0,"ts":"2026-11-17T16:00:25.199Z"}
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"synthesis","inputTokens":896,"outputTokens":152,"costUsd":0,"ts":"2026-11-17T18:23:11.736Z"}
+{"jobId":"adhoc","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":161,"outputTokens":18,"costUsd":0,"ts":"2026-11-18T05:00:38.580Z"}
