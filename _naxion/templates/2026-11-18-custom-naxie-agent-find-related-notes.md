@@ -2,7 +2,7 @@
 type: template
 title: Find related notes (custom-naxie-agent-find-related-notes)
 slug: custom-naxie-agent-find-related-notes
-created: 2026-11-18T05:09:12.545Z
+created: 2026-11-18T11:06:37.660Z
 templateId: custom-naxie-agent-find-related-notes
 role: Custom
 originTask: Find notes related to the following topic across the vault. For each, summarise the connection in one sentence. Return the most relevant 5-10 with paths.
