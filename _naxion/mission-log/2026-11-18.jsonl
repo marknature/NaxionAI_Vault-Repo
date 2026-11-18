@@ -9,3 +9,4 @@
 {"ts":"2026-11-18T06:03:08.898Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (5ms)","stepId":"2"}
 {"ts":"2026-11-18T06:05:08.925Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (120031ms)","stepId":"1"}
 {"ts":"2026-11-18T06:05:08.927Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-18T06:06:38.968Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
