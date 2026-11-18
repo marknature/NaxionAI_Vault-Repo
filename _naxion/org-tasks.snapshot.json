@@ -8441,6 +8441,47 @@
       "updatedAt": "2026-11-18T08:30:54.933Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "9ab786d0-9a33-4ae3-ace9-9ce9411e0bd3",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "fc8cd4a8-617c-4e35-9001-8fa8872d580b",
+      "createdAt": "2026-11-18T08:56:50.980Z",
+      "updatedAt": "2026-11-18T08:56:51.013Z",
+      "createdBy": "naxie",
+      "progressPct": 0
+    },
+    {
+      "id": "e307e952-ea28-4a65-bf5e-18fcb979bc4d",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "3422a316-d439-4504-b992-df48d9d8109c",
+      "createdAt": "2026-11-18T08:56:51.058Z",
+      "updatedAt": "2026-11-18T08:56:51.094Z",
+      "createdBy": "naxie",
+      "progressPct": 0
+    },
+    {
+      "id": "8c1c5bd9-d478-434a-86fa-41b4670fe5d8",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — model-reliability:llama3.1:8b-instruct-q4_K_M",
+      "detail": "\"llama3.1:8b-instruct-q4_K_M\" failed 42% of calls in the last 7d (52/125) — still failing as of 2026-11-18T06:18:01.546Z\n\nLocal Ollama lane: \"llama3.1:8b-instruct-q4_K_M\" is unavailable or broken on this machine (last error: fetch failed). Check `ollama list` / `ollama pull llama3.1:8b-instruct-q4_K_M` and the runner's model id. switch_model will NOT fix this — it only re-points remote provider tiers.\n\nEvidence: cost.jsonl 2026-11-11..now: model=\"llama3.1:8b-instruct-q4_K_M\" backend=ollama calls=125 failed=52 failureRate=0.42 lastFailureAt=2026-11-18T06:18:01.546Z lastError=fetch failed",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-11-18T09:07:04.341Z",
+      "updatedAt": "2026-11-18T09:07:04.341Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
