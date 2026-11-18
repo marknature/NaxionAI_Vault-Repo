@@ -8475,11 +8475,11 @@
       "role": "admin",
       "title": "Innovation Scan: Model reliability — model-reliability:llama3.1:8b-instruct-q4_K_M",
       "detail": "\"llama3.1:8b-instruct-q4_K_M\" failed 42% of calls in the last 7d (52/125) — still failing as of 2026-11-18T06:18:01.546Z\n\nLocal Ollama lane: \"llama3.1:8b-instruct-q4_K_M\" is unavailable or broken on this machine (last error: fetch failed). Check `ollama list` / `ollama pull llama3.1:8b-instruct-q4_K_M` and the runner's model id. switch_model will NOT fix this — it only re-points remote provider tiers.\n\nEvidence: cost.jsonl 2026-11-11..now: model=\"llama3.1:8b-instruct-q4_K_M\" backend=ollama calls=125 failed=52 failureRate=0.42 lastFailureAt=2026-11-18T06:18:01.546Z lastError=fetch failed",
-      "status": "backlog",
+      "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
       "createdAt": "2026-11-18T09:07:04.341Z",
-      "updatedAt": "2026-11-18T09:07:04.341Z",
+      "updatedAt": "2026-11-18T13:00:43.398Z",
       "createdBy": "daemon",
       "progressPct": 0
     },
@@ -8509,6 +8509,34 @@
       "createdAt": "2026-11-18T10:30:07.124Z",
       "updatedAt": "2026-11-18T10:35:22.924Z",
       "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "9fdcd395-78f7-44ad-b4a6-d7e40d42edf6",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "fa1c5733-b2a1-40dd-a32d-9681c0414e4f",
+      "createdAt": "2026-11-18T13:00:59.960Z",
+      "updatedAt": "2026-11-18T13:00:59.995Z",
+      "createdBy": "naxie",
+      "progressPct": 0
+    },
+    {
+      "id": "f8287b50-871b-4539-b251-bee87fb24e25",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "301e5fbb-df3d-410a-b898-e503d91e109b",
+      "createdAt": "2026-11-18T13:01:00.059Z",
+      "updatedAt": "2026-11-18T13:01:00.103Z",
+      "createdBy": "naxie",
       "progressPct": 0
     }
   ]
