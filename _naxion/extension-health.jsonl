@@ -4399,3 +4399,4 @@
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — ","latencyMs":688,"ts":"2026-11-18T04:28:46.314Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":690,"ts":"2026-11-18T04:28:46.318Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":3224,"ts":"2026-11-18T04:28:48.854Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":3634,"ts":"2026-11-18T05:09:28.062Z"}
