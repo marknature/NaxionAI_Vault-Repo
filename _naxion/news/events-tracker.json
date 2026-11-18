@@ -20,11 +20,6 @@
   "url": "https://ugreenhackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel"
  },
  {
-  "name": "Ctrl+V Hackathon",
-  "deadline": "2026-11-10",
-  "url": "https://ctrl-v-hackathon-31831.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel"
- },
- {
   "name": "Global AI Hackathon by Devpost · Lablab.ai",
   "deadline": "2026-11-12",
   "url": "https://devpost.com/hackathons/global-ai-hackathon"
@@ -43,5 +38,10 @@
   "name": "Betway: Official Website",
   "deadline": "2026-11-16",
   "url": "https://betway.com/"
+ },
+ {
+  "name": "ZIMSEC Regional Staff Registration - CAMC System",
+  "deadline": "2026-11-18",
+  "url": "https://camc.zimsec.co.zw/Identity/Account/RegisterRegional"
  }
 ]

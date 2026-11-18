@@ -3302,3 +3302,4 @@
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"synthesis","inputTokens":896,"outputTokens":152,"costUsd":0,"ts":"2026-11-17T18:23:11.736Z"}
 {"jobId":"adhoc","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":161,"outputTokens":18,"costUsd":0,"ts":"2026-11-18T05:00:38.580Z"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-18T05:12:08.298Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"e4c55daa-554c-4998-a205-e8e5fd7acc35","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":2760,"outputTokens":1224,"costUsd":0,"ts":"2026-11-18T05:35:27.872Z"}
