@@ -21,3 +21,6 @@
 {"ts":"2026-11-18T08:09:04.348Z","kind":"progress","text":"Step \"Researching \"Aggregate both AI news and Tech Alerts for Africa into a single consolidated repÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web\" succeeded (152661ms)","stepId":"0"}
 {"ts":"2026-11-18T08:09:04.355Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Aggregate both AI news and Tech Alerts for Africa into a single consolidated repÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
 {"ts":"2026-11-18T08:09:04.385Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (2ms)","stepId":"2"}
+{"ts":"2026-11-18T08:11:04.391Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (120008ms)","stepId":"1"}
+{"ts":"2026-11-18T08:11:04.392Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Aggregate both AI news and Tech Alerts for Africa into a single consolidated repÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-18T08:12:34.432Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
