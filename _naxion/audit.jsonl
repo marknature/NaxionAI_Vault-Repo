@@ -25163,3 +25163,5 @@
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Anything else (ad-hoc task)","detail":"","jobId":"8539f61f-9c93-4c5a-b7b5-662373ba5d7e","result":"pending","id":"mwlu2l3n-67","ts":"2026-11-18T08:02:23.699Z"}
 {"level":"info","actor":"naxie","action":"job.insights:general-task","target":"general-task","detail":"Anything else (ad-hoc task)","jobId":"8539f61f-9c93-4c5a-b7b5-662373ba5d7e","result":"success","id":"mwlv39hv-68","ts":"2026-11-18T08:30:54.931Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Anything else (ad-hoc task)","detail":"","jobId":"8539f61f-9c93-4c5a-b7b5-662373ba5d7e","result":"success","id":"mwlv39ig-69","ts":"2026-11-18T08:30:54.952Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwlvw2iq-70","ts":"2026-11-18T08:53:18.914Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:1","detail":"core fails:  | alerts: supabase","result":"failure","id":"mwlvw4zw-71","ts":"2026-11-18T08:53:22.124Z"}

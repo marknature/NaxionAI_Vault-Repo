@@ -8413,6 +8413,34 @@
       "updatedAt": "2026-11-18T06:06:17.234Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "b8291167-d2e8-4e5a-9484-86098b3a5bab",
+      "role": "scheduler",
+      "title": "World AI news — BREAKING",
+      "detail": "World AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "c47fa958-350c-4e54-9103-76c87305b42c",
+      "createdAt": "2026-11-18T07:53:20.194Z",
+      "updatedAt": "2026-11-18T07:57:13.533Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "3b9264e6-a72d-4f0c-bc1d-b814b903da8f",
+      "role": "scheduler",
+      "title": "Anything else (ad-hoc task)",
+      "detail": "Anything else (ad-hoc task)",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "8539f61f-9c93-4c5a-b7b5-662373ba5d7e",
+      "createdAt": "2026-11-18T08:02:23.655Z",
+      "updatedAt": "2026-11-18T08:30:54.933Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
