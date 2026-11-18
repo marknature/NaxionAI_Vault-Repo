@@ -2,7 +2,7 @@
 type: template
 title: Daily focus (custom-naxie-agent-daily-focus)
 slug: custom-naxie-agent-daily-focus
-created: 2026-11-18T13:05:09.810Z
+created: 2026-11-18T13:05:37.684Z
 templateId: custom-naxie-agent-daily-focus
 role: Custom
 originTask: Look at the last 5 days of journal entries in _naxion/jobs/, any pending follow-ups in 0-Inbox/, and surface a short prioritised list of what I should focus on today. Include why each item matters.
