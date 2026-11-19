@@ -26019,3 +26019,445 @@
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"bye-bye Steve hi to Pizza Hut pizza","detail":"Task 202807a3-8149-4517-99be-0cfaa6439c90 (executor) has been blocked for 211h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mwnc62s9-30","ts":"2026-11-19T09:16:45.849Z"}
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"the coolest my","detail":"Task c0c7e521-0edf-460a-a2d0-411e6df327f9 (executor) has been blocked for 210h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mwnc62wx-31","ts":"2026-11-19T09:16:46.017Z"}
 {"level":"warn","actor":"executor","action":"notify.urgent","target":"before","detail":"Task 4b0cc7e5-a9ab-45db-8d2e-da70f869dc2b (executor) has been blocked for 210h without update. Review on /org-dashboard and unblock or archive. (email not sent — not configured or no operator address)","result":"pending","id":"mwnc62xi-32","ts":"2026-11-19T09:16:46.038Z"}
+{"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 3045ms","result":"success","id":"mwnc6gbq-33","ts":"2026-11-19T09:17:03.398Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"c80b9aad-6964-4e9c-b044-88a34da2a9a2","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (attested)","result":"success","id":"mwncaq5y-1","ts":"2026-11-19T09:20:22.774Z"}
+{"level":"info","actor":"operator","action":"pop.mark_genuine","target":"d50b2658-ed77-4d4d-927c-697eec1b24ed","detail":"risk 60: AI_GENERATED_MARKERS","result":"success","id":"mwncaq6g-2","ts":"2026-11-19T09:20:22.792Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"d50b2658-ed77-4d4d-927c-697eec1b24ed","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (attested)","result":"success","id":"mwncaq6k-3","ts":"2026-11-19T09:20:22.796Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"ee76c887-ef3e-42d3-8526-e36ca7cf96c0","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (matched your records)","result":"success","id":"mwncaq7a-4","ts":"2026-11-19T09:20:22.822Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"a2ae0568-3a9c-4520-9a57-1908f336e529","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (attested)","result":"success","id":"mwncaq8i-1","ts":"2026-11-19T09:20:22.866Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"d98f367f-93b7-4153-9c43-fc6213d72b4f","detail":"Payment made USD 40.00 to ZESA via ECOCASH (attested)","result":"success","id":"mwncaq99-2","ts":"2026-11-19T09:20:22.893Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"42facba1-02f3-4120-a6ae-6d88d17d2fb9","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (matched your records)","result":"success","id":"mwncaq9b-1","ts":"2026-11-19T09:20:22.895Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"dd3975b0-fa27-4952-8d52-6f8e2de7a9be","detail":"Payment made USD 40.00 via ECOCASH (attested)","result":"success","id":"mwncaq9q-3","ts":"2026-11-19T09:20:22.910Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"1f8803ca-588b-432d-8e3c-b0bbaccddcca","detail":"Payment claimed ZAR 40.00 from Tendai M via ECOCASH (attested)","result":"success","id":"mwncaqb2-4","ts":"2026-11-19T09:20:22.958Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"75d27b4c-001b-4128-a1e0-fa5ce90c213a","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (matched your records)","result":"success","id":"mwncaqbu-2","ts":"2026-11-19T09:20:22.986Z"}
+{"level":"info","actor":"operator","action":"pop.mark_genuine","target":"c20557fb-c53f-4252-aa1c-6d95a24e4bfa","detail":"risk 70: REUSED_RECEIPT","result":"success","id":"mwncaqcg-3","ts":"2026-11-19T09:20:23.008Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"579501bf-1506-46d3-b4ff-c2d711a84104","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (matched your records)","result":"success","id":"mwncaqcw-4","ts":"2026-11-19T09:20:23.024Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"ebc85209-0ac9-40d6-b067-93d255411be5","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (attested)","result":"success","id":"mwncaqde-5","ts":"2026-11-19T09:20:23.042Z"}
+{"level":"info","actor":"operator","action":"pop.reject","target":"cfce9339-f6bc-4b61-8466-41f77d965748","detail":"x","result":"success","id":"mwncaqe2-6","ts":"2026-11-19T09:20:23.066Z"}
+{"level":"info","actor":"operator","action":"pop.reject","target":"c6792601-c1ea-4d86-ab4a-3d7b8a2526a2","detail":"rejected from Telegram button","result":"success","id":"mwncaqev-7","ts":"2026-11-19T09:20:23.095Z"}
+{"level":"info","actor":"operator","action":"pop.mark_genuine","target":"1c06d3dc-6578-46fb-8254-b2a5163c1cab","detail":"risk 85: AI_GENERATED_MARKERS,REFERENCE_FORMAT_INVALID","result":"success","id":"mwncaqhd-8","ts":"2026-11-19T09:20:23.185Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"1c06d3dc-6578-46fb-8254-b2a5163c1cab","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (attested)","result":"success","id":"mwncaqhn-9","ts":"2026-11-19T09:20:23.195Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"6a5b635b-6a60-43c3-a90b-55dc2e9e3dfb","detail":"Payment claimed USD 40.00 from Tendai via ECOCASH (attested)","result":"success","id":"mwncasb9-1","ts":"2026-11-19T09:20:25.557Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"bce61eb7-e7c6-45f0-9b9b-562636507805","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (matched your records)","result":"success","id":"mwncashn-1","ts":"2026-11-19T09:20:25.787Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"6e5d6651-d179-49d8-b87c-0b8538488130","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (matched your records)","result":"success","id":"mwncask0-2","ts":"2026-11-19T09:20:25.872Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"c6128f23-ea10-49fc-8cf3-fa244c92d8b3","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (attested)","result":"success","id":"mwncasps-1","ts":"2026-11-19T09:20:26.080Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"738e0530-e676-485a-a21d-67f8df3f09b0","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (attested)","result":"success","id":"mwncasqk-2","ts":"2026-11-19T09:20:26.108Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"995f936c-facc-4140-93e5-40cff020e998","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (attested)","result":"success","id":"mwncasr2-3","ts":"2026-11-19T09:20:26.126Z"}
+{"level":"info","actor":"operator","action":"pop.reject","target":"61fcca19-c858-463e-aa08-4b2260ddfe66","detail":"customer says wrong amount","result":"success","id":"mwncassk-4","ts":"2026-11-19T09:20:26.180Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"9eb6de9f-eb5e-4fb0-b5b0-3ead14bce84a","detail":"Payment claimed USD 40.00 from Tendai via ECOCASH (matched your records)","result":"success","id":"mwncat90-2","ts":"2026-11-19T09:20:26.772Z"}
+{"level":"info","actor":"operator","action":"pop.mark_genuine","target":"90d87e48-00e3-4837-8368-3dc0eda87238","detail":"risk 95: REUSED_RECEIPT,PASTED_TEXT","result":"success","id":"mwncatf7-3","ts":"2026-11-19T09:20:26.995Z"}
+{"level":"info","actor":"operator","action":"pop.reject","target":"64fe969f-fdbb-42d9-a346-08811aaffabe","detail":"test cleanup","result":"success","id":"mwncatfw-4","ts":"2026-11-19T09:20:27.020Z"}
+{"level":"info","actor":"operator","action":"pop.reject","target":"e1fdd51c-1e2a-43de-9319-18f1bab5451d","detail":"wrong customer","result":"success","id":"mwncatjy-5","ts":"2026-11-19T09:20:27.166Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"6f68ff39-ec84-4fe6-b34e-a502337bfdc1","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (matched your records)","result":"success","id":"mwncb16g-1","ts":"2026-11-19T09:20:37.048Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"2b6f48d4-5f7f-4187-871d-13b38206b8a6","detail":"Payment claimed USD 40.00 from Farai C via ECOCASH (matched your records)","result":"success","id":"mwncb174-2","ts":"2026-11-19T09:20:37.072Z"}
+{"level":"info","actor":"operator","action":"pop.reverse","target":"2b6f48d4-5f7f-4187-871d-13b38206b8a6","detail":"wrong customer ledger business:715c4efd-2927-4014-bd5e-7b871a90d0e6 removed","result":"success","id":"mwncb18b-3","ts":"2026-11-19T09:20:37.115Z"}
+{"level":"info","actor":"operator","action":"pop.reject","target":"e16470a7-0332-4418-99ba-c12278d12ee4","detail":"fake","result":"success","id":"mwncb4ja-1","ts":"2026-11-19T09:20:41.398Z"}
+{"level":"info","actor":"operator","action":"pop.confirm","target":"97d7362a-8e8c-4675-b080-0515533d52c3","detail":"Payment claimed USD 40.00 from Tendai M via ECOCASH (matched your records)","result":"success","id":"mwncb4k4-2","ts":"2026-11-19T09:20:41.428Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"2c6df7da","detail":"t","result":"success","id":"mwncb6ye-1","ts":"2026-11-19T09:20:44.534Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"114ce12a","detail":"journal","result":"success","id":"mwncb6yx-2","ts":"2026-11-19T09:20:44.553Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Flow: journal","detail":"Flow: journal","jobId":"76644e06-626b-4ec2-a110-dcffc177ab28","result":"success","id":"mwncb780-3","ts":"2026-11-19T09:20:44.880Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Flow: journal","detail":"","jobId":"76644e06-626b-4ec2-a110-dcffc177ab28","result":"pending","id":"mwncb785-4","ts":"2026-11-19T09:20:44.885Z"}
+{"level":"info","actor":"naxie","action":"job.flow:114ce12a","target":"Flow: journal","detail":"Flow: journal","jobId":"76644e06-626b-4ec2-a110-dcffc177ab28","result":"success","id":"mwncb791-5","ts":"2026-11-19T09:20:44.917Z"}
+{"level":"info","actor":"executor","action":"org_task.done","target":"Flow: journal","detail":"","jobId":"76644e06-626b-4ec2-a110-dcffc177ab28","result":"success","id":"mwncb795-6","ts":"2026-11-19T09:20:44.921Z"}
+{"level":"info","actor":"system","action":"flow.invoke","target":"114ce12a","detail":"run=7ab44178 status=succeeded","result":"success","jobId":"76644e06-626b-4ec2-a110-dcffc177ab28","id":"mwncb79l-7","ts":"2026-11-19T09:20:44.937Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"ea4e7afe","detail":"journal","result":"success","id":"mwncb79w-8","ts":"2026-11-19T09:20:44.948Z"}
+{"level":"info","actor":"executor","action":"org_task.created","target":"Flow: journal","detail":"Flow: journal","jobId":"dac2bd4e-f5b1-445c-b7da-cca85f10b19f","result":"success","id":"mwncb7aj-9","ts":"2026-11-19T09:20:44.971Z"}
+{"level":"info","actor":"executor","action":"org_task.active","target":"Flow: journal","detail":"","jobId":"dac2bd4e-f5b1-445c-b7da-cca85f10b19f","result":"pending","id":"mwncb7ao-10","ts":"2026-11-19T09:20:44.976Z"}
+{"level":"info","actor":"naxie","action":"job.flow:ea4e7afe","target":"Flow: journal","detail":"Flow: journal","jobId":"dac2bd4e-f5b1-445c-b7da-cca85f10b19f","result":"success","id":"mwncb7az-11","ts":"2026-11-19T09:20:44.987Z"}
+{"level":"info","actor":"executor","action":"org_task.done","target":"Flow: journal","detail":"","jobId":"dac2bd4e-f5b1-445c-b7da-cca85f10b19f","result":"success","id":"mwncb7b4-12","ts":"2026-11-19T09:20:44.992Z"}
+{"level":"info","actor":"system","action":"flow.invoke","target":"ea4e7afe","detail":"run=fb78acfd status=succeeded","result":"success","jobId":"dac2bd4e-f5b1-445c-b7da-cca85f10b19f","id":"mwncb7b4-13","ts":"2026-11-19T09:20:44.992Z"}
+{"level":"info","actor":"system","action":"flow.create","target":"bc346fc3","detail":"journal","result":"success","id":"mwncb7be-14","ts":"2026-11-19T09:20:45.002Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/","detail":"/","result":"success","id":"mwncogn8-34","ts":"2026-11-19T09:31:03.620Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/","detail":"/","result":"success","id":"mwncognc-35","ts":"2026-11-19T09:31:03.624Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwncoioy-36","ts":"2026-11-19T09:31:06.274Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwncoip6-37","ts":"2026-11-19T09:31:06.282Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie/memory","detail":"/naxie/memory","result":"success","id":"mwncokj8-38","ts":"2026-11-19T09:31:08.660Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie/memory","detail":"/naxie/memory","result":"success","id":"mwncokja-39","ts":"2026-11-19T09:31:08.662Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie/pigeon","detail":"/naxie/pigeon","result":"success","id":"mwncooyw-40","ts":"2026-11-19T09:31:14.408Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie/pigeon","detail":"/naxie/pigeon","result":"success","id":"mwncooyy-41","ts":"2026-11-19T09:31:14.410Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"mwncoqis-42","ts":"2026-11-19T09:31:16.420Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"mwncoqiv-43","ts":"2026-11-19T09:31:16.423Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/chat","detail":"/chat","result":"success","id":"mwncorxq-44","ts":"2026-11-19T09:31:18.254Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/chat","detail":"/chat","result":"success","id":"mwncorxu-45","ts":"2026-11-19T09:31:18.258Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"mwncos07-46","ts":"2026-11-19T09:31:18.343Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"mwncotg6-47","ts":"2026-11-19T09:31:20.214Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"mwncothq-48","ts":"2026-11-19T09:31:20.270Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncovjk-49","ts":"2026-11-19T09:31:22.928Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncovjn-50","ts":"2026-11-19T09:31:22.931Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncoxve-51","ts":"2026-11-19T09:31:25.946Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncoxvl-52","ts":"2026-11-19T09:31:25.953Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mwncozo6-53","ts":"2026-11-19T09:31:28.278Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mwncozoh-54","ts":"2026-11-19T09:31:28.289Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncozr9-55","ts":"2026-11-19T09:31:28.389Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/approvals","detail":"/approvals","result":"success","id":"mwncp194-56","ts":"2026-11-19T09:31:30.328Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/approvals","detail":"/approvals","result":"success","id":"mwncp19a-57","ts":"2026-11-19T09:31:30.334Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mwncp1bn-58","ts":"2026-11-19T09:31:30.419Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/goals","detail":"/goals","result":"success","id":"mwncp2qa-59","ts":"2026-11-19T09:31:32.242Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/goals","detail":"/goals","result":"success","id":"mwncp2qg-60","ts":"2026-11-19T09:31:32.248Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-tasks","detail":"/my-tasks","result":"success","id":"mwncp5ca-61","ts":"2026-11-19T09:31:35.626Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-tasks","detail":"/my-tasks","result":"success","id":"mwncp5cp-62","ts":"2026-11-19T09:31:35.641Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwncp5eo-63","ts":"2026-11-19T09:31:35.712Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mwncp714-64","ts":"2026-11-19T09:31:37.816Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mwncp726-65","ts":"2026-11-19T09:31:37.854Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/crm","detail":"/crm","result":"success","id":"mwncp8es-66","ts":"2026-11-19T09:31:39.604Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/crm","detail":"/crm","result":"success","id":"mwncp8f2-67","ts":"2026-11-19T09:31:39.614Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwncp9nw-68","ts":"2026-11-19T09:31:41.228Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwncp9o1-69","ts":"2026-11-19T09:31:41.233Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-finances","detail":"/my-finances","result":"success","id":"mwncpb2s-70","ts":"2026-11-19T09:31:43.060Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-finances","detail":"/my-finances","result":"success","id":"mwncpb2w-71","ts":"2026-11-19T09:31:43.064Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/business-finance","detail":"/business-finance","result":"success","id":"mwncpci8-72","ts":"2026-11-19T09:31:44.912Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/business-finance","detail":"/business-finance","result":"success","id":"mwncpcie-73","ts":"2026-11-19T09:31:44.918Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pops","detail":"/pops","result":"success","id":"mwncpdx8-74","ts":"2026-11-19T09:31:46.748Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pops","detail":"/pops","result":"success","id":"mwncpdxc-75","ts":"2026-11-19T09:31:46.752Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/automation","detail":"/automation","result":"success","id":"mwncpfe4-76","ts":"2026-11-19T09:31:48.652Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/automation","detail":"/automation","result":"success","id":"mwncpff8-77","ts":"2026-11-19T09:31:48.692Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/webhooks","detail":"/webhooks","result":"success","id":"mwncph77-78","ts":"2026-11-19T09:31:50.995Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/webhooks","detail":"/webhooks","result":"success","id":"mwncph7a-79","ts":"2026-11-19T09:31:50.998Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/automation","detail":"/automation","result":"success","id":"mwncpha2-80","ts":"2026-11-19T09:31:51.098Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mwncpj17-81","ts":"2026-11-19T09:31:53.371Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mwncpj1a-82","ts":"2026-11-19T09:31:53.374Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"mwncpj42-83","ts":"2026-11-19T09:31:53.474Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mwncpkjb-84","ts":"2026-11-19T09:31:55.319Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mwncpkjg-85","ts":"2026-11-19T09:31:55.324Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mwncpmas-86","ts":"2026-11-19T09:31:57.604Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mwncpmax-87","ts":"2026-11-19T09:31:57.609Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"mwncpnrw-88","ts":"2026-11-19T09:31:59.516Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"mwncpns6-89","ts":"2026-11-19T09:31:59.526Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwncpnu6-90","ts":"2026-11-19T09:31:59.598Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"mwncpp8v-91","ts":"2026-11-19T09:32:01.423Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"mwncpp8x-92","ts":"2026-11-19T09:32:01.425Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/templates","detail":"/templates","result":"success","id":"mwncpsef-93","ts":"2026-11-19T09:32:05.511Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/templates","detail":"/templates","result":"success","id":"mwncpsew-94","ts":"2026-11-19T09:32:05.528Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skills","detail":"/skills","result":"success","id":"mwncptt8-95","ts":"2026-11-19T09:32:07.340Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skills","detail":"/skills","result":"success","id":"mwncptta-96","ts":"2026-11-19T09:32:07.342Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncpvb2-97","ts":"2026-11-19T09:32:09.278Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncpvb7-98","ts":"2026-11-19T09:32:09.283Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/integrations","detail":"/integrations","result":"success","id":"mwncpxq5-99","ts":"2026-11-19T09:32:12.413Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/integrations","detail":"/integrations","result":"success","id":"mwncpxqh-100","ts":"2026-11-19T09:32:12.425Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncpxsu-101","ts":"2026-11-19T09:32:12.510Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/whatsapp","detail":"/whatsapp","result":"success","id":"mwncq090-102","ts":"2026-11-19T09:32:15.684Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/whatsapp","detail":"/whatsapp","result":"success","id":"mwncq092-103","ts":"2026-11-19T09:32:15.686Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwncq1pl-104","ts":"2026-11-19T09:32:17.577Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwncq1qg-105","ts":"2026-11-19T09:32:17.608Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mwncq3jh-106","ts":"2026-11-19T09:32:19.949Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mwncq3jj-107","ts":"2026-11-19T09:32:19.951Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/system-config","detail":"/system-config","result":"success","id":"mwncq52u-108","ts":"2026-11-19T09:32:21.942Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/system-config","detail":"/system-config","result":"success","id":"mwncq53e-109","ts":"2026-11-19T09:32:21.962Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mwncq6j0-110","ts":"2026-11-19T09:32:23.820Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mwncq6jm-111","ts":"2026-11-19T09:32:23.842Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes-bridge","detail":"/hermes-bridge","result":"success","id":"mwncq8eh-112","ts":"2026-11-19T09:32:26.249Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes-bridge","detail":"/hermes-bridge","result":"success","id":"mwncq8ep-113","ts":"2026-11-19T09:32:26.257Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mwncq8hg-114","ts":"2026-11-19T09:32:26.356Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/github-accounts","detail":"/github-accounts","result":"success","id":"mwncqa73-115","ts":"2026-11-19T09:32:28.575Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/github-accounts","detail":"/github-accounts","result":"success","id":"mwncqa7b-116","ts":"2026-11-19T09:32:28.583Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"mwncqboi-117","ts":"2026-11-19T09:32:30.498Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"mwncqbom-118","ts":"2026-11-19T09:32:30.502Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/team-bots","detail":"/team-bots","result":"success","id":"mwncqd7j-119","ts":"2026-11-19T09:32:32.479Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/team-bots","detail":"/team-bots","result":"success","id":"mwncqd7r-120","ts":"2026-11-19T09:32:32.487Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/phone","detail":"/phone","result":"success","id":"mwncqene-121","ts":"2026-11-19T09:32:34.346Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/phone","detail":"/phone","result":"success","id":"mwncqenl-122","ts":"2026-11-19T09:32:34.353Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agent-computers","detail":"/agent-computers","result":"success","id":"mwncqg1w-123","ts":"2026-11-19T09:32:36.164Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agent-computers","detail":"/agent-computers","result":"success","id":"mwncqg28-124","ts":"2026-11-19T09:32:36.176Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/somatic-ora","detail":"/somatic-ora","result":"success","id":"mwncqhiq-125","ts":"2026-11-19T09:32:38.066Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/somatic-ora","detail":"/somatic-ora","result":"success","id":"mwncqhis-126","ts":"2026-11-19T09:32:38.068Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mwncqiz0-127","ts":"2026-11-19T09:32:39.948Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mwncqiz3-128","ts":"2026-11-19T09:32:39.951Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mwncqkew-129","ts":"2026-11-19T09:32:41.816Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mwncqkf1-130","ts":"2026-11-19T09:32:41.821Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncqkhx-131","ts":"2026-11-19T09:32:41.925Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/org-dashboard","detail":"/org-dashboard","result":"success","id":"mwncqmqg-132","ts":"2026-11-19T09:32:44.824Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/org-dashboard","detail":"/org-dashboard","result":"success","id":"mwncqmql-133","ts":"2026-11-19T09:32:44.829Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"mwncqmsz-134","ts":"2026-11-19T09:32:44.915Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/notifications","detail":"/admin/notifications","result":"success","id":"mwncqo4v-135","ts":"2026-11-19T09:32:46.639Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/notifications","detail":"/admin/notifications","result":"success","id":"mwncqo57-136","ts":"2026-11-19T09:32:46.651Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mwncqo6m-137","ts":"2026-11-19T09:32:46.703Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncqo7z-138","ts":"2026-11-19T09:32:46.751Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/email-telegram","detail":"/admin/email-telegram","result":"success","id":"mwncqpw6-139","ts":"2026-11-19T09:32:48.918Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/email-telegram","detail":"/admin/email-telegram","result":"success","id":"mwncqpwd-140","ts":"2026-11-19T09:32:48.925Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwncqpyn-141","ts":"2026-11-19T09:32:49.007Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ambient","detail":"/ambient","result":"success","id":"mwncqrbs-142","ts":"2026-11-19T09:32:50.776Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ambient","detail":"/ambient","result":"success","id":"mwncqrbu-143","ts":"2026-11-19T09:32:50.778Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-ops","detail":"/daily-ops","result":"success","id":"mwncqssc-144","ts":"2026-11-19T09:32:52.668Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-ops","detail":"/daily-ops","result":"success","id":"mwncqssi-145","ts":"2026-11-19T09:32:52.674Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mwncqur5-146","ts":"2026-11-19T09:32:55.217Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mwncqurn-147","ts":"2026-11-19T09:32:55.235Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncqut5-148","ts":"2026-11-19T09:32:55.289Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"mwncqwg1-149","ts":"2026-11-19T09:32:57.409Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"mwncqwg7-150","ts":"2026-11-19T09:32:57.416Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-ops","detail":"/daily-ops","result":"success","id":"mwncqwic-151","ts":"2026-11-19T09:32:57.492Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/edit","detail":"/edit","result":"success","id":"mwncqys5-152","ts":"2026-11-19T09:33:00.437Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/edit","detail":"/edit","result":"success","id":"mwncqyv4-153","ts":"2026-11-19T09:33:00.544Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mwncr0cn-154","ts":"2026-11-19T09:33:02.471Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mwncr0cx-155","ts":"2026-11-19T09:33:02.481Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/dashboard","detail":"/dashboard","result":"success","id":"mwncr1se-156","ts":"2026-11-19T09:33:04.334Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/dashboard","detail":"/dashboard","result":"success","id":"mwncr1sh-157","ts":"2026-11-19T09:33:04.337Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/activity","detail":"/activity","result":"success","id":"mwncr35a-158","ts":"2026-11-19T09:33:06.094Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/activity","detail":"/activity","result":"success","id":"mwncr35s-159","ts":"2026-11-19T09:33:06.112Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mwncr37o-160","ts":"2026-11-19T09:33:06.180Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncr38w-161","ts":"2026-11-19T09:33:06.224Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/tasks","detail":"/tasks","result":"success","id":"mwncr4pp-162","ts":"2026-11-19T09:33:08.125Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/tasks","detail":"/tasks","result":"success","id":"mwncr4q6-163","ts":"2026-11-19T09:33:08.143Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mwncr4rl-164","ts":"2026-11-19T09:33:08.193Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncr4t3-165","ts":"2026-11-19T09:33:08.247Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/results","detail":"/results","result":"success","id":"mwncr66w-166","ts":"2026-11-19T09:33:10.040Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/results","detail":"/results","result":"success","id":"mwncr672-167","ts":"2026-11-19T09:33:10.046Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mwncr68k-168","ts":"2026-11-19T09:33:10.100Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncr69u-169","ts":"2026-11-19T09:33:10.146Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/quality","detail":"/quality","result":"success","id":"mwncr7qp-170","ts":"2026-11-19T09:33:12.050Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/quality","detail":"/quality","result":"success","id":"mwncr7qy-171","ts":"2026-11-19T09:33:12.058Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncr7tf-172","ts":"2026-11-19T09:33:12.147Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agents","detail":"/agents","result":"success","id":"mwncr99g-173","ts":"2026-11-19T09:33:14.020Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agents","detail":"/agents","result":"success","id":"mwncr99l-174","ts":"2026-11-19T09:33:14.025Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncr9bj-175","ts":"2026-11-19T09:33:14.095Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/team","detail":"/team","result":"success","id":"mwncrb45-176","ts":"2026-11-19T09:33:16.421Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/team","detail":"/team","result":"success","id":"mwncrb4a-177","ts":"2026-11-19T09:33:16.426Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncrb5r-178","ts":"2026-11-19T09:33:16.479Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/presets","detail":"/presets","result":"success","id":"mwncrd0q-179","ts":"2026-11-19T09:33:18.890Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/presets","detail":"/presets","result":"success","id":"mwncrd10-180","ts":"2026-11-19T09:33:18.900Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncrd3g-181","ts":"2026-11-19T09:33:18.988Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/workforce","detail":"/workforce","result":"success","id":"mwncrf1v-182","ts":"2026-11-19T09:33:21.523Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/workforce","detail":"/workforce","result":"success","id":"mwncrf2a-183","ts":"2026-11-19T09:33:21.538Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncrf4s-184","ts":"2026-11-19T09:33:21.628Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/personas","detail":"/personas","result":"success","id":"mwncrh4r-185","ts":"2026-11-19T09:33:24.219Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/personas","detail":"/personas","result":"success","id":"mwncrh60-186","ts":"2026-11-19T09:33:24.264Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncrh7o-187","ts":"2026-11-19T09:33:24.324Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/departments","detail":"/departments","result":"success","id":"mwncrj7y-188","ts":"2026-11-19T09:33:26.926Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/departments","detail":"/departments","result":"success","id":"mwncrj8d-189","ts":"2026-11-19T09:33:26.941Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncrjae-190","ts":"2026-11-19T09:33:27.014Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/squads","detail":"/squads","result":"success","id":"mwncrlep-191","ts":"2026-11-19T09:33:29.762Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/squads","detail":"/squads","result":"success","id":"mwncrlet-192","ts":"2026-11-19T09:33:29.765Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncrlmk-193","ts":"2026-11-19T09:33:30.044Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/spin-up","detail":"/spin-up","result":"success","id":"mwncrofx-194","ts":"2026-11-19T09:33:33.693Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/spin-up","detail":"/spin-up","result":"success","id":"mwncrog4-195","ts":"2026-11-19T09:33:33.700Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncroju-196","ts":"2026-11-19T09:33:33.834Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skill-forge","detail":"/skill-forge","result":"success","id":"mwncrs2d-197","ts":"2026-11-19T09:33:38.389Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skill-forge","detail":"/skill-forge","result":"success","id":"mwncrs3c-198","ts":"2026-11-19T09:33:38.424Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skills","detail":"/skills","result":"success","id":"mwncrs7o-199","ts":"2026-11-19T09:33:38.580Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/governance","detail":"/governance","result":"success","id":"mwncruce-200","ts":"2026-11-19T09:33:41.342Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/governance","detail":"/governance","result":"success","id":"mwncrucl-201","ts":"2026-11-19T09:33:41.349Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mwncruia-202","ts":"2026-11-19T09:33:41.554Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library/data","detail":"/library/data","result":"success","id":"mwncrwph-203","ts":"2026-11-19T09:33:44.405Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library/data","detail":"/library/data","result":"success","id":"mwncrwpt-204","ts":"2026-11-19T09:33:44.417Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwncrwuv-205","ts":"2026-11-19T09:33:44.599Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/security","detail":"/security","result":"success","id":"mwncrz1p-206","ts":"2026-11-19T09:33:47.437Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/security","detail":"/security","result":"success","id":"mwncrz1t-207","ts":"2026-11-19T09:33:47.441Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mwncrz6b-208","ts":"2026-11-19T09:33:47.603Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncrzc8-209","ts":"2026-11-19T09:33:47.816Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/knowledge-packs","detail":"/knowledge-packs","result":"success","id":"mwncs22m-210","ts":"2026-11-19T09:33:51.358Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/knowledge-packs","detail":"/knowledge-packs","result":"success","id":"mwncs22y-211","ts":"2026-11-19T09:33:51.370Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library/datasets","detail":"/library/datasets","result":"success","id":"mwncs25i-212","ts":"2026-11-19T09:33:51.462Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/data-sources","detail":"/data-sources","result":"success","id":"mwncs3kl-213","ts":"2026-11-19T09:33:53.301Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/data-sources","detail":"/data-sources","result":"success","id":"mwncs3kq-214","ts":"2026-11-19T09:33:53.306Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwncs3n4-215","ts":"2026-11-19T09:33:53.392Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/terminal","detail":"/terminal","result":"success","id":"mwncs51r-216","ts":"2026-11-19T09:33:55.215Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/terminal","detail":"/terminal","result":"success","id":"mwncs529-217","ts":"2026-11-19T09:33:55.233Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"mwncs54r-218","ts":"2026-11-19T09:33:55.323Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library","detail":"/library","result":"success","id":"mwncs7gw-219","ts":"2026-11-19T09:33:58.353Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library","detail":"/library","result":"success","id":"mwncs7h2-220","ts":"2026-11-19T09:33:58.358Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/","detail":"/","result":"success","id":"mwncsab5-221","ts":"2026-11-19T09:34:02.033Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/","detail":"/","result":"success","id":"mwncsab8-222","ts":"2026-11-19T09:34:02.036Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwncsbqi-223","ts":"2026-11-19T09:34:03.882Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwncsbqk-224","ts":"2026-11-19T09:34:03.884Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie/memory","detail":"/naxie/memory","result":"success","id":"mwncsd34-225","ts":"2026-11-19T09:34:05.632Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie/memory","detail":"/naxie/memory","result":"success","id":"mwncsd3b-226","ts":"2026-11-19T09:34:05.639Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie/pigeon","detail":"/naxie/pigeon","result":"success","id":"mwncsf55-227","ts":"2026-11-19T09:34:08.298Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie/pigeon","detail":"/naxie/pigeon","result":"success","id":"mwncsf58-228","ts":"2026-11-19T09:34:08.300Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"mwncsgme-229","ts":"2026-11-19T09:34:10.214Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"mwncsgmh-230","ts":"2026-11-19T09:34:10.217Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/chat","detail":"/chat","result":"success","id":"mwncsi18-231","ts":"2026-11-19T09:34:12.044Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/chat","detail":"/chat","result":"success","id":"mwncsi1e-232","ts":"2026-11-19T09:34:12.050Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"mwncsi31-233","ts":"2026-11-19T09:34:12.109Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"mwncsjds-234","ts":"2026-11-19T09:34:13.792Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"mwncsje4-235","ts":"2026-11-19T09:34:13.804Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncsky8-236","ts":"2026-11-19T09:34:15.824Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncskya-237","ts":"2026-11-19T09:34:15.826Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncsmyj-238","ts":"2026-11-19T09:34:18.427Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncsmym-239","ts":"2026-11-19T09:34:18.430Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mwncsodm-240","ts":"2026-11-19T09:34:20.266Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mwncsodn-241","ts":"2026-11-19T09:34:20.267Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncsofn-242","ts":"2026-11-19T09:34:20.339Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/approvals","detail":"/approvals","result":"success","id":"mwncspun-243","ts":"2026-11-19T09:34:22.175Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/approvals","detail":"/approvals","result":"success","id":"mwncspuv-244","ts":"2026-11-19T09:34:22.183Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mwncspwl-245","ts":"2026-11-19T09:34:22.245Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/goals","detail":"/goals","result":"success","id":"mwncsr6h-246","ts":"2026-11-19T09:34:23.897Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/goals","detail":"/goals","result":"success","id":"mwncsr6l-247","ts":"2026-11-19T09:34:23.901Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-tasks","detail":"/my-tasks","result":"success","id":"mwncsts0-248","ts":"2026-11-19T09:34:27.264Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-tasks","detail":"/my-tasks","result":"success","id":"mwncsts7-249","ts":"2026-11-19T09:34:27.271Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwncsttv-250","ts":"2026-11-19T09:34:27.331Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mwncsv4h-251","ts":"2026-11-19T09:34:29.009Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mwncsv4m-252","ts":"2026-11-19T09:34:29.014Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/crm","detail":"/crm","result":"success","id":"mwncswg8-253","ts":"2026-11-19T09:34:30.728Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/crm","detail":"/crm","result":"success","id":"mwncswgf-254","ts":"2026-11-19T09:34:30.735Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwncsxqb-255","ts":"2026-11-19T09:34:32.387Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwncsxqe-256","ts":"2026-11-19T09:34:32.390Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-finances","detail":"/my-finances","result":"success","id":"mwncsz43-257","ts":"2026-11-19T09:34:34.179Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-finances","detail":"/my-finances","result":"success","id":"mwncsz49-258","ts":"2026-11-19T09:34:34.185Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/business-finance","detail":"/business-finance","result":"success","id":"mwnct0fd-259","ts":"2026-11-19T09:34:35.881Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/business-finance","detail":"/business-finance","result":"success","id":"mwnct0ff-260","ts":"2026-11-19T09:34:35.883Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pops","detail":"/pops","result":"success","id":"mwnct1s2-261","ts":"2026-11-19T09:34:37.634Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pops","detail":"/pops","result":"success","id":"mwnct1sc-262","ts":"2026-11-19T09:34:37.644Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/automation","detail":"/automation","result":"success","id":"mwnct369-263","ts":"2026-11-19T09:34:39.441Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/automation","detail":"/automation","result":"success","id":"mwnct36c-264","ts":"2026-11-19T09:34:39.444Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/webhooks","detail":"/webhooks","result":"success","id":"mwnct4so-265","ts":"2026-11-19T09:34:41.544Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/webhooks","detail":"/webhooks","result":"success","id":"mwnct4sr-266","ts":"2026-11-19T09:34:41.547Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/automation","detail":"/automation","result":"success","id":"mwnct4uj-267","ts":"2026-11-19T09:34:41.611Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mwnct6du-268","ts":"2026-11-19T09:34:43.602Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/orchestrate","detail":"/orchestrate","result":"success","id":"mwnct6e8-269","ts":"2026-11-19T09:34:43.616Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"mwnct6fn-270","ts":"2026-11-19T09:34:43.667Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mwnct7ok-271","ts":"2026-11-19T09:34:45.284Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/models","detail":"/models","result":"success","id":"mwnct7ot-272","ts":"2026-11-19T09:34:45.293Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mwnct99f-273","ts":"2026-11-19T09:34:47.331Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/cost","detail":"/cost","result":"success","id":"mwnct9a5-274","ts":"2026-11-19T09:34:47.357Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"mwnctana-275","ts":"2026-11-19T09:34:49.126Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/calendar","detail":"/calendar","result":"success","id":"mwnctanf-276","ts":"2026-11-19T09:34:49.131Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwnctaor-277","ts":"2026-11-19T09:34:49.179Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"mwnctbzj-278","ts":"2026-11-19T09:34:50.863Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"mwnctbzn-279","ts":"2026-11-19T09:34:50.867Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/templates","detail":"/templates","result":"success","id":"mwnctea0-280","ts":"2026-11-19T09:34:53.832Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/templates","detail":"/templates","result":"success","id":"mwnctea2-281","ts":"2026-11-19T09:34:53.834Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skills","detail":"/skills","result":"success","id":"mwnctfnj-282","ts":"2026-11-19T09:34:55.615Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skills","detail":"/skills","result":"success","id":"mwnctfnm-283","ts":"2026-11-19T09:34:55.618Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncth21-284","ts":"2026-11-19T09:34:57.433Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncth2j-285","ts":"2026-11-19T09:34:57.451Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/integrations","detail":"/integrations","result":"success","id":"mwnctj7v-286","ts":"2026-11-19T09:35:00.235Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/integrations","detail":"/integrations","result":"success","id":"mwnctjb5-287","ts":"2026-11-19T09:35:00.353Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwnctjbr-288","ts":"2026-11-19T09:35:00.375Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/whatsapp","detail":"/whatsapp","result":"success","id":"mwnctkye-289","ts":"2026-11-19T09:35:02.486Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/whatsapp","detail":"/whatsapp","result":"success","id":"mwnctkyh-290","ts":"2026-11-19T09:35:02.489Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwnctm9p-291","ts":"2026-11-19T09:35:04.189Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwnctm9s-292","ts":"2026-11-19T09:35:04.192Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mwnctnpm-293","ts":"2026-11-19T09:35:06.058Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mwnctnq2-294","ts":"2026-11-19T09:35:06.074Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/system-config","detail":"/system-config","result":"success","id":"mwnctp39-295","ts":"2026-11-19T09:35:07.845Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/system-config","detail":"/system-config","result":"success","id":"mwnctp3d-296","ts":"2026-11-19T09:35:07.849Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mwnctqfg-297","ts":"2026-11-19T09:35:09.580Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mwnctqfj-298","ts":"2026-11-19T09:35:09.583Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes-bridge","detail":"/hermes-bridge","result":"success","id":"mwnctrxi-299","ts":"2026-11-19T09:35:11.526Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes-bridge","detail":"/hermes-bridge","result":"success","id":"mwnctrxp-300","ts":"2026-11-19T09:35:11.533Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/hermes","detail":"/hermes","result":"success","id":"mwnctrza-301","ts":"2026-11-19T09:35:11.590Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/github-accounts","detail":"/github-accounts","result":"success","id":"mwncttev-302","ts":"2026-11-19T09:35:13.447Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/github-accounts","detail":"/github-accounts","result":"success","id":"mwncttey-303","ts":"2026-11-19T09:35:13.450Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"mwnctuqd-304","ts":"2026-11-19T09:35:15.157Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"mwnctuqf-305","ts":"2026-11-19T09:35:15.159Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/team-bots","detail":"/team-bots","result":"success","id":"mwnctw0z-306","ts":"2026-11-19T09:35:16.835Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/team-bots","detail":"/team-bots","result":"success","id":"mwnctw12-307","ts":"2026-11-19T09:35:16.838Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/phone","detail":"/phone","result":"success","id":"mwnctxdj-308","ts":"2026-11-19T09:35:18.583Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/phone","detail":"/phone","result":"success","id":"mwnctxdm-309","ts":"2026-11-19T09:35:18.586Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agent-computers","detail":"/agent-computers","result":"success","id":"mwnctyrh-310","ts":"2026-11-19T09:35:20.381Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agent-computers","detail":"/agent-computers","result":"success","id":"mwnctyrl-311","ts":"2026-11-19T09:35:20.385Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/somatic-ora","detail":"/somatic-ora","result":"success","id":"mwncu01y-312","ts":"2026-11-19T09:35:22.054Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/somatic-ora","detail":"/somatic-ora","result":"success","id":"mwncu021-313","ts":"2026-11-19T09:35:22.057Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mwncu1d9-314","ts":"2026-11-19T09:35:23.757Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mwncu1dl-315","ts":"2026-11-19T09:35:23.769Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mwncu2qj-316","ts":"2026-11-19T09:35:25.531Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mwncu2qp-317","ts":"2026-11-19T09:35:25.537Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncu2sr-318","ts":"2026-11-19T09:35:25.611Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/org-dashboard","detail":"/org-dashboard","result":"success","id":"mwncu504-319","ts":"2026-11-19T09:35:28.468Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/org-dashboard","detail":"/org-dashboard","result":"success","id":"mwncu50e-320","ts":"2026-11-19T09:35:28.478Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"mwncu523-321","ts":"2026-11-19T09:35:28.539Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/notifications","detail":"/admin/notifications","result":"success","id":"mwncu6e9-322","ts":"2026-11-19T09:35:30.273Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/notifications","detail":"/admin/notifications","result":"success","id":"mwncu6ez-323","ts":"2026-11-19T09:35:30.299Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mwncu6g1-324","ts":"2026-11-19T09:35:30.337Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncu6hu-325","ts":"2026-11-19T09:35:30.402Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/email-telegram","detail":"/admin/email-telegram","result":"success","id":"mwncu98n-326","ts":"2026-11-19T09:35:33.959Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/admin/email-telegram","detail":"/admin/email-telegram","result":"success","id":"mwncu98s-327","ts":"2026-11-19T09:35:33.964Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwncu9b3-328","ts":"2026-11-19T09:35:34.047Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ambient","detail":"/ambient","result":"success","id":"mwncuaox-329","ts":"2026-11-19T09:35:35.841Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ambient","detail":"/ambient","result":"success","id":"mwncuap2-330","ts":"2026-11-19T09:35:35.846Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-ops","detail":"/daily-ops","result":"success","id":"mwncuc0z-331","ts":"2026-11-19T09:35:37.571Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-ops","detail":"/daily-ops","result":"success","id":"mwncuc12-332","ts":"2026-11-19T09:35:37.574Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mwncugbx-333","ts":"2026-11-19T09:35:43.149Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/schedules","detail":"/schedules","result":"success","id":"mwncugc0-334","ts":"2026-11-19T09:35:43.152Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncuge3-335","ts":"2026-11-19T09:35:43.227Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"mwncuhqy-336","ts":"2026-11-19T09:35:44.986Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-reports","detail":"/daily-reports","result":"success","id":"mwncuhri-337","ts":"2026-11-19T09:35:45.006Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/daily-ops","detail":"/daily-ops","result":"success","id":"mwncuhsk-338","ts":"2026-11-19T09:35:45.044Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/edit","detail":"/edit","result":"success","id":"mwncujaq-339","ts":"2026-11-19T09:35:46.994Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/edit","detail":"/edit","result":"success","id":"mwncujax-340","ts":"2026-11-19T09:35:47.001Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mwncukka-341","ts":"2026-11-19T09:35:48.634Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mwncukke-342","ts":"2026-11-19T09:35:48.638Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/dashboard","detail":"/dashboard","result":"success","id":"mwnculwj-343","ts":"2026-11-19T09:35:50.371Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/dashboard","detail":"/dashboard","result":"success","id":"mwnculwr-344","ts":"2026-11-19T09:35:50.379Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/activity","detail":"/activity","result":"success","id":"mwncun6i-345","ts":"2026-11-19T09:35:52.026Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/activity","detail":"/activity","result":"success","id":"mwncun6q-346","ts":"2026-11-19T09:35:52.034Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mwncun7y-347","ts":"2026-11-19T09:35:52.078Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncun8q-348","ts":"2026-11-19T09:35:52.106Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/tasks","detail":"/tasks","result":"success","id":"mwncuomv-349","ts":"2026-11-19T09:35:53.911Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/tasks","detail":"/tasks","result":"success","id":"mwncuon1-350","ts":"2026-11-19T09:35:53.917Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mwncuoo9-351","ts":"2026-11-19T09:35:53.961Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncuop4-352","ts":"2026-11-19T09:35:53.992Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/results","detail":"/results","result":"success","id":"mwncuq1j-353","ts":"2026-11-19T09:35:55.735Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/results","detail":"/results","result":"success","id":"mwncuq1p-354","ts":"2026-11-19T09:35:55.741Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/runs","detail":"/runs","result":"success","id":"mwncuq34-355","ts":"2026-11-19T09:35:55.792Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncuq46-356","ts":"2026-11-19T09:35:55.830Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/quality","detail":"/quality","result":"success","id":"mwncurgn-357","ts":"2026-11-19T09:35:57.575Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/quality","detail":"/quality","result":"success","id":"mwncurgt-358","ts":"2026-11-19T09:35:57.581Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwncurjm-359","ts":"2026-11-19T09:35:57.682Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agents","detail":"/agents","result":"success","id":"mwncuszz-360","ts":"2026-11-19T09:35:59.567Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/agents","detail":"/agents","result":"success","id":"mwncut0a-361","ts":"2026-11-19T09:35:59.578Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncut1v-362","ts":"2026-11-19T09:35:59.635Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/team","detail":"/team","result":"success","id":"mwncuuwl-363","ts":"2026-11-19T09:36:02.037Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/team","detail":"/team","result":"success","id":"mwncuuwn-364","ts":"2026-11-19T09:36:02.039Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncuuyj-365","ts":"2026-11-19T09:36:02.107Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/presets","detail":"/presets","result":"success","id":"mwncuwo0-366","ts":"2026-11-19T09:36:04.320Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/presets","detail":"/presets","result":"success","id":"mwncuwo3-367","ts":"2026-11-19T09:36:04.323Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncuwpr-368","ts":"2026-11-19T09:36:04.383Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/workforce","detail":"/workforce","result":"success","id":"mwncuyek-369","ts":"2026-11-19T09:36:06.572Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/workforce","detail":"/workforce","result":"success","id":"mwncuyem-370","ts":"2026-11-19T09:36:06.574Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncuyge-371","ts":"2026-11-19T09:36:06.638Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/personas","detail":"/personas","result":"success","id":"mwncv05k-372","ts":"2026-11-19T09:36:08.840Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/personas","detail":"/personas","result":"success","id":"mwncv05q-373","ts":"2026-11-19T09:36:08.846Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncv06y-374","ts":"2026-11-19T09:36:08.890Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/departments","detail":"/departments","result":"success","id":"mwncv1vt-375","ts":"2026-11-19T09:36:11.081Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/departments","detail":"/departments","result":"success","id":"mwncv1vv-376","ts":"2026-11-19T09:36:11.083Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncv1xk-377","ts":"2026-11-19T09:36:11.144Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/squads","detail":"/squads","result":"success","id":"mwncv3k4-378","ts":"2026-11-19T09:36:13.252Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/squads","detail":"/squads","result":"success","id":"mwncv3ke-379","ts":"2026-11-19T09:36:13.262Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncv3lq-380","ts":"2026-11-19T09:36:13.310Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/spin-up","detail":"/spin-up","result":"success","id":"mwncv5a5-381","ts":"2026-11-19T09:36:15.485Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/spin-up","detail":"/spin-up","result":"success","id":"mwncv5aa-382","ts":"2026-11-19T09:36:15.490Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwncv5bk-383","ts":"2026-11-19T09:36:15.536Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skill-forge","detail":"/skill-forge","result":"success","id":"mwncv70w-384","ts":"2026-11-19T09:36:17.744Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skill-forge","detail":"/skill-forge","result":"success","id":"mwncv70y-385","ts":"2026-11-19T09:36:17.746Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/skills","detail":"/skills","result":"success","id":"mwncv72w-386","ts":"2026-11-19T09:36:17.816Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/governance","detail":"/governance","result":"success","id":"mwncv8d3-387","ts":"2026-11-19T09:36:19.479Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/governance","detail":"/governance","result":"success","id":"mwncv8de-388","ts":"2026-11-19T09:36:19.490Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/policies","detail":"/policies","result":"success","id":"mwncv8ez-389","ts":"2026-11-19T09:36:19.547Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library/data","detail":"/library/data","result":"success","id":"mwncv9pi-390","ts":"2026-11-19T09:36:21.222Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library/data","detail":"/library/data","result":"success","id":"mwncv9pl-391","ts":"2026-11-19T09:36:21.225Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwncv9rl-392","ts":"2026-11-19T09:36:21.297Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/security","detail":"/security","result":"success","id":"mwncvb44-393","ts":"2026-11-19T09:36:23.044Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/security","detail":"/security","result":"success","id":"mwncvb46-394","ts":"2026-11-19T09:36:23.046Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/audit","detail":"/audit","result":"success","id":"mwncvb5x-395","ts":"2026-11-19T09:36:23.109Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwncvb77-396","ts":"2026-11-19T09:36:23.155Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/knowledge-packs","detail":"/knowledge-packs","result":"success","id":"mwncvdcx-397","ts":"2026-11-19T09:36:25.953Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/knowledge-packs","detail":"/knowledge-packs","result":"success","id":"mwncvdde-398","ts":"2026-11-19T09:36:25.970Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library/datasets","detail":"/library/datasets","result":"success","id":"mwncvdfm-399","ts":"2026-11-19T09:36:26.050Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/data-sources","detail":"/data-sources","result":"success","id":"mwncvett-400","ts":"2026-11-19T09:36:27.857Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/data-sources","detail":"/data-sources","result":"success","id":"mwncvev0-401","ts":"2026-11-19T09:36:27.900Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwncvewl-402","ts":"2026-11-19T09:36:27.957Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/terminal","detail":"/terminal","result":"success","id":"mwncvg9c-403","ts":"2026-11-19T09:36:29.712Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/terminal","detail":"/terminal","result":"success","id":"mwncvg9g-404","ts":"2026-11-19T09:36:29.716Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"mwncvgb7-405","ts":"2026-11-19T09:36:29.779Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library","detail":"/library","result":"success","id":"mwncvim9-406","ts":"2026-11-19T09:36:32.769Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/library","detail":"/library","result":"success","id":"mwncvimi-407","ts":"2026-11-19T09:36:32.778Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/goals","detail":"/goals","result":"success","id":"mwncw8dr-408","ts":"2026-11-19T09:37:06.159Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/goals","detail":"/goals","result":"success","id":"mwncw8e0-409","ts":"2026-11-19T09:37:06.168Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/","detail":"/","result":"success","id":"mwncx0xl-410","ts":"2026-11-19T09:37:43.161Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/","detail":"/","result":"success","id":"mwncx0xo-411","ts":"2026-11-19T09:37:43.164Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwncx0y3-412","ts":"2026-11-19T09:37:43.179Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/crm","detail":"/crm","result":"success","id":"mwncx2f7-413","ts":"2026-11-19T09:37:45.091Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/crm","detail":"/crm","result":"success","id":"mwncx2fa-414","ts":"2026-11-19T09:37:45.095Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwncx2g0-415","ts":"2026-11-19T09:37:45.120Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/dashboard","detail":"/dashboard","result":"success","id":"mwncx3sg-416","ts":"2026-11-19T09:37:46.864Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/dashboard","detail":"/dashboard","result":"success","id":"mwncx3sj-417","ts":"2026-11-19T09:37:46.867Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwncx3t6-418","ts":"2026-11-19T09:37:46.890Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwncx536-419","ts":"2026-11-19T09:37:48.546Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwncx538-420","ts":"2026-11-19T09:37:48.548Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwncx5p9-421","ts":"2026-11-19T09:37:49.341Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/goals","detail":"/goals","result":"success","id":"mwncx6gf-422","ts":"2026-11-19T09:37:50.319Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/goals","detail":"/goals","result":"success","id":"mwncx6gn-423","ts":"2026-11-19T09:37:50.327Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Event deadline reminders","detail":"Event deadline reminders","jobId":"48b59456-9351-4d6b-a024-499915571d96","result":"success","id":"mwndpp5e-424","ts":"2026-11-19T10:00:00.914Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Event deadline reminders","detail":"","jobId":"48b59456-9351-4d6b-a024-499915571d96","result":"pending","id":"mwndpp7h-425","ts":"2026-11-19T10:00:00.989Z"}
+{"level":"info","actor":"naxie","action":"job.operations:deadline-reminders","target":"deadline-reminders","detail":"Event deadline reminders","jobId":"48b59456-9351-4d6b-a024-499915571d96","result":"success","id":"mwndppxe-426","ts":"2026-11-19T10:00:01.922Z"}
+{"level":"info","actor":"scheduler","action":"org_task.done","target":"Event deadline reminders","detail":"","jobId":"48b59456-9351-4d6b-a024-499915571d96","result":"success","id":"mwndppxg-427","ts":"2026-11-19T10:00:01.924Z"}
