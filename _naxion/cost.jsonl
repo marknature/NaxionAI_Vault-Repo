@@ -3401,3 +3401,11 @@
 {"jobId":"persona-schedule-18489f90","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":141,"outputTokens":14,"costUsd":0,"ts":"2026-11-19T15:00:38.551Z"}
 {"jobId":"persona-schedule-3ace5137","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":169,"outputTokens":16,"costUsd":0,"ts":"2026-11-19T15:00:42.005Z"}
 {"jobId":"persona-schedule-18489f90","model":"qwen2.5:3b","backend":"ollama","profile":"planning","inputTokens":10346,"outputTokens":651,"costUsd":0,"ts":"2026-11-19T15:04:00.146Z"}
+{"jobId":"persona-schedule-3ace5137","model":"qwen2.5:3b","backend":"ollama","profile":"planning","inputTokens":10249,"outputTokens":497,"costUsd":0,"ts":"2026-11-19T15:06:51.712Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":807,"outputTokens":268,"costUsd":0,"ts":"2026-11-19T15:07:39.065Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":596,"outputTokens":244,"costUsd":0,"ts":"2026-11-19T15:08:18.603Z"}
+{"jobId":"persona-schedule-3ace5137","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":9325,"outputTokens":341,"costUsd":0,"ts":"2026-11-19T15:13:51.114Z"}
+{"jobId":"persona-schedule-18489f90","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-19T15:18:55.288Z","ok":false,"error":"fetch failed"}
+{"jobId":"persona-schedule-18489f90","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":8168,"outputTokens":644,"costUsd":0,"ts":"2026-11-19T15:27:40.993Z"}
+{"jobId":"persona-schedule-18489f90","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1583,"outputTokens":87,"costUsd":0,"ts":"2026-11-19T15:28:33.402Z"}
+{"jobId":"bca1c2fe-42c1-4ab6-9fdc-61205725ea8c","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":812,"outputTokens":600,"costUsd":0,"ts":"2026-11-19T16:01:37.589Z"}
