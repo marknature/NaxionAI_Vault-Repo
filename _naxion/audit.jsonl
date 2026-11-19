@@ -26706,3 +26706,5 @@
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Evening AI recap — daily","detail":"","jobId":"bca1c2fe-42c1-4ab6-9fdc-61205725ea8c","result":"pending","id":"mwnql85b-236","ts":"2026-11-19T16:00:27.263Z"}
 {"level":"info","actor":"naxie","action":"job.operations:evening-recap","target":"evening-recap","detail":"Evening AI recap — daily","jobId":"bca1c2fe-42c1-4ab6-9fdc-61205725ea8c","result":"success","id":"mwnqmqzg-237","ts":"2026-11-19T16:01:38.332Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Evening AI recap — daily","detail":"","jobId":"bca1c2fe-42c1-4ab6-9fdc-61205725ea8c","result":"success","id":"mwnqmqzj-238","ts":"2026-11-19T16:01:38.335Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwnsneg6-239","ts":"2026-11-19T16:58:07.974Z"}
+{"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 2893ms","result":"success","id":"mwnsngok-240","ts":"2026-11-19T16:58:10.868Z"}
