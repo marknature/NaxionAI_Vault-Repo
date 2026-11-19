@@ -26461,3 +26461,5 @@
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Event deadline reminders","detail":"","jobId":"48b59456-9351-4d6b-a024-499915571d96","result":"pending","id":"mwndpp7h-425","ts":"2026-11-19T10:00:00.989Z"}
 {"level":"info","actor":"naxie","action":"job.operations:deadline-reminders","target":"deadline-reminders","detail":"Event deadline reminders","jobId":"48b59456-9351-4d6b-a024-499915571d96","result":"success","id":"mwndppxe-426","ts":"2026-11-19T10:00:01.922Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Event deadline reminders","detail":"","jobId":"48b59456-9351-4d6b-a024-499915571d96","result":"success","id":"mwndppxg-427","ts":"2026-11-19T10:00:01.924Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwneawt2-428","ts":"2026-11-19T10:16:30.614Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:0","detail":"core fails: 920acca5-d657-400d-afad-4fd04972d627:fetch failed | alerts: ","result":"failure","id":"mwneaz2c-429","ts":"2026-11-19T10:16:33.540Z"}

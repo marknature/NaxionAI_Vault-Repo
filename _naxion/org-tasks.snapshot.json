@@ -8747,6 +8747,48 @@
       "updatedAt": "2026-11-19T09:10:43.655Z",
       "createdBy": "naxie",
       "progressPct": 0
+    },
+    {
+      "id": "b293f861-686d-4ea8-9c4e-47e14988152f",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "76644e06-626b-4ec2-a110-dcffc177ab28",
+      "createdAt": "2026-11-19T09:20:44.876Z",
+      "updatedAt": "2026-11-19T09:20:44.917Z",
+      "createdBy": "naxie",
+      "progressPct": 0
+    },
+    {
+      "id": "1b590435-bf89-482f-bfb9-bf99d389d9dc",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "dac2bd4e-f5b1-445c-b7da-cca85f10b19f",
+      "createdAt": "2026-11-19T09:20:44.957Z",
+      "updatedAt": "2026-11-19T09:20:44.987Z",
+      "createdBy": "naxie",
+      "progressPct": 0
+    },
+    {
+      "id": "e3843e39-b635-4aea-a6ea-65968daed691",
+      "role": "scheduler",
+      "title": "Event deadline reminders",
+      "detail": "Event deadline reminders",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "48b59456-9351-4d6b-a024-499915571d96",
+      "createdAt": "2026-11-19T10:00:00.911Z",
+      "updatedAt": "2026-11-19T10:00:01.922Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
