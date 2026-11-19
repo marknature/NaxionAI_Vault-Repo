@@ -2,7 +2,7 @@
 type: template
 title: Plain-text brief (custom-scribe-plain-text-brief)
 slug: custom-scribe-plain-text-brief
-created: 2026-11-19T08:31:38.583Z
+created: 2026-11-19T08:32:01.751Z
 templateId: custom-scribe-plain-text-brief
 role: Custom
 originTask: Write a lean plain-text brief on the topic provided: short paragraphs, no Markdown markers, no headings with #, no bullet symbols except simple dashes. Call document.create with format 'txt', then return the file path.

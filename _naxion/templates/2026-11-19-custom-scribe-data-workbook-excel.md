@@ -2,7 +2,7 @@
 type: template
 title: Data workbook (Excel) (custom-scribe-data-workbook-excel)
 slug: custom-scribe-data-workbook-excel
-created: 2026-11-19T08:31:38.577Z
+created: 2026-11-19T08:32:01.735Z
 templateId: custom-scribe-data-workbook-excel
 role: Custom
 originTask: Turn the data provided into a clean Excel workbook. Use a header row, one record per row, numbers as numbers, and one sheet per topic. Call document.create with format 'xlsx' and sheetsJson, then return the file path and a one-line description of the sheets.
