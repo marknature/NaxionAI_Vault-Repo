@@ -1,7 +1,7 @@
 ---
 type: identity
 role: subagent-roster
-updated: 2026-11-19T10:58:43.579Z
+updated: 2026-11-19T12:28:23.239Z
 count: 15
 ---
 
