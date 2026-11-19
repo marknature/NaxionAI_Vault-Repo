@@ -8803,6 +8803,20 @@
       "updatedAt": "2026-11-19T10:33:40.795Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "ffbb2ac7-da8a-4f94-b16e-ca5531adaa7b",
+      "role": "scheduler",
+      "title": "Evening AI recap — daily",
+      "detail": "Evening AI recap — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "bca1c2fe-42c1-4ab6-9fdc-61205725ea8c",
+      "createdAt": "2026-11-19T16:00:27.256Z",
+      "updatedAt": "2026-11-19T16:01:38.333Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
