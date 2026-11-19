@@ -26719,3 +26719,6 @@
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwnz6bta-249","ts":"2026-11-19T20:00:48.718Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 3864ms","result":"success","id":"mwnz6eu3-250","ts":"2026-11-19T20:00:52.635Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwo37nzg-251","ts":"2026-11-19T21:53:49.655Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:0","detail":"core fails: openrouter:This operation was aborted | supabase:The operation was aborted due to timeout | alerts: ","result":"failure","id":"mwo37wvx-252","ts":"2026-11-19T21:54:01.149Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwo5ctru-253","ts":"2026-11-19T22:53:49.626Z"}
+{"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 3567ms","result":"success","id":"mwo5cwk4-254","ts":"2026-11-19T22:53:53.236Z"}
