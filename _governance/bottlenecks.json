@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T18:50:56.477Z",
+  "updatedAt": "2026-11-19T19:02:07.564Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
@@ -13,23 +13,23 @@
     },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 195,
+      "totalRuns": 201,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 16.1,
+      "avgDurationSec": 22,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-17"
+      "lastSeen": "2026-11-18"
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 66,
+      "totalRuns": 67,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-17"
+      "lastSeen": "2026-11-18"
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
@@ -43,43 +43,43 @@
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 81,
+      "totalRuns": 82,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 194.5,
+      "avgDurationSec": 188.7,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-17"
+      "lastSeen": "2026-11-18"
     },
     "africa-ai-news": {
       "template": "africa-ai-news",
-      "totalRuns": 103,
+      "totalRuns": 104,
       "totalFailed": 4,
       "failureRate": 0.04,
-      "avgDurationSec": 352.6,
+      "avgDurationSec": 329.6,
       "topError": "This operation was aborted",
       "remedy": "prior runs of this type TIMED OUT — split the work into parallel independent sub-agents rather than one long serial chain, prefer cached/cheaper paths (e.g. db schema cache), and avoid unnecessarily heavy steps.",
-      "lastSeen": "2026-11-17"
+      "lastSeen": "2026-11-18"
     },
     "world-ai-news": {
       "template": "world-ai-news",
-      "totalRuns": 64,
+      "totalRuns": 65,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 233.3,
+      "avgDurationSec": 9.1,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-17"
+      "lastSeen": "2026-11-18"
     },
     "daily-briefing": {
       "template": "daily-briefing",
-      "totalRuns": 74,
+      "totalRuns": 75,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 306.7,
+      "avgDurationSec": 313.7,
       "topError": "tool:peer.review step failed 1/1 runs",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-17"
+      "lastSeen": "2026-11-18"
     },
     "weekly-improvement": {
       "template": "weekly-improvement",
@@ -104,33 +104,33 @@
     },
     "events-competition-scan": {
       "template": "events-competition-scan",
-      "totalRuns": 56,
+      "totalRuns": 57,
       "totalFailed": 3,
       "failureRate": 0.05,
-      "avgDurationSec": 304.4,
+      "avgDurationSec": 366.6,
       "topError": "This operation was aborted",
       "remedy": "prior runs of this type TIMED OUT — split the work into parallel independent sub-agents rather than one long serial chain, prefer cached/cheaper paths (e.g. db schema cache), and avoid unnecessarily heavy steps.",
-      "lastSeen": "2026-11-17"
+      "lastSeen": "2026-11-18"
     },
     "deadline-reminders": {
       "template": "deadline-reminders",
-      "totalRuns": 42,
+      "totalRuns": 43,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 0.7,
+      "avgDurationSec": 1,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-17"
+      "lastSeen": "2026-11-18"
     },
     "evening-recap": {
       "template": "evening-recap",
-      "totalRuns": 41,
+      "totalRuns": 42,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 24.9,
+      "avgDurationSec": 71.1,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-16"
+      "lastSeen": "2026-11-18"
     },
     "weekend-digest": {
       "template": "weekend-digest",
@@ -145,13 +145,13 @@
     },
     "africa-tech-alerts": {
       "template": "africa-tech-alerts",
-      "totalRuns": 47,
+      "totalRuns": 48,
       "totalFailed": 1,
       "failureRate": 0.02,
-      "avgDurationSec": 315.8,
+      "avgDurationSec": 215.5,
       "topError": "OpenRouter N: {\"error\":{\"message\":\"Provider returned error\",\"code\":N,\"metada",
       "remedy": "prior runs of this type failed ~2% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-17"
+      "lastSeen": "2026-11-18"
     },
     "board:md-weekly": {
       "template": "board:md-weekly",
@@ -1214,6 +1214,106 @@
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
       "lastSeen": "2026-11-17"
+    },
+    "flow:f12a34cc": {
+      "template": "flow:f12a34cc",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-18"
+    },
+    "flow:0d1122ad": {
+      "template": "flow:0d1122ad",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-18"
+    },
+    "flow:1cf3f808": {
+      "template": "flow:1cf3f808",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-18"
+    },
+    "flow:8587328f": {
+      "template": "flow:8587328f",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-18"
+    },
+    "flow:e320b2e0": {
+      "template": "flow:e320b2e0",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0.1,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-18"
+    },
+    "flow:65e6ebb0": {
+      "template": "flow:65e6ebb0",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-18"
+    },
+    "flow:c8011129": {
+      "template": "flow:c8011129",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-18"
+    },
+    "flow:80381240": {
+      "template": "flow:80381240",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-18"
+    },
+    "flow:114ce12a": {
+      "template": "flow:114ce12a",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-18"
+    },
+    "flow:ea4e7afe": {
+      "template": "flow:ea4e7afe",
+      "totalRuns": 1,
+      "totalFailed": 0,
+      "failureRate": 0,
+      "avgDurationSec": 0,
+      "topError": "",
+      "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-18"
     }
   }
 }

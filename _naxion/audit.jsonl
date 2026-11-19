@@ -26711,3 +26711,8 @@
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwnu5cbw-241","ts":"2026-11-19T17:40:04.652Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwnu5ce9-242","ts":"2026-11-19T17:40:04.737Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwnx162o-243","ts":"2026-11-19T19:00:48.768Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:2 alert:0","detail":"core fails: openrouter:fetch failed | supabase:fetch failed | alerts: ","result":"failure","id":"mwnx1bw1-244","ts":"2026-11-19T19:00:56.305Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwnx1gx3-245","ts":"2026-11-19T19:01:02.823Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwnx1h4p-246","ts":"2026-11-19T19:01:03.097Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwnx1iky-247","ts":"2026-11-19T19:01:04.978Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwnx1ili-248","ts":"2026-11-19T19:01:04.998Z"}
