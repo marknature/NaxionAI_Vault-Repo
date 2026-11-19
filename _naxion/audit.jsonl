@@ -26692,3 +26692,5 @@
 {"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"mwnj66tx-222","ts":"2026-11-19T12:32:48.405Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/library","detail":"/library","result":"success","id":"mwnj6a1g-223","ts":"2026-11-19T12:32:52.564Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/library","detail":"/library","result":"success","id":"mwnj6a38-224","ts":"2026-11-19T12:32:52.628Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwnk33o6-225","ts":"2026-11-19T12:58:23.958Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:0","detail":"core fails: 920acca5-d657-400d-afad-4fd04972d627:network error reaching Telegram (fetch failed) — check connectivity, then re-tes | alerts: ","result":"failure","id":"mwnk3lys-226","ts":"2026-11-19T12:58:47.668Z"}
