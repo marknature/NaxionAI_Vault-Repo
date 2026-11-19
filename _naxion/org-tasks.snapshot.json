@@ -8712,12 +8712,40 @@
       "role": "admin",
       "title": "Innovation Scan: Model reliability — model-reliability:llama3.1:8b-instruct-q4_K_M",
       "detail": "\"llama3.1:8b-instruct-q4_K_M\" failed 40% of calls in the last 7d (49/123) — still failing as of 2026-11-19T05:50:38.556Z\n\nLocal Ollama lane: \"llama3.1:8b-instruct-q4_K_M\" is unavailable or broken on this machine (last error: fetch failed). Check `ollama list` / `ollama pull llama3.1:8b-instruct-q4_K_M` and the runner's model id. switch_model will NOT fix this — it only re-points remote provider tiers.\n\nEvidence: cost.jsonl 2026-11-12..now: model=\"llama3.1:8b-instruct-q4_K_M\" backend=ollama calls=123 failed=49 failureRate=0.40 lastFailureAt=2026-11-19T05:50:38.556Z lastError=fetch failed",
-      "status": "backlog",
+      "status": "done",
       "priority": "high",
       "linkedTaskIds": [],
       "createdAt": "2026-11-19T09:09:15.759Z",
-      "updatedAt": "2026-11-19T09:09:15.759Z",
+      "updatedAt": "2026-11-19T09:10:32.243Z",
       "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "5fdf72ff-5186-45b0-9cba-91665020abf1",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "ddc617f9-ef85-485a-9b58-a792a80057e3",
+      "createdAt": "2026-11-19T09:10:43.537Z",
+      "updatedAt": "2026-11-19T09:10:43.571Z",
+      "createdBy": "naxie",
+      "progressPct": 0
+    },
+    {
+      "id": "fd75e417-0d10-41aa-a82a-c1bb32826811",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "31f1f05f-efb7-49d7-a390-4ffbcd6cb1d9",
+      "createdAt": "2026-11-19T09:10:43.631Z",
+      "updatedAt": "2026-11-19T09:10:43.655Z",
+      "createdBy": "naxie",
       "progressPct": 0
     }
   ]
