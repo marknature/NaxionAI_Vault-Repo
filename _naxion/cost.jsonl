@@ -3355,3 +3355,5 @@
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"synthesis","inputTokens":1417,"outputTokens":127,"costUsd":0,"ts":"2026-11-18T18:50:56.390Z"}
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"balanced","inputTokens":289,"outputTokens":45,"costUsd":0,"ts":"2026-11-19T02:20:36.575Z"}
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":1295,"outputTokens":209,"costUsd":0,"ts":"2026-11-19T03:35:36.652Z"}
+{"jobId":"adhoc","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":161,"outputTokens":13,"costUsd":0,"ts":"2026-11-19T05:00:41.996Z"}
+{"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-19T05:13:06.098Z","ok":false,"error":"This operation was aborted"}
