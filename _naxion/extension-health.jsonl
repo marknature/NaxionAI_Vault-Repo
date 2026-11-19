@@ -4519,3 +4519,4 @@
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — ","latencyMs":880,"ts":"2026-11-19T16:58:08.855Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":880,"ts":"2026-11-19T16:58:08.858Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1544,"ts":"2026-11-19T16:58:09.523Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":1167,"ts":"2026-11-19T19:00:49.940Z"}
