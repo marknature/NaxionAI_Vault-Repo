@@ -20,11 +20,6 @@
   "url": "https://ugreenhackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel"
  },
  {
-  "name": "Global AI Hackathon by Devpost · Lablab.ai",
-  "deadline": "2026-11-12",
-  "url": "https://devpost.com/hackathons/global-ai-hackathon"
- },
- {
   "name": "Lablab.ai Global Hackathon",
   "deadline": "2026-11-13",
   "url": "https://lablab.ai/hackathon"
@@ -48,5 +43,10 @@
   "name": "TOP PICK: Zimbabwe Tech Summit 2026 — Unlocking Zimbabwe’s Tech Potential with Global Experts",
   "deadline": "2026-11-19",
   "url": "https://www.zimtechsummit.com"
+ },
+ {
+  "name": "ZimHack 2026",
+  "deadline": "2026-11-20",
+  "url": "https://zimhack.zimtech.org/"
  }
 ]
