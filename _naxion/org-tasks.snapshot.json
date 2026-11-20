@@ -8873,6 +8873,19 @@
       "updatedAt": "2026-11-20T07:13:18.145Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "e1f004de-bee6-4f46-b244-a5be482518e3",
+      "role": "admin",
+      "title": "Innovation Scan: Model reliability — model-reliability:llama3.1:8b-instruct-q4_K_M",
+      "detail": "\"llama3.1:8b-instruct-q4_K_M\" failed 40% of calls in the last 7d (47/118) — still failing as of 2026-11-20T05:50:27.231Z\n\nLocal Ollama lane: \"llama3.1:8b-instruct-q4_K_M\" is unavailable or broken on this machine (last error: fetch failed). Check `ollama list` / `ollama pull llama3.1:8b-instruct-q4_K_M` and the runner's model id. switch_model will NOT fix this — it only re-points remote provider tiers.\n\nEvidence: cost.jsonl 2026-11-13..now: model=\"llama3.1:8b-instruct-q4_K_M\" backend=ollama calls=118 failed=47 failureRate=0.40 lastFailureAt=2026-11-20T05:50:27.231Z lastError=fetch failed",
+      "status": "backlog",
+      "priority": "high",
+      "linkedTaskIds": [],
+      "createdAt": "2026-11-20T09:06:50.052Z",
+      "updatedAt": "2026-11-20T09:06:50.052Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
