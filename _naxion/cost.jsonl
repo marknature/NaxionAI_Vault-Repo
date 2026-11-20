@@ -3431,3 +3431,4 @@
 {"jobId":"persona-schedule-663a8e72","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1439,"outputTokens":103,"costUsd":0,"ts":"2026-11-20T06:20:04.194Z"}
 {"jobId":"9ab8fa34-32ae-4357-8506-6c4ac928135d","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":1100,"outputTokens":198,"costUsd":0,"ts":"2026-11-20T07:12:25.024Z"}
 {"jobId":"9ab8fa34-32ae-4357-8506-6c4ac928135d","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":1515,"outputTokens":193,"costUsd":0,"ts":"2026-11-20T07:13:17.230Z"}
+{"jobId":"persona-schedule-3dca2adf","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":139,"outputTokens":15,"costUsd":0,"ts":"2026-11-20T08:00:28.084Z"}
