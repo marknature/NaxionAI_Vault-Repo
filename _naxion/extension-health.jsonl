@@ -4552,3 +4552,6 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":872,"ts":"2026-11-20T05:53:49.488Z"}
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — ","latencyMs":878,"ts":"2026-11-20T05:53:49.492Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1825,"ts":"2026-11-20T05:53:50.443Z"}
+{"id":"supabase","ok":false,"detail":"fetch failed","latencyMs":698,"ts":"2026-11-20T07:10:18.403Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":1601,"ts":"2026-11-20T07:10:19.265Z"}
+{"id":"openrouter","ok":false,"detail":"fetch failed","latencyMs":1676,"ts":"2026-11-20T07:10:19.267Z"}
