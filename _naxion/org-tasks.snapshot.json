@@ -8859,6 +8859,20 @@
       "updatedAt": "2026-11-20T06:04:37.174Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "5914069c-a1e8-4e32-83f3-b3a8a6239e93",
+      "role": "scheduler",
+      "title": "World AI news — BREAKING",
+      "detail": "World AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "9ab8fa34-32ae-4357-8506-6c4ac928135d",
+      "createdAt": "2026-11-20T07:10:18.525Z",
+      "updatedAt": "2026-11-20T07:13:18.145Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
