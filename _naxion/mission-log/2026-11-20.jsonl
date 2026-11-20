@@ -43,3 +43,6 @@
 {"ts":"2026-11-20T15:03:19.269Z","kind":"progress","text":"Step \"Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web\" succeeded (124216ms)","stepId":"0"}
 {"ts":"2026-11-20T15:03:19.279Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Triage business inbox; draft urgent replies; flag approval-required items\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
 {"ts":"2026-11-20T15:03:19.295Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (2ms)","stepId":"2"}
+{"ts":"2026-11-20T15:03:25.185Z","kind":"progress","text":"Step \"Researching \"Use org.approvals_pending to surface a sign-off digest: count items parked in ApÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web\" succeeded (158811ms)","stepId":"0"}
+{"ts":"2026-11-20T15:03:25.197Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Use org.approvals_pending to surface a sign-off digest: count items parked in ApÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-20T15:03:25.219Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (4ms)","stepId":"2"}
