@@ -8817,6 +8817,34 @@
       "updatedAt": "2026-11-19T16:01:38.333Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "1f5a8891-537a-4845-b238-45ef5ebacd19",
+      "role": "scheduler",
+      "title": "Events & Competition Scan — daily",
+      "detail": "Events & Competition Scan — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "1e7ade17-7cbb-40ca-82ff-96edd85ff7da",
+      "createdAt": "2026-11-20T05:30:21.859Z",
+      "updatedAt": "2026-11-20T05:34:57.510Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "cc9144d2-2c1e-4fa7-8130-1995d29c2a7e",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "e6d3ba78-efbc-4ff1-93f8-2865f1386937",
+      "createdAt": "2026-11-20T05:45:22.081Z",
+      "updatedAt": "2026-11-20T05:50:27.245Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
