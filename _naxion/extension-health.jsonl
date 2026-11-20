@@ -4540,3 +4540,6 @@
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — ","latencyMs":1031,"ts":"2026-11-20T01:53:50.721Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":1030,"ts":"2026-11-20T01:53:50.723Z"}
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1518,"ts":"2026-11-20T01:53:51.212Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — ","latencyMs":1127,"ts":"2026-11-20T02:53:49.722Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":1129,"ts":"2026-11-20T02:53:49.725Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1554,"ts":"2026-11-20T02:53:50.151Z"}
