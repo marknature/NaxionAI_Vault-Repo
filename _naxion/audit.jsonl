@@ -26852,3 +26852,5 @@
 {"level":"warn","actor":"ambient-watch","action":"ambient.job","target":"Job failed — Evening AI recap — daily","detail":"attention · via toast,telegram · rule:job-attention","jobId":"77f7442d-e8e3-4ad7-a483-a5325303dafc","result":"success","id":"mwpahlge-381","ts":"2026-11-20T18:05:16.382Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwpclhfs-382","ts":"2026-11-20T19:04:17.032Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 5954ms","result":"success","id":"mwpclm5g-383","ts":"2026-11-20T19:04:23.140Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwpeqn0u-384","ts":"2026-11-20T20:04:16.782Z"}
+{"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 3041ms","result":"success","id":"mwpeqphq-385","ts":"2026-11-20T20:04:19.982Z"}
