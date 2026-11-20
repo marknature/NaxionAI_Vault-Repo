@@ -26776,3 +26776,4 @@
 {"level":"info","actor":"naxie","action":"notify.attention","target":"persona-scheduler-missed-runs","detail":"1 scheduled run(s) were skipped while the server was unavailable. Catch-up is disabled.","result":"success","id":"mwoox0cj-305","ts":"2026-11-20T08:01:23.971Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwop8fyo-306","ts":"2026-11-20T08:10:17.424Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 9144ms","result":"success","id":"mwop8n15-307","ts":"2026-11-20T08:10:26.585Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"overdue-b7c3bd15-7f79-4b7a-9002-ec0ca2f32738","detail":"lesley · lesley-scripts has been pending-approval for over 24 hours.","result":"success","id":"mwor28kk-308","ts":"2026-11-20T09:01:27.140Z"}

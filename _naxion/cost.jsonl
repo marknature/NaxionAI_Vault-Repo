@@ -3437,3 +3437,8 @@
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":523,"outputTokens":147,"costUsd":0,"ts":"2026-11-20T08:04:32.996Z"}
 {"jobId":"persona-schedule-3dca2adf","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":8689,"outputTokens":585,"costUsd":0,"ts":"2026-11-20T08:10:54.147Z"}
 {"jobId":"persona-schedule-3dca2adf","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1479,"outputTokens":131,"costUsd":0,"ts":"2026-11-20T08:11:41.487Z"}
+{"jobId":"persona-schedule-3dca2adf","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":8866,"outputTokens":548,"costUsd":0,"ts":"2026-11-20T08:17:46.194Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":739,"outputTokens":139,"costUsd":0,"ts":"2026-11-20T08:18:11.716Z"}
+{"jobId":"persona-schedule-3dca2adf","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1441,"outputTokens":110,"costUsd":0,"ts":"2026-11-20T08:18:50.801Z"}
+{"jobId":"persona-schedule-ff9e9dc4","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":137,"outputTokens":13,"costUsd":0,"ts":"2026-11-20T09:00:36.954Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"synthesis","inputTokens":468,"outputTokens":112,"costUsd":0,"ts":"2026-11-20T09:01:10.451Z"}
