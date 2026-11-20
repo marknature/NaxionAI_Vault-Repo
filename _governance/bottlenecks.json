@@ -1,35 +1,35 @@
 {
-  "updatedAt": "2026-11-19T19:02:07.564Z",
+  "updatedAt": "2026-11-20T18:05:17.743Z",
   "entries": {
     "reflection:daily": {
       "template": "reflection:daily",
-      "totalRuns": 50,
+      "totalRuns": 51,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 65,
+      "avgDurationSec": 79.7,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-15"
+      "lastSeen": "2026-11-19"
     },
     "innovation-scan": {
       "template": "innovation-scan",
-      "totalRuns": 201,
+      "totalRuns": 202,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 22,
+      "avgDurationSec": 392.8,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-19"
     },
     "todo-brief": {
       "template": "todo-brief",
-      "totalRuns": 67,
+      "totalRuns": 68,
       "totalFailed": 0,
       "failureRate": 0,
       "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-19"
     },
     "weekly-rollup": {
       "template": "weekly-rollup",
@@ -43,43 +43,43 @@
     },
     "system-audit": {
       "template": "system-audit",
-      "totalRuns": 82,
+      "totalRuns": 83,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 188.7,
+      "avgDurationSec": 186,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-19"
     },
     "africa-ai-news": {
       "template": "africa-ai-news",
-      "totalRuns": 104,
+      "totalRuns": 105,
       "totalFailed": 4,
       "failureRate": 0.04,
-      "avgDurationSec": 329.6,
+      "avgDurationSec": 254.7,
       "topError": "This operation was aborted",
       "remedy": "prior runs of this type TIMED OUT — split the work into parallel independent sub-agents rather than one long serial chain, prefer cached/cheaper paths (e.g. db schema cache), and avoid unnecessarily heavy steps.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-19"
     },
     "world-ai-news": {
       "template": "world-ai-news",
-      "totalRuns": 65,
+      "totalRuns": 66,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 9.1,
+      "avgDurationSec": 179.6,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-19"
     },
     "daily-briefing": {
       "template": "daily-briefing",
-      "totalRuns": 75,
+      "totalRuns": 76,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 313.7,
+      "avgDurationSec": 305.2,
       "topError": "tool:peer.review step failed 1/1 runs",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-19"
     },
     "weekly-improvement": {
       "template": "weekly-improvement",
@@ -93,44 +93,43 @@
     },
     "general-task": {
       "template": "general-task",
-      "totalRuns": 34,
+      "totalRuns": 35,
       "totalFailed": 2,
       "failureRate": 0.06,
-      "avgDurationSec": 1836.3,
+      "avgDurationSec": 0,
       "topError": "tool:peer.review step failed 1/1 runs",
-      "remedy": "prior runs of this type are SLOW (avg ~1836s vs a 600s budget) — split the work into parallel independent sub-agents and avoid unnecessarily heavy steps.",
-      "lastSeen": "2026-11-17",
-      "slow": true
+      "remedy": "prior runs of this type failed ~6% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
+      "lastSeen": "2026-11-19"
     },
     "events-competition-scan": {
       "template": "events-competition-scan",
-      "totalRuns": 57,
+      "totalRuns": 58,
       "totalFailed": 3,
       "failureRate": 0.05,
-      "avgDurationSec": 366.6,
+      "avgDurationSec": 275.7,
       "topError": "This operation was aborted",
       "remedy": "prior runs of this type TIMED OUT — split the work into parallel independent sub-agents rather than one long serial chain, prefer cached/cheaper paths (e.g. db schema cache), and avoid unnecessarily heavy steps.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-19"
     },
     "deadline-reminders": {
       "template": "deadline-reminders",
-      "totalRuns": 43,
+      "totalRuns": 44,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 1,
+      "avgDurationSec": 2.5,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-19"
     },
     "evening-recap": {
       "template": "evening-recap",
-      "totalRuns": 42,
+      "totalRuns": 43,
       "totalFailed": 0,
       "failureRate": 0,
-      "avgDurationSec": 71.1,
+      "avgDurationSec": 0,
       "topError": "",
       "remedy": "prior runs of this type failed ~0% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-19"
     },
     "weekend-digest": {
       "template": "weekend-digest",
@@ -145,13 +144,13 @@
     },
     "africa-tech-alerts": {
       "template": "africa-tech-alerts",
-      "totalRuns": 48,
+      "totalRuns": 49,
       "totalFailed": 1,
       "failureRate": 0.02,
-      "avgDurationSec": 215.5,
+      "avgDurationSec": 503.9,
       "topError": "OpenRouter N: {\"error\":{\"message\":\"Provider returned error\",\"code\":N,\"metada",
       "remedy": "prior runs of this type failed ~2% of the time — add a quality.check/verification step and confirm the deliverable matches every part of the request before finishing.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-19"
     },
     "board:md-weekly": {
       "template": "board:md-weekly",

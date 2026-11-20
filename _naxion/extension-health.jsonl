@@ -4584,3 +4584,4 @@
 {"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":7247,"ts":"2026-11-20T16:55:36.115Z"}
 {"id":"supabase","ok":false,"detail":"The operation was aborted due to timeout","latencyMs":4222,"ts":"2026-11-20T18:04:22.262Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":5206,"ts":"2026-11-20T18:04:23.035Z"}
+{"id":"openrouter","ok":false,"detail":"This operation was aborted","latencyMs":9039,"ts":"2026-11-20T18:04:26.769Z"}
