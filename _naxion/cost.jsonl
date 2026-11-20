@@ -3474,3 +3474,9 @@
 {"jobId":"persona-schedule-46a8ad03","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1412,"outputTokens":68,"costUsd":0,"ts":"2026-11-20T11:20:35.735Z"}
 {"jobId":"persona-schedule-d8499092","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":169,"outputTokens":16,"costUsd":0,"ts":"2026-11-20T15:00:27.927Z"}
 {"jobId":"persona-schedule-3d04457b","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":141,"outputTokens":15,"costUsd":0,"ts":"2026-11-20T15:00:32.446Z"}
+{"jobId":"persona-schedule-d8499092","model":"qwen2.5:3b","backend":"ollama","profile":"planning","inputTokens":10225,"outputTokens":793,"costUsd":0,"ts":"2026-11-20T15:04:50.706Z"}
+{"jobId":"persona-schedule-3d04457b","model":"qwen2.5:3b","backend":"ollama","profile":"planning","inputTokens":10370,"outputTokens":673,"costUsd":0,"ts":"2026-11-20T15:08:57.855Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":770,"outputTokens":224,"costUsd":0,"ts":"2026-11-20T15:09:51.111Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":826,"outputTokens":258,"costUsd":0,"ts":"2026-11-20T15:10:54.056Z"}
+{"jobId":"persona-schedule-3d04457b","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-20T15:16:01.269Z","ok":false,"error":"fetch failed"}
+{"jobId":"persona-schedule-d8499092","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":9299,"outputTokens":659,"costUsd":0,"ts":"2026-11-20T15:26:21.983Z"}
