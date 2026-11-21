@@ -9012,6 +9012,20 @@
       "updatedAt": "2026-11-21T10:00:01.488Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "745850c0-bdfa-4d52-b318-a280068d2eeb",
+      "role": "scheduler",
+      "title": "Africa Tech Alerts — BREAKING (threats & breakthroughs)",
+      "detail": "Africa Tech Alerts — BREAKING (threats & breakthroughs)",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "f14f5945-b6a2-44a1-8ead-fb7268fdd96d",
+      "createdAt": "2026-11-21T10:30:06.033Z",
+      "updatedAt": "2026-11-21T10:31:30.320Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
