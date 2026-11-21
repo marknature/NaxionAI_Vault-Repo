@@ -27001,3 +27001,5 @@
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 3273ms","result":"success","id":"mwqsdd13-530","ts":"2026-11-21T19:13:38.103Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwquifzy-531","ts":"2026-11-21T20:13:34.462Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 3005ms","result":"success","id":"mwquiiky-532","ts":"2026-11-21T20:13:37.810Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwqwnlrf-533","ts":"2026-11-21T21:13:34.443Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:0","detail":"core fails: supabase:The operation was aborted due to timeout | alerts: ","result":"failure","id":"mwqwnq6g-534","ts":"2026-11-21T21:13:40.168Z"}
