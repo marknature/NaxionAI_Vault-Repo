@@ -26984,3 +26984,10 @@
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 3328ms","result":"success","id":"mwqlxvzk-513","ts":"2026-11-21T16:13:38.480Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwqo2yrz-514","ts":"2026-11-21T17:13:34.607Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 3002ms","result":"success","id":"mwqo31fd-515","ts":"2026-11-21T17:13:38.041Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwqpjv6g-516","ts":"2026-11-21T17:54:42.713Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwqpjv73-517","ts":"2026-11-21T17:54:42.735Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mwqpk0pa-518","ts":"2026-11-21T17:54:49.870Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Anything else (ad-hoc task)","detail":"Anything else (ad-hoc task)","jobId":"6911103d-4efe-4be0-baf1-3b03e9bed03f","result":"success","id":"mwqpk4p4-519","ts":"2026-11-21T17:54:55.049Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Anything else (ad-hoc task)","detail":"","jobId":"6911103d-4efe-4be0-baf1-3b03e9bed03f","result":"pending","id":"mwqpk4pg-520","ts":"2026-11-21T17:54:55.060Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Anything else (ad-hoc task)","detail":"Anything else (ad-hoc task)","jobId":"51905b07-f439-42c9-847a-83d6be04e0e7","result":"success","id":"mwqpk5iq-521","ts":"2026-11-21T17:54:56.114Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Anything else (ad-hoc task)","detail":"","jobId":"51905b07-f439-42c9-847a-83d6be04e0e7","result":"pending","id":"mwqpk5j3-522","ts":"2026-11-21T17:54:56.127Z"}
