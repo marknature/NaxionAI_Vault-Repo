@@ -3503,3 +3503,4 @@
 {"jobId":"persona-schedule-021c05d9","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":8485,"outputTokens":533,"costUsd":0,"ts":"2026-11-21T06:25:13.989Z"}
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":725,"outputTokens":155,"costUsd":0,"ts":"2026-11-21T06:25:42.689Z"}
 {"jobId":"persona-schedule-021c05d9","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1424,"outputTokens":253,"costUsd":0,"ts":"2026-11-21T06:26:31.807Z"}
+{"jobId":"persona-schedule-e9be2e0a","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":137,"outputTokens":14,"costUsd":0,"ts":"2026-11-21T07:00:29.445Z"}
