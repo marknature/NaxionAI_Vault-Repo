@@ -26982,3 +26982,5 @@
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Evening AI recap — daily","detail":"","jobId":"77f7442d-e8e3-4ad7-a483-a5325303dafc","result":"success","id":"mwqlhecm-511","ts":"2026-11-21T16:00:49.126Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwqlxt34-512","ts":"2026-11-21T16:13:34.720Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 3328ms","result":"success","id":"mwqlxvzk-513","ts":"2026-11-21T16:13:38.480Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwqo2yrz-514","ts":"2026-11-21T17:13:34.607Z"}
+{"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 2 integrations ok in 3002ms","result":"success","id":"mwqo31fd-515","ts":"2026-11-21T17:13:38.041Z"}
