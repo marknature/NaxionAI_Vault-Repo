@@ -9060,12 +9060,12 @@
       "role": "scheduler",
       "title": "Anything else (ad-hoc task)",
       "detail": "Anything else (ad-hoc task)",
-      "status": "active",
+      "status": "done",
       "priority": "normal",
       "linkedTaskIds": [],
       "jobId": "51905b07-f439-42c9-847a-83d6be04e0e7",
       "createdAt": "2026-11-21T17:54:56.104Z",
-      "updatedAt": "2026-11-21T17:54:56.115Z",
+      "updatedAt": "2026-11-21T18:39:09.345Z",
       "createdBy": "daemon",
       "progressPct": 0
     }
