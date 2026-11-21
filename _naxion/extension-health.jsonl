@@ -4629,3 +4629,4 @@
 {"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1905,"ts":"2026-11-21T08:04:22.769Z"}
 {"id":"supabase","ok":false,"detail":"The operation was aborted due to timeout","latencyMs":4161,"ts":"2026-11-21T09:13:39.151Z"}
 {"id":"openrouter","ok":false,"detail":"This operation was aborted","latencyMs":4871,"ts":"2026-11-21T09:13:39.662Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":8434,"ts":"2026-11-21T09:13:43.289Z"}
