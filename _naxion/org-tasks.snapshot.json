@@ -8970,6 +8970,34 @@
       "updatedAt": "2026-11-21T06:05:46.076Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "ff9fd159-b66e-4416-9511-c9bff727b06f",
+      "role": "scheduler",
+      "title": "World AI news — BREAKING",
+      "detail": "World AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "3b4d6606-d143-4796-b0dc-033ada248d17",
+      "createdAt": "2026-11-21T07:00:16.777Z",
+      "updatedAt": "2026-11-21T07:06:22.102Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "36430b6f-94b6-47ac-9204-e0b7a9d2f04d",
+      "role": "scheduler",
+      "title": "Weekend AI digest",
+      "detail": "Weekend AI digest",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "ae985837-0a00-4294-9bba-4ca1f573925f",
+      "createdAt": "2026-11-21T07:00:16.822Z",
+      "updatedAt": "2026-11-21T07:07:36.996Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }

@@ -3510,3 +3510,5 @@
 {"jobId":"3b4d6606-d143-4796-b0dc-033ada248d17","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":1830,"outputTokens":184,"costUsd":0,"ts":"2026-11-21T07:06:20.825Z"}
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":730,"outputTokens":96,"costUsd":0,"ts":"2026-11-21T07:06:49.541Z"}
 {"jobId":"ae985837-0a00-4294-9bba-4ca1f573925f","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":559,"outputTokens":350,"costUsd":0,"ts":"2026-11-21T07:07:35.747Z"}
+{"jobId":"persona-schedule-e9be2e0a","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":8414,"outputTokens":620,"costUsd":0,"ts":"2026-11-21T07:16:18.951Z"}
+{"jobId":"persona-schedule-e9be2e0a","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1554,"outputTokens":100,"costUsd":0,"ts":"2026-11-21T07:17:12.616Z"}
