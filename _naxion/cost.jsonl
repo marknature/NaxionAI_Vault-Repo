@@ -3555,3 +3555,7 @@
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"planning","inputTokens":1425,"outputTokens":12,"costUsd":0,"ts":"2026-11-21T17:29:15.835Z"}
 {"jobId":"6911103d-4efe-4be0-baf1-3b03e9bed03f","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":151,"outputTokens":12,"costUsd":0,"ts":"2026-11-21T17:55:17.842Z"}
 {"jobId":"51905b07-f439-42c9-847a-83d6be04e0e7","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":151,"outputTokens":12,"costUsd":0,"ts":"2026-11-21T17:55:35.995Z"}
+{"jobId":"6911103d-4efe-4be0-baf1-3b03e9bed03f","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1688,"outputTokens":30,"costUsd":0,"ts":"2026-11-21T17:58:42.521Z"}
+{"jobId":"51905b07-f439-42c9-847a-83d6be04e0e7","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1513,"outputTokens":113,"costUsd":0,"ts":"2026-11-21T17:59:12.401Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":795,"outputTokens":221,"costUsd":0,"ts":"2026-11-21T18:00:12.481Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":620,"outputTokens":151,"costUsd":0,"ts":"2026-11-21T18:00:31.292Z"}
