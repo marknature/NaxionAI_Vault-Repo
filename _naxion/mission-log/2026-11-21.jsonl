@@ -16,3 +16,4 @@
 {"ts":"2026-11-21T07:03:06.254Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (2ms)","stepId":"2"}
 {"ts":"2026-11-21T07:05:06.267Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (120013ms)","stepId":"1"}
 {"ts":"2026-11-21T07:05:06.269Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Daily cash position snapshot from records; flag anomalies\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-21T07:06:36.364Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
