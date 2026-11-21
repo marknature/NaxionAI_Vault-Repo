@@ -20,11 +20,6 @@
   "url": "https://ugreenhackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel"
  },
  {
-  "name": "Lablab.ai Global Hackathon",
-  "deadline": "2026-11-13",
-  "url": "https://lablab.ai/hackathon"
- },
- {
   "name": "TechZim Conference",
   "deadline": "2026-11-15",
   "url": "https://www.techzimconference.com/"
@@ -48,5 +43,10 @@
   "name": "ZimHack 2026",
   "deadline": "2026-11-20",
   "url": "https://zimhack.zimtech.org/"
+ },
+ {
+  "name": "Global Devpost Hackathon - Africa Innovation Challenge",
+  "deadline": "2026-11-21",
+  "url": "https://devpost.com/africa-innovation-challenge"
  }
 ]
