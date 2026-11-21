@@ -9040,6 +9040,34 @@
       "updatedAt": "2026-11-21T16:00:49.121Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "579e05db-1d75-4946-9178-f1e909f6d982",
+      "role": "scheduler",
+      "title": "Anything else (ad-hoc task)",
+      "detail": "Anything else (ad-hoc task)",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "6911103d-4efe-4be0-baf1-3b03e9bed03f",
+      "createdAt": "2026-11-21T17:54:55.037Z",
+      "updatedAt": "2026-11-21T18:31:23.676Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "c159721e-2bca-4529-86b0-8035da297ce4",
+      "role": "scheduler",
+      "title": "Anything else (ad-hoc task)",
+      "detail": "Anything else (ad-hoc task)",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "51905b07-f439-42c9-847a-83d6be04e0e7",
+      "createdAt": "2026-11-21T17:54:56.104Z",
+      "updatedAt": "2026-11-21T17:54:56.115Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
