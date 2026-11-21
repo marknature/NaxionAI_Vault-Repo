@@ -3533,3 +3533,6 @@
 {"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":681,"outputTokens":225,"costUsd":0,"ts":"2026-11-21T11:04:02.922Z"}
 {"jobId":"persona-schedule-93d2802e","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":8539,"outputTokens":406,"costUsd":0,"ts":"2026-11-21T11:09:01.201Z"}
 {"jobId":"persona-schedule-93d2802e","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1344,"outputTokens":119,"costUsd":0,"ts":"2026-11-21T11:09:40.052Z"}
+{"jobId":"persona-schedule-93d2802e","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":8677,"outputTokens":787,"costUsd":0,"ts":"2026-11-21T11:16:43.537Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":980,"outputTokens":124,"costUsd":0,"ts":"2026-11-21T11:17:10.612Z"}
+{"jobId":"persona-schedule-93d2802e","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1726,"outputTokens":62,"costUsd":0,"ts":"2026-11-21T11:17:44.425Z"}
