@@ -3662,3 +3662,8 @@
 {"jobId":"adhoc","model":"dead/model:free","backend":"openrouter","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-22T19:23:57.940Z","ok":false,"error":"OpenRouter 429 (free daily quota exhausted): free-models-per-day"}
 {"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"none","inputTokens":1,"outputTokens":2,"costUsd":0,"ts":"2026-11-22T19:23:58.037Z"}
 {"jobId":"adhoc","model":"dead/model:free","backend":"openrouter","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-22T19:23:58.105Z","ok":false,"error":"OpenRouter 404: {\"error\":{\"message\":\"Provider returned error\",\"code\":404}}"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"none","inputTokens":1,"outputTokens":2,"costUsd":0,"ts":"2026-11-22T19:39:17.847Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3.5-lightning:free","backend":"openrouter","profile":"none","inputTokens":1,"outputTokens":2,"costUsd":0,"ts":"2026-11-22T19:39:17.928Z"}
+{"jobId":"adhoc","model":"dead/model:free","backend":"openrouter","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-22T19:39:18.024Z","ok":false,"error":"OpenRouter 429 (free daily quota exhausted): free-models-per-day"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"none","inputTokens":1,"outputTokens":2,"costUsd":0,"ts":"2026-11-22T19:39:18.131Z"}
+{"jobId":"adhoc","model":"dead/model:free","backend":"openrouter","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-22T19:39:18.200Z","ok":false,"error":"OpenRouter 404: {\"error\":{\"message\":\"Provider returned error\",\"code\":404}}"}
