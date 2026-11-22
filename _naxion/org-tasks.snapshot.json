@@ -9194,6 +9194,62 @@
       "updatedAt": "2026-11-22T18:08:54.524Z",
       "createdBy": "naxie",
       "progressPct": 0
+    },
+    {
+      "id": "909f5920-a5fb-4f1f-a70d-14561d74a845",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "3f3fa4fa-776d-4dc6-b845-eba4dcf2b83a",
+      "createdAt": "2026-11-22T18:14:50.717Z",
+      "updatedAt": "2026-11-22T18:14:50.761Z",
+      "createdBy": "naxie",
+      "progressPct": 0
+    },
+    {
+      "id": "8a746150-b8ef-4e2a-9de5-e0fb6caedeb5",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "d3a0fb72-47ee-43da-8552-87be43cfa52f",
+      "createdAt": "2026-11-22T18:14:50.870Z",
+      "updatedAt": "2026-11-22T18:14:50.931Z",
+      "createdBy": "naxie",
+      "progressPct": 0
+    },
+    {
+      "id": "231d13ef-0551-4edf-ac85-b6ec0c46ab6c",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "1a03db59-23a9-47c3-a6e7-2e5396ffffd4",
+      "createdAt": "2026-11-22T18:16:23.514Z",
+      "updatedAt": "2026-11-22T18:16:23.557Z",
+      "createdBy": "naxie",
+      "progressPct": 0
+    },
+    {
+      "id": "508e7c73-2b77-4e95-b02c-9e7fe77f92b7",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "ae473f7d-c28b-44f7-9746-17a7b2f0de8e",
+      "createdAt": "2026-11-22T18:16:23.639Z",
+      "updatedAt": "2026-11-22T18:16:23.675Z",
+      "createdBy": "naxie",
+      "progressPct": 0
     }
   ]
 }
