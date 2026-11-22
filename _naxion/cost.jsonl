@@ -3597,3 +3597,11 @@
 {"jobId":"persona-schedule-aa6e3ca5","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1326,"outputTokens":94,"costUsd":0,"ts":"2026-11-22T11:19:26.430Z"}
 {"jobId":"persona-schedule-8bb1ddec","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":141,"outputTokens":15,"costUsd":0,"ts":"2026-11-22T15:00:28.656Z"}
 {"jobId":"persona-schedule-b77058ec","model":"phi3.5:latest","backend":"ollama","profile":"triage","inputTokens":169,"outputTokens":16,"costUsd":0,"ts":"2026-11-22T15:00:32.497Z"}
+{"jobId":"persona-schedule-8bb1ddec","model":"qwen2.5:3b","backend":"ollama","profile":"planning","inputTokens":10346,"outputTokens":629,"costUsd":0,"ts":"2026-11-22T15:03:21.613Z"}
+{"jobId":"persona-schedule-b77058ec","model":"qwen2.5:3b","backend":"ollama","profile":"planning","inputTokens":10249,"outputTokens":755,"costUsd":0,"ts":"2026-11-22T15:06:32.259Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":917,"outputTokens":158,"costUsd":0,"ts":"2026-11-22T15:07:08.557Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":710,"outputTokens":112,"costUsd":0,"ts":"2026-11-22T15:07:31.430Z"}
+{"jobId":"persona-schedule-b77058ec","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":9258,"outputTokens":259,"costUsd":0,"ts":"2026-11-22T15:12:41.711Z"}
+{"jobId":"persona-schedule-8bb1ddec","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-22T15:17:46.299Z","ok":false,"error":"fetch failed"}
+{"jobId":"persona-schedule-8bb1ddec","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":8100,"outputTokens":574,"costUsd":0,"ts":"2026-11-22T15:26:34.406Z"}
+{"jobId":"persona-schedule-8bb1ddec","model":"qwen2.5:3b","backend":"ollama","profile":"extraction","inputTokens":1512,"outputTokens":96,"costUsd":0,"ts":"2026-11-22T15:27:19.259Z"}
