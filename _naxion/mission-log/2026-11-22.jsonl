@@ -1,0 +1,4 @@
+{"ts":"2026-11-22T10:00:34.021Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise seÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web"}
+{"ts":"2026-11-22T10:02:44.156Z","kind":"progress","text":"Step \"Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise seÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web\" succeeded (130111ms)","stepId":"0"}
+{"ts":"2026-11-22T10:02:44.172Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise seÃ¢â‚¬Â¦\" Ã¢â‚¬â€ vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-22T10:02:44.185Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (2ms)","stepId":"2"}
