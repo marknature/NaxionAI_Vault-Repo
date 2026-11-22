@@ -9362,6 +9362,34 @@
       "updatedAt": "2026-11-22T19:39:56.178Z",
       "createdBy": "naxie",
       "progressPct": 0
+    },
+    {
+      "id": "27026734-a1dc-4fe9-9a14-f15beea3cbff",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "3969e2eb-5e59-404a-8941-d0422949eca1",
+      "createdAt": "2026-11-22T20:16:53.730Z",
+      "updatedAt": "2026-11-22T20:16:53.796Z",
+      "createdBy": "naxie",
+      "progressPct": 0
+    },
+    {
+      "id": "a9a6e677-b079-4faf-bf13-f7dd92d4cdbb",
+      "role": "executor",
+      "title": "Flow: journal",
+      "detail": "Flow: journal",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "577906b2-6243-4cfe-9236-68e234b938e7",
+      "createdAt": "2026-11-22T20:16:53.927Z",
+      "updatedAt": "2026-11-22T20:16:54.013Z",
+      "createdBy": "naxie",
+      "progressPct": 0
     }
   ]
 }
