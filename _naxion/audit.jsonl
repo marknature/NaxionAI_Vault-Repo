@@ -29035,3 +29035,5 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:1","detail":"core fails: ollama:fetch failed | alerts: ollama","result":"failure","id":"mwsbz4ro-28","ts":"2026-11-22T21:10:12.708Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwse3l98-29","ts":"2026-11-22T22:09:39.932Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:1","detail":"core fails:  | alerts: ollama","result":"failure","id":"mwse3nt1-30","ts":"2026-11-22T22:09:43.237Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwsg8r0t-31","ts":"2026-11-22T23:09:39.917Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:1","detail":"core fails:  | alerts: ollama","result":"failure","id":"mwsg8th0-32","ts":"2026-11-22T23:09:43.092Z"}
