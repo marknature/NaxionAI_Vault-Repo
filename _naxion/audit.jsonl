@@ -27100,3 +27100,5 @@
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Evening AI recap — daily","detail":"","jobId":"30547f96-b7d2-45f9-961d-85bb155bb8c6","result":"pending","id":"mws0whdq-72","ts":"2026-11-22T16:00:13.310Z"}
 {"level":"info","actor":"naxie","action":"job.operations:evening-recap","target":"evening-recap","detail":"Evening AI recap — daily","jobId":"30547f96-b7d2-45f9-961d-85bb155bb8c6","result":"success","id":"mws0x3ae-73","ts":"2026-11-22T16:00:41.703Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Evening AI recap — daily","detail":"","jobId":"30547f96-b7d2-45f9-961d-85bb155bb8c6","result":"success","id":"mws0x3ah-74","ts":"2026-11-22T16:00:41.705Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mws23bb6-75","ts":"2026-11-22T16:33:31.650Z"}
+{"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:1","detail":"core fails:  | alerts: supabase","result":"failure","id":"mws23dv4-76","ts":"2026-11-22T16:33:34.960Z"}
