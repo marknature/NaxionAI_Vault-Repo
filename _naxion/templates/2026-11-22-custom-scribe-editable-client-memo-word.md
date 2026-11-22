@@ -2,7 +2,7 @@
 type: template
 title: Editable client memo (Word) (custom-scribe-editable-client-memo-word)
 slug: custom-scribe-editable-client-memo-word
-created: 2026-11-22T19:16:41.575Z
+created: 2026-11-22T19:17:24.270Z
 templateId: custom-scribe-editable-client-memo-word
 role: Custom
 originTask: Write an editable client-facing memo in Word (.docx) on the topic provided. Use a clear title, a short summary first, headed sections, and real tables where the data is tabular. Then call document.create with format 'docx' and a descriptive filename, and return the file path.
