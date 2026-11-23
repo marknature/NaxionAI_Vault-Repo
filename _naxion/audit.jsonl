@@ -29125,3 +29125,26 @@
 {"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwt2ysik-118","ts":"2026-11-23T09:45:46.460Z"}
 {"level":"info","actor":"naxie","action":"job.insights:general-task","target":"general-task","detail":"Anything else (ad-hoc task)","jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","result":"success","id":"mwt30p8l-119","ts":"2026-11-23T09:47:15.525Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Anything else (ad-hoc task)","detail":"","jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","result":"success","id":"mwt30p8s-120","ts":"2026-11-23T09:47:15.532Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwt347yo-121","ts":"2026-11-23T09:49:59.760Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-work","detail":"/my-work","result":"success","id":"mwt3524w-122","ts":"2026-11-23T09:50:38.864Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwt35gdh-123","ts":"2026-11-23T09:50:57.317Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ambient","detail":"/ambient","result":"success","id":"mwt37gd2-124","ts":"2026-11-23T09:52:30.614Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/council","detail":"/council","result":"success","id":"mwt37kuk-125","ts":"2026-11-23T09:52:36.428Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/command","detail":"/command","result":"success","id":"mwt37pv8-126","ts":"2026-11-23T09:52:42.932Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/brands","detail":"/brands","result":"success","id":"mwt37yf0-127","ts":"2026-11-23T09:52:54.012Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/planner","detail":"/planner","result":"success","id":"mwt38dpe-128","ts":"2026-11-23T09:53:13.826Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/my-finances","detail":"/my-finances","result":"success","id":"mwt38rvp-129","ts":"2026-11-23T09:53:32.197Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/business-finance","detail":"/business-finance","result":"success","id":"mwt39akd-130","ts":"2026-11-23T09:53:56.413Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pops","detail":"/pops","result":"success","id":"mwt39uiy-131","ts":"2026-11-23T09:54:22.282Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/extensions","detail":"/extensions","result":"success","id":"mwt3a624-132","ts":"2026-11-23T09:54:37.228Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/whatsapp","detail":"/whatsapp","result":"success","id":"mwt3ajps-133","ts":"2026-11-23T09:54:54.928Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/connectors","detail":"/connectors","result":"success","id":"mwt3al9v-134","ts":"2026-11-23T09:54:56.947Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/mcp-servers","detail":"/mcp-servers","result":"success","id":"mwt3ayi6-135","ts":"2026-11-23T09:55:14.094Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/automation","detail":"/automation","result":"success","id":"mwt3b4c6-136","ts":"2026-11-23T09:55:21.654Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/ide","detail":"/ide","result":"success","id":"mwt3b82k-137","ts":"2026-11-23T09:55:26.492Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/team-bots","detail":"/team-bots","result":"success","id":"mwt3bt6r-138","ts":"2026-11-23T09:55:53.859Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/pentest","detail":"/pentest","result":"success","id":"mwt3by2j-139","ts":"2026-11-23T09:56:00.187Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Event deadline reminders","detail":"Event deadline reminders","jobId":"4cf9cbc6-1c8f-4012-bf2c-030801e8d802","result":"success","id":"mwt3h4gh-140","ts":"2026-11-23T10:00:01.745Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Event deadline reminders","detail":"","jobId":"4cf9cbc6-1c8f-4012-bf2c-030801e8d802","result":"pending","id":"mwt3h4gk-141","ts":"2026-11-23T10:00:01.748Z"}
+{"level":"info","actor":"naxie","action":"job.operations:deadline-reminders","target":"deadline-reminders","detail":"Event deadline reminders","jobId":"4cf9cbc6-1c8f-4012-bf2c-030801e8d802","result":"success","id":"mwt3h58n-142","ts":"2026-11-23T10:00:02.759Z"}
+{"level":"info","actor":"scheduler","action":"org_task.done","target":"Event deadline reminders","detail":"","jobId":"4cf9cbc6-1c8f-4012-bf2c-030801e8d802","result":"success","id":"mwt3h58s-143","ts":"2026-11-23T10:00:02.764Z"}
