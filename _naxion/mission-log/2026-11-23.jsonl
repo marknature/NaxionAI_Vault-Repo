@@ -22,3 +22,11 @@
 {"ts":"2026-11-23T06:03:43.608Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (35998ms)","stepId":"1"}
 {"ts":"2026-11-23T06:03:43.609Z","kind":"progress","text":"Starting plan: 4 steps — Reading Gmail for \"newer_than:7d\", Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
 {"ts":"2026-11-23T06:05:13.631Z","kind":"blocker","text":"Step \"Asking a peer to review the draft\" failed: peer.review wall-time cap (90s) exceeded — kept the existing draft","stepId":"3"}
+{"ts":"2026-11-23T08:00:13.408Z","kind":"progress","text":"Starting plan: 2 steps — Listing connected databases, Listing tables in $step_0.sources.0.id"}
+{"ts":"2026-11-23T08:00:13.484Z","kind":"progress","text":"Step \"Listing connected databases\" succeeded (1ms)","stepId":"0"}
+{"ts":"2026-11-23T08:00:13.548Z","kind":"blocker","text":"Step \"Listing tables in $step_0.sources.0.id\" failed: querySrv ENOTIMP _mongodb._tcp.naxie.cgwsqaq.mongodb.net","stepId":"1"}
+{"ts":"2026-11-23T08:00:31.134Z","kind":"progress","text":"Starting plan: 4 steps — Listing connected databases, Listing tables in $step_0.sources.0.id, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-23T08:00:31.140Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (1ms)","stepId":"3"}
+{"ts":"2026-11-23T08:00:55.944Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (24804ms)","stepId":"2"}
+{"ts":"2026-11-23T08:00:55.944Z","kind":"progress","text":"Starting plan: 5 steps — Listing connected databases, Listing tables in $step_0.sources.0.id, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-23T08:01:14.551Z","kind":"progress","text":"Step \"Asking a peer to review the draft\" succeeded (18602ms)","stepId":"4"}
