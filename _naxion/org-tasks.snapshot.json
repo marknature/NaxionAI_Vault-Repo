@@ -9542,6 +9542,48 @@
       "updatedAt": "2026-11-23T10:32:00.379Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "6021dc14-58b0-492b-9874-707d5081378e",
+      "role": "scheduler",
+      "title": "Evening AI recap — daily",
+      "detail": "Evening AI recap — daily",
+      "status": "blocked",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "6eff3bd6-cff5-45e4-955c-7a48a0aa89f4",
+      "createdAt": "2026-11-23T16:40:07.483Z",
+      "updatedAt": "2026-11-23T17:23:34.605Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "0d9e1818-657a-40b6-80c1-15aa81a487a0",
+      "role": "scheduler",
+      "title": "Weekend AI digest",
+      "detail": "Weekend AI digest",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "5a36f6b2-f838-4e64-b7af-e5d389d7dd79",
+      "createdAt": "2026-11-23T17:38:29.222Z",
+      "updatedAt": "2026-11-23T17:40:43.720Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "48177f47-2a05-43e3-b20f-199d0f58e4aa",
+      "role": "scheduler",
+      "title": "Africa Tech Alerts — BREAKING (threats & breakthroughs)",
+      "detail": "Africa Tech Alerts — BREAKING (threats & breakthroughs)",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "53956163-5fec-4370-8278-60e1a84b6c6b",
+      "createdAt": "2026-11-23T17:38:36.091Z",
+      "updatedAt": "2026-11-23T17:41:59.711Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
