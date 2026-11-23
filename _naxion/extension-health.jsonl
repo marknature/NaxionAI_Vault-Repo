@@ -4828,3 +4828,6 @@
 {"id":"openrouter","ok":true,"detail":"OpenRouter ok — ","latencyMs":925,"ts":"2026-11-23T04:09:40.486Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":926,"ts":"2026-11-23T04:09:40.488Z"}
 {"id":"supabase","ok":false,"detail":"The operation was aborted due to timeout","latencyMs":4008,"ts":"2026-11-23T04:09:43.571Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":28275,"ts":"2026-11-23T05:10:07.776Z"}
+{"id":"openrouter","ok":false,"detail":"fetch failed","latencyMs":28293,"ts":"2026-11-23T05:10:07.780Z"}
+{"id":"supabase","ok":false,"detail":"The operation was aborted due to timeout","latencyMs":28456,"ts":"2026-11-23T05:10:07.960Z"}

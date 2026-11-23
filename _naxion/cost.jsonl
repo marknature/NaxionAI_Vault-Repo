@@ -3674,3 +3674,6 @@
 {"jobId":"adhoc","model":"dead/model:free","backend":"openrouter","profile":"none","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-22T20:16:08.018Z","ok":false,"error":"OpenRouter 404: {\"error\":{\"message\":\"Provider returned error\",\"code\":404}}"}
 {"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"balanced","inputTokens":295,"outputTokens":151,"costUsd":0,"ts":"2026-11-23T02:29:46.237Z"}
 {"jobId":"persona-schedule-c0963a85","model":"gemma3:1b","backend":"ollama","profile":"triage","inputTokens":144,"outputTokens":2,"costUsd":0,"ts":"2026-11-23T05:00:36.029Z"}
+{"jobId":"persona-schedule-d9107979","model":"qwen2.5:3b","backend":"ollama","profile":"synthesis","inputTokens":8615,"outputTokens":258,"costUsd":0,"ts":"2026-11-23T05:08:20.234Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-23T05:12:43.991Z","ok":false,"error":"OpenRouter: The operation was aborted"}
+{"jobId":"87e18824-47e6-4096-b1c8-f5fd59b0f704","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-23T05:14:31.885Z","ok":false,"error":"fetch failed"}
