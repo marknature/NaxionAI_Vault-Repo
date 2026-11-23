@@ -1,12 +1,12 @@
 {
-  "totalFlags": 70,
+  "totalFlags": 71,
   "upvotes": 44,
-  "downvotes": 26,
-  "rate": 0.6285714285714286,
+  "downvotes": 27,
+  "rate": 0.6197183098591549,
   "topCategories": [
     {
       "category": "accuracy",
-      "count": 43
+      "count": 44
     },
     {
       "category": "other",
@@ -14,6 +14,23 @@
     }
   ],
   "recentFlags": [
+    {
+      "jobId": "e55262d1-f9e8-4eb1-8450-2686d480eeed",
+      "rating": "down",
+      "score": 0.36,
+      "category": "accuracy",
+      "template": "general-task",
+      "taskKind": "insights:general-task",
+      "axes": {
+        "factuality_risk": 0.1,
+        "citation_coverage": 0,
+        "persona_fit": 0.1,
+        "prompt_alignment": 0.1
+      },
+      "note": "auto · quality.check",
+      "source": "auto",
+      "ts": "2026-11-23T09:47:15.538Z"
+    },
     {
       "jobId": "51905b07-f439-42c9-847a-83d6be04e0e7",
       "rating": "down",
@@ -326,11 +343,6 @@
       "jobId": "12b69b3f-f83a-4fb9-82df-10670b510daf",
       "rating": "up",
       "ts": "2026-10-30T05:42:34.450Z"
-    },
-    {
-      "jobId": "847d4602-05bb-4fe0-99d4-4b2547d26930",
-      "rating": "up",
-      "ts": "2026-10-30T05:42:26.873Z"
     }
   ]
 }

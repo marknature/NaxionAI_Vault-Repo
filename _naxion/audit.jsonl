@@ -29123,3 +29123,5 @@
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Anything else (ad-hoc task)","detail":"","jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","result":"pending","id":"mwt2xn69-116","ts":"2026-11-23T09:44:52.881Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/naxie","detail":"/naxie","result":"success","id":"mwt2y5p8-117","ts":"2026-11-23T09:45:16.893Z"}
 {"level":"info","actor":"web","action":"page.view","target":"/office","detail":"/office","result":"success","id":"mwt2ysik-118","ts":"2026-11-23T09:45:46.460Z"}
+{"level":"info","actor":"naxie","action":"job.insights:general-task","target":"general-task","detail":"Anything else (ad-hoc task)","jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","result":"success","id":"mwt30p8l-119","ts":"2026-11-23T09:47:15.525Z"}
+{"level":"info","actor":"scheduler","action":"org_task.done","target":"Anything else (ad-hoc task)","detail":"","jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","result":"success","id":"mwt30p8s-120","ts":"2026-11-23T09:47:15.532Z"}
