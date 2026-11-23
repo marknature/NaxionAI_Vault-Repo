@@ -9404,6 +9404,62 @@
       "updatedAt": "2026-11-23T05:14:31.913Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "12e585bd-f88a-434c-9bfa-655b31453c4e",
+      "role": "scheduler",
+      "title": "Events & Competition Scan — daily",
+      "detail": "Events & Competition Scan — daily",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "aa934824-2a0f-464c-96e6-552c94cb819a",
+      "createdAt": "2026-11-23T05:30:08.993Z",
+      "updatedAt": "2026-11-23T05:39:54.299Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "2008a53f-dfb0-438b-aaca-6eef397a367a",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "a4fc709d-2326-44d7-85e5-007c76739391",
+      "createdAt": "2026-11-23T05:45:09.212Z",
+      "updatedAt": "2026-11-23T05:50:17.308Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "a0ad0296-eeb0-4c26-a065-3f0071c411f6",
+      "role": "scheduler",
+      "title": "Africa AI news — BREAKING",
+      "detail": "Africa AI news — BREAKING",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "4ce4e1e2-e68e-4147-8ad0-15e7b9889fb3",
+      "createdAt": "2026-11-23T06:00:09.561Z",
+      "updatedAt": "2026-11-23T06:04:16.233Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "7ab1cbfd-a2fe-4a0b-a09f-59c3a54502ee",
+      "role": "executor",
+      "title": "MD Weekly Board — 2026-11-23",
+      "detail": "MD Weekly Board — 2026-11-23",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "29f753e5-6a55-4146-8262-cd86a12992bb",
+      "createdAt": "2026-11-23T06:09:39.311Z",
+      "updatedAt": "2026-11-23T06:12:07.964Z",
+      "createdBy": "naxie",
+      "progressPct": 0
     }
   ]
 }

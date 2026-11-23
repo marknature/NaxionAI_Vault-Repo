@@ -29095,3 +29095,7 @@
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:0 alert:1","detail":"core fails:  | alerts: supabase","result":"failure","id":"mwsv8ymi-88","ts":"2026-11-23T06:09:44.010Z"}
 {"level":"info","actor":"naxie","action":"job.board:md-weekly","target":"MD Weekly Board — 2026-11-23","detail":"MD Weekly Board — 2026-11-23","jobId":"29f753e5-6a55-4146-8262-cd86a12992bb","result":"success","id":"mwsvc1o1-89","ts":"2026-11-23T06:12:07.921Z"}
 {"level":"info","actor":"executor","action":"org_task.done","target":"MD Weekly Board — 2026-11-23","detail":"","jobId":"29f753e5-6a55-4146-8262-cd86a12992bb","result":"success","id":"mwsvc1pa-90","ts":"2026-11-23T06:12:07.967Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwsvdizu-91","ts":"2026-11-23T06:13:17.034Z"}
+{"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwsvdj0c-92","ts":"2026-11-23T06:13:17.052Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"World AI news — BREAKING","detail":"World AI news — BREAKING","jobId":"a50faa4b-9e5f-4aef-b215-e14319e22de8","result":"success","id":"mwsx8pss-93","ts":"2026-11-23T07:05:31.804Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"World AI news — BREAKING","detail":"","jobId":"a50faa4b-9e5f-4aef-b215-e14319e22de8","result":"pending","id":"mwsx8psy-94","ts":"2026-11-23T07:05:31.810Z"}
