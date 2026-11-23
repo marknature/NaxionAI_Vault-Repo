@@ -4864,3 +4864,6 @@
 {"id":"supabase","ok":false,"detail":"The operation was aborted due to timeout","latencyMs":4564,"ts":"2026-11-23T16:40:08.908Z"}
 {"id":"openrouter","ok":false,"detail":"This operation was aborted","latencyMs":9723,"ts":"2026-11-23T16:40:14.063Z"}
 {"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":10026,"ts":"2026-11-23T16:40:14.368Z"}
+{"id":"supabase","ok":true,"detail":"Supabase reachable (HTTP 200)","latencyMs":1304,"ts":"2026-11-23T17:39:44.019Z"}
+{"id":"ollama","ok":true,"detail":"Ollama ok — ","latencyMs":3328,"ts":"2026-11-23T17:39:46.040Z"}
+{"id":"openrouter","ok":true,"detail":"OpenRouter ok — ","latencyMs":4446,"ts":"2026-11-23T17:39:47.156Z"}
