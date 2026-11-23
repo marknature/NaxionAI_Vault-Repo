@@ -5,11 +5,6 @@
   "url": "https://ugreenhackathon.devpost.com/"
  },
  {
-  "name": "STEMergent Hacks 2026",
-  "deadline": "2026-11-15",
-  "url": "https://stemergent-hacks.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel"
- },
- {
   "name": "#BuildHybridAI 2026",
   "deadline": "2026-11-30",
   "url": "https://firebasehybridaihackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel"
@@ -18,11 +13,6 @@
   "name": "UGREEN Hackathon 2026 on AI NAS",
   "deadline": "2026-11-16",
   "url": "https://ugreenhackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel"
- },
- {
-  "name": "TechZim Conference",
-  "deadline": "2026-11-15",
-  "url": "https://www.techzimconference.com/"
  },
  {
   "name": "Betway: Official Website",
@@ -48,5 +38,10 @@
   "name": "Global Devpost Hackathon - Africa Innovation Challenge",
   "deadline": "2026-11-21",
   "url": "https://devpost.com/africa-innovation-challenge"
+ },
+ {
+  "name": "Global AI Hackathon",
+  "deadline": "2026-11-23",
+  "url": "https://www.devpost.com/hackathons/global-ai-hackathon"
  }
 ]
