@@ -29060,3 +29060,5 @@
 {"level":"info","actor":"pigeon","action":"pigeon.night_shift","target":"pigeon","detail":"ok; finance:ok, tech:ok, business:ok, schedules:ok, personal:ok; delivery:voice; llm:0 calls $0","result":"success","id":"mwspqrl7-53","ts":"2026-11-23T03:35:37.003Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwsqyjmu-54","ts":"2026-11-23T04:09:39.558Z"}
 {"level":"warn","actor":"scheduler","action":"extension.healthCheck","target":"fail:1 alert:0","detail":"core fails: supabase:The operation was aborted due to timeout | alerts: ","result":"failure","id":"mwsqyob3-55","ts":"2026-11-23T04:09:45.615Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Daily briefing","detail":"Daily briefing","jobId":"87e18824-47e6-4096-b1c8-f5fd59b0f704","result":"success","id":"mwssrvcx-56","ts":"2026-11-23T05:00:27.393Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Daily briefing","detail":"","jobId":"87e18824-47e6-4096-b1c8-f5fd59b0f704","result":"pending","id":"mwssrvd0-57","ts":"2026-11-23T05:00:27.396Z"}

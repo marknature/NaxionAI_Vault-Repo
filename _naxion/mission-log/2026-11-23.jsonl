@@ -1,0 +1,10 @@
+{"ts":"2026-11-23T05:00:27.315Z","kind":"progress","text":"Starting plan: 4 steps — inbox.read_unread, email.list_triage, org.approvals_pending, calendar.read_today"}
+{"ts":"2026-11-23T05:00:27.431Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-11-23T05:00:27.438Z","kind":"progress","text":"Step \"inbox.read_unread\" succeeded (2ms)","stepId":"0"}
+{"ts":"2026-11-23T05:00:27.439Z","kind":"progress","text":"Step \"email.list_triage\" succeeded (1ms)","stepId":"1"}
+{"ts":"2026-11-23T05:00:27.441Z","kind":"progress","text":"Step \"org.approvals_pending\" succeeded (2ms)","stepId":"2"}
+{"ts":"2026-11-23T05:00:27.442Z","kind":"progress","text":"Step \"calendar.read_today\" succeeded (0ms)","stepId":"3"}
+{"ts":"2026-11-23T05:00:54.134Z","kind":"progress","text":"Starting plan: 1 step — Researching \"Review this week's goals; break into assignable tasks with owners, evidence, dea…\" — vault + web"}
+{"ts":"2026-11-23T05:03:09.034Z","kind":"progress","text":"Step \"Researching \"Review this week's goals; break into assignable tasks with owners, evidence, dea…\" — vault + web\" succeeded (134893ms)","stepId":"0"}
+{"ts":"2026-11-23T05:03:09.096Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Review this week's goals; break into assignable tasks with owners, evidence, dea…\" — vault + web, Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-23T05:03:09.103Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (2ms)","stepId":"2"}
