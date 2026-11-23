@@ -29194,3 +29194,6 @@
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 3 integrations ok in 3097ms","result":"success","id":"mwtca3tw-43","ts":"2026-11-23T14:06:30.884Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwtef8ue-44","ts":"2026-11-23T15:06:29.894Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 3 integrations ok in 3512ms","result":"success","id":"mwtefbk4-45","ts":"2026-11-23T15:06:33.412Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwthrkz6-46","ts":"2026-11-23T16:40:04.338Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Evening AI recap — daily","detail":"Evening AI recap — daily","jobId":"6eff3bd6-cff5-45e4-955c-7a48a0aa89f4","result":"success","id":"mwthrnhy-47","ts":"2026-11-23T16:40:07.606Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Evening AI recap — daily","detail":"","jobId":"6eff3bd6-cff5-45e4-955c-7a48a0aa89f4","result":"pending","id":"mwthrnmd-48","ts":"2026-11-23T16:40:07.765Z"}
