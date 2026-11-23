@@ -3748,3 +3748,4 @@
 {"jobId":"53956163-5fec-4370-8278-60e1a84b6c6b","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":1254,"outputTokens":30,"costUsd":0,"ts":"2026-11-23T17:40:16.626Z"}
 {"jobId":"5a36f6b2-f838-4e64-b7af-e5d389d7dd79","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":653,"outputTokens":124,"costUsd":0,"ts":"2026-11-23T17:40:42.883Z"}
 {"jobId":"53956163-5fec-4370-8278-60e1a84b6c6b","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":1920,"outputTokens":235,"costUsd":0,"ts":"2026-11-23T17:41:58.966Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"synthesis","inputTokens":1350,"outputTokens":121,"costUsd":0,"ts":"2026-11-23T18:04:22.532Z"}
