@@ -29072,3 +29072,5 @@
 {"level":"info","actor":"web","action":"page.view","target":"/operations","detail":"/operations","result":"success","id":"mwst5y1j-65","ts":"2026-11-23T05:11:24.055Z"}
 {"level":"info","actor":"naxie","action":"job.operations:daily-briefing","target":"daily-briefing","detail":"Daily briefing","jobId":"87e18824-47e6-4096-b1c8-f5fd59b0f704","result":"success","id":"mwst9yzr-66","ts":"2026-11-23T05:14:31.911Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Daily briefing","detail":"","jobId":"87e18824-47e6-4096-b1c8-f5fd59b0f704","result":"success","id":"mwst9yzz-67","ts":"2026-11-23T05:14:31.919Z"}
+{"level":"info","actor":"scheduler","action":"org_task.created","target":"Events & Competition Scan — daily","detail":"Events & Competition Scan — daily","jobId":"aa934824-2a0f-464c-96e6-552c94cb819a","result":"success","id":"mwstu21w-68","ts":"2026-11-23T05:30:08.996Z"}
+{"level":"info","actor":"scheduler","action":"org_task.active","target":"Events & Competition Scan — daily","detail":"","jobId":"aa934824-2a0f-464c-96e6-552c94cb819a","result":"pending","id":"mwstu21z-69","ts":"2026-11-23T05:30:08.999Z"}

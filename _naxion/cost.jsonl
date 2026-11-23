@@ -3678,3 +3678,7 @@
 {"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-23T05:12:43.991Z","ok":false,"error":"OpenRouter: The operation was aborted"}
 {"jobId":"87e18824-47e6-4096-b1c8-f5fd59b0f704","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-23T05:14:31.885Z","ok":false,"error":"fetch failed"}
 {"jobId":"adhoc","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-23T05:17:31.899Z","ok":false,"error":"This operation was aborted"}
+{"jobId":"persona-schedule-c0963a85","model":"gemma3:1b","backend":"ollama","profile":"planning","inputTokens":9983,"outputTokens":1062,"costUsd":0,"ts":"2026-11-23T05:18:55.154Z"}
+{"jobId":"adhoc","model":"qwen2.5:3b","backend":"ollama","profile":"none","inputTokens":329,"outputTokens":154,"costUsd":0,"ts":"2026-11-23T05:19:19.575Z"}
+{"jobId":"persona-schedule-c0963a85","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":0,"outputTokens":0,"costUsd":0,"ts":"2026-11-23T05:24:26.289Z","ok":false,"error":"fetch failed"}
+{"jobId":"persona-schedule-c0963a85","model":"llama3.1:8b-instruct-q4_K_M","backend":"ollama","profile":"synthesis","inputTokens":7204,"outputTokens":396,"costUsd":0,"ts":"2026-11-23T05:29:02.577Z"}

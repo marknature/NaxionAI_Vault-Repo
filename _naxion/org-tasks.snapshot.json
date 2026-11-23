@@ -9390,6 +9390,20 @@
       "updatedAt": "2026-11-22T20:16:54.013Z",
       "createdBy": "naxie",
       "progressPct": 0
+    },
+    {
+      "id": "e2d4af1d-7e62-42c4-9429-75b0d53ffada",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "87e18824-47e6-4096-b1c8-f5fd59b0f704",
+      "createdAt": "2026-11-23T05:00:27.390Z",
+      "updatedAt": "2026-11-23T05:14:31.913Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
