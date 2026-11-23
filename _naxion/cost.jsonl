@@ -3724,3 +3724,10 @@
 {"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":1570,"outputTokens":388,"costUsd":0,"ts":"2026-11-23T09:06:26.960Z"}
 {"jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","model":"gemma3:1b","backend":"ollama","profile":"triage","inputTokens":151,"outputTokens":2,"costUsd":0,"ts":"2026-11-23T09:45:02.202Z"}
 {"jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":4696,"outputTokens":635,"costUsd":0,"ts":"2026-11-23T09:45:56.961Z"}
+{"jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":1087,"outputTokens":487,"costUsd":0,"ts":"2026-11-23T09:46:04.130Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":418,"outputTokens":355,"costUsd":0,"ts":"2026-11-23T09:46:13.521Z"}
+{"jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":9364,"outputTokens":861,"costUsd":0,"ts":"2026-11-23T09:46:22.782Z"}
+{"jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":1139,"outputTokens":907,"costUsd":0,"ts":"2026-11-23T09:46:42.417Z"}
+{"jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":9506,"outputTokens":387,"costUsd":0,"ts":"2026-11-23T09:46:50.372Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":533,"outputTokens":309,"costUsd":0,"ts":"2026-11-23T09:46:57.473Z"}
+{"jobId":"e55262d1-f9e8-4eb1-8450-2686d480eeed","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":1075,"outputTokens":682,"costUsd":0,"ts":"2026-11-23T09:47:12.832Z"}
