@@ -47,3 +47,8 @@
 {"ts":"2026-11-23T11:00:29.114Z","kind":"progress","text":"Starting plan: 2 steps — email.list_triage, inbox.read_unread"}
 {"ts":"2026-11-23T11:00:29.133Z","kind":"progress","text":"Step \"email.list_triage\" succeeded (2ms)","stepId":"0"}
 {"ts":"2026-11-23T11:00:29.136Z","kind":"progress","text":"Step \"inbox.read_unread\" succeeded (2ms)","stepId":"1"}
+{"ts":"2026-11-23T15:00:02.732Z","kind":"progress","text":"Starting plan: 1 step — org.approvals_pending"}
+{"ts":"2026-11-23T15:00:02.739Z","kind":"progress","text":"Starting plan: 2 steps — email.list_triage, inbox.read_unread"}
+{"ts":"2026-11-23T15:00:02.801Z","kind":"progress","text":"Step \"org.approvals_pending\" succeeded (9ms)","stepId":"0"}
+{"ts":"2026-11-23T15:00:02.992Z","kind":"progress","text":"Step \"email.list_triage\" succeeded (1ms)","stepId":"0"}
+{"ts":"2026-11-23T15:00:03.003Z","kind":"progress","text":"Step \"inbox.read_unread\" succeeded (7ms)","stepId":"1"}
