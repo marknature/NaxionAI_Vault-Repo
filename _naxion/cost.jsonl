@@ -3769,3 +3769,5 @@
 {"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":380,"outputTokens":215,"costUsd":0,"ts":"2026-11-24T10:02:30.818Z"}
 {"jobId":"persona-schedule-805f5a6f","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":8840,"outputTokens":671,"costUsd":0,"ts":"2026-11-24T10:02:49.182Z"}
 {"jobId":"persona-schedule-805f5a6f","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":1111,"outputTokens":1453,"costUsd":0,"ts":"2026-11-24T10:03:23.985Z"}
+{"jobId":"d2e39af7-c582-42bc-82c5-7725910a7476","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"none","inputTokens":516,"outputTokens":983,"costUsd":0,"ts":"2026-11-24T11:03:26.168Z"}
+{"jobId":"d2e39af7-c582-42bc-82c5-7725910a7476","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"none","inputTokens":907,"outputTokens":1873,"costUsd":0,"ts":"2026-11-24T11:04:12.243Z"}
