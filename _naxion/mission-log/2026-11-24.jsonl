@@ -2,3 +2,4 @@
 {"ts":"2026-11-24T06:34:34.971Z","kind":"progress","text":"Starting plan: 0 steps —"}
 {"ts":"2026-11-24T07:00:29.750Z","kind":"progress","text":"Starting plan: 1 step — vault.search"}
 {"ts":"2026-11-24T07:00:31.691Z","kind":"progress","text":"Step \"vault.search\" succeeded (77ms)","stepId":"0"}
+{"ts":"2026-11-24T07:00:42.334Z","kind":"progress","text":"Starting plan: 1 step — Researching \"search intent\" — vault + web"}
