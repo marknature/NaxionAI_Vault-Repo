@@ -29411,3 +29411,5 @@
 {"level":"info","actor":"scheduler","action":"org_task.active","target":"Anything else (ad-hoc task)","detail":"","jobId":"b27dec73-fab6-4b90-ba40-eecacdc203d6","result":"pending","id":"mwutuhnf-82","ts":"2026-11-24T15:06:01.563Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwutzk67-83","ts":"2026-11-24T15:09:58.111Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 3 integrations ok in 4517ms","result":"success","id":"mwutznnq-84","ts":"2026-11-24T15:10:02.630Z"}
+{"level":"info","actor":"naxie","action":"job.insights:general-task","target":"general-task","detail":"Anything else (ad-hoc task)","jobId":"b27dec73-fab6-4b90-ba40-eecacdc203d6","result":"success","id":"mwuu1hby-85","ts":"2026-11-24T15:11:27.742Z"}
+{"level":"info","actor":"scheduler","action":"org_task.done","target":"Anything else (ad-hoc task)","detail":"","jobId":"b27dec73-fab6-4b90-ba40-eecacdc203d6","result":"success","id":"mwuu1hc7-86","ts":"2026-11-24T15:11:27.751Z"}
