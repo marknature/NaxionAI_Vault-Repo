@@ -29431,3 +29431,7 @@
 {"level":"info","actor":"naxie","action":"job.operations:evening-recap","target":"evening-recap","detail":"Evening AI recap — daily","jobId":"2f9df674-b3c0-497b-b107-161a5193c5e3","result":"success","id":"mwuvsz0q-102","ts":"2026-11-24T16:00:49.994Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Evening AI recap — daily","detail":"","jobId":"2f9df674-b3c0-497b-b107-161a5193c5e3","result":"success","id":"mwuvsz0y-103","ts":"2026-11-24T16:00:50.002Z"}
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"Evening AI recap — daily","detail":"","jobId":"6eff3bd6-cff5-45e4-955c-7a48a0aa89f4","result":"success","id":"mwuvsz14-104","ts":"2026-11-24T16:00:50.008Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwuw4pyr-105","ts":"2026-11-24T16:09:58.131Z"}
+{"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 3 integrations ok in 3288ms","result":"success","id":"mwuw4si4-106","ts":"2026-11-24T16:10:01.420Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwuy9uot-107","ts":"2026-11-24T17:09:56.766Z"}
+{"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 3 integrations ok in 3128ms","result":"success","id":"mwuy9x5a-108","ts":"2026-11-24T17:09:59.950Z"}
