@@ -9584,6 +9584,34 @@
       "updatedAt": "2026-11-23T17:41:59.711Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "6060b7c0-c611-43b1-9711-feb3ed3d525f",
+      "role": "scheduler",
+      "title": "Africa AI news — BREAKING",
+      "detail": "Africa AI news — BREAKING",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "caafe439-530c-4cd2-af50-794a9690e3dc",
+      "createdAt": "2026-11-24T06:34:34.829Z",
+      "updatedAt": "2026-11-24T06:34:34.847Z",
+      "createdBy": "daemon",
+      "progressPct": 0
+    },
+    {
+      "id": "f4643e95-0659-405d-b5d7-0ddcd8d88abe",
+      "role": "scheduler",
+      "title": "Daily briefing",
+      "detail": "Daily briefing",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "ca60add8-18e0-4c28-94b3-27de9b51a6e7",
+      "createdAt": "2026-11-24T06:34:34.891Z",
+      "updatedAt": "2026-11-24T06:34:34.898Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
