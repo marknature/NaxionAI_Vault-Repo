@@ -9654,6 +9654,20 @@
       "updatedAt": "2026-11-24T11:04:15.693Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "915a54fc-1a22-43aa-acab-64e18f7e9fee",
+      "role": "scheduler",
+      "title": "Anything else (ad-hoc task)",
+      "detail": "Anything else (ad-hoc task)",
+      "status": "active",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "b27dec73-fab6-4b90-ba40-eecacdc203d6",
+      "createdAt": "2026-11-24T15:06:01.492Z",
+      "updatedAt": "2026-11-24T15:06:01.543Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
