@@ -13,3 +13,6 @@
 {"ts":"2026-11-24T10:01:37.077Z","kind":"progress","text":"Step \"Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise se…\" — vault + web\" succeeded (50587ms)","stepId":"0"}
 {"ts":"2026-11-24T10:01:37.087Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise se…\" — vault + web, Quality-checking the draft, Security-scanning the note"}
 {"ts":"2026-11-24T10:01:37.113Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (5ms)","stepId":"2"}
+{"ts":"2026-11-24T10:02:23.981Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (46871ms)","stepId":"1"}
+{"ts":"2026-11-24T10:02:23.983Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise se…\" — vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-24T10:02:30.827Z","kind":"progress","text":"Step \"Asking a peer to review the draft\" succeeded (6821ms)","stepId":"3"}
