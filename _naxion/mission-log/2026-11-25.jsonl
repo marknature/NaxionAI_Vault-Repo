@@ -3,3 +3,7 @@
 {"ts":"2026-11-25T05:00:21.705Z","kind":"progress","text":"Step \"email.list_triage\" succeeded (2ms)","stepId":"1"}
 {"ts":"2026-11-25T05:00:21.717Z","kind":"progress","text":"Step \"org.approvals_pending\" succeeded (9ms)","stepId":"2"}
 {"ts":"2026-11-25T05:00:21.719Z","kind":"progress","text":"Step \"calendar.read_today\" succeeded (1ms)","stepId":"3"}
+{"ts":"2026-11-25T05:45:22.828Z","kind":"progress","text":"Starting plan: 0 steps —"}
+{"ts":"2026-11-25T05:45:59.422Z","kind":"progress","text":"Starting plan: 2 steps — Quality-checking the draft, Security-scanning the note"}
+{"ts":"2026-11-25T05:45:59.436Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (4ms)","stepId":"1"}
+{"ts":"2026-11-25T05:47:34.404Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (94972ms)","stepId":"0"}
