@@ -3794,3 +3794,14 @@
 {"jobId":"61522800-4a09-4e96-8e00-40fef85fc72f","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"none","inputTokens":3430,"outputTokens":3265,"costUsd":0,"ts":"2026-11-25T05:32:12.634Z"}
 {"jobId":"de888b85-fa23-4263-ba7c-fafc8ede03f3","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":7666,"outputTokens":1671,"costUsd":0,"ts":"2026-11-25T05:45:59.403Z"}
 {"jobId":"de888b85-fa23-4263-ba7c-fafc8ede03f3","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":2670,"outputTokens":3532,"costUsd":0,"ts":"2026-11-25T05:47:34.383Z"}
+{"jobId":"persona-schedule-5bfdc85c","model":"gemma3:1b","backend":"ollama","profile":"triage","inputTokens":150,"outputTokens":2,"costUsd":0,"ts":"2026-11-25T06:00:24.100Z"}
+{"jobId":"persona-schedule-139531f3","model":"gemma3:1b","backend":"ollama","profile":"triage","inputTokens":148,"outputTokens":2,"costUsd":0,"ts":"2026-11-25T06:00:28.146Z"}
+{"jobId":"persona-schedule-d6a25ee3","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":6762,"outputTokens":523,"costUsd":0,"ts":"2026-11-25T06:00:31.687Z"}
+{"jobId":"persona-schedule-139531f3","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":7920,"outputTokens":151,"costUsd":0,"ts":"2026-11-25T06:00:50.096Z"}
+{"jobId":"persona-schedule-139531f3","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":793,"outputTokens":806,"costUsd":0,"ts":"2026-11-25T06:01:21.682Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":307,"outputTokens":498,"costUsd":0,"ts":"2026-11-25T06:01:32.736Z"}
+{"jobId":"persona-schedule-139531f3","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":8602,"outputTokens":247,"costUsd":0,"ts":"2026-11-25T06:01:42.181Z"}
+{"jobId":"d031bbd3-c62a-45b5-8880-f7469f1ca49e","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"none","inputTokens":1524,"outputTokens":1737,"costUsd":0,"ts":"2026-11-25T06:01:54.786Z"}
+{"jobId":"persona-schedule-139531f3","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":667,"outputTokens":777,"costUsd":0,"ts":"2026-11-25T06:02:04.881Z"}
+{"jobId":"persona-schedule-139531f3","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":8751,"outputTokens":169,"costUsd":0,"ts":"2026-11-25T06:02:11.438Z"}
+{"jobId":"d031bbd3-c62a-45b5-8880-f7469f1ca49e","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"none","inputTokens":2085,"outputTokens":957,"costUsd":0,"ts":"2026-11-25T06:02:15.923Z"}
