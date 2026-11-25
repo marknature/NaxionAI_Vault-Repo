@@ -21,3 +21,4 @@
 {"ts":"2026-11-25T08:01:05.010Z","kind":"progress","text":"Step \"Researching \"Process AP/AR aging; surface overdue items and proposed follow-ups\" — vault + web\" succeeded (29200ms)","stepId":"0"}
 {"ts":"2026-11-25T08:01:05.014Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Process AP/AR aging; surface overdue items and proposed follow-ups\" — vault + web, Quality-checking the draft, Security-scanning the note"}
 {"ts":"2026-11-25T08:01:05.021Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (2ms)","stepId":"2"}
+{"ts":"2026-11-25T08:01:51.103Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (46083ms)","stepId":"1"}
