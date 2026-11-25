@@ -9766,6 +9766,20 @@
       "updatedAt": "2026-11-25T07:08:51.659Z",
       "createdBy": "daemon",
       "progressPct": 0
+    },
+    {
+      "id": "229f3f11-0036-4530-ab54-d6dd261277b0",
+      "role": "scheduler",
+      "title": "Event deadline reminders",
+      "detail": "Event deadline reminders",
+      "status": "done",
+      "priority": "normal",
+      "linkedTaskIds": [],
+      "jobId": "82fa8737-f86a-4ce1-936c-c2663fbad33d",
+      "createdAt": "2026-11-25T10:00:16.639Z",
+      "updatedAt": "2026-11-25T10:00:17.511Z",
+      "createdBy": "daemon",
+      "progressPct": 0
     }
   ]
 }
