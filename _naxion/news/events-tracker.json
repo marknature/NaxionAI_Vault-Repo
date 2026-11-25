@@ -1,23 +1,8 @@
 [
  {
-  "name": "UGREEN Hackathon 2026 on AI NAS",
-  "deadline": "2026-11-16",
-  "url": "https://ugreenhackathon.devpost.com/"
- },
- {
   "name": "#BuildHybridAI 2026",
   "deadline": "2026-11-30",
   "url": "https://firebasehybridaihackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel"
- },
- {
-  "name": "UGREEN Hackathon 2026 on AI NAS",
-  "deadline": "2026-11-16",
-  "url": "https://ugreenhackathon.devpost.com/?ref_content=online-hackathons&ref_feature=challenge&ref_medium=artificial-intelligence-channel"
- },
- {
-  "name": "Betway: Official Website",
-  "deadline": "2026-11-16",
-  "url": "https://betway.com/"
  },
  {
   "name": "ZIMSEC Regional Staff Registration - CAMC System",
@@ -43,5 +28,10 @@
   "name": "Global AI Hackathon",
   "deadline": "2026-11-23",
   "url": "https://www.devpost.com/hackathons/global-ai-hackathon"
+ },
+ {
+  "name": "HackWithAditya",
+  "deadline": "2026-11-25",
+  "url": "https://hackwithaditya.devpost.com/"
  }
 ]
