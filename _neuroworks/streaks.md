@@ -1,6 +1,6 @@
 ---
 type: habit-streaks
-updated: 2026-11-24T06:34:41.938Z
+updated: 2026-11-25T04:06:25.759Z
 current_streak: 0
 longest_streak: 0
 weekly_avg: 0%
@@ -16,6 +16,7 @@ weekly_avg: 0%
 
 | Date | Scheduled / Due | Completed | Completion Rate | Status |
 |---|---|---|---|---|
+| 2026-11-25 | 0 | 0 | 0% | ⚪ Off-day |
 | 2026-11-24 | 0 | 0 | 0% | ⚪ Off-day |
 | 2026-11-23 | 0 | 0 | 0% | ⚪ Off-day |
 | 2026-11-22 | 0 | 0 | 0% | ⚪ Off-day |
@@ -29,7 +30,6 @@ weekly_avg: 0%
 | 2026-11-14 | 0 | 0 | 0% | ⚪ Off-day |
 | 2026-11-13 | 0 | 0 | 0% | ⚪ Off-day |
 | 2026-11-12 | 0 | 0 | 0% | ⚪ Off-day |
-| 2026-11-11 | 0 | 0 | 0% | ⚪ Off-day |
 
 ---
 *Auto-synced by Naxie Focus Streaks daemon.*
