@@ -26,3 +26,6 @@
 {"ts":"2026-11-25T10:01:32.740Z","kind":"progress","text":"Step \"Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise se…\" — vault + web\" succeeded (50599ms)","stepId":"0"}
 {"ts":"2026-11-25T10:01:32.751Z","kind":"progress","text":"Starting plan: 3 steps — Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise se…\" — vault + web, Quality-checking the draft, Security-scanning the note"}
 {"ts":"2026-11-25T10:01:32.757Z","kind":"progress","text":"Step \"Security-scanning the note\" succeeded (0ms)","stepId":"2"}
+{"ts":"2026-11-25T10:03:02.120Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (89363ms)","stepId":"1"}
+{"ts":"2026-11-25T10:03:02.121Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise se…\" — vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
+{"ts":"2026-11-25T10:03:47.777Z","kind":"progress","text":"Step \"Asking a peer to review the draft\" succeeded (45650ms)","stepId":"3"}
