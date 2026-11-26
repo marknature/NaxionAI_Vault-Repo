@@ -3873,3 +3873,10 @@
 {"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":1761,"outputTokens":684,"costUsd":0,"ts":"2026-11-26T09:06:33.614Z"}
 {"jobId":"persona-schedule-01fcb0f5","model":"gemma3:1b","backend":"ollama","profile":"triage","inputTokens":145,"outputTokens":2,"costUsd":0,"ts":"2026-11-26T10:00:15.421Z"}
 {"jobId":"persona-schedule-01fcb0f5","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":8475,"outputTokens":647,"costUsd":0,"ts":"2026-11-26T10:01:42.268Z"}
+{"jobId":"persona-schedule-01fcb0f5","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"planning","inputTokens":9993,"outputTokens":1980,"costUsd":0,"ts":"2026-11-26T10:02:29.060Z"}
+{"jobId":"persona-schedule-01fcb0f5","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":1472,"outputTokens":1476,"costUsd":0,"ts":"2026-11-26T10:02:32.046Z"}
+{"jobId":"adhoc","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":661,"outputTokens":560,"costUsd":0,"ts":"2026-11-26T10:02:44.814Z"}
+{"jobId":"persona-schedule-01fcb0f5","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"synthesis","inputTokens":8919,"outputTokens":889,"costUsd":0,"ts":"2026-11-26T10:03:09.420Z"}
+{"jobId":"persona-schedule-01fcb0f5","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"extraction","inputTokens":1297,"outputTokens":1596,"costUsd":0,"ts":"2026-11-26T10:03:51.422Z"}
+{"jobId":"5ba1d870-8a28-445f-9c32-1286c1ddec4e","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"none","inputTokens":1354,"outputTokens":2016,"costUsd":0,"ts":"2026-11-26T10:31:26.697Z"}
+{"jobId":"5ba1d870-8a28-445f-9c32-1286c1ddec4e","model":"nvidia/nemotron-3-ultra-550b-a55b:free","backend":"openrouter","profile":"none","inputTokens":1664,"outputTokens":1768,"costUsd":0,"ts":"2026-11-26T10:32:11.289Z"}
