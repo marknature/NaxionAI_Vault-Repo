@@ -17,3 +17,5 @@
 {"ts":"2026-11-26T06:01:12.057Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (16361ms)","stepId":"1"}
 {"ts":"2026-11-26T06:01:12.059Z","kind":"progress","text":"Starting plan: 4 steps — Reading Gmail for \"newer_than:7d\", Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
 {"ts":"2026-11-26T06:01:25.622Z","kind":"progress","text":"Step \"Asking a peer to review the draft\" succeeded (13555ms)","stepId":"3"}
+{"ts":"2026-11-26T07:00:28.939Z","kind":"progress","text":"Starting plan: 1 step — vault.search"}
+{"ts":"2026-11-26T07:00:29.133Z","kind":"progress","text":"Step \"vault.search\" succeeded (80ms)","stepId":"0"}
