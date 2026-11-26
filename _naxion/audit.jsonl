@@ -29756,3 +29756,4 @@
 {"level":"info","actor":"scheduler","action":"org_task.done","target":"World AI news — BREAKING","detail":"","jobId":"2eab950f-bd6d-4692-86fa-b55112cd5971","result":"success","id":"mwx7konc-95","ts":"2026-11-26T07:05:51.048Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwx8mndh-96","ts":"2026-11-26T07:35:22.325Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 3 integrations ok in 3288ms","result":"success","id":"mwx8mpwy-97","ts":"2026-11-26T07:35:25.618Z"}
+{"level":"info","actor":"naxie","action":"notify.attention","target":"persona-scheduler-missed-runs","detail":"3 scheduled run(s) were skipped while the server was unavailable. Catch-up is disabled.","result":"success","id":"mwx9jqy9-98","ts":"2026-11-26T08:01:06.609Z"}
