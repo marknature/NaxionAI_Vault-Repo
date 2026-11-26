@@ -29722,3 +29722,5 @@
 {"level":"info","actor":"pigeon","action":"pigeon.night_shift","target":"pigeon","detail":"ok; finance:ok, tech:ok, business:ok, schedules:ok, personal:ok; delivery:voice; llm:1 calls $0","result":"success","id":"mwwzy4z8-61","ts":"2026-11-26T03:32:21.812Z"}
 {"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwx020h6-62","ts":"2026-11-26T03:35:22.602Z"}
 {"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 3 integrations ok in 3547ms","result":"success","id":"mwx0237s-63","ts":"2026-11-26T03:35:26.152Z"}
+{"level":"info","actor":"security-posture","action":"security.posture_run","target":"posture","detail":"clean: no findings","result":"success","id":"mwx2768k-64","ts":"2026-11-26T04:35:22.580Z"}
+{"level":"info","actor":"scheduler","action":"extension.healthCheck","target":"all-ok","detail":"all 3 core + 3 integrations ok in 3348ms","result":"success","id":"mwx278tq-65","ts":"2026-11-26T04:35:25.934Z"}
