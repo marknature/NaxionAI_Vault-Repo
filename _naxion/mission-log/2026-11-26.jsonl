@@ -33,3 +33,6 @@
 {"ts":"2026-11-26T10:02:32.049Z","kind":"progress","text":"Step \"Quality-checking the draft\" succeeded (49627ms)","stepId":"1"}
 {"ts":"2026-11-26T10:02:32.050Z","kind":"progress","text":"Starting plan: 4 steps — Researching \"Monitor mentions/comments across accounts; flag what needs a reply; summarise se…\" — vault + web, Quality-checking the draft, Security-scanning the note, Asking a peer to review the draft"}
 {"ts":"2026-11-26T10:02:44.816Z","kind":"progress","text":"Step \"Asking a peer to review the draft\" succeeded (12756ms)","stepId":"3"}
+{"ts":"2026-11-26T11:00:13.071Z","kind":"progress","text":"Starting plan: 2 steps — email.list_triage, inbox.read_unread"}
+{"ts":"2026-11-26T11:00:13.080Z","kind":"progress","text":"Step \"email.list_triage\" succeeded (1ms)","stepId":"0"}
+{"ts":"2026-11-26T11:00:13.081Z","kind":"progress","text":"Step \"inbox.read_unread\" succeeded (1ms)","stepId":"1"}
