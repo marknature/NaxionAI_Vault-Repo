@@ -1,12 +1,12 @@
 {
-  "totalFlags": 73,
-  "upvotes": 45,
+  "totalFlags": 74,
+  "upvotes": 46,
   "downvotes": 28,
-  "rate": 0.6164383561643836,
+  "rate": 0.6216216216216216,
   "topCategories": [
     {
       "category": "accuracy",
-      "count": 46
+      "count": 47
     },
     {
       "category": "other",
@@ -14,6 +14,23 @@
     }
   ],
   "recentFlags": [
+    {
+      "jobId": "762a67dd-d2f6-403a-907f-4f58ebf75996",
+      "rating": "up",
+      "score": 0.95,
+      "category": "accuracy",
+      "template": "daily-briefing",
+      "taskKind": "operations:daily-briefing",
+      "axes": {
+        "factuality_risk": 0.1,
+        "citation_coverage": 1,
+        "persona_fit": 0.9,
+        "prompt_alignment": 1
+      },
+      "note": "auto · quality.check",
+      "source": "auto",
+      "ts": "2026-11-26T05:47:18.150Z"
+    },
     {
       "jobId": "de888b85-fa23-4263-ba7c-fafc8ede03f3",
       "rating": "up",
@@ -337,23 +354,6 @@
       "note": "auto · quality.check",
       "source": "auto",
       "ts": "2026-11-04T05:45:19.900Z"
-    },
-    {
-      "jobId": "20a2d8dc-ccac-4b7e-abf3-be7d16bf5179",
-      "rating": "up",
-      "score": 0.95,
-      "category": "accuracy",
-      "template": "daily-briefing",
-      "taskKind": "operations:daily-briefing",
-      "axes": {
-        "factuality_risk": 0.1,
-        "citation_coverage": 1,
-        "persona_fit": 1,
-        "prompt_alignment": 0.9
-      },
-      "note": "auto · quality.check",
-      "source": "auto",
-      "ts": "2026-11-03T05:45:12.363Z"
     }
   ]
 }
